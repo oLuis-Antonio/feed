@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "zuDYQf",
+          "author": null,
+          "description": "Agricultura Empresarial mimetiza ataques químicos estrangeiros sobre Agricultura Familiar nacional enquanto envenena a população e destrói a educação.",
+          "link": "https://jornalofuturo.com.br/artigo/zuDYQf-agro-ataca-o-brasil-em-guerra-quimica-e-informacional",
+          "publishedOn": "2026-04-30T15:00:00.000Z",
+          "wordCount": 2940,
+          "title": "Agro ataca o Brasil em guerra química e informacional",
+          "imageUrl": "https://media.jornalofuturo.com.br/dronepesticida-888x592.jpg"
+        },
+        {
           "id": "WEfkgc",
           "author": null,
           "description": "Os metroviários do Distrito Federal intensificaram a mobilização por melhorias no sistema e cobram investimentos urgentes, denunciando um processo contínuo de precarização.",
@@ -88,117 +98,30 @@
       ]
     },
     {
-      "title": "Jornal A Verdade",
-      "feedUrl": "https://averdade.org.br/feed/",
-      "siteUrl": "https://averdade.org.br/",
-      "articles": [
-        {
-          "id": "https://averdade.org.br/?p=61056",
-          "author": "Redação MG",
-          "description": "A história da Força Sindical revela a traição à classe trabalhadora e sua submissão ao projeto neoliberal e ao financiamento da burguesia. A trajetória de Luiz de Medeiros e Paulinho da Força demonstra como a central atuou para desmobilizar a luta e apoiar a privatização criminosa. O uso de recurso patronal para corromper o sindicato […]",
-          "link": "https://averdade.org.br/2026/04/forca-sindical-a-central-neoliberal/",
-          "publishedOn": "2026-04-29T23:00:06.000Z",
-          "wordCount": 7442,
-          "title": "Força Sindical: A central neoliberal",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/D_NQ_NP_2X_630336-MLB96414602192_102025-F-e1777472208690.webp"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61507",
-          "author": "Redação MG",
-          "description": "Servidores da educação de Santa Luzia paralisam escolas e conquistam avanços após mobilização histórica contra o descaso da prefeitura. A maioria absoluta das escolas e UMEIs da cidade foi paralisada, total ou parcialmente, e com a luta os trabalhadores e conseguiram arrancar as primeiras conquistas da Prefeitura. Edson de Moraes Neto | Santa Luzia – […]",
-          "link": "https://averdade.org.br/2026/04/a-forca-da-greve-servidores-de-santa-luzia-mg-conquistam-avancos-contra-o-sucateamento/",
-          "publishedOn": "2026-04-29T14:54:13.000Z",
-          "wordCount": 7120,
-          "title": "A força da greve: servidores de Santa Luzia (MG) conquistam avanços contra o sucateamento",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/650493981_17964097644047256_2774705020663469836_n.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61497",
-          "author": "Redação MG",
-          "description": "Grêmios Estudantis combativos são a base para o avanço da luta secundarista e a resistência contra o autoritarismo e a opressão escolar. Vinícius Brainer e Daniel Tito No sistema capitalista vigente, no qual os ricos e poderosos tomam todas as decisões sobre a sociedade em que vivemos e, consequentemente, sobre os rumos do nosso futuro, […]",
-          "link": "https://averdade.org.br/2026/04/um-gremio-estudantil-deve-ser-um-gremio-de-luta/",
-          "publishedOn": "2026-04-29T13:56:14.000Z",
-          "wordCount": 7263,
-          "title": "Um Grêmio Estudantil deve ser um Grêmio de luta!",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/image1-1.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61486",
-          "author": "Clóvis Maia",
-          "description": "O ensino de jovens e adultos (EJA) é uma modalidade de ensino que, mesmo com as limitações dentro do sistema capitalista, tem uma importância grande para a classe trabalhadora. Iniciativas do MLB e do Olga Benario em combater esse problema nacional mostra que é possível emancipar a sociedade por meio do saber e do conhecimento. […]",
-          "link": "https://averdade.org.br/2026/04/a-importancia-da-alfabetizacao-de-jovens-e-adultos/",
-          "publishedOn": "2026-04-29T12:22:15.000Z",
-          "wordCount": 7344,
-          "title": "A importância da alfabetização de jovens e adultos",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/mlb-educacao.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61490",
-          "author": "Felipe Annunziata",
-          "description": "Após defender aumento de 100% do salário-mínimo e confisco de bens de todos os corruptos, pré-candidata da UP cresce em pesquisa eleitoral do instituto AtlasIntel. Redação BRASIL – Única mulher pré-candidata às eleições presidenciais, Samara Martins é a terceira mais citada entre as mulheres em pesquisa AtlasIntel; Intenções de votos na dirigente da UP crescem […]",
-          "link": "https://averdade.org.br/2026/04/propostas-da-up-ganham-apoio-popular-e-samara-martins-cresce-em-pesquisas/",
-          "publishedOn": "2026-04-29T00:06:59.000Z",
-          "wordCount": 7241,
-          "title": "Propostas da UP ganham apoio popular e Samara Martins cresce em pesquisas",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260413-WA0039.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61483",
-          "author": "Leonardo de Paula",
-          "description": "Dois meses após o novo acordo coletivo que acabaria com o trabalho aos sábados com a contrapartida de reduzir o horário das refeições dos operários para 30 minutos, a EssilorLuxottica, multinacional de lucro bilionário com planta em Campinas, interior de São Paulo, obriga os operários a continuar trabalhando em sábados alternados. João Suzigan – Campinas […]",
-          "link": "https://averdade.org.br/2026/04/essilorluxottica-descumpre-acordo-coletivo-que-acabava-com-a-escala-6x1/",
-          "publishedOn": "2026-04-28T14:31:59.000Z",
-          "wordCount": 7095,
-          "title": "EssilorLuxottica descumpre acordo coletivo que acabava com a escala 6×1",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/1000329509.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61480",
-          "author": "Felipe Annunziata",
-          "description": "Ação da PM ocorreu após retomada de fazenda por famílias Guarani-Kaiowá na região de Amambai, no Mato Grosso do Sul. Conflito entre os dias 26 e 27 de abril deixou ao menos cinco mortos, incluindo duas crianças. Caio Potiguara | Macaé (RJ) BRASIL – Um violento confronto entre forças de segurança do Mato Grosso do […]",
-          "link": "https://averdade.org.br/2026/04/acao-da-pm-em-reserva-indigena-deixa-mortos-presos-e-vitimas-de-violencia-sexual-no-ms/",
-          "publishedOn": "2026-04-28T14:07:21.000Z",
-          "wordCount": 6904,
-          "title": "Ação da PM em reserva indígena deixa mortos, presos e vítimas de violência sexual no MS",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-11.05.19.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61475",
-          "author": "Clóvis Maia",
-          "description": "Um dos momentos mais violentos de nossa história, a Guerra do contestado, é uma das páginas mais sangrentas de nosso país. Ao mesmo tempo é um marco na virada da organização da classe trabalhadora brasileira. Esse é o sexto capítulo da série exclusiva do Jornal A Verdade “A história oficial Versus as lutas do proletariado […]",
-          "link": "https://averdade.org.br/2026/04/a-guerra-do-contestado-e-o-brasil-de-1911-1915/",
-          "publishedOn": "2026-04-28T13:40:18.000Z",
-          "wordCount": 7618,
-          "title": "A Guerra do Contestado e o Brasil de 1911-1915",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/irmandade-de-sao-sebastiao.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61461",
-          "author": "Clóvis Maia",
-          "description": "Realizado no último domingo (26), o congresso da Unidade Popular contou com um ato de lançamento da pré-candidatura de Samara Martins para a presidência da república e de Camila Falcão, para disputar a governadoria do estado esse ano. Redação Pernambuco  Brasil- No último domingo (26/04) a Unidade Popular em Pernambuco realizou seu congresso extraordinário. A […]",
-          "link": "https://averdade.org.br/2026/04/congresso-extraordinario-da-up-fortalece-lutas-em-pernambuco/",
-          "publishedOn": "2026-04-28T00:32:18.000Z",
-          "wordCount": 7072,
-          "title": "Congresso extraordinário da UP fortalece lutas em Pernambuco",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/congresso-UP-PE.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61429",
-          "author": "Clóvis Maia",
-          "description": "O Jornal A Verdade entrevistou Hans Lisboa, membro do Comitê Pernambucano de Solidariedade com Cuba e apoiador das brigadas de solidariedade com o país caribenho. Hans esteve em Cuba em 11 ocasiões diferentes e, nessa entrevista, fala sobre as suas impressões sobre a ilha e as mobilizações que tem sido realizadas em todo o Brasil […]",
-          "link": "https://averdade.org.br/2026/04/cuba-resistira-a-todas-as-ameacas-do-imperialismo/",
-          "publishedOn": "2026-04-27T23:56:40.000Z",
-          "wordCount": 8536,
-          "title": "“Cuba resistirá a todas as ameaças do imperialismo”",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260320-WA0040.jpg"
-        }
-      ]
-    },
-    {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://www.opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=106094",
+          "author": "PSTU Belo Horizonte",
+          "description": "A greve da educação municipal em curso não surge de forma isolada, mas como resposta direta a um processo profundo de precarização do serviço público e de desmonte planejado da educação pública em Belo Horizonte. O chamado “Apagão na Educação”, denunciado pela categoria, expressa o déficit de professores, a sobrecarga de trabalho, os improvisos permanentes […]\nO post Por que a educação de Belo Horizonte pavimenta o caminho para a privatização? apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/por-que-a-educacao-de-belo-horizonte-pavimenta-o-caminho-para-a-privatizacao/",
+          "publishedOn": "2026-04-30T16:20:33.000Z",
+          "wordCount": 1981,
+          "title": "Por que a educação de Belo Horizonte pavimenta o caminho para a privatização?",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-30-at-12.58.25-e1777565977326.jpeg"
+        },
+        {
+          "id": "https://www.opiniaosocialista.com.br/?p=106088",
+          "author": "Redação",
+          "description": "Neste dia 29 de abril, 22 embarcações foram interceptadas em águas internacionais; cerca de 180 participantes foram detidos a mais de 1.200 km da Palestina. Quatro brasileiros estão entre os sequestrados pelas forças de ocupação israelense após a interceptação de uma flotilha humanitária internacional no mar Mediterrâneo. Thiago Ávila, Mandi Coelho Marzall, Leandro Lanfredi e […]\nO post Quatro brasileiros são sequestrados por forças israelenses após interceptação de flotilha humanitária no Mediterrâneo apareceu primeiro em Opinião Socialista.",
+          "link": "https://www.opiniaosocialista.com.br/quatro-brasileiros-sao-sequestrados-por-forcas-israelenses-apos-interceptacao-de-flotilha-humanitaria-no-mediterraneo/",
+          "publishedOn": "2026-04-30T14:56:08.000Z",
+          "wordCount": 1393,
+          "title": "Quatro brasileiros são sequestrados por forças israelenses após interceptação de flotilha humanitária no Mediterrâneo",
+          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/Captura-de-tela-de-2026-04-29-21-21-06.png"
+        },
         {
           "id": "https://www.opiniaosocialista.com.br/?p=106086",
           "author": "LIT-QI",
@@ -278,26 +201,6 @@
           "wordCount": 3732,
           "title": "Entrevista: “Da Ucrânia à Palestina: ocupação é um crime”",
           "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/entrevista_mandi-1.png"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=106033",
-          "author": "PSTU Floripa",
-          "description": "Roberto Henrique, de Florianópolis (SC) A vitória da chapa 41, Mudar para Transformar, representa o fim da Universidade Federal de Santa Catarina (UFSC) como a conhecemos. Inicia-se uma nova etapa marcada por descaso, precarização e riscos de privatização da universidade. O avanço da extrema direita, fenômeno de alcance internacional e nacional, manifesta-se agora também no […]\nO post UFSC após as urnas: entre o alerta e a resistência apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/ufsc-apos-as-urnas-entre-o-alerta-e-a-resistencia/",
-          "publishedOn": "2026-04-27T18:18:10.000Z",
-          "wordCount": 1308,
-          "title": "UFSC após as urnas: entre o alerta e a resistência",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/UFSC-1.png"
-        },
-        {
-          "id": "https://www.opiniaosocialista.com.br/?p=106030",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Plebiscito popular realizado no Ceará apontou ampla rejeição à lei estadual que autoriza a pulverização aérea de agrotóxicos por drones. O resultado foi anunciado no dia 22 de abril, no auditório da Faculdade de Filosofia Dom Aureliano Matos (FAFIDAM), em Limoeiro do Norte, reunindo organizações sociais, movimentos populares e representantes da sociedade civil. A consulta […]\nO post Com 98,8% dos votos, plebiscito popular rejeita lei de pulverização por drones no Ceará apareceu primeiro em Opinião Socialista.",
-          "link": "https://www.opiniaosocialista.com.br/com-988-dos-votos-plebiscito-popular-rejeita-lei-de-pulverizacao-por-drones-no-ceara/",
-          "publishedOn": "2026-04-27T13:06:24.000Z",
-          "wordCount": 1427,
-          "title": "Com 98,8% dos votos, plebiscito popular rejeita lei de pulverização por drones no Ceará",
-          "imageUrl": "https://www.opiniaosocialista.com.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-26-at-17.06.56.jpeg"
         }
       ]
     },
@@ -312,7 +215,7 @@
           "description": "Trabalhadores da rede municipal de educação em BH vem sendo um exemplo da luta contra o desmonte, sucateamento e privatização da educação pública. Iniciando sua greve nesta última segunda (27), contra o apagão da educação, a privatização do ensino por meio das OSCs e pelo reajuste salarial; mostram que serem chatos para Álvaro Damião é motivo de orgulho para categoria! \n A educação municipal de BH se encontra em uma situação crítica, fruto de anos de políticas de desmonte nas gestões (…)\n30-04-2026\n\n/ Educação, Greve, Belo Horizonte , Greve na educação de BH, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/O-que-esta-chato-sao-os-ataques-de-Damiao-Todo-apoio-a-greve-da-educacao-municipal",
           "publishedOn": "2026-04-30T13:47:31.000Z",
-          "wordCount": 8237,
+          "wordCount": 8234,
           "title": "O que “está chato” são os ataques de Damião. Todo apoio à greve da educação municipal!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2026-04-27-at-14.37.14-1-1024x768.jpg?1777556841"
         },
@@ -358,11 +261,11 @@
         },
         {
           "id": "https://www.esquerdadiario.com.br/Apesar-de-inumeros-acenos-a-direita-Messias-e-rejeitado-pelo-Senado",
-          "author": "Redação",
+          "author": "Pedro Oliveira",
           "description": "Pela primeira vez em mais de 130 anos, Senado barra indicação presidencial ao STF. \n Pela primeira vez em mais de 130 anos, Senado barra indicação presidencial ao STF. O nome de Jorge Messias foi rejeitado por 42 votos e aprovado por 34. \n29-04-2026\n\n/ Política",
           "link": "https://www.esquerdadiario.com.br/Apesar-de-inumeros-acenos-a-direita-Messias-e-rejeitado-pelo-Senado",
           "publishedOn": "2026-04-29T22:28:09.000Z",
-          "wordCount": 7807,
+          "wordCount": 7817,
           "title": "Apesar de inúmeros acenos a direita, Messias é rejeitado pelo Senado",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000295840.png?1777501618"
         },
@@ -402,7 +305,7 @@
           "description": "A prefeitura do Rio de Janeiro, para agradar os sionistas da Conib e Fierj, simplesmente suspendeu o alvará do Bar Partisan, na Lapa, isso tudo após vereadores representantes do Lobby sionista terem se utilizado da máquina estatal para procurar prejudicar o bar.\n29-04-2026\n\n/ Política, Rio de Janeiro, Palestina Livre, #FreePalestine, Sionismo, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/E-preciso-derrotar-a-perseguicao-sionista-da-prefeitura-do-Rio-contra-o-Bar-Partisan",
           "publishedOn": "2026-04-29T14:22:34.000Z",
-          "wordCount": 8593,
+          "wordCount": 8594,
           "title": "É preciso derrotar a perseguição sionista da prefeitura do Rio contra o Bar Partisan",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1_untitled-design---2026-04-29t082429-282-66471659.jpg.webp?1777472550"
         },
@@ -422,7 +325,7 @@
           "description": "Dos dias 18 a 21 de abril aconteceu, em São Paulo, o 6º Congresso da CSP-Conlutas. A CSP-Conlutas é hoje a única central sindical e popular que é independente do governo Lula-Alckmin e, por isso, esse é um espaço importante frente à necessidade de fortalecer a independência de classe e um programa dos trabalhadores diante da crise capitalista, da ofensiva imperialista, do fortalecimento da extrema direita no Brasil e dos ataques do governo Lula-Alckmin. Porém, os quatro dias de Congresso não serviram para armar todos os setores que estavam presentes para os combates que estão colocados para nossa classe. Veja o balanço do Movimento Nossa Classe, que foi a segunda força do Congresso.\n28-04-2026\n\n/ Classe trabalhadora, CSP-Conlutas, PSTU, Internacionalismo, efetivação terceirizados sem concurso, Trabalhadores, Anti-imperialista, Independência de classe, Pela efetivação de todos os contratos precários, Pela efetivação dos contratos precários, Congresso CSP-Conlutas",
           "link": "https://www.esquerdadiario.com.br/Balanco-do-Movimento-Nossa-Classe-sobre-o-6o-Congresso-da-CSP-Conlutas",
           "publishedOn": "2026-04-29T02:43:47.000Z",
-          "wordCount": 9926,
+          "wordCount": 9925,
           "title": "Balanço do Movimento Nossa Classe sobre o 6º Congresso da CSP-Conlutas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/602664f3-9a75-45eb-87f3-3c5a7e9804aa-2.jpg?1777430599"
         },
@@ -492,7 +395,7 @@
           "description": "Nas últimas semanas as pesquisas de opinião têm mostrado um crescimento de Flávio Bolsonaro e uma diminuição de Lula, e pela primeira vez o bolsonarismo ultrapassa Lula no segundo turno em algumas pesquisas. O retrato da impotência de uma frente, amplíssima, cuja única justificativa seria o combate ao bolsonarismo e ao retrocesso.\n28-04-2026\n\n/ Política, Lula, Flavio Bolsonaro, Análise Esquerda Diário, Política, Bolsonaro, análise, Eleições 2026",
           "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-cresce-nas-pesquisas-Como-derrotar-a-extrema-direita",
           "publishedOn": "2026-04-28T16:38:14.000Z",
-          "wordCount": 8509,
+          "wordCount": 8512,
           "title": "Flávio Bolsonaro cresce nas pesquisas. Como derrotar a extrema direita?",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000360580.jpg?1777393423"
         },
@@ -522,7 +425,7 @@
           "description": "Nesta terça (28) o prédio da Reitoria da UFRGS amanheceu com as portas fechadas. Os técnico-administrativos, com apoio dos estudantes, exigem o cumprimento integral do acordo de greve de 2024.\n28-04-2026\n\n/ Classe trabalhadora, Educação, Universidades Federais, Greve, UFRGS, Reitoria, Institutos Federais, Greve das Federais",
           "link": "https://www.esquerdadiario.com.br/TAEs-em-greve-trancam-predio-da-Reitoria-da-UFRGS-em-defesa-do-cumprimento-integral-do-acordo",
           "publishedOn": "2026-04-28T11:27:20.000Z",
-          "wordCount": 8189,
+          "wordCount": 8193,
           "title": "TAEs em greve trancam prédio da Reitoria da UFRGS em defesa do cumprimento integral do acordo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000360269.jpg?1777375628"
         },
@@ -532,7 +435,7 @@
           "description": "Mãe e uma criança de 11 anos brasileiras são assassinadas pelo exército genocida de Israel no Líbano enquanto ofensiva colonialista quer transformar o país em uma nova Gaza.\n27-04-2026\n\n/ Internacional, Israel, Palestina, Líbano , Exército de Israel, Palestina Livre, Genocídio, Nenhuma gota de petróleo do Brasil e da Petrobras para o genocídio",
           "link": "https://www.esquerdadiario.com.br/Mae-e-crianca-brasileiras-sao-assassinadas-pelo-exercito-genocida-de-Israel-no-Libano",
           "publishedOn": "2026-04-28T00:05:10.000Z",
-          "wordCount": 8373,
+          "wordCount": 8371,
           "title": "Mãe e criança brasileiras são assassinadas pelo exército genocida de Israel no Líbano",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/libano-2.jpg?1777336959"
         },
@@ -542,7 +445,7 @@
           "description": "Neste 27 de abril, Dia Nacional da Empregada Doméstica, lutemos por Sônia Maria livre! Sônia Maria é uma mulher negra que foi escravizada por quase 40 anos pelo desembargador do Tribunal de Justiça de Santa Catarina especialista em Direito do Trabalho, Jorge Luiz de Borba. Após ter sido libertada, foi reescravizada por decisão do juiz do STF, André Mendonça. Isso não foi em 1800, foi em 2025, pela primeira vez desde a Lei Áurea que uma pessoa resgatada de uma situação de trabalho a escravidão é reescravizada e a mando do próprio Estado.\n27-04-2026\n\n/ Luta Antirracista, Poder Judiciário, STF, Trabalho Escravo, Racismo, Escravidão , Racismo de Estado, Trabalho análogo à escravidão, Escravidão moderna, Sônia Livre!",
           "link": "https://www.esquerdadiario.com.br/Lutar-por-Sonia-Livre-mulher-negra-escravizada-pelo-judiciario-racista",
           "publishedOn": "2026-04-27T23:17:47.000Z",
-          "wordCount": 8338,
+          "wordCount": 8324,
           "title": "Lutar por Sônia Livre, mulher negra escravizada pelo judiciário racista",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-27_at_09.36_42_1_.jpg?1777331782"
         },
@@ -582,7 +485,7 @@
           "description": "Gabriel de Jesus Firmino, serralheiro de 28 anos, morreu neste domingo (26) durante a montagem do palco do show da cantora Shakira, em Copacabana, na Zona Sul do Rio de Janeiro. A prefeitura do RJ, promotora do evento, e as empresas MG Coutinho Serviços Cenográficos e Bonustrack precarizam o trabalho e são responsáveis pela morte do trabalhador!\n27-04-2026\n\n/ Classe trabalhadora, Rio de Janeiro, Terceirização, Acidentes de Trabalho, Artistas, Lazer, Shakira",
           "link": "https://www.esquerdadiario.com.br/Trabalhador-morre-em-montagem-do-show-da-Shakira-por-culpa-das-empresas-e-da-prefeitura-do-RJ",
           "publishedOn": "2026-04-27T13:20:49.000Z",
-          "wordCount": 8315,
+          "wordCount": 8316,
           "title": "Trabalhador morre em montagem do show da Shakira por culpa das empresas e da prefeitura do RJ",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/morte-palco-shakira_bdb010-960x540.webp?1777295982"
         }
@@ -718,6 +621,16 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73550",
+          "author": "Agência Pública",
+          "description": "m abril deste ano, cartazes foram colados nas paredes em frente às salas de aula na Escola Estadual Professor Jorge Madureira, na zona norte de Sorocaba, no interior de São Paulo. Poderia ser um aviso banal, daqueles que a escola espalha quando quer organizar a vida prática. Mas no alto, em letras grandes, vem a […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/30/escola-nao-e-quartel-os-primeiros-dias-de-uma-escola-civico-militar-em-sp/",
+          "publishedOn": "2026-04-30T14:36:02.000Z",
+          "wordCount": 4582,
+          "title": "“Escola não é quartel”: os primeiros dias de uma escola cívico-militar em SP",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/escola.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73546",
           "author": "Frei Betto",
           "description": "nfrenta-se, hoje, um processo de desistorização do tempo. Nessa crise da passagem da modernidade para a pós-modernidade, surge a dificuldade de consolidar valores como, por exemplo, a ética. Não existe projeção, prospecção, estratégia, sem a concepção do tempo como história. Esta é seguramente uma das melhores heranças recebidas pelo Ocidente. Sofre agora o risco de […]",
@@ -775,12 +688,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=253494",
+          "author": "Tabitha Ramalho",
+          "description": "O Parlamento Europeu segue dividido em relação à Venezuela. Enquanto um setor de eurodeputados pressiona o Conselho da União Europeia para manter as sanções contra o país sul-americano, outro grupo adia a aprovação de resoluções até que seja incluída uma condenação mais dura à interferência dos Estados Unidos. Segundo a agência EFE, durante dois dias […]\nO post Parlamento Europeu mantém sanções à Venezuela, diz agência apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/parlamento-europeu-mantem-sancoes-a-venezuela-diz-agencia/",
+          "publishedOn": "2026-04-30T17:05:17.000Z",
+          "wordCount": 2679,
+          "title": "Parlamento Europeu mantém sanções à Venezuela, diz agência",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/20230419pht80916_original.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253489",
+          "author": "Victor Farinelli",
+          "description": "Em mensagem difundida nesta quarta-feira (29/04), o presidente da Colômbia, Gustavo Petro, propôs ao seu homólogo equatorianos, Daniel Noboa, que se realize uma reunião em região próxima as zonas fronteiriças entre os dois países. Segundo Petro, o objetivo do encontro, caso seja concretizado, seria o de iniciar uma mesa de diálogo para resolver os conflitos […]\nO post Petro propõe mesa de diálogo para resolver conflitos com Equador apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/petro-propoe-mesa-de-dialogo-para-resolver-conflitos-com-equador/",
+          "publishedOn": "2026-04-30T16:20:09.000Z",
+          "wordCount": 3023,
+          "title": "Petro propõe mesa de diálogo para resolver conflitos com Equador",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/petro-noboa.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253486",
+          "author": "Tabitha Ramalho",
+          "description": "O preço global do petróleo disparou para mais de US$ 126 por barril, seu nível mais alto desde 2022, depois que Donald Trump afirmou que o bloqueio dos EUA aos portos iranianos poderia durar meses e as negociações de paz permaneceram paralisadas. Após uma alta de mais de 13% em 24 horas, o preço dos […]\nO post Petróleo dispara a US$ 126 após ameaça de bloqueio prolongado dos EUA ao Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/petroleo-dispara-a-us-126-apos-ameaca-de-bloqueio-prolongado-dos-eua-ao-ira/",
+          "publishedOn": "2026-04-30T15:29:08.000Z",
+          "wordCount": 2876,
+          "title": "Petróleo dispara a US$ 126 após ameaça de bloqueio prolongado dos EUA ao Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405012509041042036397934.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253482",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente Donald Trump elevou ainda mais o tom contra a Alemanha nesta quarta-feira (29/04) ao sugerir que poderia em breve reduzir a presença militar dos EUA no país europeu, um aliado na Otan. “Os Estados Unidos estão estudando e revisando a possível redução de tropas na Alemanha, com uma decisão a ser tomada em […]\nO post Trump ameaça reduzir número de tropas na Alemanha após críticas de Merz à guerra contra Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/trump-ameaca-reduzir-numero-de-tropas-na-alemanha-apos-criticas-de-merz-a-guerra-contra-ira/",
+          "publishedOn": "2026-04-30T14:28:12.000Z",
+          "wordCount": 3794,
+          "title": "Trump ameaça reduzir número de tropas na Alemanha após críticas de Merz à guerra contra Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76212017_303.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=253479",
           "author": "Tabitha Ramalho",
           "description": "Pelo menos nove pessoas, incluindo duas crianças, morreram em ataques israelenses no sul do Líbano, informou o Ministério da Saúde de Beirute nesta quinta-feira (30/04). De acordo com a pasta, o bombardeio deixou ainda 23 feridos, sendo sete menores e oito mulheres. Já a mídia estatal do país noticiou diversas ofensivas na região apenas hoje. […]\nO post Presidente libanês acusa Israel de violar cessar-fogo; ataque matam nove pessoas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/presidente-libanes-acusa-israel-de-violar-cessar-fogo-ataque-matam-nove-pessoas/",
           "publishedOn": "2026-04-30T13:25:15.000Z",
-          "wordCount": 2955,
+          "wordCount": 2949,
           "title": "Presidente libanês acusa Israel de violar cessar-fogo; ataque matam nove pessoas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/dc94452a-a77d-4729-bbf2-0cfe7b458f85.webp"
         },
@@ -790,7 +743,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, compartilhou nesta quinta-feira (30/04), na Truth Social, novas ameaças em meio ao impasse com o Irã. O líder da Casa Branca publicou imagem do Estreito de Ormuz com a frase “Estreito de Trump” e uma foto sua com a frase: “A tempestade está chegando”. Em seguida, o republicano […]\nO post Presidente dos EUA ameaça Irã e chama Ormuz de ‘Estreito Trump’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/presidente-dos-eua-ameaca-ira-e-chama-ormuz-de-estreito-trump/",
           "publishedOn": "2026-04-30T13:10:13.000Z",
-          "wordCount": 2997,
+          "wordCount": 2996,
           "title": "Presidente dos EUA ameaça Irã e chama Ormuz de ‘Estreito Trump’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/11/54888958930_865b4c3823_c.jpg"
         },
@@ -800,7 +753,7 @@
           "description": "A Marinha israelense deteve cerca de 175 ativistas da Flotilha Global Sumud (FGS), que se dirigia à Faixa de Gaza para entregar ajuda humanitária aos palestinos, numa tentativa de romper o bloqueio israelense. Dentre as pessoas sequestradas, estão os brasileiros Thiago Ávila, organizador da frota, e Leandro Lanfredi, diretor do Sindipetro RJ. A Opera Mundi, […]\nO post Marinha israelense detém 175 ativistas de flotilha humanitária rumo a Gaza, incluindo brasileiros apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/marinha-israelense-detem-175-ativistas-de-flotilha-humanitaria-rumo-a-gaza-incluindo-brasileiros/",
           "publishedOn": "2026-04-30T12:26:53.000Z",
-          "wordCount": 3178,
+          "wordCount": 3172,
           "title": "Marinha israelense detém 175 ativistas de flotilha humanitária rumo a Gaza, incluindo brasileiros",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-30-at-09.15.10.jpeg"
         },
@@ -810,7 +763,7 @@
           "description": "O presidente iraniano, Masoud Pezeshkian, afirmou nesta quinta-feira (30/04) que o bloqueio imposto pelos Estados Unidos ao Estreito de Ormuz representa uma ameaça internacional. “Hoje, nossos inimigos, tendo mudado sua abordagem, incluíram em sua agenda a estratégia de bloqueio marítimo e a imposição de restrições às rotas comerciais marítimas como uma nova ferramenta de pressão […]\nO post Irã afirma que bloqueio dos EUA a Ormuz é ‘ameaça internacional’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-afirma-que-bloqueio-dos-eua-a-ormuz-e-ameaca-internacional/",
           "publishedOn": "2026-04-30T11:37:27.000Z",
-          "wordCount": 3023,
+          "wordCount": 2972,
           "title": "Irã afirma que bloqueio dos EUA a Ormuz é ‘ameaça internacional’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-30-083358.png"
         },
@@ -820,7 +773,7 @@
           "description": "Duas pessoas foram esfaqueadas nesta quarta-feira (29/04) e um homem de 45 anos foi detido sob suspeita de tentativa de homicídio em Golders Green, um subúrbio na zona norte de Londres, num ataque que as autoridades britânicas classificaram como antissemita e terrorista. Segundo a organização de segurança da comunidade judaica Shomrim, um homem foi visto […]\nO post Polícia confirma ato em bairro judaico de Londres apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/policia-confirma-ato-em-bairro-judaico-de-londres/",
           "publishedOn": "2026-04-29T22:30:53.000Z",
-          "wordCount": 3534,
+          "wordCount": 3533,
           "title": "Polícia confirma ato em bairro judaico de Londres",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76982633_303.jpg"
         },
@@ -830,49 +783,9 @@
           "description": "O presidente russo, Vladimir Putin, informou nesta quarta-feira (29) ao presidente dos EUA, Donald Trump, a sua disposição de adotar um cessar-fogo no conflito com a Ucrânia no Dia da Vitória, em 9 de maio, quando é celebrado o triunfo soviético na Segunda Guerra Mundial. A informação foi divulgada pelo assessor de Putin, Yuri Ushakov. Segundo o […]\nO post Putin diz a Trump que pretende declarar cessar-fogo com Ucrânia no Dia da Vitória apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/putin-diz-a-trump-que-pretende-declarar-cessar-fogo-com-ucrania-no-dia-da-vitoria/",
           "publishedOn": "2026-04-29T21:56:53.000Z",
-          "wordCount": 3134,
+          "wordCount": 3178,
           "title": "Putin diz a Trump que pretende declarar cessar-fogo com Ucrânia no Dia da Vitória",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/trump_putin_alaska_arrival_9260677-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253453",
-          "author": "Raissa Neves",
-          "description": "A Venezuela e a Colômbia reativaram a conexão energética binacional a partir de um acordo firmado entre a Corporação Elétrica Nacional (Corpoelec) venezuelana, e o Instituto de Planejamento e Promoção de Soluções Energéticas para as Zonas Não-Interconectadas (Ipse) colombiano. Segundo o governo venezuelano, a aliança inaugura uma nova etapa de integração binacional e beneficia as […]\nO post Venezuela e Colômbia reativam conexão elétrica binacional após oito anos desligada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/venezuela-e-colombia-reativam-conexao-eletrica-binacional-apos-oito-anos-desligada/",
-          "publishedOn": "2026-04-29T21:40:25.000Z",
-          "wordCount": 2978,
-          "title": "Venezuela e Colômbia reativam conexão elétrica binacional após oito anos desligada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/delcy-y-petro-1536x1086-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253438",
-          "author": "Raissa Neves",
-          "description": "A Frente Sindical Única (FreSU) convocou uma marcha para esta quinta-feira (30/04) em repúdio às políticas de austeridade implementadas pelo governo do presidente argentino Javier Milei que impactaram os trabalhadores, resultaram em pobreza generalizada, inflação e na violação de direitos humanos. O evento enfatiza a proteção da classe trabalhadora como prioridade absoluta para qualquer projeto […]\nO post Manifestação na Argentina denuncia governo Milei por cortes em setores sociais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/manifestacao-na-argentina-denuncia-governo-milei-por-cortes-em-setores-sociais/",
-          "publishedOn": "2026-04-29T21:00:09.000Z",
-          "wordCount": 2873,
-          "title": "Manifestação na Argentina denuncia governo Milei por cortes em setores sociais",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-29-162942.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253430",
-          "author": "Tatiana Carlotti",
-          "description": "O Departamento de Justiça dos Estados Unidos indiciou o ex-diretor do FBI, James Comey, nesta quinta-feira (28/04), após apresentar nova acusação criminal por uma suposta ameaça de morte contra o presidente norte-americano, Donald Trump, nas redes sociais. Comey foi indiciado em um tribunal federal no distrito leste da Carolina do Norte por causa de uma […]\nO post Ex-diretor do FBI é indiciado após suposta ameaça a Trump em postagem no Instagram apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/ex-diretor-do-fbi-e-indiciado-apos-suposta-ameaca-a-trump-em-postagem-no-instagram/",
-          "publishedOn": "2026-04-29T20:40:37.000Z",
-          "wordCount": 2992,
-          "title": "Ex-diretor do FBI é indiciado após suposta ameaça a Trump em postagem no Instagram",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-29-135052.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253445",
-          "author": "Raissa Neves",
-          "description": "Há 89 anos, em 29 de abril de 1937, a cidade basca de Guernica se rendia às tropas de Francisco Franco. A rendição ocorreu três dias após o violento bombardeio contra a cidade, um dos episódios mais infames da Guerra Civil Espanhola. O ataque aéreo foi conduzidos por aviões da Alemanha nazista e da Itália […]\nO post Bombardeio de Guernica: um ensaio para a barbárie nazifascista apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/bombardeio-de-guernica-um-ensaio-para-a-barbarie-nazifascista/",
-          "publishedOn": "2026-04-29T20:00:41.000Z",
-          "wordCount": 4139,
-          "title": "Bombardeio de Guernica: um ensaio para a barbárie nazifascista",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/bundesarchiv_bild_183-h25224_guernica_ruinen.jpg"
         }
       ]
     },
@@ -887,6 +800,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=224902",
+          "author": "Giovanna Maria",
+          "description": "O relatório da CPT deixa claro que a violência não é exercida apenas por paramilitares, mas conta com o suporte operacional das forças de repressão do Estado e a validação do judiciário.",
+          "link": "https://anovademocracia.com.br/df-lancamento-do-relatorio-conflitos-no-campo-brasil-2025-e-realizado-pela-cpt-em-brasilia/",
+          "publishedOn": "2026-04-30T15:01:47.000Z",
+          "wordCount": null,
+          "title": "DF: Lançamento do relatório ‘Conflitos no Campo Brasil’ 2025 é realizado pela CPT em Brasília",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=224884",
           "author": "Redação de AND",
@@ -980,16 +903,6 @@
           "publishedOn": "2026-04-28T20:39:15.000Z",
           "wordCount": null,
           "title": "Às vésperas do 1º de Maio, polícia fascista turca invade sede do jornal Yeni Demokrasi e prende membros do Partizan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224805",
-          "author": "Redação de AND",
-          "description": "A ladainha de “cooperação internacional” é o biombo que esconde a realidade de uma força subalterna e vassala.",
-          "link": "https://anovademocracia.com.br/marinha-brasil-comando-cibernetico-ianque/",
-          "publishedOn": "2026-04-28T19:27:41.000Z",
-          "wordCount": null,
-          "title": "Subalterna, Marinha brasileira integra exercício do Comando Cibernético ianque e aprofunda vassalagem das Forças Armadas",
           "imageUrl": null
         }
       ]
@@ -1092,7 +1005,7 @@
           "description": "Ao final de 2025, após uma arrancada surpreendente, o quarto mandato parecia ao alcance da mão. Um velho cacoete – a busca eterna de conciliação entre desiguais – pode pôr tudo a perder. Análise de uma eleição decisiva, a cinco meses das urnas\nThe post Lula, sua última eleição e seus demônios appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/lula-sua-ultima-eleicao-seus-demonios/",
           "publishedOn": "2026-04-28T22:23:15.000Z",
-          "wordCount": 7162,
+          "wordCount": 7254,
           "title": "Lula, sua última eleição e seus demônios",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/28192815/photo_5154524147995053084_w12.jpg"
         },
@@ -1166,7 +1079,7 @@
           "description": "Anita Prestes: \"Grande admirador de Euclides da Cunha, Prestes lera Os sertões ainda durante o curso na Escola Militar, no Rio de Janeiro. Muito antes de sua adesão ao marxismo e ao comunismo no final dos anos 1920, Luiz Carlos Prestes cultivaria um interesse permanente pela vida e obra do notável escritor. [...] Valorizava muito as posições de Euclides da Cunha favoráveis a Marx, algo inusitado nos meios intelectuais do Brasil no final do século XIX e início do século XX. Costumava citar e recomendar a leitura de 'Contrastes e Confrontos'.\"",
           "link": "https://blogdaboitempo.com.br/2026/04/29/luiz-carlos-prestes-euclides-da-cunha-e-a-semana-euclidiana-de-sao-jose-do-rio-pardo/",
           "publishedOn": "2026-04-29T22:24:18.000Z",
-          "wordCount": 14300,
+          "wordCount": 14453,
           "title": "Luiz Carlos Prestes, Euclides da Cunha e a Semana Euclidiana de São José do Rio Pardo",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/sertoes.jpg"
         },
@@ -1176,7 +1089,7 @@
           "description": "Rima Awada Zahra escreve sobre as doutrinas que orientam a ação imperialista de Israel e Estados Unidos na região — e as formas de resistência a ela.",
           "link": "https://blogdaboitempo.com.br/2026/04/29/estrategias-do-tabuleiro-e-vidas-deslocadas-poder-energia-e-desumanizacao-no-oriente-medio-contemporaneo/",
           "publishedOn": "2026-04-29T11:00:00.000Z",
-          "wordCount": 13311,
+          "wordCount": 13461,
           "title": "Estratégias do tabuleiro e vidas deslocadas: poder, energia e desumanização no Oriente Médio contemporâneo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/04/image-38.png?fit=1200%2C801&ssl=1"
         },
