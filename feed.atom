@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-01T09:53:44.551Z</id>
+    <id>urn:2026-05-01T13:45:12.001Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-01T09:53:44.551Z</updated>
+    <updated>2026-05-01T13:45:12.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Movimento Olga ocupa imóvel abandonado em Londrina para criar Centro de Referência para as mulheres]]></title>
-        <id>https://averdade.org.br/?p=61530</id>
-        <link href="https://averdade.org.br/2026/05/movimento-olga-ocupa-imovel-abandonado-em-londrina-para-criar-centro-de-referencia-para-as-mulheres/"/>
-        <updated>2026-05-01T08:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Inaugurada no Dia Internacinal da Classe Trabalhadora, a Ocupação Margarida Maria Alves é a 1ª na cidade de Londrina e 47ª ocupação do Movimento de Mulheres Olga Benario em todo o país.  Tayná Miessa | Redação Paraná MULHERES – O Movimento Olga Benario realizou a primeira ocupação de mulheres em Londrina, a Ocupação Maria Margarida […]]]></summary>
+        <title type="html"><![CDATA[‘Hoje é o momento de tomar partido e lutar’: Liga Anti-imperialista Internacional e Liga Operária celebram o 1º de Maio]]></title>
+        <id>https://anovademocracia.com.br/?p=224933</id>
+        <link href="https://anovademocracia.com.br/lai-e-liga-operaria-celebram-1o-de-maio/"/>
+        <updated>2026-05-01T13:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Declaração da LAI convoca a classe operária e os povos oprimidos à luta internacional contra o imperialismo no 1º de Maio; em nota própria, a Liga Operária saúda a criação da LAI no Brasil e destaca a aliança operário-camponesa e a Revolução Agrária.]]></summary>
         <author>
-            <name>Gabriela Torres</name>
+            <name>Redação de AND</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump ameaça continuar guerra contra Irã sem o aval do Congresso]]></title>
+        <id>https://operamundi.uol.com.br/?p=253551</id>
+        <link href="https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-continuar-guerra-contra-ira-sem-o-aval-do-congresso/"/>
+        <updated>2026-05-01T12:59:43.000Z</updated>
+        <summary type="html"><![CDATA[Termina nesta sexta-feira (01/05) o prazo previsto pela lei norte-americana que obriga o presidente dos Estados Unidos a interromper a guerra no Oriente Médio ou pedir autorização ao Congresso para continuar o conflito. Mas o governo Trump deixou claro que ignorará essa obrigação e avalia a possibilidade de realizar novos ataques contra o Irã para […]
+O post Trump ameaça continuar guerra contra Irã sem o aval do Congresso apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acordo Mercosul- UE entra em vigor nesta sexta (1º) após 26 anos]]></title>
+        <id>https://operamundi.uol.com.br/?p=253546</id>
+        <link href="https://operamundi.uol.com.br/america-latina/acordo-mercosul-ue-entra-em-vigor-nesta-sexta-1o-apos-26-anos/"/>
+        <updated>2026-05-01T12:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Após 26 anos de negociações, o acordo comercial entre Mercosul e União Europeia entra em vigor nesta sexta-feira (01/05), criando uma das maiores áreas de livre comércio do mundo e reduzindo significativamente tarifas sobre produtos brasileiros exportados ao continente europeu. A nova etapa marca um avanço histórico na integração comercial entre os dois blocos, com […]
+O post Acordo Mercosul- UE entra em vigor nesta sexta (1º) após 26 anos apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grécia negocia desembarque de 175 ativistas sequestrados por Israel]]></title>
+        <id>https://operamundi.uol.com.br/?p=253543</id>
+        <link href="https://operamundi.uol.com.br/guerra-israel-x-palestina/grecia-negocia-desembarque-de-175-ativistas-sequestrados-por-israel/"/>
+        <updated>2026-05-01T11:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Após os ataques de Israel à flotilha Global Sumud e a prisão de seus membros, o governo grego confirmou na quinta-feira (30/04) que os 175 ativistas desembarcarão em solo grego. “As autoridades gregas estão em negociações com as autoridades israelenses a respeito de seu desembarque seguro na Grécia”, afirmou o Ministério das Relações Exteriores grego […]
+O post Grécia negocia desembarque de 175 ativistas sequestrados por Israel apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Além da 6×1: Como a uberização impõe a jornada 7×0 aos brasileiros]]></title>
+        <id>https://www.intercept.com.br/?p=442669</id>
+        <link href="https://www.intercept.com.br/2026/05/01/uberizacao-jornada-7-0-brasileiros/"/>
+        <updated>2026-05-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A disputa pelo fim da escala 6x1 revela uma crise mais profunda: a transformação de todo o tempo de vida em tempo de trabalho para a periferia. 
+O post Além da 6×1: Como a uberização impõe a jornada 7×0 aos brasileiros apareceu primeiro em Intercept Brasil.]]></summary>
+        <author>
+            <name>Isabella Mota</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O 1º de Maio e a disputa pelo tempo de viver]]></title>
+        <id>http://blogdaboitempo.com.br/?p=63988</id>
+        <link href="https://blogdaboitempo.com.br/2026/05/01/o-1o-de-maio-e-a-disputa-pelo-tempo-de-viver/"/>
+        <updated>2026-05-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Erik Chiconelli Gomes relembra as origens da celebração da data, a luta histórica pela redução da jornada de trabalho e o que a análise de Marx sobre o mais-valor ainda nos diz sobre o capitalismo contemporâneo.]]></summary>
+        <author>
+            <name>Boitempo</name>
         </author>
     </entry>
     <entry>
@@ -388,49 +442,6 @@ The post Cinema: Perder-se na África appeared first on Outras Palavras.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parlamento Europeu mantém sanções à Venezuela, diz agência]]></title>
-        <id>https://operamundi.uol.com.br/?p=253494</id>
-        <link href="https://operamundi.uol.com.br/america-latina/parlamento-europeu-mantem-sancoes-a-venezuela-diz-agencia/"/>
-        <updated>2026-04-30T17:05:17.000Z</updated>
-        <summary type="html"><![CDATA[O Parlamento Europeu segue dividido em relação à Venezuela. Enquanto um setor de eurodeputados pressiona o Conselho da União Europeia para manter as sanções contra o país sul-americano, outro grupo adia a aprovação de resoluções até que seja incluída uma condenação mais dura à interferência dos Estados Unidos. Segundo a agência EFE, durante dois dias […]
-O post Parlamento Europeu mantém sanções à Venezuela, diz agência apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tabitha Ramalho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Mercado em Conexão”: uma vitrine da burguesia em plena UFMG]]></title>
-        <id>https://averdade.org.br/?p=61519</id>
-        <link href="https://averdade.org.br/2026/04/mercado-em-conexao-uma-vitrine-da-burguesia-em-plena-ufmg/"/>
-        <updated>2026-04-30T16:50:51.000Z</updated>
-        <summary type="html"><![CDATA[O evento “Mercado em Conexão” na UFMG reúne empresas da burguesia que buscam privatizar a educação pública e colocar a ciência a serviço do lucro. Realizada na Escola de Engenharia, a feira funciona como vitrine para setores interessados em capturar a produção acadêmica nacional e subordinar a universidade aos interesses do grande capital. Pablo Daniel […]]]></summary>
-        <author>
-            <name>Redação MG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petro propõe mesa de diálogo para resolver conflitos com Equador]]></title>
-        <id>https://operamundi.uol.com.br/?p=253489</id>
-        <link href="https://operamundi.uol.com.br/america-latina/petro-propoe-mesa-de-dialogo-para-resolver-conflitos-com-equador/"/>
-        <updated>2026-04-30T16:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Em mensagem difundida nesta quarta-feira (29/04), o presidente da Colômbia, Gustavo Petro, propôs ao seu homólogo equatorianos, Daniel Noboa, que se realize uma reunião em região próxima as zonas fronteiriças entre os dois países. Segundo Petro, o objetivo do encontro, caso seja concretizado, seria o de iniciar uma mesa de diálogo para resolver os conflitos […]
-O post Petro propõe mesa de diálogo para resolver conflitos com Equador apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Victor Farinelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petróleo dispara a US$ 126 após ameaça de bloqueio prolongado dos EUA ao Irã]]></title>
-        <id>https://operamundi.uol.com.br/?p=253486</id>
-        <link href="https://operamundi.uol.com.br/guerra-eua-israel-x-ira/petroleo-dispara-a-us-126-apos-ameaca-de-bloqueio-prolongado-dos-eua-ao-ira/"/>
-        <updated>2026-04-30T15:29:08.000Z</updated>
-        <summary type="html"><![CDATA[O preço global do petróleo disparou para mais de US$ 126 por barril, seu nível mais alto desde 2022, depois que Donald Trump afirmou que o bloqueio dos EUA aos portos iranianos poderia durar meses e as negociações de paz permaneceram paralisadas. Após uma alta de mais de 13% em 24 horas, o preço dos […]
-O post Petróleo dispara a US$ 126 após ameaça de bloqueio prolongado dos EUA ao Irã apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tabitha Ramalho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CPT lança relatório ‘Conflitos no Campo Brasil’ 2025 em Brasília; veja a cobertura de AND]]></title>
         <id>https://anovademocracia.com.br/?p=224902</id>
         <link href="https://anovademocracia.com.br/cpt-conflitos-no-campo-2025-brasilia/"/>
@@ -556,16 +567,6 @@ O post Não é só uma trend: conservadorismo se reinventa nas redes sociais e a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Força Sindical: A central neoliberal]]></title>
-        <id>https://averdade.org.br/?p=61056</id>
-        <link href="https://averdade.org.br/2026/04/forca-sindical-a-central-neoliberal/"/>
-        <updated>2026-04-29T23:00:06.000Z</updated>
-        <summary type="html"><![CDATA[A história da Força Sindical revela a traição à classe trabalhadora e sua submissão ao projeto neoliberal e ao financiamento da burguesia. A trajetória de Luiz de Medeiros e Paulinho da Força demonstra como a central atuou para desmobilizar a luta e apoiar a privatização criminosa. O uso de recurso patronal para corromper o sindicato […]]]></summary>
-        <author>
-            <name>Redação MG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boletim Poder Popular do 1º de maio/2026]]></title>
         <id>69f287bc01e7cd37414d031e</id>
         <link href="https://opoderpopular.com.br/boletim-poder-popular-do-1o-de-maio-2026/"/>
@@ -684,16 +685,6 @@ The post Por dentro das ilhas financeiras de sonegação global appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Governo libera R$ 10 bilhões ao latifúndio enquanto ‘reforma agrária’ segue paralisada]]></title>
-        <id>https://anovademocracia.com.br/?p=224884</id>
-        <link href="https://anovademocracia.com.br/governo-10-bi-latifundio-reforma-paralisada/"/>
-        <updated>2026-04-29T20:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Os sucessivos governos, incluindo o atual, fortaleceram o latifúndio econômica, política e militarmente. É o dinheiro público financiando a estrutura que, no fim da linha, aperta o gatilho contra os pobres do campo.]]></summary>
-        <author>
-            <name>Redação de AND</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A desistorização do tempo]]></title>
         <id>https://revistaopera.operamundi.uol.com.br/?p=73546</id>
         <link href="https://revistaopera.operamundi.uol.com.br/2026/04/29/a-desistorizacao-do-tempo/"/>
@@ -736,16 +727,6 @@ O conteúdo Ação por tortura no Carandiru não prescreve, decide Justiça de S
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A força da greve: servidores de Santa Luzia (MG) conquistam avanços contra o sucateamento]]></title>
-        <id>https://averdade.org.br/?p=61507</id>
-        <link href="https://averdade.org.br/2026/04/a-forca-da-greve-servidores-de-santa-luzia-mg-conquistam-avancos-contra-o-sucateamento/"/>
-        <updated>2026-04-29T14:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Servidores da educação de Santa Luzia paralisam escolas e conquistam avanços após mobilização histórica contra o descaso da prefeitura. A maioria absoluta das escolas e UMEIs da cidade foi paralisada, total ou parcialmente, e com a luta os trabalhadores e conseguiram arrancar as primeiras conquistas da Prefeitura. Edson de Moraes Neto | Santa Luzia – […]]]></summary>
-        <author>
-            <name>Redação MG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[É preciso derrotar a perseguição sionista da prefeitura do Rio contra o Bar Partisan]]></title>
         <id>https://www.esquerdadiario.com.br/E-preciso-derrotar-a-perseguicao-sionista-da-prefeitura-do-Rio-contra-o-Bar-Partisan</id>
         <link href="https://www.esquerdadiario.com.br/E-preciso-derrotar-a-perseguicao-sionista-da-prefeitura-do-Rio-contra-o-Bar-Partisan"/>
@@ -756,26 +737,6 @@ O conteúdo Ação por tortura no Carandiru não prescreve, decide Justiça de S
 / Política, Rio de Janeiro, Palestina Livre, #FreePalestine, Sionismo, Global Sumud Flotilha]]></summary>
         <author>
             <name>Jean Barroso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Um Grêmio Estudantil deve ser um Grêmio de luta!]]></title>
-        <id>https://averdade.org.br/?p=61497</id>
-        <link href="https://averdade.org.br/2026/04/um-gremio-estudantil-deve-ser-um-gremio-de-luta/"/>
-        <updated>2026-04-29T13:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Grêmios Estudantis combativos são a base para o avanço da luta secundarista e a resistência contra o autoritarismo e a opressão escolar. Vinícius Brainer e Daniel Tito No sistema capitalista vigente, no qual os ricos e poderosos tomam todas as decisões sobre a sociedade em que vivemos e, consequentemente, sobre os rumos do nosso futuro, […]]]></summary>
-        <author>
-            <name>Redação MG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A importância da alfabetização de jovens e adultos]]></title>
-        <id>https://averdade.org.br/?p=61486</id>
-        <link href="https://averdade.org.br/2026/04/a-importancia-da-alfabetizacao-de-jovens-e-adultos/"/>
-        <updated>2026-04-29T12:22:15.000Z</updated>
-        <summary type="html"><![CDATA[O ensino de jovens e adultos (EJA) é uma modalidade de ensino que, mesmo com as limitações dentro do sistema capitalista, tem uma importância grande para a classe trabalhadora. Iniciativas do MLB e do Olga Benario em combater esse problema nacional mostra que é possível emancipar a sociedade por meio do saber e do conhecimento. […]]]></summary>
-        <author>
-            <name>Clóvis Maia</name>
         </author>
     </entry>
     <entry>
@@ -826,16 +787,6 @@ O conteúdo Ação por tortura no Carandiru não prescreve, decide Justiça de S
 / São Paulo (capital), Educação, Professores São Paulo, Nossa Classe Educação, Ricardo Nunes, Greve na Educação, Professores Municipais de São Paulo]]></summary>
         <author>
             <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Propostas da UP ganham apoio popular e Samara Martins cresce em pesquisas]]></title>
-        <id>https://averdade.org.br/?p=61490</id>
-        <link href="https://averdade.org.br/2026/04/propostas-da-up-ganham-apoio-popular-e-samara-martins-cresce-em-pesquisas/"/>
-        <updated>2026-04-29T00:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Após defender aumento de 100% do salário-mínimo e confisco de bens de todos os corruptos, pré-candidata da UP cresce em pesquisa eleitoral do instituto AtlasIntel. Redação BRASIL – Única mulher pré-candidata às eleições presidenciais, Samara Martins é a terceira mais citada entre as mulheres em pesquisa AtlasIntel; Intenções de votos na dirigente da UP crescem […]]]></summary>
-        <author>
-            <name>Felipe Annunziata</name>
         </author>
     </entry>
     <entry>
@@ -990,36 +941,6 @@ O post O jornalismo brasileiro ganhou uma chance de sobrevivência contra o Goog
 / Classe trabalhadora, Terceirização, Trabalhadores Terceirizados, Privatização do metrô, Metrô de São Paulo, Manifesto contra a terceirização e a precarização do trabalho, Works Construção e Negócios]]></summary>
         <author>
             <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EssilorLuxottica descumpre acordo coletivo que acabava com a escala 6×1]]></title>
-        <id>https://averdade.org.br/?p=61483</id>
-        <link href="https://averdade.org.br/2026/04/essilorluxottica-descumpre-acordo-coletivo-que-acabava-com-a-escala-6x1/"/>
-        <updated>2026-04-28T14:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Dois meses após o novo acordo coletivo que acabaria com o trabalho aos sábados com a contrapartida de reduzir o horário das refeições dos operários para 30 minutos, a EssilorLuxottica, multinacional de lucro bilionário com planta em Campinas, interior de São Paulo, obriga os operários a continuar trabalhando em sábados alternados. João Suzigan – Campinas […]]]></summary>
-        <author>
-            <name>Leonardo de Paula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ação da PM em reserva indígena deixa mortos, presos e vítimas de violência sexual no MS]]></title>
-        <id>https://averdade.org.br/?p=61480</id>
-        <link href="https://averdade.org.br/2026/04/acao-da-pm-em-reserva-indigena-deixa-mortos-presos-e-vitimas-de-violencia-sexual-no-ms/"/>
-        <updated>2026-04-28T14:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Ação da PM ocorreu após retomada de fazenda por famílias Guarani-Kaiowá na região de Amambai, no Mato Grosso do Sul. Conflito entre os dias 26 e 27 de abril deixou ao menos cinco mortos, incluindo duas crianças. Caio Potiguara | Macaé (RJ) BRASIL – Um violento confronto entre forças de segurança do Mato Grosso do […]]]></summary>
-        <author>
-            <name>Felipe Annunziata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guerra do Contestado e o Brasil de 1911-1915]]></title>
-        <id>https://averdade.org.br/?p=61475</id>
-        <link href="https://averdade.org.br/2026/04/a-guerra-do-contestado-e-o-brasil-de-1911-1915/"/>
-        <updated>2026-04-28T13:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Um dos momentos mais violentos de nossa história, a Guerra do contestado, é uma das páginas mais sangrentas de nosso país. Ao mesmo tempo é um marco na virada da organização da classe trabalhadora brasileira. Esse é o sexto capítulo da série exclusiva do Jornal A Verdade “A história oficial Versus as lutas do proletariado […]]]></summary>
-        <author>
-            <name>Clóvis Maia</name>
         </author>
     </entry>
     <entry>
