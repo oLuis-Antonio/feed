@@ -84,16 +84,6 @@
           "wordCount": 1880,
           "title": "Alternativa Bancária do Distrito Federal se estabelece como força da oposição sindical depois de eleição",
           "imageUrl": "https://media.jornalofuturo.com.br/oposicaobancariaDF-1280x960.jpg"
-        },
-        {
-          "id": "Ga0W6O",
-          "author": null,
-          "description": "Ao afirmar que “é preciso limitar as despesas obrigatórias”, o ministro sinalizou a intenção de impor novos freios aos gastos públicos estruturais - categoria que inclui investimentos constitucionais em saúde, educação e políticas sociais.",
-          "link": "https://jornalofuturo.com.br/artigo/Ga0W6O-governo-lula-defende-corte-de-despesas-obrigatorias-e-reacende-debate-sobre-ataques-a-direitos-sociais",
-          "publishedOn": "2026-04-26T21:00:00.000Z",
-          "wordCount": 1390,
-          "title": "Governo Lula defende corte de despesas obrigatórias e reacende debate sobre ataques a direitos sociais",
-          "imageUrl": "https://media.jornalofuturo.com.br/lulapreocupado-888x592.jpg"
         }
       ]
     },
@@ -103,12 +93,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61530",
+          "author": "Gabriela Torres",
+          "description": "Inaugurada no Dia Internacinal da Classe Trabalhadora, a Ocupação Margarida Maria Alves é a 1ª na cidade de Londrina e 47ª ocupação do Movimento de Mulheres Olga Benario em todo o país.  Tayná Miessa | Redação Paraná MULHERES – O Movimento Olga Benario realizou a primeira ocupação de mulheres em Londrina, a Ocupação Maria Margarida […]",
+          "link": "https://averdade.org.br/2026/05/movimento-olga-ocupa-imovel-abandonado-em-londrina-para-criar-centro-de-referencia-para-as-mulheres/",
+          "publishedOn": "2026-05-01T08:02:38.000Z",
+          "wordCount": 6832,
+          "title": "Movimento Olga ocupa imóvel abandonado em Londrina para criar Centro de Referência para as mulheres",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/margarida_alves.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61519",
           "author": "Redação MG",
           "description": "O evento “Mercado em Conexão” na UFMG reúne empresas da burguesia que buscam privatizar a educação pública e colocar a ciência a serviço do lucro. Realizada na Escola de Engenharia, a feira funciona como vitrine para setores interessados em capturar a produção acadêmica nacional e subordinar a universidade aos interesses do grande capital. Pablo Daniel […]",
           "link": "https://averdade.org.br/2026/04/mercado-em-conexao-uma-vitrine-da-burguesia-em-plena-ufmg/",
           "publishedOn": "2026-04-30T16:50:51.000Z",
-          "wordCount": 6976,
+          "wordCount": 7001,
           "title": "“Mercado em Conexão”: uma vitrine da burguesia em plena UFMG",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/mercado_em_conexao.jpg"
         },
@@ -118,7 +118,7 @@
           "description": "A história da Força Sindical revela a traição à classe trabalhadora e sua submissão ao projeto neoliberal e ao financiamento da burguesia. A trajetória de Luiz de Medeiros e Paulinho da Força demonstra como a central atuou para desmobilizar a luta e apoiar a privatização criminosa. O uso de recurso patronal para corromper o sindicato […]",
           "link": "https://averdade.org.br/2026/04/forca-sindical-a-central-neoliberal/",
           "publishedOn": "2026-04-29T23:00:06.000Z",
-          "wordCount": 7446,
+          "wordCount": 7459,
           "title": "Força Sindical: A central neoliberal",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/D_NQ_NP_2X_630336-MLB96414602192_102025-F-e1777472208690.webp"
         },
@@ -128,7 +128,7 @@
           "description": "Servidores da educação de Santa Luzia paralisam escolas e conquistam avanços após mobilização histórica contra o descaso da prefeitura. A maioria absoluta das escolas e UMEIs da cidade foi paralisada, total ou parcialmente, e com a luta os trabalhadores e conseguiram arrancar as primeiras conquistas da Prefeitura. Edson de Moraes Neto | Santa Luzia – […]",
           "link": "https://averdade.org.br/2026/04/a-forca-da-greve-servidores-de-santa-luzia-mg-conquistam-avancos-contra-o-sucateamento/",
           "publishedOn": "2026-04-29T14:54:13.000Z",
-          "wordCount": 7120,
+          "wordCount": 7130,
           "title": "A força da greve: servidores de Santa Luzia (MG) conquistam avanços contra o sucateamento",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/650493981_17964097644047256_2774705020663469836_n.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "Grêmios Estudantis combativos são a base para o avanço da luta secundarista e a resistência contra o autoritarismo e a opressão escolar. Vinícius Brainer e Daniel Tito No sistema capitalista vigente, no qual os ricos e poderosos tomam todas as decisões sobre a sociedade em que vivemos e, consequentemente, sobre os rumos do nosso futuro, […]",
           "link": "https://averdade.org.br/2026/04/um-gremio-estudantil-deve-ser-um-gremio-de-luta/",
           "publishedOn": "2026-04-29T13:56:14.000Z",
-          "wordCount": 7263,
+          "wordCount": 7273,
           "title": "Um Grêmio Estudantil deve ser um Grêmio de luta!",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/image1-1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "O ensino de jovens e adultos (EJA) é uma modalidade de ensino que, mesmo com as limitações dentro do sistema capitalista, tem uma importância grande para a classe trabalhadora. Iniciativas do MLB e do Olga Benario em combater esse problema nacional mostra que é possível emancipar a sociedade por meio do saber e do conhecimento. […]",
           "link": "https://averdade.org.br/2026/04/a-importancia-da-alfabetizacao-de-jovens-e-adultos/",
           "publishedOn": "2026-04-29T12:22:15.000Z",
-          "wordCount": 7343,
+          "wordCount": 7352,
           "title": "A importância da alfabetização de jovens e adultos",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/mlb-educacao.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "Após defender aumento de 100% do salário-mínimo e confisco de bens de todos os corruptos, pré-candidata da UP cresce em pesquisa eleitoral do instituto AtlasIntel. Redação BRASIL – Única mulher pré-candidata às eleições presidenciais, Samara Martins é a terceira mais citada entre as mulheres em pesquisa AtlasIntel; Intenções de votos na dirigente da UP crescem […]",
           "link": "https://averdade.org.br/2026/04/propostas-da-up-ganham-apoio-popular-e-samara-martins-cresce-em-pesquisas/",
           "publishedOn": "2026-04-29T00:06:59.000Z",
-          "wordCount": 7243,
+          "wordCount": 7263,
           "title": "Propostas da UP ganham apoio popular e Samara Martins cresce em pesquisas",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/IMG-20260413-WA0039.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "Dois meses após o novo acordo coletivo que acabaria com o trabalho aos sábados com a contrapartida de reduzir o horário das refeições dos operários para 30 minutos, a EssilorLuxottica, multinacional de lucro bilionário com planta em Campinas, interior de São Paulo, obriga os operários a continuar trabalhando em sábados alternados. João Suzigan – Campinas […]",
           "link": "https://averdade.org.br/2026/04/essilorluxottica-descumpre-acordo-coletivo-que-acabava-com-a-escala-6x1/",
           "publishedOn": "2026-04-28T14:31:59.000Z",
-          "wordCount": 7095,
+          "wordCount": 7111,
           "title": "EssilorLuxottica descumpre acordo coletivo que acabava com a escala 6×1",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/1000329509.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "Ação da PM ocorreu após retomada de fazenda por famílias Guarani-Kaiowá na região de Amambai, no Mato Grosso do Sul. Conflito entre os dias 26 e 27 de abril deixou ao menos cinco mortos, incluindo duas crianças. Caio Potiguara | Macaé (RJ) BRASIL – Um violento confronto entre forças de segurança do Mato Grosso do […]",
           "link": "https://averdade.org.br/2026/04/acao-da-pm-em-reserva-indigena-deixa-mortos-presos-e-vitimas-de-violencia-sexual-no-ms/",
           "publishedOn": "2026-04-28T14:07:21.000Z",
-          "wordCount": 6904,
+          "wordCount": 6924,
           "title": "Ação da PM em reserva indígena deixa mortos, presos e vítimas de violência sexual no MS",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-11.05.19.jpeg"
         },
@@ -188,19 +188,9 @@
           "description": "Um dos momentos mais violentos de nossa história, a Guerra do contestado, é uma das páginas mais sangrentas de nosso país. Ao mesmo tempo é um marco na virada da organização da classe trabalhadora brasileira. Esse é o sexto capítulo da série exclusiva do Jornal A Verdade “A história oficial Versus as lutas do proletariado […]",
           "link": "https://averdade.org.br/2026/04/a-guerra-do-contestado-e-o-brasil-de-1911-1915/",
           "publishedOn": "2026-04-28T13:40:18.000Z",
-          "wordCount": 7618,
+          "wordCount": 7631,
           "title": "A Guerra do Contestado e o Brasil de 1911-1915",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/irmandade-de-sao-sebastiao.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61461",
-          "author": "Clóvis Maia",
-          "description": "Realizado no último domingo (26), o congresso da Unidade Popular contou com um ato de lançamento da pré-candidatura de Samara Martins para a presidência da república e de Camila Falcão, para disputar a governadoria do estado esse ano. Redação Pernambuco  Brasil- No último domingo (26/04) a Unidade Popular em Pernambuco realizou seu congresso extraordinário. A […]",
-          "link": "https://averdade.org.br/2026/04/congresso-extraordinario-da-up-fortalece-lutas-em-pernambuco/",
-          "publishedOn": "2026-04-28T00:32:18.000Z",
-          "wordCount": 7072,
-          "title": "Congresso extraordinário da UP fortalece lutas em Pernambuco",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/congresso-UP-PE.jpg"
         }
       ]
     },
@@ -209,6 +199,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "69f4392fb4054afef5839cfd",
+          "author": "PSTU-RN",
+          "description": "Dário Barbosa, PSTU Natal (RN)\nO 1º de Maio não nasceu do calendário oficial, nem de homenagem vazia feita por governos em palanques enfeitados. O 1º de Maio nasceu do chão duro das fábricas, do suor arrancado a",
+          "link": "https://opiniaosocialista.com.br/o-1o-de-maio-e-a-memoria-que-marcha-e-a-luta-que-nao-envelhece/",
+          "publishedOn": "2026-05-01T06:28:20.000Z",
+          "wordCount": 1433,
+          "title": "O 1º de Maio é a memória que marcha e a luta que não envelhece",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/0029093350-900x505.jpg"
+        },
         {
           "id": "69f417f1b4054afef5839b6c",
           "author": "LIT-QI",
@@ -225,7 +225,7 @@
           "description": "As Centrais Sindicais brasileiras manifestaram-se em solidariedade a um dos fundadores da CSP-Conlutas, José Maria de Almeida, presidente do PSTU, condenado a dois anos de prisão em regime aberto, por suposto racismo contra judeus em discurso em defesa do povo palestino e de denúncia dos",
           "link": "https://opiniaosocialista.com.br/contra-a-arbitrariedade-centrais-sindicais-brasileiras-manifestam-solidariedade-a-ze-maria/",
           "publishedOn": "2026-05-01T01:05:02.000Z",
-          "wordCount": 1030,
+          "wordCount": 996,
           "title": "Contra a arbitrariedade: Centrais sindicais brasileiras manifestam solidariedade a Zé Maria",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/z---maria-1.png"
         },
@@ -312,7 +312,7 @@
           "description": "Trabalhadores da rede municipal de educação em BH vem sendo um exemplo da luta contra o desmonte, sucateamento e privatização da educação pública. Iniciando sua greve nesta última segunda (27), contra o apagão da educação, a privatização do ensino por meio das OSCs e pelo reajuste salarial; mostram que serem chatos para Álvaro Damião é motivo de orgulho para categoria! \n A educação municipal de BH se encontra em uma situação crítica, fruto de anos de políticas de desmonte nas gestões (…)\n30-04-2026\n\n/ Educação, Greve, Belo Horizonte , Greve na educação de BH, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/O-que-esta-chato-sao-os-ataques-de-Damiao-Todo-apoio-a-greve-da-educacao-municipal",
           "publishedOn": "2026-04-30T13:47:31.000Z",
-          "wordCount": 8247,
+          "wordCount": 8251,
           "title": "O que “está chato” são os ataques de Damião. Todo apoio à greve da educação municipal!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2026-04-27-at-14.37.14-1-1024x768.jpg?1777556841"
         },
@@ -342,7 +342,7 @@
           "description": "Forças israelenses interceptam e apreendem navios da Global Sumud a centenas de quilômetros de Gaza margens; bloqueando comunicações, sequestrando civis e estabelecendo um ambiente sem precedente legal em águas internacionais\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza",
           "link": "https://www.esquerdadiario.com.br/Pirataria-a-vista-de-todos-Israel-sequestra-civis-multinacionais-no-Mar-aberto",
           "publishedOn": "2026-04-30T01:43:40.000Z",
-          "wordCount": 8030,
+          "wordCount": 8026,
           "title": "Pirataria à vista de todos: Israel sequestra civis multinacionais no Mar aberto",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/comunicado_de_imprensa-18.png?1777513275"
         },
@@ -352,7 +352,7 @@
           "description": "A Global Sumud Flotilha confirma a interceptação de barcos da missão pelas forças de ocupação israelenses.\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Faixa de Gaza, Exército de Israel, Palestina Livre, Genocídio, Sionismo, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-confirma-interceptacao-de-barcos-pelas-forcas-de-ocupacao-israelenses",
           "publishedOn": "2026-04-30T00:14:39.000Z",
-          "wordCount": 7718,
+          "wordCount": 7714,
           "title": "Global Sumud Flotilha confirma interceptação de barcos pelas forças de ocupação israelenses",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/design_sem_nome_6_.png?1777508023"
         },
@@ -372,7 +372,7 @@
           "description": "Um áudio gravado a partir de um barco do Greenpeace revela militares israelenses ameaçando a Global Sumud Flotilha em águas internacionais próximas à Grécia. A denúncia ocorre após os barcos serem rodeados por lanchas militares, que apontaram lasers e armas semiautomáticas contra as embarcações e ordenaram que os participantes ficassem de joelhos, com as mãos no chão. \n As comunicações dos barcos estão sofrendo interferência e um pedido de socorro foi emitido.\n29-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Marinha-israelense-ataca-navios-e-faz-ameacas-a-Global-Sumud-Flotilha-pelo-radio",
           "publishedOn": "2026-04-29T21:46:38.000Z",
-          "wordCount": 7750,
+          "wordCount": 7746,
           "title": "Marinha israelense ataca navios e faz ameaças à Global Sumud Flotilha pelo rádio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/4d89f0e7-0aab-4937-ae35-d2899b7e2711.jpg?1777499190"
         },
@@ -412,7 +412,7 @@
           "description": "Na manhã da última terça-feira, 27/04, um incêndio em um dos acessos da estação São Judas do Metrô de São Paulo expôs mais uma vez a grave situação da precarização do Metrô de SP com a falta de quadro de trabalhadores nas estações.\n28-04-2026\n\n/ Classe trabalhadora, Metrô, Acidentes de Trabalho, Tarcísio de Freitas, Privatização do metrô, Metrô de SP",
           "link": "https://www.esquerdadiario.com.br/Incendio-na-estacao-Sao-Judas-precarizacao-e-falta-de-efetivos-colocam-passageiros-e-trabalhadores",
           "publishedOn": "2026-04-29T12:18:50.000Z",
-          "wordCount": 8112,
+          "wordCount": 8114,
           "title": "Incêndio na estação São Judas: precarização e falta de efetivos colocam passageiros e trabalhadores em risco",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/5297e7b2-8053-45ba-821a-d224c553eeb7.jpg?1777464967"
         },
@@ -432,7 +432,7 @@
           "description": "Trabalhadores da educação municipal de São Paulo decretaram greve em assembleia nesta quarta, em frente a Prefeitura, contra o arrocho salarial de Ricardo Nunes, que propôs mais um aumento abaixo da inflação. \n Trabalhadores da educação municipal de São Paulo decretaram greve em assembleia nesta quarta, em frente a Prefeitura. A gestão de Ricardo Nunes fez uma proposta que apresenta um aumento pífio, que representa uma perda de poder de compra dos trabalhadores. \n28-04-2026\n\n/ São Paulo (capital), Educação, Professores São Paulo, Nossa Classe Educação, Ricardo Nunes, Greve na Educação, Professores Municipais de São Paulo",
           "link": "https://www.esquerdadiario.com.br/E-greve-na-educacao-municipal-de-Sao-Paulo-contra-o-arrocho-salarial-e-a-precarizacao",
           "publishedOn": "2026-04-29T01:38:51.000Z",
-          "wordCount": 8098,
+          "wordCount": 8105,
           "title": "É greve na educação municipal de São Paulo contra o arrocho salarial e a precarização",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato-campanha-salarial-28-04-2026-037.jpg?1777426687"
         },
@@ -452,7 +452,7 @@
           "description": "O 1º de maio é uma data histórica de luta da classe trabalhadora internacionalmente. Neste ano, o contexto internacional turbulento gerado pela crise capitalista reafirma a necessidade de batalhar por uma política anti-imperialista e de independência de classe.\n28-04-2026\n\n/ Classe trabalhadora, Terceirização, Primeiro de Maio, 1 de Maio, Independência de classe, Extrativismo, Precarização do trabalho, Governo Lula-Alckmin, jornada 6x1, Terras Raras",
           "link": "https://www.esquerdadiario.com.br/1M-erguer-a-forca-da-classe-trabalhadora-brasileira-pelo-fim-da-6x1-e-contra-a-entrega-das-terras",
           "publishedOn": "2026-04-28T23:08:09.000Z",
-          "wordCount": 8789,
+          "wordCount": 8788,
           "title": "1M: erguer a força da classe trabalhadora brasileira pelo fim da 6x1 e contra a entrega das terras raras",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000361493.jpg?1777425405"
         },
@@ -482,7 +482,7 @@
           "description": "É retrato da crise de seu sistema político norte americano o fato de o atual presidente republicano, que foi posto lá pela burguesia, ter que simplesmente comparecer à uma das maiores redes de televisão para se defender das acusações de pedofilia e estupro lançadas por alguém o pretendia assassinar.\n28-04-2026\n\n/ Internacional, Donald Trump, atentado, No Kings",
           "link": "https://www.esquerdadiario.com.br/Atentado-contra-Trump-e-mais-um-episodio-do-aprofundamento-da-crise-politica-nos-EUA",
           "publishedOn": "2026-04-28T16:49:20.000Z",
-          "wordCount": 8752,
+          "wordCount": 8756,
           "title": "Atentado contra Trump é mais um episódio do aprofundamento da crise política nos EUA",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/trump1-3-02ec5.jpg?1777394951"
         },
@@ -492,7 +492,7 @@
           "description": "Nas últimas semanas as pesquisas de opinião têm mostrado um crescimento de Flávio Bolsonaro e uma diminuição de Lula, e pela primeira vez o bolsonarismo ultrapassa Lula no segundo turno em algumas pesquisas. O retrato da impotência de uma frente, amplíssima, cuja única justificativa seria o combate ao bolsonarismo e ao retrocesso.\n28-04-2026\n\n/ Política, Lula, Flavio Bolsonaro, Análise Esquerda Diário, Política, Bolsonaro, análise, Eleições 2026",
           "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-cresce-nas-pesquisas-Como-derrotar-a-extrema-direita",
           "publishedOn": "2026-04-28T16:38:14.000Z",
-          "wordCount": 8519,
+          "wordCount": 8516,
           "title": "Flávio Bolsonaro cresce nas pesquisas. Como derrotar a extrema direita?",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000360580.jpg?1777393423"
         },
@@ -562,7 +562,7 @@
           "description": "Neste domingo, 26 de abril, a Flotilha Global Sumud voltou a zarpar com destino a Gaza, após sua parada na Sicília, Itália.\n27-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/A-Global-Sumud-Flotilha-voltou-a-zarpar-da-Sicilia",
           "publishedOn": "2026-04-27T16:17:21.000Z",
-          "wordCount": 8111,
+          "wordCount": 8112,
           "title": "A Global Sumud Flotilha voltou a zarpar da Sicília",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flot.jpg?1777306460"
         },
@@ -790,7 +790,7 @@
           "description": "A Confederação Geral do Trabalho (CGT) , maior central sindical da Argentina, organizou, nesta quinta-feira (30/04), em Buenos Aires, uma marcha com o objetivo de comemorar o Dia do Trabalhador e expressar repúdio às políticas econômicas e trabalhistas impostas pelo governo do presidente argentino, Javier Milei. Participou do ato o secretário-geral Cristian Jerónimo, que exigiu a […]\nO post Manifestação na Argentina reúne multidão de insatisfeitos com reforma trabalhista de Milei apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/manifestacao-na-argentina-reune-multidao-de-insatisfeitos-com-reforma-trabalhista-de-milei/",
           "publishedOn": "2026-04-30T22:12:35.000Z",
-          "wordCount": 3246,
+          "wordCount": 3196,
           "title": "Manifestação na Argentina reúne multidão de insatisfeitos com reforma trabalhista de Milei",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/69f3b727882e5_750x500.jpg"
         },
@@ -810,7 +810,7 @@
           "description": "O Brasil chegou à 52ª colocação no último ranking que avalia a liberdade de imprensa no mundo. Com o resultado, o país cresceu 58 posições desde 2022 e ultrapassou, pela primeira vez, os Estados Unidos, que ocupa a posição 64. O levantamento foi divulgado, na quinta (30/04), pela organização não-governamental Repórteres Sem Fronteiras (RSF). Em relação […]\nO post Brasil sobe 58 posições e ultrapassa EUA em ranking de liberdade de imprensa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/brasil-sobe-58-posicoes-e-ultrapassa-eua-em-ranking-de-liberdade-de-imprensa/",
           "publishedOn": "2026-04-30T20:40:37.000Z",
-          "wordCount": 4331,
+          "wordCount": 4281,
           "title": "Brasil sobe 58 posições e ultrapassa EUA em ranking de liberdade de imprensa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/29022024-lula2432.jpg"
         },
@@ -830,7 +830,7 @@
           "description": "O Governo da Itália cobrou nesta quinta-feira (30/04) a libertação “imediata” dos ativistas italianos que estavam a bordo da Flotilha Global Samud, expedição humanitária que tinha como destino a Faixa de Gaza e que foi interceptada por Israel em águas internacionais, perto da costa da ilha de Creta, na Grécia. Segundo comunicado emitido pelo Palácio […]\nO post Governo da Itália exige libertação ‘imediata’ de ativistas da Flotilha presos por Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/governo-italia-exige-libertacao-imediata-ativistas-flotilha-presos-israel/",
           "publishedOn": "2026-04-30T19:10:33.000Z",
-          "wordCount": 3000,
+          "wordCount": 2950,
           "title": "Governo da Itália exige libertação ‘imediata’ de ativistas da Flotilha presos por Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-30-154852.png"
         },
@@ -840,7 +840,7 @@
           "description": "O líder supremo do Irã, Mojtaba Khamenei, publicou uma mensagem nesta quinta-feira (30/04) afirmando que prevê um “futuro brilhante” para a região do Golfo Pérsico quando esta se livrar da presença de tropas e funcionários de governo dos Estados Unidos. “Com o poder e a força de Deus, um futuro brilhante chegará à região do […]\nO post Líder supremo do Irã defende que Golfo Pérsico pode ter ‘futuro brilhante sem EUA’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/lider-supremo-do-ira-defende-que-golfo-persico-pode-ter-futuro-brilhante-sem-eua/",
           "publishedOn": "2026-04-30T18:30:16.000Z",
-          "wordCount": 2933,
+          "wordCount": 2883,
           "title": "Líder supremo do Irã defende que Golfo Pérsico pode ter ‘futuro brilhante sem EUA’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/fars-1.jpg"
         },
@@ -850,7 +850,7 @@
           "description": "O Congresso Nacional deve analisar, nos próximos dias, o veto do presidente Luiz Inácio Lula da Silva (PT) ao chamado Projeto de Lei da dosimetria (PL 2.162/2023), que altera critérios para a definição de penas no sistema penal. O texto trata das regras de dosimetria da pena — mecanismo utilizado pelo Judiciário para fixar a […]\nO post Congresso analisa veto de Lula ao PL da Dosimetria apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/congresso-analisa-veto-de-lula-ao-pl-da-dosimetria/",
           "publishedOn": "2026-04-30T17:40:26.000Z",
-          "wordCount": 3316,
+          "wordCount": 3266,
           "title": "Congresso analisa veto de Lula ao PL da Dosimetria",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/fachada-congresso-nacional.webp"
         },
@@ -860,7 +860,7 @@
           "description": "O Parlamento Europeu segue dividido em relação à Venezuela. Enquanto um setor de eurodeputados pressiona o Conselho da União Europeia para manter as sanções contra o país sul-americano, outro grupo adia a aprovação de resoluções até que seja incluída uma condenação mais dura à interferência dos Estados Unidos. Segundo a agência EFE, durante dois dias […]\nO post Parlamento Europeu mantém sanções à Venezuela, diz agência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/parlamento-europeu-mantem-sancoes-a-venezuela-diz-agencia/",
           "publishedOn": "2026-04-30T17:05:17.000Z",
-          "wordCount": 2671,
+          "wordCount": 2621,
           "title": "Parlamento Europeu mantém sanções à Venezuela, diz agência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/20230419pht80916_original.jpg"
         },
@@ -934,7 +934,7 @@
           "link": "https://anovademocracia.com.br/a-proposito-362/",
           "publishedOn": "2026-04-30T21:53:14.000Z",
           "wordCount": null,
-          "title": "◉ AO VIVO – Amacro e MS: Latifúndio assassino ataca camponeses e Guarani-Kaiowá – A Propósito #362",
+          "title": "Amacro e MS: Latifúndio assassino ataca camponeses e Guarani-Kaiowá – A Propósito #362",
           "imageUrl": null
         },
         {
