@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "6FbcqX",
+          "author": null,
+          "description": "Ganha força no Congresso a defesa de uma política baseada em elementos de segurança jurídica ao capital monopolista e da priorização de incentivos à exploração por empresas privadas estrangeiras que dominam o setor.",
+          "link": "https://jornalofuturo.com.br/artigo/6FbcqX-governo-e-oposicao-bolsonarista-convergem-no-entreguismo-das-terras-raras-brasileiras",
+          "publishedOn": "2026-04-30T21:00:00.000Z",
+          "wordCount": 2926,
+          "title": "Governo e oposição bolsonarista convergem no entreguismo das terras raras brasileiras",
+          "imageUrl": "https://media.jornalofuturo.com.br/xinguang_mongolia-1086x652.jpg"
+        },
+        {
           "id": "zuDYQf",
           "author": null,
           "description": "Agricultura Empresarial mimetiza ataques químicos estrangeiros sobre Agricultura Familiar nacional enquanto envenena a população e destrói a educação.",
@@ -84,16 +94,6 @@
           "wordCount": 1390,
           "title": "Governo Lula defende corte de despesas obrigatórias e reacende debate sobre ataques a direitos sociais",
           "imageUrl": "https://media.jornalofuturo.com.br/lulapreocupado-888x592.jpg"
-        },
-        {
-          "id": "yxFJSA",
-          "author": null,
-          "description": "Sob a atual gestão, a UBES abandona uma política independente em favor dos interesses do governo social-liberal que ataca a educação com suas políticas de corte de gastos.",
-          "link": "https://jornalofuturo.com.br/artigo/yxFJSA-quem-tem-medo-de-uma-ubes-independente",
-          "publishedOn": "2026-04-26T15:00:00.000Z",
-          "wordCount": 3602,
-          "title": "Quem tem medo de uma UBES independente?",
-          "imageUrl": "https://media.jornalofuturo.com.br/ujspoliticos-1212x909.jpg"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "A história da Força Sindical revela a traição à classe trabalhadora e sua submissão ao projeto neoliberal e ao financiamento da burguesia. A trajetória de Luiz de Medeiros e Paulinho da Força demonstra como a central atuou para desmobilizar a luta e apoiar a privatização criminosa. O uso de recurso patronal para corromper o sindicato […]",
           "link": "https://averdade.org.br/2026/04/forca-sindical-a-central-neoliberal/",
           "publishedOn": "2026-04-29T23:00:06.000Z",
-          "wordCount": 7444,
+          "wordCount": 7446,
           "title": "Força Sindical: A central neoliberal",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/D_NQ_NP_2X_630336-MLB96414602192_102025-F-e1777472208690.webp"
         },
@@ -205,17 +205,114 @@
       ]
     },
     {
+      "title": "Opinião Socialista",
+      "feedUrl": "https://www.opiniaosocialista.com.br/feed",
+      "siteUrl": "https://opiniaosocialista.com.br/",
+      "articles": [
+        {
+          "id": "69f417f1b4054afef5839b6c",
+          "author": "LIT-QI",
+          "description": "Pela luta independente dos trabalhadores contra o imperialismo e a opressão capitalista em todo o mundo",
+          "link": "https://opiniaosocialista.com.br/lit-qi-manifesto-de-1o-de-maio/",
+          "publishedOn": "2026-05-01T03:08:38.000Z",
+          "wordCount": 1666,
+          "title": "LIT-QI: Manifesto de 1º de Maio",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/525458569_17964495152950592_2246688314620377660_n.jpg"
+        },
+        {
+          "id": "69f3f75eb4054afef5839a46",
+          "author": "Roberto Aguiar, da redação",
+          "description": "As Centrais Sindicais brasileiras manifestaram-se em solidariedade a um dos fundadores da CSP-Conlutas, José Maria de Almeida, presidente do PSTU, condenado a dois anos de prisão em regime aberto, por suposto racismo contra judeus em discurso em defesa do povo palestino e de denúncia dos",
+          "link": "https://opiniaosocialista.com.br/contra-a-arbitrariedade-centrais-sindicais-brasileiras-manifestam-solidariedade-a-ze-maria/",
+          "publishedOn": "2026-05-01T01:05:02.000Z",
+          "wordCount": 1030,
+          "title": "Contra a arbitrariedade: Centrais sindicais brasileiras manifestam solidariedade a Zé Maria",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/z---maria-1.png"
+        },
+        {
+          "id": "69f3f1f6b4054afef5839a0a",
+          "author": "Julio Anselmo",
+          "description": "Palestina Livre do Rio ao Mar!",
+          "link": "https://opiniaosocialista.com.br/nenhuma-voz-pela-palestina-sera-silenciada/",
+          "publishedOn": "2026-05-01T00:22:25.000Z",
+          "wordCount": 362,
+          "title": "Nenhuma voz pela Palestina será silenciada!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
+          "id": "69f3d8ffb4054afef58399d2",
+          "author": "Julio Anselmo",
+          "description": "O jornal oficial do PSTU. Uma visão socialista do mundo a serviço da classe trabalhadora.",
+          "link": "https://opiniaosocialista.com.br/pelo-fim-real-da-6x1-jornada-de-36h-ja/",
+          "publishedOn": "2026-04-30T22:36:42.000Z",
+          "wordCount": 358,
+          "title": "Pelo Fim Real da 6x1! Jornada de 36h já!",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2025/12/op.socialista_fb.png"
+        },
+        {
+          "id": "69f39fbfc7e584013ad2272b",
+          "author": "Julio Anselmo",
+          "description": "OS 708\n\n\nOS 708.pdf\n3 MB\n\n.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle",
+          "link": "https://opiniaosocialista.com.br/edicao-708/",
+          "publishedOn": "2026-04-30T18:31:51.000Z",
+          "wordCount": 339,
+          "title": "Edição 708",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/04/Captura-de-tela-de-2026-04-30-15-32-38.png"
+        },
+        {
+          "id": "69f40d8fb4054afef5839aad",
+          "author": "Roberto Aguiar, da redação",
+          "description": "22 embarcações foram interceptadas em águas internacionais; cerca de 180 participantes foram detidos a mais de 1.200 km da Palestina",
+          "link": "https://opiniaosocialista.com.br/quatro-brasileiros-sao-sequestrados-por-forcas-de-ocupacao-israelense-apos-interceptacao-de-flotilha-humanitaria-no-mediterraneo/",
+          "publishedOn": "2026-04-30T13:00:00.000Z",
+          "wordCount": 901,
+          "title": "Quatro brasileiros são sequestrados por Israel após interceptação de flotilha humanitária",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/thiago-avila-mandi.png"
+        }
+      ]
+    },
+    {
       "title": "Esquerda Diário",
       "feedUrl": "https://www.esquerdadiario.com.br/spip.php?page=backend",
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
+        {
+          "id": "https://www.esquerdadiario.com.br/Quatro-brasileiros-da-Global-Sumud-Flotilha-seguem-sequestrados-pelas-forcas-de-ocupacao-de-Israel",
+          "author": "Redação",
+          "description": "Os quatro membros da delegação brasileira da Global Sumud Flotilha, Thiago Ávila, Leandro Lanfredi, Mandi Coelho e Thainara Rogério, foram sequestrados em águas internacionais pela tropa naval de Israel.\n30-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
+          "link": "https://www.esquerdadiario.com.br/Quatro-brasileiros-da-Global-Sumud-Flotilha-seguem-sequestrados-pelas-forcas-de-ocupacao-de-Israel",
+          "publishedOn": "2026-05-01T00:52:10.000Z",
+          "wordCount": 7962,
+          "title": "Quatro brasileiros da Global Sumud Flotilha seguem sequestrados pelas forças de ocupação de Israel",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/d8638f21-b5a4-40c4-85dd-bd1c1266fbd0.jpg?1777596721"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/A-ditadura-militar-da-Nigeria-sob-o-olhar-de-duas-criancas",
+          "author": "Felipe Guarnieri",
+          "description": "“A Sombra do meu Pai” (2025) não é apenas um melodrama político, trata-se de uma semibiografia do cineasta Akinola Davies Jr no contexto da crise política da Nigéria em 1993, onde acompanhamos a viagem de dois irmãos com o seu pai distante, Folarin, para a capital Lagos. O filme de estreia do diretor foi o primeiro longa-metragem nigeriano na Seleção Oficial do Festival de Cannes (2025), onde recebeu a Menção Especial Caméra d´Or e estreia no Brasil agora no dia 30/04.\n30-04-2026\n\n/ Cultura",
+          "link": "https://www.esquerdadiario.com.br/A-ditadura-militar-da-Nigeria-sob-o-olhar-de-duas-criancas",
+          "publishedOn": "2026-04-30T23:16:55.000Z",
+          "wordCount": 8413,
+          "title": "A ditadura militar da Nigéria sob o olhar de duas crianças",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/poster_a_sombra_do_meu_paied4.jpg?1777590961"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Sindipetro-RJ-e-FNP-chamam-campanha-pela-liberacao-de-seu-diretor-Leandro-Lanfredi-e-demais",
+          "author": "Redação",
+          "description": "Em comunicados e postagens nas redes sociais, a Federação Nacional de Petroleiros (FNP) e o Sindicato de Petroleiros do Rio de Janeiro (Sindipetro-RJ) denunciam o sequestro do seu diretor, Leandro Lanfredi, militante do MRT que integra a Corrente Revolução Permanente - Quarta Internacional (CRP - QI) e dos demais ativistas que faziam parte da missão humanitária da Global Sumud Flotilha. Chamamos a todos a se somarem a esta campanha e a repudiar esse novo crime de guerra cometido pela entidade sionista ao sequestrar milhares de ativistas em águas internacionais.\n30-04-2026\n\n/ Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, FNP - Federação Nacional dos Petroleiros, SINDIPETRO-RJ, Genocídio, Sionismo, Palestina operária e socialista, Flotilha, Global Sumud Flotilha",
+          "link": "https://www.esquerdadiario.com.br/Sindipetro-RJ-e-FNP-chamam-campanha-pela-liberacao-de-seu-diretor-Leandro-Lanfredi-e-demais",
+          "publishedOn": "2026-04-30T21:28:39.000Z",
+          "wordCount": 8751,
+          "title": "Sindipetro-RJ e FNP chamam campanha pela liberação de seu diretor Leandro Lanfredi e demais sequestrados da flotilha por Israel",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/le_megafone-2.jpg?1777584455"
+        },
         {
           "id": "https://www.esquerdadiario.com.br/O-que-esta-chato-sao-os-ataques-de-Damiao-Todo-apoio-a-greve-da-educacao-municipal",
           "author": "Nossa Classe - MG",
           "description": "Trabalhadores da rede municipal de educação em BH vem sendo um exemplo da luta contra o desmonte, sucateamento e privatização da educação pública. Iniciando sua greve nesta última segunda (27), contra o apagão da educação, a privatização do ensino por meio das OSCs e pelo reajuste salarial; mostram que serem chatos para Álvaro Damião é motivo de orgulho para categoria! \n A educação municipal de BH se encontra em uma situação crítica, fruto de anos de políticas de desmonte nas gestões (…)\n30-04-2026\n\n/ Educação, Greve, Belo Horizonte , Greve na educação de BH, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/O-que-esta-chato-sao-os-ataques-de-Damiao-Todo-apoio-a-greve-da-educacao-municipal",
           "publishedOn": "2026-04-30T13:47:31.000Z",
-          "wordCount": 8234,
+          "wordCount": 8247,
           "title": "O que “está chato” são os ataques de Damião. Todo apoio à greve da educação municipal!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2026-04-27-at-14.37.14-1-1024x768.jpg?1777556841"
         },
@@ -225,7 +322,7 @@
           "description": "Leandro Lanfredi, petroleiro e dirigente do Sindipetro-RJ e da FNP, a bordo do barco La Pinya, da Global Sumud Flotilla, teve sua interceptação confirmada ontem à noite e está atualmente sequestrado pelas Forças de Ocupação de Israel.\n30-04-2026",
           "link": "https://www.esquerdadiario.com.br/Israel-sequestra-petroleiro-brasileiro-Leandro-Lanfredi-e-ativistas-da-flotilha",
           "publishedOn": "2026-04-30T12:56:09.000Z",
-          "wordCount": 7621,
+          "wordCount": 7634,
           "title": "Israel sequestra petroleiro brasileiro Leandro Lanfredi e ativistas da flotilha",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/le-2.jpg?1777553735"
         },
@@ -235,7 +332,7 @@
           "description": "Manifestamos toda nossa solidariedade aos ativistas angolanos perseguidos pelo governo do MPLA e exigimos a absolvição e libertação imediata de Osvaldo Kaholo e todos os presos políticos. Lutar não é crime!! Mexeu com um, mexeu com todos! Seguiremos juntos nessa luta que é uma só e não tem fronteiras!!\n29-04-2026\n\n/ Internacional, África, Angola, Angola",
           "link": "https://www.esquerdadiario.com.br/Liberdade-para-Osvaldo-Kaholo-e-todos-os-presos-politicos-em-Angola",
           "publishedOn": "2026-04-30T10:32:37.000Z",
-          "wordCount": 7942,
+          "wordCount": 7953,
           "title": "Liberdade para Osvaldo Kaholo e todos os presos políticos em Angola",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/angola-2.jpg?1777545152"
         },
@@ -245,7 +342,7 @@
           "description": "Forças israelenses interceptam e apreendem navios da Global Sumud a centenas de quilômetros de Gaza margens; bloqueando comunicações, sequestrando civis e estabelecendo um ambiente sem precedente legal em águas internacionais\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza",
           "link": "https://www.esquerdadiario.com.br/Pirataria-a-vista-de-todos-Israel-sequestra-civis-multinacionais-no-Mar-aberto",
           "publishedOn": "2026-04-30T01:43:40.000Z",
-          "wordCount": 8009,
+          "wordCount": 8030,
           "title": "Pirataria à vista de todos: Israel sequestra civis multinacionais no Mar aberto",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/comunicado_de_imprensa-18.png?1777513275"
         },
@@ -255,7 +352,7 @@
           "description": "A Global Sumud Flotilha confirma a interceptação de barcos da missão pelas forças de ocupação israelenses.\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Faixa de Gaza, Exército de Israel, Palestina Livre, Genocídio, Sionismo, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-confirma-interceptacao-de-barcos-pelas-forcas-de-ocupacao-israelenses",
           "publishedOn": "2026-04-30T00:14:39.000Z",
-          "wordCount": 7697,
+          "wordCount": 7718,
           "title": "Global Sumud Flotilha confirma interceptação de barcos pelas forças de ocupação israelenses",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/design_sem_nome_6_.png?1777508023"
         },
@@ -265,7 +362,7 @@
           "description": "Pela primeira vez em mais de 130 anos, Senado barra indicação presidencial ao STF. \n Pela primeira vez em mais de 130 anos, Senado barra indicação presidencial ao STF. O nome de Jorge Messias foi rejeitado por 42 votos e aprovado por 34. \n29-04-2026\n\n/ Política",
           "link": "https://www.esquerdadiario.com.br/Apesar-de-inumeros-acenos-a-direita-Messias-e-rejeitado-pelo-Senado",
           "publishedOn": "2026-04-29T22:28:09.000Z",
-          "wordCount": 7817,
+          "wordCount": 7830,
           "title": "Apesar de inúmeros acenos a direita, Messias é rejeitado pelo Senado",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000295840.png?1777501618"
         },
@@ -275,7 +372,7 @@
           "description": "Um áudio gravado a partir de um barco do Greenpeace revela militares israelenses ameaçando a Global Sumud Flotilha em águas internacionais próximas à Grécia. A denúncia ocorre após os barcos serem rodeados por lanchas militares, que apontaram lasers e armas semiautomáticas contra as embarcações e ordenaram que os participantes ficassem de joelhos, com as mãos no chão. \n As comunicações dos barcos estão sofrendo interferência e um pedido de socorro foi emitido.\n29-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Marinha-israelense-ataca-navios-e-faz-ameacas-a-Global-Sumud-Flotilha-pelo-radio",
           "publishedOn": "2026-04-29T21:46:38.000Z",
-          "wordCount": 7729,
+          "wordCount": 7750,
           "title": "Marinha israelense ataca navios e faz ameaças à Global Sumud Flotilha pelo rádio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/4d89f0e7-0aab-4937-ae35-d2899b7e2711.jpg?1777499190"
         },
@@ -285,7 +382,7 @@
           "description": "Em plena proximidade de águas gregas, barcos da Global Sumud Flotilha foram abordados por lanchas militares, que se identificaram como “israelenses”, apontando lasers e armas semiautomáticas. Segundo as informações recebidas, os militares ordenaram que os participantes se posicionassem na proa das embarcações e se ajoelhassem.\n29-04-2026\n\n/ Internacional, Palestina Livre, #FreePalestine, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/Proximo-as-aguas-gregas-barcos-da-Global-Sumud-Flotilha-sao-abordados-por-lanchas-militares-rapidas",
           "publishedOn": "2026-04-29T20:44:00.000Z",
-          "wordCount": 7828,
+          "wordCount": 7849,
           "title": "Próximo às águas gregas, barcos da Global Sumud Flotilha são abordados por lanchas militares rápidas com lasers e armas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flotilhass.jpg?1777495336"
         },
@@ -295,7 +392,7 @@
           "description": "De acordo com informações da Global Sumud Flotilha, o barco Jenin, também identificado como Bianca, de bandeira italiana, está sendo abordado neste momento. A maioria das embarcações da missão também sofre interferência nas comunicações. \n A nova missão da Global Sumud Flotilha teve início no começo de abril e tem como objetivo romper o cerco criminoso imposto por Israel contra Gaza, levando solidariedade internacional ao povo palestino diante do genocídio em curso. \n29-04-2026\n\n/ Internacional, Flotilha, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/URGENTE-Barco-Jenin-da-Global-Sumud-Flotilha-e-abordado-e-embarcacoes-sofrem-interferencia-na",
           "publishedOn": "2026-04-29T20:22:22.000Z",
-          "wordCount": 7694,
+          "wordCount": 7712,
           "title": "URGENTE: Barco Jenin, da Global Sumud Flotilha, é abordado e embarcações sofrem interferência na comunicação",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flotilha-2.jpg?1777494114"
         },
@@ -305,7 +402,7 @@
           "description": "A prefeitura do Rio de Janeiro, para agradar os sionistas da Conib e Fierj, simplesmente suspendeu o alvará do Bar Partisan, na Lapa, isso tudo após vereadores representantes do Lobby sionista terem se utilizado da máquina estatal para procurar prejudicar o bar.\n29-04-2026\n\n/ Política, Rio de Janeiro, Palestina Livre, #FreePalestine, Sionismo, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/E-preciso-derrotar-a-perseguicao-sionista-da-prefeitura-do-Rio-contra-o-Bar-Partisan",
           "publishedOn": "2026-04-29T14:22:34.000Z",
-          "wordCount": 8602,
+          "wordCount": 8609,
           "title": "É preciso derrotar a perseguição sionista da prefeitura do Rio contra o Bar Partisan",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1_untitled-design---2026-04-29t082429-282-66471659.jpg.webp?1777472550"
         },
@@ -315,7 +412,7 @@
           "description": "Na manhã da última terça-feira, 27/04, um incêndio em um dos acessos da estação São Judas do Metrô de São Paulo expôs mais uma vez a grave situação da precarização do Metrô de SP com a falta de quadro de trabalhadores nas estações.\n28-04-2026\n\n/ Classe trabalhadora, Metrô, Acidentes de Trabalho, Tarcísio de Freitas, Privatização do metrô, Metrô de SP",
           "link": "https://www.esquerdadiario.com.br/Incendio-na-estacao-Sao-Judas-precarizacao-e-falta-de-efetivos-colocam-passageiros-e-trabalhadores",
           "publishedOn": "2026-04-29T12:18:50.000Z",
-          "wordCount": 8094,
+          "wordCount": 8112,
           "title": "Incêndio na estação São Judas: precarização e falta de efetivos colocam passageiros e trabalhadores em risco",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/5297e7b2-8053-45ba-821a-d224c553eeb7.jpg?1777464967"
         },
@@ -325,7 +422,7 @@
           "description": "Dos dias 18 a 21 de abril aconteceu, em São Paulo, o 6º Congresso da CSP-Conlutas. A CSP-Conlutas é hoje a única central sindical e popular que é independente do governo Lula-Alckmin e, por isso, esse é um espaço importante frente à necessidade de fortalecer a independência de classe e um programa dos trabalhadores diante da crise capitalista, da ofensiva imperialista, do fortalecimento da extrema direita no Brasil e dos ataques do governo Lula-Alckmin. Porém, os quatro dias de Congresso não serviram para armar todos os setores que estavam presentes para os combates que estão colocados para nossa classe. Veja o balanço do Movimento Nossa Classe, que foi a segunda força do Congresso.\n28-04-2026\n\n/ Classe trabalhadora, CSP-Conlutas, PSTU, Internacionalismo, efetivação terceirizados sem concurso, Trabalhadores, Anti-imperialista, Independência de classe, Pela efetivação de todos os contratos precários, Pela efetivação dos contratos precários, Congresso CSP-Conlutas",
           "link": "https://www.esquerdadiario.com.br/Balanco-do-Movimento-Nossa-Classe-sobre-o-6o-Congresso-da-CSP-Conlutas",
           "publishedOn": "2026-04-29T02:43:47.000Z",
-          "wordCount": 9925,
+          "wordCount": 9939,
           "title": "Balanço do Movimento Nossa Classe sobre o 6º Congresso da CSP-Conlutas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/602664f3-9a75-45eb-87f3-3c5a7e9804aa-2.jpg?1777430599"
         },
@@ -335,7 +432,7 @@
           "description": "Trabalhadores da educação municipal de São Paulo decretaram greve em assembleia nesta quarta, em frente a Prefeitura, contra o arrocho salarial de Ricardo Nunes, que propôs mais um aumento abaixo da inflação. \n Trabalhadores da educação municipal de São Paulo decretaram greve em assembleia nesta quarta, em frente a Prefeitura. A gestão de Ricardo Nunes fez uma proposta que apresenta um aumento pífio, que representa uma perda de poder de compra dos trabalhadores. \n28-04-2026\n\n/ São Paulo (capital), Educação, Professores São Paulo, Nossa Classe Educação, Ricardo Nunes, Greve na Educação, Professores Municipais de São Paulo",
           "link": "https://www.esquerdadiario.com.br/E-greve-na-educacao-municipal-de-Sao-Paulo-contra-o-arrocho-salarial-e-a-precarizacao",
           "publishedOn": "2026-04-29T01:38:51.000Z",
-          "wordCount": 8091,
+          "wordCount": 8098,
           "title": "É greve na educação municipal de São Paulo contra o arrocho salarial e a precarização",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato-campanha-salarial-28-04-2026-037.jpg?1777426687"
         },
@@ -345,7 +442,7 @@
           "description": "Um ato unificado das categorias das três cidades em luta poderia ser uma enorme demonstração de forças e golpear com um só punho as prefeituras ajustadoras. As lutas da Grande Porto Alegre apontam um caminho para resistir ao arrocho salarial, perda de direitos, sucateamento e privatização dos serviços públicos e podem incentivar a trabalhadores das outras cidades a se mobilizarem.\n28-04-2026",
           "link": "https://www.esquerdadiario.com.br/Canoas-Cachoeirinha-e-Sao-Leopoldo-greves-assembleias-e-atos-despontam-pela-Grande-Porto-Alegre",
           "publishedOn": "2026-04-28T23:16:17.000Z",
-          "wordCount": 8219,
+          "wordCount": 8232,
           "title": "Canoas, Cachoeirinha e São Leopoldo: greves, assembleias e atos despontam pela Grande Porto Alegre",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa-do-site-21-2048x910_1_.png?1777418168"
         },
@@ -355,7 +452,7 @@
           "description": "O 1º de maio é uma data histórica de luta da classe trabalhadora internacionalmente. Neste ano, o contexto internacional turbulento gerado pela crise capitalista reafirma a necessidade de batalhar por uma política anti-imperialista e de independência de classe.\n28-04-2026\n\n/ Classe trabalhadora, Terceirização, Primeiro de Maio, 1 de Maio, Independência de classe, Extrativismo, Precarização do trabalho, Governo Lula-Alckmin, jornada 6x1, Terras Raras",
           "link": "https://www.esquerdadiario.com.br/1M-erguer-a-forca-da-classe-trabalhadora-brasileira-pelo-fim-da-6x1-e-contra-a-entrega-das-terras",
           "publishedOn": "2026-04-28T23:08:09.000Z",
-          "wordCount": 8776,
+          "wordCount": 8789,
           "title": "1M: erguer a força da classe trabalhadora brasileira pelo fim da 6x1 e contra a entrega das terras raras",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000361493.jpg?1777425405"
         },
@@ -365,7 +462,7 @@
           "description": "Chega de paralisia, por um plano de luta do CPERS contra as PPPs de Leite na educação.\n28-04-2026\n\n/ Educação, Centrais Sindicais, Fascismo, Eduardo Leite, Burocracia Sindical, Privatização da Educação, Parlamentarismo Revolucionário, leilão",
           "link": "https://www.esquerdadiario.com.br/A-privatizacao-das-98-escolas-sera-um-caminho-aberto-para-o-definhamento-das-outras-2222-escolas-no",
           "publishedOn": "2026-04-28T21:55:25.000Z",
-          "wordCount": 8342,
+          "wordCount": 8355,
           "title": "A privatização das 98 escolas será um caminho aberto para o definhamento das outras 2222 escolas no RS",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/49207924192_eb17620a7e_k-e1668177037745-900x400.jpg?1777413319"
         },
@@ -375,7 +472,7 @@
           "description": "A absurda decisão da Justiça Federal que condenou Zé Maria do PSTU a dois anos de prisão em regime aberto é um grave ataque às liberdades democráticas e escancara o avanço da tentativa de criminalizar a solidariedade ao povo palestino no Brasil. Em um ato de se colocar ombro a ombro do povo palestino, Zé Maria expressou apoio à resistência palestina e à luta por uma Palestina livre do rio ao mar, uma posição histórica de amplos setores que se colocam contra a ocupação e o apartheid.\n28-04-2026\n\n/ Internacional, Sociedade, Repressão, PSTU, Palestina, Justiça dos ricos, Perseguição, Palestina Livre, #FreePalestine, Perseguição aos lutadores, Sionismo",
           "link": "https://www.esquerdadiario.com.br/Toda-solidariedade-ao-Ze-Maria-do-PSTU-abaixo-a-repressao-aos-que-lutam-pela-Palestina",
           "publishedOn": "2026-04-28T21:05:13.000Z",
-          "wordCount": 8288,
+          "wordCount": 8300,
           "title": "Toda solidariedade ao Zé Maria do PSTU: abaixo à repressão aos que lutam pela Palestina!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ze_maria.jpg?1777410143"
         },
@@ -385,7 +482,7 @@
           "description": "É retrato da crise de seu sistema político norte americano o fato de o atual presidente republicano, que foi posto lá pela burguesia, ter que simplesmente comparecer à uma das maiores redes de televisão para se defender das acusações de pedofilia e estupro lançadas por alguém o pretendia assassinar.\n28-04-2026\n\n/ Internacional, Donald Trump, atentado, No Kings",
           "link": "https://www.esquerdadiario.com.br/Atentado-contra-Trump-e-mais-um-episodio-do-aprofundamento-da-crise-politica-nos-EUA",
           "publishedOn": "2026-04-28T16:49:20.000Z",
-          "wordCount": 8745,
+          "wordCount": 8752,
           "title": "Atentado contra Trump é mais um episódio do aprofundamento da crise política nos EUA",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/trump1-3-02ec5.jpg?1777394951"
         },
@@ -395,7 +492,7 @@
           "description": "Nas últimas semanas as pesquisas de opinião têm mostrado um crescimento de Flávio Bolsonaro e uma diminuição de Lula, e pela primeira vez o bolsonarismo ultrapassa Lula no segundo turno em algumas pesquisas. O retrato da impotência de uma frente, amplíssima, cuja única justificativa seria o combate ao bolsonarismo e ao retrocesso.\n28-04-2026\n\n/ Política, Lula, Flavio Bolsonaro, Análise Esquerda Diário, Política, Bolsonaro, análise, Eleições 2026",
           "link": "https://www.esquerdadiario.com.br/Flavio-Bolsonaro-cresce-nas-pesquisas-Como-derrotar-a-extrema-direita",
           "publishedOn": "2026-04-28T16:38:14.000Z",
-          "wordCount": 8509,
+          "wordCount": 8519,
           "title": "Flávio Bolsonaro cresce nas pesquisas. Como derrotar a extrema direita?",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000360580.jpg?1777393423"
         },
@@ -405,7 +502,7 @@
           "description": "Rossieli Soares foi exonerado da SEE-MG após meses de ataques contra os trabalhadores e estudantes da rede estadual.\n28-04-2026\n\n/ Educação, Minas Gerais, Romeu Zema, Rossieli Soares, Privatização da Educação",
           "link": "https://www.esquerdadiario.com.br/Rossieli-cai-apos-9-meses-detonando-a-educacao-de-MG-com-Zema-e-Simoes",
           "publishedOn": "2026-04-28T14:57:45.000Z",
-          "wordCount": 8058,
+          "wordCount": 8071,
           "title": "Rossieli cai após 9 meses detonando a educação de MG com Zema e Simões",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000151936.png.jpg?1777387950"
         },
@@ -415,7 +512,7 @@
           "description": "Viemos recebendo diferentes denúncias de trabalhadores terceirizados do Metrô, contratados pela empresa Works, referentes ao não pagamento dos dias tirados pela via de licenças médicas. Essa empresa terceirizada é responsável pelo atendimento aos passageiros em 63 estações do Metrô de SP, e possui centenas de trabalhadores, em sua maioria mulheres, que recebem salários extremamente baixos e não têm acesso a direitos trabalhistas básicos, como o direito elementar à licença médica, (…)\n28-03-2026\n\n/ Classe trabalhadora, Terceirização, Trabalhadores Terceirizados, Privatização do metrô, Metrô de São Paulo, Manifesto contra a terceirização e a precarização do trabalho, Works Construção e Negócios",
           "link": "https://www.esquerdadiario.com.br/Empresa-de-atendimento-Works-no-Metro-de-SP-desconta-licenca-medica-de-trabalhadores-e-age-de-forma",
           "publishedOn": "2026-04-28T14:44:04.000Z",
-          "wordCount": 7994,
+          "wordCount": 8007,
           "title": "Empresa de atendimento Works, no Metrô de SP, desconta licença médica de trabalhadores e age de forma ilegal",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000409091.jpg?1777387256"
         },
@@ -425,7 +522,7 @@
           "description": "Nesta terça (28) o prédio da Reitoria da UFRGS amanheceu com as portas fechadas. Os técnico-administrativos, com apoio dos estudantes, exigem o cumprimento integral do acordo de greve de 2024.\n28-04-2026\n\n/ Classe trabalhadora, Educação, Universidades Federais, Greve, UFRGS, Reitoria, Institutos Federais, Greve das Federais",
           "link": "https://www.esquerdadiario.com.br/TAEs-em-greve-trancam-predio-da-Reitoria-da-UFRGS-em-defesa-do-cumprimento-integral-do-acordo",
           "publishedOn": "2026-04-28T11:27:20.000Z",
-          "wordCount": 8193,
+          "wordCount": 8202,
           "title": "TAEs em greve trancam prédio da Reitoria da UFRGS em defesa do cumprimento integral do acordo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000360269.jpg?1777375628"
         },
@@ -435,7 +532,7 @@
           "description": "Mãe e uma criança de 11 anos brasileiras são assassinadas pelo exército genocida de Israel no Líbano enquanto ofensiva colonialista quer transformar o país em uma nova Gaza.\n27-04-2026\n\n/ Internacional, Israel, Palestina, Líbano , Exército de Israel, Palestina Livre, Genocídio, Nenhuma gota de petróleo do Brasil e da Petrobras para o genocídio",
           "link": "https://www.esquerdadiario.com.br/Mae-e-crianca-brasileiras-sao-assassinadas-pelo-exercito-genocida-de-Israel-no-Libano",
           "publishedOn": "2026-04-28T00:05:10.000Z",
-          "wordCount": 8366,
+          "wordCount": 8381,
           "title": "Mãe e criança brasileiras são assassinadas pelo exército genocida de Israel no Líbano",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/libano-2.jpg?1777336959"
         },
@@ -445,7 +542,7 @@
           "description": "Neste 27 de abril, Dia Nacional da Empregada Doméstica, lutemos por Sônia Maria livre! Sônia Maria é uma mulher negra que foi escravizada por quase 40 anos pelo desembargador do Tribunal de Justiça de Santa Catarina especialista em Direito do Trabalho, Jorge Luiz de Borba. Após ter sido libertada, foi reescravizada por decisão do juiz do STF, André Mendonça. Isso não foi em 1800, foi em 2025, pela primeira vez desde a Lei Áurea que uma pessoa resgatada de uma situação de trabalho a escravidão é reescravizada e a mando do próprio Estado.\n27-04-2026\n\n/ Luta Antirracista, Poder Judiciário, STF, Trabalho Escravo, Racismo, Escravidão , Racismo de Estado, Trabalho análogo à escravidão, Escravidão moderna, Sônia Livre!",
           "link": "https://www.esquerdadiario.com.br/Lutar-por-Sonia-Livre-mulher-negra-escravizada-pelo-judiciario-racista",
           "publishedOn": "2026-04-27T23:17:47.000Z",
-          "wordCount": 8324,
+          "wordCount": 8337,
           "title": "Lutar por Sônia Livre, mulher negra escravizada pelo judiciário racista",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-27_at_09.36_42_1_.jpg?1777331782"
         },
@@ -455,7 +552,7 @@
           "description": "Após o fracasso da última rodada de negociações no Paquistão neste fim de semana, para a qual Trump não enviou comitiva oficial, o Irã ofereceu nesta segunda-feira reabrir o estreito de Ormuz se os Estados Unidos suspenderem seu bloqueio. Israel continua atacando o Líbano apesar da negociação de cessar-fogo.\n27-04-2026\n\n/ Internacional, Oriente Médio, Irã, Donald Trump, Líbano , Guerra contra o Irã",
           "link": "https://www.esquerdadiario.com.br/Ira-oferece-reabrir-o-estreito-de-Ormuz-se-os-Estados-Unidos-encerrarem-seu-bloqueio",
           "publishedOn": "2026-04-27T20:23:05.000Z",
-          "wordCount": 8105,
+          "wordCount": 8118,
           "title": "Irã oferece reabrir o estreito de Ormuz se os Estados Unidos encerrarem seu bloqueio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ormuzzzzzzzzzzzzzzzzzzz-c2e1f.jpg?1777321352"
         },
@@ -465,7 +562,7 @@
           "description": "Neste domingo, 26 de abril, a Flotilha Global Sumud voltou a zarpar com destino a Gaza, após sua parada na Sicília, Itália.\n27-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/A-Global-Sumud-Flotilha-voltou-a-zarpar-da-Sicilia",
           "publishedOn": "2026-04-27T16:17:21.000Z",
-          "wordCount": 8099,
+          "wordCount": 8111,
           "title": "A Global Sumud Flotilha voltou a zarpar da Sicília",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flot.jpg?1777306460"
         },
@@ -475,19 +572,9 @@
           "description": "Dos mesmos criadores de \"o fim da escravidão vai quebrar a economia\", agronegócio critica fim da escala 6x1 dizendo que vai arruinar a economia. É o que disseram lideranças do agronegócio na Expozebu em Uberaba (MG), neste sábado, 25.\n27-04-2026\n\n/ Política, Agronegócio, Trabalho Escravo, Romeu Zema, Escravidão , Ronaldo Caiado, Trabalho análogo à escravidão, Escravidão moderna, jornada 6x1, Agro",
           "link": "https://www.esquerdadiario.com.br/Lideres-do-agro-reafirmam-sua-mentalidade-escravista-e-criticam-fim-da-escala-6x1",
           "publishedOn": "2026-04-27T15:56:50.000Z",
-          "wordCount": 9190,
+          "wordCount": 9203,
           "title": "Líderes do agro reafirmam sua mentalidade escravista e criticam fim da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-27_at_12.55_52.jpg?1777305363"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Trabalhador-morre-em-montagem-do-show-da-Shakira-por-culpa-das-empresas-e-da-prefeitura-do-RJ",
-          "author": "Redação",
-          "description": "Gabriel de Jesus Firmino, serralheiro de 28 anos, morreu neste domingo (26) durante a montagem do palco do show da cantora Shakira, em Copacabana, na Zona Sul do Rio de Janeiro. A prefeitura do RJ, promotora do evento, e as empresas MG Coutinho Serviços Cenográficos e Bonustrack precarizam o trabalho e são responsáveis pela morte do trabalhador!\n27-04-2026\n\n/ Classe trabalhadora, Rio de Janeiro, Terceirização, Acidentes de Trabalho, Artistas, Lazer, Shakira",
-          "link": "https://www.esquerdadiario.com.br/Trabalhador-morre-em-montagem-do-show-da-Shakira-por-culpa-das-empresas-e-da-prefeitura-do-RJ",
-          "publishedOn": "2026-04-27T13:20:49.000Z",
-          "wordCount": 8320,
-          "title": "Trabalhador morre em montagem do show da Shakira por culpa das empresas e da prefeitura do RJ",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/morte-palco-shakira_bdb010-960x540.webp?1777295982"
         }
       ]
     },
@@ -698,12 +785,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=253524",
+          "author": "Raissa Neves",
+          "description": "A Confederação Geral do Trabalho (CGT) , maior central sindical da Argentina, organizou, nesta quinta-feira (30/04), em Buenos Aires, uma marcha com o objetivo de comemorar o Dia do Trabalhador e expressar repúdio às políticas econômicas e trabalhistas impostas pelo governo do presidente argentino, Javier Milei. Participou do ato o secretário-geral Cristian Jerónimo, que exigiu a […]\nO post Manifestação na Argentina reúne multidão de insatisfeitos com reforma trabalhista de Milei apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/manifestacao-na-argentina-reune-multidao-de-insatisfeitos-com-reforma-trabalhista-de-milei/",
+          "publishedOn": "2026-04-30T22:12:35.000Z",
+          "wordCount": 3246,
+          "title": "Manifestação na Argentina reúne multidão de insatisfeitos com reforma trabalhista de Milei",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/69f3b727882e5_750x500.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253519",
+          "author": "Victor Farinelli",
+          "description": "Desde sua criação, ao fim da Primeira Guerra Mundial, as sanções internacionais nunca foram aplicadas de forma tão abrangente quanto hoje. Embora se apresente como uma alternativa menos letal à guerra convencional, esse regime causa centenas de milhares de mortes todos os anos. O propósito original das sanções era manter a paz e a segurança […]\nO post Sanções econômicas mataram 38 milhões de pessoas no mundo, afirma estudo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/direitos-humanos/sancoes-economicas-mataram-38-milhoes-de-pessoas-no-mundo-afirma-estudo/",
+          "publishedOn": "2026-04-30T21:29:00.000Z",
+          "wordCount": 4225,
+          "title": "Sanções econômicas mataram 38 milhões de pessoas no mundo, afirma estudo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/bloqueo.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=253508",
           "author": "Raissa Neves",
           "description": "O Brasil chegou à 52ª colocação no último ranking que avalia a liberdade de imprensa no mundo. Com o resultado, o país cresceu 58 posições desde 2022 e ultrapassou, pela primeira vez, os Estados Unidos, que ocupa a posição 64. O levantamento foi divulgado, na quinta (30/04), pela organização não-governamental Repórteres Sem Fronteiras (RSF). Em relação […]\nO post Brasil sobe 58 posições e ultrapassa EUA em ranking de liberdade de imprensa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/brasil-sobe-58-posicoes-e-ultrapassa-eua-em-ranking-de-liberdade-de-imprensa/",
           "publishedOn": "2026-04-30T20:40:37.000Z",
-          "wordCount": 4336,
+          "wordCount": 4331,
           "title": "Brasil sobe 58 posições e ultrapassa EUA em ranking de liberdade de imprensa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/29022024-lula2432.jpg"
         },
@@ -713,18 +820,18 @@
           "description": "Há 81 anos, em 30 de abril de 1945, Adolf Hitler se suicidava com um tiro na cabeça. O chanceler alemão temia ser capturado pelos soldados do Exército Vermelho, que já ocupavam as ruas de Berlim. Líder do Partido Nazista, Hitler chegou ao poder em 1933, respaldado pelo apoio da burguesia e por uma estratégia […]\nO post O fim de um pesadelo: 81 anos da morte de Adolf Hitler apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/o-fim-de-um-pesadelo-81-anos-da-morte-de-adolf-hitler/",
           "publishedOn": "2026-04-30T20:00:04.000Z",
-          "wordCount": 6796,
+          "wordCount": 6737,
           "title": "O fim de um pesadelo: 81 anos da morte de Adolf Hitler",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/germanerem.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=253502",
           "author": "Raissa Neves",
-          "description": "O Governo da Itália cobrou nesta quinta-feira (30/04) a libertação “imediata” dos ativistas italianos que estavam a bordo da Flotilha Global Samud, expedição humanitária que tinha como destino a Faixa de Gaza e que foi interceptada por Israel em águas internacionais, perto da costa da ilha de Creta, na Grécia. Segundo comunicado emitido pelo Palácio […]\nO post Governo da Itália exige libertação ‘imediata’ de ativistas presos por Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/governo-da-italia-exige-libertacao-imediata-de-ativistas-presos-por-israel/",
+          "description": "O Governo da Itália cobrou nesta quinta-feira (30/04) a libertação “imediata” dos ativistas italianos que estavam a bordo da Flotilha Global Samud, expedição humanitária que tinha como destino a Faixa de Gaza e que foi interceptada por Israel em águas internacionais, perto da costa da ilha de Creta, na Grécia. Segundo comunicado emitido pelo Palácio […]\nO post Governo da Itália exige libertação ‘imediata’ de ativistas da Flotilha presos por Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/governo-italia-exige-libertacao-imediata-ativistas-flotilha-presos-israel/",
           "publishedOn": "2026-04-30T19:10:33.000Z",
-          "wordCount": 2911,
-          "title": "Governo da Itália exige libertação ‘imediata’ de ativistas presos por Israel",
+          "wordCount": 3000,
+          "title": "Governo da Itália exige libertação ‘imediata’ de ativistas da Flotilha presos por Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/captura-de-tela-2026-04-30-154852.png"
         },
         {
@@ -733,7 +840,7 @@
           "description": "O líder supremo do Irã, Mojtaba Khamenei, publicou uma mensagem nesta quinta-feira (30/04) afirmando que prevê um “futuro brilhante” para a região do Golfo Pérsico quando esta se livrar da presença de tropas e funcionários de governo dos Estados Unidos. “Com o poder e a força de Deus, um futuro brilhante chegará à região do […]\nO post Líder supremo do Irã defende que Golfo Pérsico pode ter ‘futuro brilhante sem EUA’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/lider-supremo-do-ira-defende-que-golfo-persico-pode-ter-futuro-brilhante-sem-eua/",
           "publishedOn": "2026-04-30T18:30:16.000Z",
-          "wordCount": 2932,
+          "wordCount": 2933,
           "title": "Líder supremo do Irã defende que Golfo Pérsico pode ter ‘futuro brilhante sem EUA’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/fars-1.jpg"
         },
@@ -743,7 +850,7 @@
           "description": "O Congresso Nacional deve analisar, nos próximos dias, o veto do presidente Luiz Inácio Lula da Silva (PT) ao chamado Projeto de Lei da dosimetria (PL 2.162/2023), que altera critérios para a definição de penas no sistema penal. O texto trata das regras de dosimetria da pena — mecanismo utilizado pelo Judiciário para fixar a […]\nO post Congresso analisa veto de Lula ao PL da Dosimetria apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/congresso-analisa-veto-de-lula-ao-pl-da-dosimetria/",
           "publishedOn": "2026-04-30T17:40:26.000Z",
-          "wordCount": 3315,
+          "wordCount": 3316,
           "title": "Congresso analisa veto de Lula ao PL da Dosimetria",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/fachada-congresso-nacional.webp"
         },
@@ -753,7 +860,7 @@
           "description": "O Parlamento Europeu segue dividido em relação à Venezuela. Enquanto um setor de eurodeputados pressiona o Conselho da União Europeia para manter as sanções contra o país sul-americano, outro grupo adia a aprovação de resoluções até que seja incluída uma condenação mais dura à interferência dos Estados Unidos. Segundo a agência EFE, durante dois dias […]\nO post Parlamento Europeu mantém sanções à Venezuela, diz agência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/parlamento-europeu-mantem-sancoes-a-venezuela-diz-agencia/",
           "publishedOn": "2026-04-30T17:05:17.000Z",
-          "wordCount": 2616,
+          "wordCount": 2671,
           "title": "Parlamento Europeu mantém sanções à Venezuela, diz agência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/20230419pht80916_original.jpg"
         },
@@ -763,7 +870,7 @@
           "description": "Em mensagem difundida nesta quarta-feira (29/04), o presidente da Colômbia, Gustavo Petro, propôs ao seu homólogo equatorianos, Daniel Noboa, que se realize uma reunião em região próxima as zonas fronteiriças entre os dois países. Segundo Petro, o objetivo do encontro, caso seja concretizado, seria o de iniciar uma mesa de diálogo para resolver os conflitos […]\nO post Petro propõe mesa de diálogo para resolver conflitos com Equador apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/petro-propoe-mesa-de-dialogo-para-resolver-conflitos-com-equador/",
           "publishedOn": "2026-04-30T16:20:09.000Z",
-          "wordCount": 3022,
+          "wordCount": 2973,
           "title": "Petro propõe mesa de diálogo para resolver conflitos com Equador",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/petro-noboa.jpg"
         },
@@ -773,29 +880,9 @@
           "description": "O preço global do petróleo disparou para mais de US$ 126 por barril, seu nível mais alto desde 2022, depois que Donald Trump afirmou que o bloqueio dos EUA aos portos iranianos poderia durar meses e as negociações de paz permaneceram paralisadas. Após uma alta de mais de 13% em 24 horas, o preço dos […]\nO post Petróleo dispara a US$ 126 após ameaça de bloqueio prolongado dos EUA ao Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/petroleo-dispara-a-us-126-apos-ameaca-de-bloqueio-prolongado-dos-eua-ao-ira/",
           "publishedOn": "2026-04-30T15:29:08.000Z",
-          "wordCount": 2824,
+          "wordCount": 2877,
           "title": "Petróleo dispara a US$ 126 após ameaça de bloqueio prolongado dos EUA ao Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405012509041042036397934.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253482",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente Donald Trump elevou ainda mais o tom contra a Alemanha nesta quarta-feira (29/04) ao sugerir que poderia em breve reduzir a presença militar dos EUA no país europeu, um aliado na Otan. “Os Estados Unidos estão estudando e revisando a possível redução de tropas na Alemanha, com uma decisão a ser tomada em […]\nO post Trump ameaça reduzir número de tropas na Alemanha após críticas de Merz à guerra contra Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/trump-ameaca-reduzir-numero-de-tropas-na-alemanha-apos-criticas-de-merz-a-guerra-contra-ira/",
-          "publishedOn": "2026-04-30T14:28:12.000Z",
-          "wordCount": 3793,
-          "title": "Trump ameaça reduzir número de tropas na Alemanha após críticas de Merz à guerra contra Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76212017_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253479",
-          "author": "Tabitha Ramalho",
-          "description": "Pelo menos nove pessoas, incluindo duas crianças, morreram em ataques israelenses no sul do Líbano, informou o Ministério da Saúde de Beirute nesta quinta-feira (30/04). De acordo com a pasta, o bombardeio deixou ainda 23 feridos, sendo sete menores e oito mulheres. Já a mídia estatal do país noticiou diversas ofensivas na região apenas hoje. […]\nO post Presidente libanês acusa Israel de violar cessar-fogo; ataque matam nove pessoas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/presidente-libanes-acusa-israel-de-violar-cessar-fogo-ataque-matam-nove-pessoas/",
-          "publishedOn": "2026-04-30T13:25:15.000Z",
-          "wordCount": 2898,
-          "title": "Presidente libanês acusa Israel de violar cessar-fogo; ataque matam nove pessoas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/dc94452a-a77d-4729-bbf2-0cfe7b458f85.webp"
         }
       ]
     },
@@ -810,6 +897,66 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=224963",
+          "author": "Ana Nascimento",
+          "description": "O correspondente local de AND esteve presente e conseguiu constatar que, entre os estudantes, a pedagogia não pode ser uma ciência neutra enquanto as escolas e universidades são alvo de uma política de terra arrasada promovida pelo velho Estado ditada pelo imperialismo, principalmente ianque.",
+          "link": "https://anovademocracia.com.br/estudantes-df-preparam-para-43-enepe/",
+          "publishedOn": "2026-05-01T01:21:12.000Z",
+          "wordCount": null,
+          "title": "DF: Estudantes de Pedagogia levantam a bandeira da resistência e preparam comitiva para o 43º ENEPe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224958",
+          "author": "Ana Nascimento",
+          "description": "A militarização das escolas integra um projeto político maior, sob condução do imperialismo ianque, iniciado em resposta aos levantes populares de 2013-14. A polícia trata cada aluno de família pobre como um suspeito em potencial, transformando o ambiente de ensino em uma extensão da delegacia e o pátio em uma masmorra de vigilância.",
+          "link": "https://anovademocracia.com.br/maes-denunciam-escolas-civico-militares-df/",
+          "publishedOn": "2026-05-01T00:39:56.000Z",
+          "wordCount": null,
+          "title": "DF: Mães denunciam constante intimidação e constrangimento em escolas militarizadas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224955",
+          "author": "Editor Executivo",
+          "description": "O grupo paramilitar era formado por quatro homens quando foi abordado pelos Guarani-Kaiowá; um deles foi capturado pelos indígenas.",
+          "link": "https://anovademocracia.com.br/guarani-kaiowa-capturam-pistoleiro-ms/",
+          "publishedOn": "2026-05-01T00:39:47.000Z",
+          "wordCount": null,
+          "title": "Indígenas Guarani-Kaiowá capturam pistoleiro no tekoha Pyelito Kue, no MS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224934",
+          "author": "Redação de AND",
+          "description": "Assista ao programa ao vivo de AND para estudo e debate da situação política nacional e internacional.",
+          "link": "https://anovademocracia.com.br/a-proposito-362/",
+          "publishedOn": "2026-04-30T21:53:14.000Z",
+          "wordCount": null,
+          "title": "◉ AO VIVO – Amacro e MS: Latifúndio assassino ataca camponeses e Guarani-Kaiowá – A Propósito #362",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224918",
+          "author": "Redação de AND",
+          "description": "O resultado, que caiu como uma bomba no Palácio do Planalto, é o epílogo de uma política de conciliação desastrosa.",
+          "link": "https://anovademocracia.com.br/senado-rejeita-messias-stf-crise-palaciana/",
+          "publishedOn": "2026-04-30T21:42:05.000Z",
+          "wordCount": null,
+          "title": "Senado rejeita Messias ao STF e aprofunda crise palaciana de Luiz Inácio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=224916",
+          "author": "Redação de AND",
+          "description": "A primeira consigna “Pelo Presidente Gonzalo” alertou aos informantes locais da polícia peruana para que abandonassem as atividades contrarrevolucionárias.",
+          "link": "https://anovademocracia.com.br/pichacoes-gonzalo-pcp-aparecem-huarmaca/",
+          "publishedOn": "2026-04-30T21:31:06.000Z",
+          "wordCount": null,
+          "title": "Pichações em apoio ao Presidente Gonzalo e ao PCP aparecem em Huarmaca; velho Estado peruano suspende aulas",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=224912",
           "author": "Redação de AND",
@@ -832,12 +979,12 @@
         },
         {
           "id": "https://anovademocracia.com.br/?p=224902",
-          "author": "Giovanna Maria",
+          "author": "Redação de AND",
           "description": "O relatório da CPT deixa claro que a violência não é exercida apenas por paramilitares, mas conta com o suporte operacional das forças de repressão do Estado e a validação do judiciário.",
-          "link": "https://anovademocracia.com.br/df-lancamento-do-relatorio-conflitos-no-campo-brasil-2025-e-realizado-pela-cpt-em-brasilia/",
+          "link": "https://anovademocracia.com.br/cpt-conflitos-no-campo-2025-brasilia/",
           "publishedOn": "2026-04-30T15:01:47.000Z",
           "wordCount": null,
-          "title": "DF: Lançamento do relatório ‘Conflitos no Campo Brasil’ 2025 é realizado pela CPT em Brasília",
+          "title": "CPT lança relatório ‘Conflitos no Campo Brasil’ 2025 em Brasília; veja a cobertura de AND",
           "imageUrl": null
         },
         {
@@ -848,71 +995,6 @@
           "publishedOn": "2026-04-29T20:07:04.000Z",
           "wordCount": null,
           "title": "Governo libera R$ 10 bilhões ao latifúndio enquanto ‘reforma agrária’ segue paralisada",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224878",
-          "author": "Giovanna Maria",
-          "description": "Ativistas do AND realizaram Brigada de Vendas e panfletagens em Passo Fundo, fortalecendo a campanha financeira para cobertura dos custos da participação de AND no Congresso Mundial da Liga Anti-Imperialista.",
-          "link": "https://anovademocracia.com.br/rs-ativistas-realizam-brigada-e-panfletam-sobre-a-campanha-de-and-para-custear-a-cobertura-do-congresso-da-lai/",
-          "publishedOn": "2026-04-29T18:37:17.000Z",
-          "wordCount": null,
-          "title": "RS: Ativistas realizam Brigada e panfletam sobre a campanha de AND para custear a cobertura do Congresso da LAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224858",
-          "author": "Giovanna Maria",
-          "description": "Enquanto alguns oficiais receberam valores superiores a R$ 700 mil — como os coronéis Domingos Marcio Ferreira da Silva e Elisson Fernandes de Castro —, aproximadamente 16,3% da população do DF vive com até meio salário mínimo per capita.",
-          "link": "https://anovademocracia.com.br/df-coroneis-da-pm-e-bombeiros-embolsam-r-40-milhoes-em-penduricalhos-enquanto-povo-amarga-salario-de-fome/",
-          "publishedOn": "2026-04-29T14:44:24.000Z",
-          "wordCount": null,
-          "title": "DF: Coronéis da PM e bombeiros embolsam R$ 40 milhões em ‘penduricalhos’ enquanto povo amarga salário de fome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224859",
-          "author": "Ana Nascimento",
-          "description": "A comunidade palmeirense relata desabastecimento de água frequente, além da possível contaminação da água, que chega com aspecto sujo até a casa dos habitantes do município, com muitos relatando ainda mal estar ao consumir a água. Todo este descaso é fruto da política anti-povo planificada pelo governador do estado, Eduardo Leite (PSD).",
-          "link": "https://anovademocracia.com.br/rs-palmeiras-das-missoes-desabastecimento/",
-          "publishedOn": "2026-04-29T14:30:00.000Z",
-          "wordCount": null,
-          "title": "RS: Moradores de Palmeira das Missões relatam piora significativa após a privatização dos serviços de água e saneamento",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/04/WhatsApp-Video-2026-04-21-at-17.50.30.mp4",
-            "length": "2475505",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224853",
-          "author": "Ana Nascimento",
-          "description": "Alguns indivíduos que faziam parte deste grupo foram identificados por meio do Instagram: Beatriz Darley, que se autointitula comentarista política; Kelly Mestanza; Samuel Monteiro, que se identifica na rede social como Conservador e Red Pill; e Messias Trindade, supostamente um oficial do Exército Brasileiro.",
-          "link": "https://anovademocracia.com.br/extrema-direita-rechacada-ufam/",
-          "publishedOn": "2026-04-29T13:25:15.000Z",
-          "wordCount": null,
-          "title": "AM: Extrema-direita tenta se autopromover na UFAM e foge após serem rechaçados por estudante",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224849",
-          "author": "Ana Nascimento",
-          "description": "A assembleia aconteceu num contexto de crescimento das mobilizações estudantis e de trabalhadores na UFBA, como parte também do desenvolvimento da luta por uma educação pública, gratuita e a serviço do povo em todo o país.",
-          "link": "https://anovademocracia.com.br/estudantes-ufba-realizam-assembleia/",
-          "publishedOn": "2026-04-29T12:56:08.000Z",
-          "wordCount": null,
-          "title": "BA: Estudantes realizam assembleia na UFBA em defesa da valorização de iniciação à docência, pesquisa e extensão",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224838",
-          "author": "Redação de AND",
-          "description": "O Comando Conjunto das Forças Armadas (CCFFAA) apressou-se em divulgar a cínica versão de que os ocupantes eram “narcotraficantes” que teriam atacado os soldados. Contudo, a farsa militar foi desmontada ponto a ponto.",
-          "link": "https://anovademocracia.com.br/exercito-peruano-massacre-colcabamba/",
-          "publishedOn": "2026-04-29T00:50:45.000Z",
-          "wordCount": null,
-          "title": "Exército peruano realiza massacre em Colcabamba, executando 5 pessoas com 60 tiros",
           "imageUrl": null
         }
       ]
@@ -939,6 +1021,16 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3183770",
+          "author": "Brid Brennan, Gonzalo Berrón, Juliana Rodrigues de Senna e Sol Trumbo Vila",
+          "description": "Há 70 anos, Conferência na Indonésia forjou ideia de Sul global. Hoje, inspira: diante da ordem neoliberal e avanço do fascismo, mais que reformar instituições multilaterais, é hora de construir alternativas. Em 2027, uma oportunidade se abre\nThe post Rumo a uma Bandung dos Povos appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/pos-capitalismo/rumo-a-bandung-dos-povos/",
+          "publishedOn": "2026-04-30T21:29:14.000Z",
+          "wordCount": 12898,
+          "title": "Rumo a uma Bandung dos Povos",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/30182848/photo_5161260323162491874_y1.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3183762",
           "author": "Débora Nunes",
@@ -1028,16 +1120,6 @@
           "wordCount": 5192,
           "title": "Por dentro das ilhas financeiras de sonegação global",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/29175131/0_9rKOj8NOdinzAstw.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3183511",
-          "author": "Susana Prizendt",
-          "description": "Vício em telas explorado por corporações se conecta a várias esferas da vida: a difusão de ultraprocessados via apps, ansiedade crônica, alimentação precária com celulares em mão, endividamento com as bets… Quando virá a regulação mirando, também, o bem-viver?\nThe post Entre a FOMO e a fome: As big techs vão nos devorar? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/alemdamercadoria/entre-a-fomo-e-a-fome-as-big-techs-vao-nos-devorar/",
-          "publishedOn": "2026-04-29T20:34:17.000Z",
-          "wordCount": 9573,
-          "title": "Entre a FOMO e a fome: As big techs vão nos devorar?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/04/29172459/e6670397310897.5ec271c0a89f5.jpg"
         }
       ]
     },
