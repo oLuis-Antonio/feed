@@ -84,123 +84,6 @@
           "wordCount": 2297,
           "title": "O governo Lula contra os trabalhadores: conciliação de classes e aprofundamento da precarização",
           "imageUrl": "https://media.jornalofuturo.com.br/1maio2025_brasilia-1280x853.jpg"
-        },
-        {
-          "id": "Elg9vf",
-          "author": null,
-          "description": "No centro das reivindicações está o avanço do Projeto de Lei nº 1827, de 2019, que foi aprovado, no último dia 14 (terça-feira), na Comissão de Constituição e Justiça (CCJ) da Câmara dos Deputados, que trata da instituição do piso salarial nacional da categoria.",
-          "link": "https://jornalofuturo.com.br/artigo/Elg9vf-assistentes-sociais-intensificam-mobilizacao-nacional-pelo-piso-salarial-jornada-de-30h-e-financiamento-do-suas",
-          "publishedOn": "2026-04-27T21:00:00.000Z",
-          "wordCount": 1512,
-          "title": "Assistentes sociais intensificam mobilização nacional pelo piso salarial, jornada de 30h e financiamento do SUAS",
-          "imageUrl": "https://media.jornalofuturo.com.br/assistsocialmobilizacao-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Jornal A Verdade",
-      "feedUrl": "https://averdade.org.br/feed/",
-      "siteUrl": "https://averdade.org.br/",
-      "articles": [
-        {
-          "id": "https://averdade.org.br/?p=61547",
-          "author": "Leonardo de Paula",
-          "description": "Trabalhadores de todo o Estado de São Paulo mobilizados pela Unidade Popular pelo Socialismo ocuparam as ruas do Jardim Pantanal, na zona leste de São Paulo, para celebrar o Dia Internacional dos Trabalhadores, o 1° de maio. Reafirmando seu compromisso com a luta dos trabalhadores a UP lançou suas pré candidaturas ao governo de São […]",
-          "link": "https://averdade.org.br/2026/05/up-lanca-pre-candidaturas-no-1-de-maio-em-sao-paulo/",
-          "publishedOn": "2026-05-01T21:02:48.000Z",
-          "wordCount": 7332,
-          "title": "UP lança pré-candidaturas no 1° de maio em São Paulo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-17.59.15.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61549",
-          "author": "Jesse Lisboa",
-          "description": "Após a realização de cerca de 40 assembleias, estudantes e trabalhadores de mais de 100 cursos da Universidade de São Paulo (USP) entraram em greve no último dia 14 de abril. Daniel Lustosa | DCE Livre da USP EDUCAÇÃO – Após cerca de 40 assembleias, mais de 100 cursos da Universidade de São Paulo (USP) […]",
-          "link": "https://averdade.org.br/2026/05/funcionarios-e-estudantes-da-usp-em-greve-por-melhores-condicoes-de-estudo-e-trabalho/",
-          "publishedOn": "2026-05-01T19:50:00.000Z",
-          "wordCount": 7130,
-          "title": "Funcionários e estudantes da USP em greve por melhores condições de estudo e trabalho",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P11-_-USP.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61544",
-          "author": "Jesse Lisboa",
-          "description": "Manifesto da CIPOML para o 1º de maio – Dia Internacional da Classe Trabalhadora Em maio de 1886, o sangue operário derramado em Chicago incendiou uma luta que ainda arde no mundo: o combate contra a exploração capitalista e o caminho irrenunciável na direção da vida e da emancipação dos trabalhadores. Neste 1º de maio, […]",
-          "link": "https://averdade.org.br/2026/05/manifesto-da-cipoml-para-o-1o-de-maio-so-os-trabalhadores-no-poder-libertarao-a-humanidade-da-exploracao-da-opressao-e-das-guerras/",
-          "publishedOn": "2026-05-01T19:06:29.000Z",
-          "wordCount": 7027,
-          "title": "Manifesto da CIPOML para o 1º de maio: só os trabalhadores no poder libertarão a humanidade da exploração, da opressão e das guerras",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/05/4947414640225267392.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61542",
-          "author": "Jesse Lisboa",
-          "description": "Sob a pressão de mobilizações populares e greves que varreram o país, o Governo Federal protocolou, no último dia 14 de abril, um Projeto de Lei em regime de urgência que propõe o fim da escala 6×1 e a redução da jornada de trabalho para 40 horas semanais sem corte salarial. Movimento Luta de Classes […]",
-          "link": "https://averdade.org.br/2026/05/por-uma-greve-geral-pela-reducao-da-jornada-de-trabalho-e-fim-da-escala-6x1/",
-          "publishedOn": "2026-05-01T18:54:08.000Z",
-          "wordCount": 7097,
-          "title": "Por uma greve geral pela redução da jornada de trabalho e fim da escala 6×1",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P3-_-greve-Kabi-copy.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61530",
-          "author": "Gabriela Torres",
-          "description": "Inaugurada no Dia Internacinal da Classe Trabalhadora, a Ocupação Margarida Maria Alves é a 1ª na cidade de Londrina e 47ª ocupação do Movimento de Mulheres Olga Benario em todo o país.  Tayná Miessa | Redação Paraná MULHERES – O Movimento Olga Benario realizou a primeira ocupação de mulheres em Londrina, a Ocupação Maria Margarida […]",
-          "link": "https://averdade.org.br/2026/05/movimento-olga-ocupa-imovel-abandonado-em-londrina-para-criar-centro-de-referencia-para-as-mulheres/",
-          "publishedOn": "2026-05-01T08:02:38.000Z",
-          "wordCount": 6953,
-          "title": "Movimento Olga ocupa imóvel abandonado em Londrina para criar Centro de Referência para as mulheres",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-07.01.19.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61519",
-          "author": "Redação MG",
-          "description": "O evento “Mercado em Conexão” na UFMG reúne empresas da burguesia que buscam privatizar a educação pública e colocar a ciência a serviço do lucro. Realizada na Escola de Engenharia, a feira funciona como vitrine para setores interessados em capturar a produção acadêmica nacional e subordinar a universidade aos interesses do grande capital. Pablo Daniel […]",
-          "link": "https://averdade.org.br/2026/04/mercado-em-conexao-uma-vitrine-da-burguesia-em-plena-ufmg/",
-          "publishedOn": "2026-04-30T16:50:51.000Z",
-          "wordCount": 7053,
-          "title": "“Mercado em Conexão”: uma vitrine da burguesia em plena UFMG",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/mercado_em_conexao.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61056",
-          "author": "Redação MG",
-          "description": "A história da Força Sindical revela a traição à classe trabalhadora e sua submissão ao projeto neoliberal e ao financiamento da burguesia. A trajetória de Luiz de Medeiros e Paulinho da Força demonstra como a central atuou para desmobilizar a luta e apoiar a privatização criminosa. O uso de recurso patronal para corromper o sindicato […]",
-          "link": "https://averdade.org.br/2026/04/forca-sindical-a-central-neoliberal/",
-          "publishedOn": "2026-04-29T23:00:06.000Z",
-          "wordCount": 7498,
-          "title": "Força Sindical: A central neoliberal",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/D_NQ_NP_2X_630336-MLB96414602192_102025-F-e1777472208690.webp"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61507",
-          "author": "Redação MG",
-          "description": "Servidores da educação de Santa Luzia paralisam escolas e conquistam avanços após mobilização histórica contra o descaso da prefeitura. A maioria absoluta das escolas e UMEIs da cidade foi paralisada, total ou parcialmente, e com a luta os trabalhadores e conseguiram arrancar as primeiras conquistas da Prefeitura. Edson de Moraes Neto | Santa Luzia – […]",
-          "link": "https://averdade.org.br/2026/04/a-forca-da-greve-servidores-de-santa-luzia-mg-conquistam-avancos-contra-o-sucateamento/",
-          "publishedOn": "2026-04-29T14:54:13.000Z",
-          "wordCount": 7191,
-          "title": "A força da greve: servidores de Santa Luzia (MG) conquistam avanços contra o sucateamento",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/650493981_17964097644047256_2774705020663469836_n.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61497",
-          "author": "Redação MG",
-          "description": "Grêmios Estudantis combativos são a base para o avanço da luta secundarista e a resistência contra o autoritarismo e a opressão escolar. Vinícius Brainer e Daniel Tito No sistema capitalista vigente, no qual os ricos e poderosos tomam todas as decisões sobre a sociedade em que vivemos e, consequentemente, sobre os rumos do nosso futuro, […]",
-          "link": "https://averdade.org.br/2026/04/um-gremio-estudantil-deve-ser-um-gremio-de-luta/",
-          "publishedOn": "2026-04-29T13:56:14.000Z",
-          "wordCount": 7324,
-          "title": "Um Grêmio Estudantil deve ser um Grêmio de luta!",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/image1-1.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61486",
-          "author": "Clóvis Maia",
-          "description": "O ensino de jovens e adultos (EJA) é uma modalidade de ensino que, mesmo com as limitações dentro do sistema capitalista, tem uma importância grande para a classe trabalhadora. Iniciativas do MLB e do Olga Benario em combater esse problema nacional mostra que é possível emancipar a sociedade por meio do saber e do conhecimento. […]",
-          "link": "https://averdade.org.br/2026/04/a-importancia-da-alfabetizacao-de-jovens-e-adultos/",
-          "publishedOn": "2026-04-29T12:22:15.000Z",
-          "wordCount": 7396,
-          "title": "A importância da alfabetização de jovens e adultos",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/04/mlb-educacao.jpg"
         }
       ]
     },
@@ -215,7 +98,7 @@
           "description": "Após campanha internacional, 180 ativistas sequestrados foram libertados. Thiago Ávila e o palestino Saif permanecem reféns do Estado de Israel: Liberdade já!",
           "link": "https://opiniaosocialista.com.br/fomos-violentados-privados-de-agua-comida-e-remedio-tiraram-nossas-roupas-e-sapatos-leia-carta-de-mandi-coelho/",
           "publishedOn": "2026-05-01T15:44:13.000Z",
-          "wordCount": 785,
+          "wordCount": 787,
           "title": "\"Fomos violentados, privados de água, comida e remédio, tiraram nossas roupas e sapatos\": Leia carta de Mandi Coelho",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/WhatsApp-Image-2026-05-01-at-12.41.44.jpeg"
         },
@@ -235,7 +118,7 @@
           "description": "Pela luta independente dos trabalhadores contra o imperialismo e a opressão capitalista em todo o mundo",
           "link": "https://opiniaosocialista.com.br/lit-qi-manifesto-de-1o-de-maio/",
           "publishedOn": "2026-05-01T03:08:38.000Z",
-          "wordCount": 1689,
+          "wordCount": 1680,
           "title": "LIT-QI: Manifesto de 1º de Maio",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/525458569_17964495152950592_2246688314620377660_n.jpg"
         },
@@ -285,7 +168,7 @@
           "description": "22 embarcações foram interceptadas em águas internacionais; cerca de 180 participantes foram detidos a mais de 1.200 km da Palestina",
           "link": "https://opiniaosocialista.com.br/quatro-brasileiros-sao-sequestrados-por-forcas-de-ocupacao-israelense-apos-interceptacao-de-flotilha-humanitaria-no-mediterraneo/",
           "publishedOn": "2026-04-30T13:00:00.000Z",
-          "wordCount": 909,
+          "wordCount": 911,
           "title": "Quatro brasileiros são sequestrados por Israel após interceptação de flotilha humanitária",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/thiago-avila-mandi.png"
         },
@@ -322,7 +205,7 @@
           "description": "Os quatro membros da delegação brasileira da Global Sumud Flotilha, Thiago Ávila, Leandro Lanfredi, Mandi Coelho e Thainara Rogério, foram sequestrados em águas internacionais pela tropa naval de Israel.\n30-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Quatro-brasileiros-da-Global-Sumud-Flotilha-seguem-sequestrados-pelas-forcas-de-ocupacao-de-Israel",
           "publishedOn": "2026-05-01T00:52:10.000Z",
-          "wordCount": 7964,
+          "wordCount": 7969,
           "title": "Quatro brasileiros da Global Sumud Flotilha seguem sequestrados pelas forças de ocupação de Israel",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/d8638f21-b5a4-40c4-85dd-bd1c1266fbd0.jpg?1777596721"
         },
@@ -565,36 +448,6 @@
           "wordCount": 8203,
           "title": "TAEs em greve trancam prédio da Reitoria da UFRGS em defesa do cumprimento integral do acordo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000360269.jpg?1777375628"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Mae-e-crianca-brasileiras-sao-assassinadas-pelo-exercito-genocida-de-Israel-no-Libano",
-          "author": "Tatiane Lopes",
-          "description": "Mãe e uma criança de 11 anos brasileiras são assassinadas pelo exército genocida de Israel no Líbano enquanto ofensiva colonialista quer transformar o país em uma nova Gaza.\n27-04-2026\n\n/ Internacional, Israel, Palestina, Líbano , Exército de Israel, Palestina Livre, Genocídio, Nenhuma gota de petróleo do Brasil e da Petrobras para o genocídio",
-          "link": "https://www.esquerdadiario.com.br/Mae-e-crianca-brasileiras-sao-assassinadas-pelo-exercito-genocida-de-Israel-no-Libano",
-          "publishedOn": "2026-04-28T00:05:10.000Z",
-          "wordCount": 8393,
-          "title": "Mãe e criança brasileiras são assassinadas pelo exército genocida de Israel no Líbano",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/libano-2.jpg?1777336959"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Lutar-por-Sonia-Livre-mulher-negra-escravizada-pelo-judiciario-racista",
-          "author": "Redação",
-          "description": "Neste 27 de abril, Dia Nacional da Empregada Doméstica, lutemos por Sônia Maria livre! Sônia Maria é uma mulher negra que foi escravizada por quase 40 anos pelo desembargador do Tribunal de Justiça de Santa Catarina especialista em Direito do Trabalho, Jorge Luiz de Borba. Após ter sido libertada, foi reescravizada por decisão do juiz do STF, André Mendonça. Isso não foi em 1800, foi em 2025, pela primeira vez desde a Lei Áurea que uma pessoa resgatada de uma situação de trabalho a escravidão é reescravizada e a mando do próprio Estado.\n27-04-2026\n\n/ Luta Antirracista, Poder Judiciário, STF, Trabalho Escravo, Racismo, Escravidão , Racismo de Estado, Trabalho análogo à escravidão, Escravidão moderna, Sônia Livre!",
-          "link": "https://www.esquerdadiario.com.br/Lutar-por-Sonia-Livre-mulher-negra-escravizada-pelo-judiciario-racista",
-          "publishedOn": "2026-04-27T23:17:47.000Z",
-          "wordCount": 8337,
-          "title": "Lutar por Sônia Livre, mulher negra escravizada pelo judiciário racista",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-04-27_at_09.36_42_1_.jpg?1777331782"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Ira-oferece-reabrir-o-estreito-de-Ormuz-se-os-Estados-Unidos-encerrarem-seu-bloqueio",
-          "author": "Redação",
-          "description": "Após o fracasso da última rodada de negociações no Paquistão neste fim de semana, para a qual Trump não enviou comitiva oficial, o Irã ofereceu nesta segunda-feira reabrir o estreito de Ormuz se os Estados Unidos suspenderem seu bloqueio. Israel continua atacando o Líbano apesar da negociação de cessar-fogo.\n27-04-2026\n\n/ Internacional, Oriente Médio, Irã, Donald Trump, Líbano , Guerra contra o Irã",
-          "link": "https://www.esquerdadiario.com.br/Ira-oferece-reabrir-o-estreito-de-Ormuz-se-os-Estados-Unidos-encerrarem-seu-bloqueio",
-          "publishedOn": "2026-04-27T20:23:05.000Z",
-          "wordCount": 8125,
-          "title": "Irã oferece reabrir o estreito de Ormuz se os Estados Unidos encerrarem seu bloqueio",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ormuzzzzzzzzzzzzzzzzzzz-c2e1f.jpg?1777321352"
         }
       ]
     },
@@ -603,6 +456,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=442663",
+          "author": "Isabella Mota",
+          "description": "Parlamentares viajaram com outros dois deputados federais, também defensores das apostas online, no avião de um empresário de uma bet para um paraíso fiscal no Caribe; na volta, cinco malas não passaram pelos raios X\nO post O voo escandaloso de Hugo Motta e Ciro Nogueira  apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/05/02/voo-escandaloso-hugo-motta-ciro-nogueira/",
+          "publishedOn": "2026-05-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "O voo escandaloso de Hugo Motta e Ciro Nogueira",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/04/Wando3.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/04/Wando3.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=442669",
           "author": "Isabella Mota",
@@ -709,16 +577,6 @@
           "wordCount": 6016,
           "title": "Estado é condenado a indenizar fotógrafo que ficou cego durante ação da PM após 13 anos",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-18.53.42-1.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=159494",
-          "author": "Mariana Rosetti",
-          "description": "Caio Mateus Justino, 21, foi morto em Tupã em julho do ano passado. Mãe acredita em execução, diz que filho era ameaçado por policiais e relata falta de acesso ao andamento do caso\nO conteúdo Família aponta execução e cobra respostas sobre morte de jovem pela PM no interior de SP Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/familia-aponta-execucao-e-cobra-respostas-sobre-morte-de-jovem-pela-pm-no-interior-de-sp/",
-          "publishedOn": "2026-04-27T19:50:04.000Z",
-          "wordCount": 6242,
-          "title": "Família aponta execução e cobra respostas sobre morte de jovem pela PM no interior de SP",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-27-at-16.57.05.webp"
         }
       ]
     },
@@ -776,16 +634,6 @@
           "wordCount": 3115,
           "title": "A ignorância de Trump pode matar milhões de pessoas",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/trump-2.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73527",
-          "author": "Agência Pública",
-          "description": "s conflitos de terra nas áreas rurais do Brasil foram o palco de 26 assassinatos em 2025 registrados pela Comissão Pastoral da Terra (CPT). O número representa um salto de 100% na comparação com o ano anterior, quando 13 homicídios foram anotados. Os dados fazem parte do relatório Conflitos no Campo Brasil 2025, lançado pela […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/27/conflitos-no-campo-assassinatos-dobram-no-brasil-em-um-ano-aponta-pastoral-da-terra/",
-          "publishedOn": "2026-04-27T22:06:45.000Z",
-          "wordCount": 3292,
-          "title": "Conflitos no campo: assassinatos dobram no Brasil em um ano, aponta Pastoral da Terra",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/campo2.webp"
         }
       ]
     },
@@ -795,12 +643,22 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=253608",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente dos EUA, Donald Trump, ameaçou novamente tomar Cuba e sugeriu enviar o porta-aviões Abraham Lincoln para a costa da ilha. O presidente afirmou que os Estados Unidos “assumirão o controle de Cuba quase imediatamente”. “Na nossa volta do Irã, teremos um dos nossos maiores navios… talvez o porta-aviões USS Abraham Lincoln, o maior […]\nO post Donald Trump ameaça ‘tomar posse’ de Cuba apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/donald-trump-ameaca-tomar-posse-de-cuba/",
+          "publishedOn": "2026-05-02T13:33:38.000Z",
+          "wordCount": 3220,
+          "title": "Donald Trump ameaça ‘tomar posse’ de Cuba",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-02-103144.png"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=253597",
           "author": "Raissa Neves",
           "description": "Nesta sexta-feira (01/05), em mais uma jornada pelo Dia do Trabalhador, ruas e avenidas estão lotadas de trabalhadores que voltam a marcar a data pedindo melhores condições de trabalho, reajustes salariais e redução da jornada. Em Cuba, a população marcha pela paz, rejeitando o bloqueio imposto pelos Estados Unidos e as ameaças imperialistas que enfrenta. […]\nO post Trabalhadores se mobilizam pelo mundo no contra bilionários e em defesa de direitos e qualidade de vida apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/direitos-humanos/trabalhadores-se-mobilizam-pelo-mundo-no-contra-bilionarios-e-em-defesa-de-direitos-e-qualidade-de-vida/",
           "publishedOn": "2026-05-01T21:02:50.000Z",
-          "wordCount": 3678,
+          "wordCount": 3685,
           "title": "Trabalhadores se mobilizam pelo mundo no contra bilionários e em defesa de direitos e qualidade de vida",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/cuba.jpg"
         },
@@ -810,7 +668,7 @@
           "description": "O Irã entregou nesta sexta-feira (01/05) um novo texto com suas condições para alcançar um acordo para o fim definitivo da guerra com os Estados Unidos e Israel. A informação foi difundida pela agência estatal IRNA, que acrescentou uma declaração do chanceler iraniano Abbas Araghchi sobre a elaboração da nova oferta do país. Segundo o […]\nO post Irã apresenta nova proposta de acordo a mediadores do Paquistão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-apresenta-nova-proposta-de-acordo-a-mediadores-do-paquistao/",
           "publishedOn": "2026-05-01T19:50:19.000Z",
-          "wordCount": 2994,
+          "wordCount": 3001,
           "title": "Irã apresenta nova proposta de acordo a mediadores do Paquistão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/abbas.jpg"
         },
@@ -820,7 +678,7 @@
           "description": "Centrais sindicais e movimentos populares realizam atos em várias cidades brasileiras nesta sexta-feira que marca o 1º de Maio, com mobilização nacional em torno do fim da escala 6×1 e da redução da jornada sem corte de salários. “Eu acredito que, através de mobilizações e jornadas de luta, nós vamos conseguir aprovar o fim da […]\nO post ‘Pressão é fundamental’: líderes sindicais e parlamentares defendem fim da escala 6×1 em atos pelo 1º de Maio apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/pressao-e-fundamental-lideres-sindicais-e-parlamentares-defendem-fim-da-escala-6x1-em-atos-pelo-1o-de-maio/",
           "publishedOn": "2026-05-01T19:00:40.000Z",
-          "wordCount": 3753,
+          "wordCount": 3710,
           "title": "‘Pressão é fundamental’: líderes sindicais e parlamentares defendem fim da escala 6×1 em atos pelo 1º de Maio",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/fim-da-escala-6x1-1-e1777659031701.jpeg"
         },
@@ -830,7 +688,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, anunciou nesta sexta-feira (01/05) que aumentará as tarifas em 25% sobre carros e caminhões importados da União Europeia para os Estados Unidos na próxima semana. Em uma publicação na rede Truth Social, o mandatário norte-americano disse que a medida está sendo considerada porque a “UE não está cumprindo […]\nO post Trump anuncia aumento de tarifas sobre automotivos da UE para 25% apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/trump-anuncia-aumento-de-tarifas-sobre-automotivos-da-ue-para-25/",
           "publishedOn": "2026-05-01T18:20:05.000Z",
-          "wordCount": 2941,
+          "wordCount": 2898,
           "title": "Trump anuncia aumento de tarifas sobre automotivos da UE para 25%",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/p20260425dt-0229.webp"
         },
@@ -840,7 +698,7 @@
           "description": "Uma pesquisa realizada pelo Centro Árabe para o Avanço das Redes Sociais (7amleh) denuncia que a Meta, empresa de tecnologia norte-americana, permite que contas pertencentes a grupos de colonos israelenses recebam monetização e promovam violência contra palestinos. De acordo com o documento, ao mesmo tempo em que a empresa facilita o acesso a fundos para […]\nO post Meta autoriza monetização de colonos israelenses em conteúdo de violência contra palestinos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/direitos-humanos/meta-autoriza-monetizacao-de-colonos-israelenses-em-conteudo-de-violencia-contra-palestinos/",
           "publishedOn": "2026-05-01T17:30:22.000Z",
-          "wordCount": 3161,
+          "wordCount": 3168,
           "title": "Meta autoriza monetização de colonos israelenses em conteúdo de violência contra palestinos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/meta_tecno.jpeg"
         },
@@ -850,7 +708,7 @@
           "description": "Um total de 11 países condenaram o ataque feito por militares israelenses aos barcos que integravam a mais recente missão da flotilha Global Sumud. Além do Brasil, as demais nações que tiveram a mesma postura são: África do Sul, Bangladesh, Colômbia, Espanha, Jordânia, Líbia, Malásia, Maldivas, Mauritânia, Paquistão e Turquia. Quatro integrantes da delegação brasileira, […]\nO post Israel: Brasil e 11 países condenam Israel por ataque à flotilha humanitária apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-brasil-e-11-paises-condenam-israel-por-ataque-a-flotilha-humanitaria/",
           "publishedOn": "2026-05-01T17:00:52.000Z",
-          "wordCount": 2779,
+          "wordCount": 2786,
           "title": "Israel: Brasil e 11 países condenam Israel por ataque à flotilha humanitária",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/flotilha.jpg"
         },
@@ -860,7 +718,7 @@
           "description": "A Flotilha Global Sumud instou, nesta sexta-feira (01/05), os governos a pressionarem Israel para libertar os detidos de sua missão em Gaza. Os membros da coordenação internacional de ajuda humanitária, Saif Abukeshek, palestino residente em Barcelona, e o brasileiro Thiago Ávila, permanecem sob custódia. O Ministério das Relações Exteriores de Israel afirmou que eles serão […]\nO post Ativista brasileiro está sob custódia de Israel após interceptação de flotilha apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/ativista-brasileiro-esta-sob-custodia-de-israel-apos-interceptacao-de-flotilha/",
           "publishedOn": "2026-05-01T15:22:39.000Z",
-          "wordCount": 3600,
+          "wordCount": 3557,
           "title": "Ativista brasileiro está sob custódia de Israel após interceptação de flotilha",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-01-at-12.21.53.jpeg"
         },
@@ -870,7 +728,7 @@
           "description": "Delcy Rodríguez, a presidente encarregada da Venezuela, anunciou nesta quinta-feira (30/05) o reajuste do salário mínimo integral para US$ 240 mensais, o equivalente a aproximadamente R$ 1.200. O anúncio foi feito na véspera do Dia do Trabalhador, durante uma marcha em Caracas que encerrou uma caravana realizada pelas forças chavistas pelo fim das sanções econômicas […]\nO post Governo da Venezuela anuncia aumento do salário mínimo integral para US$ 240 apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/governo-da-venezuela-anuncia-aumento-do-salario-minimo-integral-para-us-240/",
           "publishedOn": "2026-05-01T14:46:03.000Z",
-          "wordCount": 3482,
+          "wordCount": 3485,
           "title": "Governo da Venezuela anuncia aumento do salário mínimo integral para US$ 240",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/jc_l0390-2048x1365-1-1536x1024-1.webp"
         },
@@ -880,27 +738,11 @@
           "description": "No Brasil, cada vez mais pessoas aderem ao estilo de vida nômade, trocando endereço e trabalho fixos por viagens e voluntariado. O desejo de expandir a vida, conhecer novos lugares, pessoas, culturas e idiomas é o que alimenta essa prática. Para economizar dinheiro, muitos trocam mão de obra por hospedagem, o que viola a lei […]\nO post No Brasil, ‘nômades’ que trocam trabalho por hospedagem relatam ‘vagas fantasmas’ e exploração apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/no-brasil-nomades-que-trocam-trabalho-por-hospedagem-relatam-vagas-fantasmas-e-exploracao/",
           "publishedOn": "2026-05-01T14:01:18.000Z",
-          "wordCount": 9752,
+          "wordCount": 9759,
           "title": "No Brasil, ‘nômades’ que trocam trabalho por hospedagem relatam ‘vagas fantasmas’ e exploração",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/amancio-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253551",
-          "author": "Tabitha Ramalho",
-          "description": "Termina nesta sexta-feira (01/05) o prazo previsto pela lei norte-americana que obriga o presidente dos Estados Unidos a interromper a guerra no Oriente Médio ou pedir autorização ao Congresso para continuar o conflito. Mas o governo Trump deixou claro que ignorará essa obrigação e avalia a possibilidade de realizar novos ataques contra o Irã para […]\nO post Trump ameaça continuar guerra contra Irã sem o aval do Congresso apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-continuar-guerra-contra-ira-sem-o-aval-do-congresso/",
-          "publishedOn": "2026-05-01T12:59:43.000Z",
-          "wordCount": 3756,
-          "title": "Trump ameaça continuar guerra contra Irã sem o aval do Congresso",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55239343452_b45ac98d26_c.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -1166,12 +1008,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=63872",
+          "author": "Boitempo",
+          "description": "Juliana Paula Magalhães: \"Ao demonstrar a especificidade histórica das formas sociais capitalistas, dentre elas a forma jurídica, a forma política estatal e a forma moral, Pachukanis fornece uma preciosa chave para a compreensão estrutural da mentira no capitalismo em suas múltiplas conformações e determinações.\"",
+          "link": "https://blogdaboitempo.com.br/2026/05/02/a-mentira-na-filosofia-tres-caminhos-da-filosofia-contemporanea/",
+          "publishedOn": "2026-05-02T11:00:00.000Z",
+          "wordCount": 18543,
+          "title": "A mentira na filosofia: três caminhos da filosofia contemporânea",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-30.png"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=63988",
           "author": "Boitempo",
           "description": "Erik Chiconelli Gomes relembra as origens da celebração da data, a luta histórica pela redução da jornada de trabalho e o que a análise de Marx sobre o mais-valor ainda nos diz sobre o capitalismo contemporâneo.",
           "link": "https://blogdaboitempo.com.br/2026/05/01/o-1o-de-maio-e-a-disputa-pelo-tempo-de-viver/",
           "publishedOn": "2026-05-01T10:00:00.000Z",
-          "wordCount": 14449,
+          "wordCount": 14304,
           "title": "O 1º de Maio e a disputa pelo tempo de viver",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2025/01/banner_meio_desk-mobile-colecao-mundo-trabalhov02.jpg"
         },
@@ -1191,7 +1043,7 @@
           "description": "Rima Awada Zahra escreve sobre as doutrinas que orientam a ação imperialista de Israel e Estados Unidos na região — e as formas de resistência a ela.",
           "link": "https://blogdaboitempo.com.br/2026/04/29/estrategias-do-tabuleiro-e-vidas-deslocadas-poder-energia-e-desumanizacao-no-oriente-medio-contemporaneo/",
           "publishedOn": "2026-04-29T11:00:00.000Z",
-          "wordCount": 13311,
+          "wordCount": 13313,
           "title": "Estratégias do tabuleiro e vidas deslocadas: poder, energia e desumanização no Oriente Médio contemporâneo",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/04/image-38.png?fit=1200%2C801&ssl=1"
         }
