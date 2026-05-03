@@ -73,12 +73,82 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61618",
+          "author": "Jesse Lisboa",
+          "description": "Há exatamente 65 anos, as areias de Playa Girón, em Cuba, tornaram-se cenário de uma das mais gloriosas páginas da história de resistência dos povos oprimidos contra o imperialismo, quando 1.500 mercenários cubanos, treinados e financiados pelos Estados Unidos, foram derrotados e feitos prisioneiros após uma tentativa fracassada de invasão armada cujo objetivo era derrubar […]",
+          "link": "https://averdade.org.br/2026/05/65-anos-da-batalha-de-playa-giron-a-primeira-grande-derrota-do-imperialismo-na-america-latina/",
+          "publishedOn": "2026-05-03T13:33:16.000Z",
+          "wordCount": 10093,
+          "title": "65 anos da batalha de Playa Girón: a primeira grande derrota do imperialismo na América Latina",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Giron_02-cor.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61615",
+          "author": "Jesse Lisboa",
+          "description": "Durante a ditadura militar, marcada por perseguições, censura e torturas, as mulheres estiveram na linha de frente da resistência, organizando greves e movimentos pela anistia. Larissa Mayumi (SP) e Evelyn Dionízio (PE) MULHERES – Historicamente, a luta das mulheres é apagada e silenciada. Isso faz parte de um sistema que quer vê-las como mercadoria perante […]",
+          "link": "https://averdade.org.br/2026/05/mulheres-em-tempos-de-repressao/",
+          "publishedOn": "2026-05-03T11:19:01.000Z",
+          "wordCount": 9421,
+          "title": "Mulheres em tempos de repressão",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Mulheres-Contra-Ditadura-Memorias-da-Ditadura-CC.webp"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61612",
+          "author": "Jesse Lisboa",
+          "description": "O Movimento Olga Benario realizou 17 ocupações em todas as regiões do Brasil, denunciando o aumento dos feminicídios e criando espaços de acolhimento e organização popular. Passado um mês, dez ocupações seguem firmes, salvando vidas e fortalecendo a luta das mulheres contra a violência e pelo socialismo. Luiza Wolff (SC) e Larissa Mayumi (SP) MULHERES […]",
+          "link": "https://averdade.org.br/2026/05/ocupacoes-resistem-e-seguem-organizando-luta-das-mulheres/",
+          "publishedOn": "2026-05-03T11:12:38.000Z",
+          "wordCount": 9432,
+          "title": "Ocupações resistem e seguem organizando luta das mulheres",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P10.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61609",
+          "author": "Jesse Lisboa",
+          "description": "Dois meses após o início da ofensiva militar dos Estados Unidos e de Israel contra o Irã, que já deixou mais de 5 mil mortos, incluindo centenas de crianças, a resistência do povo iraniano e a pressão internacional obrigaram Donald Trump e Benjamin Netanyahu a recuar e aceitar um cessar-fogo. Comitê Central do PCR MUNDO […]",
+          "link": "https://averdade.org.br/2026/05/contra-o-imperialismo-e-as-guerras-e-hora-de-tomar-partido/",
+          "publishedOn": "2026-05-03T10:53:52.000Z",
+          "wordCount": 9908,
+          "title": "Contra o imperialismo e as guerras, é hora de tomar partido!",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/p9-Donavan-Sampaio.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61606",
+          "author": "Jesse Lisboa",
+          "description": "O Brasil vive uma escalada alarmante da violência policial: entre 2024 e 2025, as mortes causadas por policiais militares cresceram 4,5% em todo o país, com 17 estados registrando aumento nos índices de letalidade. Redação SP Segundo dados divulgados pelo Ministério da Justiça, o Brasil registrou um aumento de 4,5% nas mortes causadas por policiais […]",
+          "link": "https://averdade.org.br/2026/05/violencia-policial-continua-crescendo-no-brasil/",
+          "publishedOn": "2026-05-03T10:43:13.000Z",
+          "wordCount": 9193,
+          "title": "Violência policial continua crescendo no Brasil",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/mais-armas-mais-mortes-violencia-policial-FPSPNE.webp"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61602",
+          "author": "Jesse Lisboa",
+          "description": "O Movimento de Luta nos Bairros (MLB) tem enfrentado a violência do Estado e das construtoras em Joinville (SC), onde famílias pobres do bairro Ulysses Guimarães sofrem remoções e demolições de suas casas. Kauê de Oliveira (SC) e Selma Almeida (SP) LUTA POPULAR – O Movimento de Luta nos Bairros (MLB), desde sua criação, luta contra […]",
+          "link": "https://averdade.org.br/2026/05/pago-luz-e-agua-ha-mais-de-um-ano-e-eles-vem-e-derrubam-a-casa-da-gente/",
+          "publishedOn": "2026-05-03T10:14:12.000Z",
+          "wordCount": 9466,
+          "title": "“Pago luz e água há mais de um ano, e eles vêm e derrubam a casa da gente”",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P8-_-Joinville.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61598",
+          "author": "Jesse Lisboa",
+          "description": "Com combatividade e espírito de luta, o Movimento Rebele-se e a União da Juventude Rebelião (UJR) marcaram presença no 46º Congresso da União Brasileira dos Estudantes Secundaristas (Ubes), realizado em São Bernardo do Campo entre 16 e 19 de abril. Nathalia Vergara e Leonardo de Paula | São Bernardo do Campo (SP) JUVENTUDE – Foi com […]",
+          "link": "https://averdade.org.br/2026/05/congresso-da-ubes-estudantes-organizam-luta-pela-educacao-publica/",
+          "publishedOn": "2026-05-03T09:51:38.000Z",
+          "wordCount": 9653,
+          "title": "Congresso da Ubes: estudantes organizam luta anti-imperialista e pela educação pública",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P7-_-Lucas-Barbosa.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61589",
           "author": "Jesse Lisboa",
           "description": "Roraima lidera o crescimento populacional no Brasil, com alta de 46% em dez anos, impulsionada pela imigração venezuelana que busca trabalho e sobrevivência no estado. Noah Eros | Boa Vista (RR) BRASIL – Segundo dados de 2025 do Instituto Brasileiro de Geografia e Estatística (IBGE), a população do estado Roraima cresceu mais de 46% em […]",
           "link": "https://averdade.org.br/2026/05/venezuelanos-sofrem-com-xenofobia-e-superexploracao-em-roraima/",
           "publishedOn": "2026-05-03T01:19:43.000Z",
-          "wordCount": 9151,
+          "wordCount": 9146,
           "title": "Venezuelanos sofrem com xenofobia e superexploração em Roraima",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P6-_-Roraima.jpg"
         },
@@ -88,7 +158,7 @@
           "description": "Na madrugada de 3 de abril, Thawanna da Silva Salamázio, mãe de cinco filhos, foi assassinada pela Polícia Militar em Cidade Tiradentes (SP), após denunciar a violência de uma abordagem contra seu marido Nathalia Vergara | São Paulo (SP) BRASIL – Na madrugada do dia 3 de abril, Thawanna da Silva Salamázio, 31 anos, ajudante-geral, […]",
           "link": "https://averdade.org.br/2026/05/policia-militar-de-tarcisio-assassina-trabalhadora-na-zona-leste-de-sp/",
           "publishedOn": "2026-05-02T15:58:28.000Z",
-          "wordCount": 9402,
+          "wordCount": 9395,
           "title": "Polícia militar de Tarcísio assassina trabalhadora na Zona Leste de SP",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Design-sem-nome.jpg"
         },
@@ -98,79 +168,9 @@
           "description": "Com salários corroídos e serviços públicos ameaçados pela terceirização, os servidores municipais de São Paulo declararam estado de greve em 2026, exigindo valorização e condições dignas de trabalho. Movimento Luta de Classes | São Paulo (SP) TRABALHADOR UNIDO – Os servidores municipais de São Paulo declararam estado de greve na Campanha Salarial de 2026. A […]",
           "link": "https://averdade.org.br/2026/05/servidores-municipais-de-sao-paulo-lutam-contra-a-gestao-privatista-de-ricardo-nunes/",
           "publishedOn": "2026-05-02T15:43:07.000Z",
-          "wordCount": 9287,
+          "wordCount": 9286,
           "title": "Servidores Municipais de São Paulo lutam contra a gestão privatista de Ricardo Nunes",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P5-_-servidores-SP-_-Elineudo-Meira.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61575",
-          "author": "Jesse Lisboa",
-          "description": "Com salários defasados em mais de 26%, os servidores técnico-administrativos da Uerj deflagraram greve em abril, após anos de descaso e promessas não cumpridas pelo governo estadual. Núcleo MLC Uerj BRASIL – Nos últimos anos, os servidores técnico-administrativos da Uerj vêm percebendo vários ataques contra o seu bolso, com grande defasagem salarial. Muitas reivindicações se […]",
-          "link": "https://averdade.org.br/2026/05/trabalhadores-da-uerj-entram-em-greve-por-recomposicao-salarial/",
-          "publishedOn": "2026-05-02T15:35:04.000Z",
-          "wordCount": 9178,
-          "title": "Trabalhadores da Uerj entram em greve por recomposição salarial",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P4-_-Uerj.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61572",
-          "author": "Jesse Lisboa",
-          "description": "O Movimento de Luta nos Bairros, Vilas e Favelas (MLB) ocupou sedes da Caixa Econômica em diversos estados para pressionar por moradia digna às famílias pobres organizadas. Bruno Ferreira | Porto Alegre (RS) BRASIL – No último dia 27 de março, o Movimento de Luta nos Bairros Vilas e Favelas (MLB), realizou ocupações na Caixa […]",
-          "link": "https://averdade.org.br/2026/05/mlb-ocupa-caixa-economica-federal-em-todo-pais-para-cobrar-construcao-de-moradias/",
-          "publishedOn": "2026-05-02T15:23:51.000Z",
-          "wordCount": 9144,
-          "title": "MLB ocupa Caixa Econômica Federal em todo país para cobrar construção de moradias",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P4-_-Caixa.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61557",
-          "author": "Jesse Lisboa",
-          "description": "Entre portões de ferro e corredores sem janela, a semana para os operários começa antes do sol nascer. Diego Pereira | São Paulo (SP) CRÔNICA – É segunda-feira e já se anuncia o início da semana de produção. Seguro o portão de ferro da fábrica para Graça, que acelera os passos ao me avistar da […]",
-          "link": "https://averdade.org.br/2026/05/do-porao-da-fabrica-do-mundo/",
-          "publishedOn": "2026-05-02T14:17:37.000Z",
-          "wordCount": 9572,
-          "title": "Do porão, da fábrica, do mundo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/FABRICA-ANTIGA.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61559",
-          "author": "Jesse Lisboa",
-          "description": "O Curso Popular da Aerj já reúne 19 turmas em nove cidades do Rio, levando educação crítica e inclusiva a comunidades da periferia do estado. Redação RJ EDUCAÇÃO – A Associação dos Estudantes Secundaristas do Rio de Janeiro (Aerj) iniciou, neste ano, o Curso Popular da Aerj, fruto de emenda parlamentar do deputado federal Glauber […]",
-          "link": "https://averdade.org.br/2026/05/curso-popular-da-aerj-transforma-a-vida-de-mais-de-500-jovens-no-rio-de-janeiro/",
-          "publishedOn": "2026-05-02T13:42:56.000Z",
-          "wordCount": 9108,
-          "title": "Curso popular da Aerj transforma a vida de mais de 500 jovens no Rio de Janeiro",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P11-_-Aerj.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61547",
-          "author": "Leonardo de Paula",
-          "description": "Trabalhadores de todo o Estado de São Paulo mobilizados pela Unidade Popular pelo Socialismo ocuparam as ruas do Jardim Pantanal, na zona leste de São Paulo, para celebrar o Dia Internacional dos Trabalhadores, o 1° de maio. Reafirmando seu compromisso com a luta dos trabalhadores a UP lançou suas pré candidaturas ao governo de São […]",
-          "link": "https://averdade.org.br/2026/05/up-lanca-pre-candidaturas-no-1-de-maio-em-sao-paulo/",
-          "publishedOn": "2026-05-01T21:02:48.000Z",
-          "wordCount": 9699,
-          "title": "UP lança pré-candidaturas no 1° de maio em São Paulo",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-17.59.15.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61549",
-          "author": "Jesse Lisboa",
-          "description": "Após a realização de cerca de 40 assembleias, estudantes e trabalhadores de mais de 100 cursos da Universidade de São Paulo (USP) entraram em greve no último dia 14 de abril. Daniel Lustosa | DCE Livre da USP EDUCAÇÃO – Após cerca de 40 assembleias, mais de 100 cursos da Universidade de São Paulo (USP) […]",
-          "link": "https://averdade.org.br/2026/05/funcionarios-e-estudantes-da-usp-em-greve-por-melhores-condicoes-de-estudo-e-trabalho/",
-          "publishedOn": "2026-05-01T19:50:00.000Z",
-          "wordCount": 9473,
-          "title": "Funcionários e estudantes da USP em greve por melhores condições de estudo e trabalho",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P11-_-USP.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61544",
-          "author": "Jesse Lisboa",
-          "description": "Manifesto da CIPOML para o 1º de maio – Dia Internacional da Classe Trabalhadora Em maio de 1886, o sangue operário derramado em Chicago incendiou uma luta que ainda arde no mundo: o combate contra a exploração capitalista e o caminho irrenunciável na direção da vida e da emancipação dos trabalhadores. Neste 1º de maio, […]",
-          "link": "https://averdade.org.br/2026/05/manifesto-da-cipoml-para-o-1o-de-maio-so-os-trabalhadores-no-poder-libertarao-a-humanidade-da-exploracao-da-opressao-e-das-guerras/",
-          "publishedOn": "2026-05-01T19:06:29.000Z",
-          "wordCount": 9392,
-          "title": "Manifesto da CIPOML para o 1º de maio: só os trabalhadores no poder libertarão a humanidade da exploração, da opressão e das guerras",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2025/05/4947414640225267392.jpg"
         }
       ]
     },
@@ -179,6 +179,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "69f72e06b4054afef5839e6f",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Mortes, deslizamentos e milhares de desabrigados em Pernambuco e Paraíba expõem o resultado de décadas de ausência de políticas públicas",
+          "link": "https://opiniaosocialista.com.br/nordeste-quando-a-chuva-revela-a-desigualdade-social-e-escancara-o-abandono-historico/",
+          "publishedOn": "2026-05-03T12:13:26.000Z",
+          "wordCount": 1828,
+          "title": "Nordeste: Quando a chuva revela a desigualdade social e escancara o abandono histórico",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/chuvas_PE-3-2.png"
+        },
         {
           "id": "69f4c6ddb4054afef5839d62",
           "author": "Redação",
@@ -332,7 +342,7 @@
           "description": "Forças israelenses interceptam e apreendem navios da Global Sumud a centenas de quilômetros de Gaza margens; bloqueando comunicações, sequestrando civis e estabelecendo um ambiente sem precedente legal em águas internacionais\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza",
           "link": "https://www.esquerdadiario.com.br/Pirataria-a-vista-de-todos-Israel-sequestra-civis-multinacionais-no-Mar-aberto",
           "publishedOn": "2026-04-30T01:43:40.000Z",
-          "wordCount": 8035,
+          "wordCount": 8031,
           "title": "Pirataria à vista de todos: Israel sequestra civis multinacionais no Mar aberto",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/comunicado_de_imprensa-18.png?1777513275"
         },
@@ -342,7 +352,7 @@
           "description": "A Global Sumud Flotilha confirma a interceptação de barcos da missão pelas forças de ocupação israelenses.\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Faixa de Gaza, Exército de Israel, Palestina Livre, Genocídio, Sionismo, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-confirma-interceptacao-de-barcos-pelas-forcas-de-ocupacao-israelenses",
           "publishedOn": "2026-04-30T00:14:39.000Z",
-          "wordCount": 7714,
+          "wordCount": 7719,
           "title": "Global Sumud Flotilha confirma interceptação de barcos pelas forças de ocupação israelenses",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/design_sem_nome_6_.png?1777508023"
         },
@@ -382,7 +392,7 @@
           "description": "De acordo com informações da Global Sumud Flotilha, o barco Jenin, também identificado como Bianca, de bandeira italiana, está sendo abordado neste momento. A maioria das embarcações da missão também sofre interferência nas comunicações. \n A nova missão da Global Sumud Flotilha teve início no começo de abril e tem como objetivo romper o cerco criminoso imposto por Israel contra Gaza, levando solidariedade internacional ao povo palestino diante do genocídio em curso. \n29-04-2026\n\n/ Internacional, Flotilha, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/URGENTE-Barco-Jenin-da-Global-Sumud-Flotilha-e-abordado-e-embarcacoes-sofrem-interferencia-na",
           "publishedOn": "2026-04-29T20:22:22.000Z",
-          "wordCount": 7712,
+          "wordCount": 7713,
           "title": "URGENTE: Barco Jenin, da Global Sumud Flotilha, é abordado e embarcações sofrem interferência na comunicação",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flotilha-2.jpg?1777494114"
         },
@@ -412,49 +422,9 @@
           "description": "Dos dias 18 a 21 de abril aconteceu, em São Paulo, o 6º Congresso da CSP-Conlutas. A CSP-Conlutas é hoje a única central sindical e popular que é independente do governo Lula-Alckmin e, por isso, esse é um espaço importante frente à necessidade de fortalecer a independência de classe e um programa dos trabalhadores diante da crise capitalista, da ofensiva imperialista, do fortalecimento da extrema direita no Brasil e dos ataques do governo Lula-Alckmin. Porém, os quatro dias de Congresso não serviram para armar todos os setores que estavam presentes para os combates que estão colocados para nossa classe. Veja o balanço do Movimento Nossa Classe, que foi a segunda força do Congresso.\n28-04-2026\n\n/ Classe trabalhadora, CSP-Conlutas, PSTU, Internacionalismo, efetivação terceirizados sem concurso, Trabalhadores, Anti-imperialista, Independência de classe, Pela efetivação de todos os contratos precários, Pela efetivação dos contratos precários, Congresso CSP-Conlutas",
           "link": "https://www.esquerdadiario.com.br/Balanco-do-Movimento-Nossa-Classe-sobre-o-6o-Congresso-da-CSP-Conlutas",
           "publishedOn": "2026-04-29T02:43:47.000Z",
-          "wordCount": 9933,
+          "wordCount": 9931,
           "title": "Balanço do Movimento Nossa Classe sobre o 6º Congresso da CSP-Conlutas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/602664f3-9a75-45eb-87f3-3c5a7e9804aa-2.jpg?1777430599"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/E-greve-na-educacao-municipal-de-Sao-Paulo-contra-o-arrocho-salarial-e-a-precarizacao",
-          "author": "Redação",
-          "description": "Trabalhadores da educação municipal de São Paulo decretaram greve em assembleia nesta quarta, em frente a Prefeitura, contra o arrocho salarial de Ricardo Nunes, que propôs mais um aumento abaixo da inflação. \n Trabalhadores da educação municipal de São Paulo decretaram greve em assembleia nesta quarta, em frente a Prefeitura. A gestão de Ricardo Nunes fez uma proposta que apresenta um aumento pífio, que representa uma perda de poder de compra dos trabalhadores. \n28-04-2026\n\n/ São Paulo (capital), Educação, Professores São Paulo, Nossa Classe Educação, Ricardo Nunes, Greve na Educação, Professores Municipais de São Paulo",
-          "link": "https://www.esquerdadiario.com.br/E-greve-na-educacao-municipal-de-Sao-Paulo-contra-o-arrocho-salarial-e-a-precarizacao",
-          "publishedOn": "2026-04-29T01:38:51.000Z",
-          "wordCount": 8105,
-          "title": "É greve na educação municipal de São Paulo contra o arrocho salarial e a precarização",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato-campanha-salarial-28-04-2026-037.jpg?1777426687"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Canoas-Cachoeirinha-e-Sao-Leopoldo-greves-assembleias-e-atos-despontam-pela-Grande-Porto-Alegre",
-          "author": "Redação Rio Grande do Sul",
-          "description": "Um ato unificado das categorias das três cidades em luta poderia ser uma enorme demonstração de forças e golpear com um só punho as prefeituras ajustadoras. As lutas da Grande Porto Alegre apontam um caminho para resistir ao arrocho salarial, perda de direitos, sucateamento e privatização dos serviços públicos e podem incentivar a trabalhadores das outras cidades a se mobilizarem.\n28-04-2026",
-          "link": "https://www.esquerdadiario.com.br/Canoas-Cachoeirinha-e-Sao-Leopoldo-greves-assembleias-e-atos-despontam-pela-Grande-Porto-Alegre",
-          "publishedOn": "2026-04-28T23:16:17.000Z",
-          "wordCount": 8233,
-          "title": "Canoas, Cachoeirinha e São Leopoldo: greves, assembleias e atos despontam pela Grande Porto Alegre",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa-do-site-21-2048x910_1_.png?1777418168"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/1M-erguer-a-forca-da-classe-trabalhadora-brasileira-pelo-fim-da-6x1-e-contra-a-entrega-das-terras",
-          "author": "MRT - Movimento Revolucionário de Trabalhadores",
-          "description": "O 1º de maio é uma data histórica de luta da classe trabalhadora internacionalmente. Neste ano, o contexto internacional turbulento gerado pela crise capitalista reafirma a necessidade de batalhar por uma política anti-imperialista e de independência de classe.\n28-04-2026\n\n/ Classe trabalhadora, Terceirização, Primeiro de Maio, 1 de Maio, Independência de classe, Extrativismo, Precarização do trabalho, Governo Lula-Alckmin, jornada 6x1, Terras Raras",
-          "link": "https://www.esquerdadiario.com.br/1M-erguer-a-forca-da-classe-trabalhadora-brasileira-pelo-fim-da-6x1-e-contra-a-entrega-das-terras",
-          "publishedOn": "2026-04-28T23:08:09.000Z",
-          "wordCount": 8790,
-          "title": "1M: erguer a força da classe trabalhadora brasileira pelo fim da 6x1 e contra a entrega das terras raras",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000361493.jpg?1777425405"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/A-privatizacao-das-98-escolas-sera-um-caminho-aberto-para-o-definhamento-das-outras-2222-escolas-no",
-          "author": "Diego Nunes",
-          "description": "Chega de paralisia, por um plano de luta do CPERS contra as PPPs de Leite na educação.\n28-04-2026\n\n/ Educação, Centrais Sindicais, Fascismo, Eduardo Leite, Burocracia Sindical, Privatização da Educação, Parlamentarismo Revolucionário, leilão",
-          "link": "https://www.esquerdadiario.com.br/A-privatizacao-das-98-escolas-sera-um-caminho-aberto-para-o-definhamento-das-outras-2222-escolas-no",
-          "publishedOn": "2026-04-28T21:55:25.000Z",
-          "wordCount": 8359,
-          "title": "A privatização das 98 escolas será um caminho aberto para o definhamento das outras 2222 escolas no RS",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/49207924192_eb17620a7e_k-e1668177037745-900x400.jpg?1777413319"
         }
       ]
     },
@@ -544,16 +514,6 @@
           "wordCount": 6311,
           "title": "Ação por tortura no Carandiru não prescreve, decide Justiça de SP",
           "imageUrl": "https://ponte.org/wp-content/uploads/2024/11/Mauricio-Monteiro-jpg.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=159832",
-          "author": "Mariana Rosetti",
-          "description": "Em decisão do STF, Sérgio Silva receberá pensão vitalícia e R$ 100 mil por danos morais após ter sido atingido por bala de borracha durante protesto reprimido pela PM em 2013. Justiça paulista havia responsabilizado a vítima pelo próprio ferimento.\nO conteúdo Estado é condenado a indenizar fotógrafo que ficou cego durante ação da PM após 13 anos Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/estado-e-condenado-a-indenizar-fotografo-que-ficou-cego-durante-acao-da-pm-apos-13-anos/",
-          "publishedOn": "2026-04-28T22:00:00.000Z",
-          "wordCount": 6016,
-          "title": "Estado é condenado a indenizar fotógrafo que ficou cego durante ação da PM após 13 anos",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-28-at-18.53.42-1.webp"
         }
       ]
     },
@@ -591,16 +551,6 @@
           "wordCount": 4058,
           "title": "A desistorização do tempo",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/tempo.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73538",
-          "author": "Revista Crisis",
-          "description": "cena dura apenas alguns segundos, mas contém mais do que parece. Tom Llamas, jornalista da NBC News, faz uma pergunta ao ministro das Relações Exteriores do Irã, Abbas Araghchi, durante uma entrevista realizada no último dia 5 de março. — O presidente Trump não descartou o envio de tropas ao Irã. O senhor teme uma […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/04/28/um-missil-no-meu-feed-a-comunicacao-do-ira-em-meio-a-guerra/",
-          "publishedOn": "2026-04-28T21:29:04.000Z",
-          "wordCount": 4890,
-          "title": "Um míssil no meu feed: a comunicação do Irã em meio à guerra",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/04/ira-1-1.webp"
         }
       ]
     },
@@ -635,7 +585,7 @@
           "description": "A morte de Raimundo Rodrigues Pereira, neste 2 de maio de 2026, aos 85 anos, nos obriga a olhar para trás e reconhecer a dimensão de uma trajetória rara no jornalismo brasileiro — talvez a maior de todas. Expulso do Instituto Tecnológico de Aeronáutica, Raimundo fez um movimento pouco convencional: deixou para trás a engenharia […]\nO post Morre Raimundo Pereira, o maior dos jornalistas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/obituario/morre-raimundo-pereira-o-maior-dos-jornalistas/",
           "publishedOn": "2026-05-02T19:16:14.000Z",
-          "wordCount": 3325,
+          "wordCount": 3275,
           "title": "Morre Raimundo Pereira, o maior dos jornalistas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-02-at-16.11.01.jpeg"
         },
@@ -645,7 +595,7 @@
           "description": "Policiais mascarados invadiram na sexta-feira (01/05) um ponto de encontro de jovens ativistas do partido conjunto árabe-israelense Hadash na cidade de Umm al-Fahm e confiscaram bandeiras palestinas do local. O deputado Ofer Cassif, do partido Hadash, enviou uma carta à Procuradora-Geral Gali Baharav-Miara solicitando a abertura imediata de uma investigação sobre o incidente. “O simples […]\nO post Polícia de Israel invade clube do Partido Comunista e confisca bandeiras palestinas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/policia-de-israel-invade-clube-do-partido-comunista-e-confisca-bandeiras-palestinas/",
           "publishedOn": "2026-05-02T18:30:09.000Z",
-          "wordCount": 3032,
+          "wordCount": 2982,
           "title": "Polícia de Israel invade clube do Partido Comunista e confisca bandeiras palestinas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/dbc44eccb6c62813c469ec253e4d313887ea73a7.webp"
         },
@@ -675,7 +625,7 @@
           "description": "O presidente dos Estados Unidos, Donald Trump, retirará 5 mil militares norte-americanos de suas bases na Alemanha, informou o Pentágono nesta sexta-feira (01/05). A decisão demonstraria o descontentamento de Trump, que já havia ameaçado nesta semana retirar tropas devido à falta de apoio de seus aliados europeus na guerra contra o Irã. Essa ação também […]\nO post EUA anunciam retirada de soldados da Alemanha após críticas de Merz a Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/eua-vao-retirar-cinco-mil-soldados-da-alemanha-apos-criticas-de-merz-contra-trump/",
           "publishedOn": "2026-05-02T15:30:16.000Z",
-          "wordCount": 3268,
+          "wordCount": 3218,
           "title": "EUA anunciam retirada de soldados da Alemanha após críticas de Merz a Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/77016572_303.jpg"
         },
@@ -685,7 +635,7 @@
           "description": "Doha Daher Bittar tentava limpar o chão da sua loja de lingerie atingida por estilhaços durante uma grande explosão, no início de abril, quando Israel lançou mais um ataque contra a região de Nabatieh, no sul do Líbano. Mesmo diante de um cenário de completa destruição, ela não perdeu a gentileza. Em meio aos escombros, […]\nO post Com Israel atacando civis apesar do cessar-fogo, mortes no Líbano superam 2,5 mil apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/com-israel-atacando-civis-apesar-do-cessar-fogo-mortes-no-libano-superam-25-mil/",
           "publishedOn": "2026-05-02T14:30:05.000Z",
-          "wordCount": 3782,
+          "wordCount": 3732,
           "title": "Com Israel atacando civis apesar do cessar-fogo, mortes no Líbano superam 2,5 mil",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-02-at-11.00.25.jpeg"
         },
@@ -705,7 +655,7 @@
           "description": "O presidente dos EUA, Donald Trump, ameaçou novamente tomar Cuba e sugeriu enviar o porta-aviões Abraham Lincoln para a costa da ilha. O presidente afirmou que os Estados Unidos “assumirão o controle de Cuba quase imediatamente”. “Na nossa volta do Irã, teremos um dos nossos maiores navios… talvez o porta-aviões USS Abraham Lincoln, o maior […]\nO post Donald Trump ameaça ‘tomar posse’ de Cuba apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/donald-trump-ameaca-tomar-posse-de-cuba/",
           "publishedOn": "2026-05-02T13:33:38.000Z",
-          "wordCount": 3212,
+          "wordCount": 3162,
           "title": "Donald Trump ameaça ‘tomar posse’ de Cuba",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-02-103144.png"
         }
@@ -722,6 +672,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=225082",
+          "author": "Redação de AND",
+          "description": "Enquanto a situação de grave crise social aprofunda-se no EUA, a organização promove patrulhas armadas na Filadélfia, EUA, para proporcionar autodefesa às massas das comunidades pobres, retomando as boas tradições do movimento anti-imperialista estadunidense.",
+          "link": "https://anovademocracia.com.br/leoes-negros-entrevista-exclusiva-and/",
+          "publishedOn": "2026-05-03T13:00:00.000Z",
+          "wordCount": null,
+          "title": "‘Estamos fartos do imperialismo’: Partido dos Leões Negros concede entrevista exclusiva para AND",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=225060",
           "author": "Enrico Di Gregorio",
@@ -810,16 +770,6 @@
           "publishedOn": "2026-05-01T13:11:37.000Z",
           "wordCount": null,
           "title": "‘Hoje é o momento de tomar partido e lutar’: Liga Anti-imperialista Internacional e Liga Operária celebram o 1º de Maio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=224963",
-          "author": "Ana Nascimento",
-          "description": "O correspondente local de AND esteve presente e conseguiu constatar que, entre os estudantes, a pedagogia não pode ser uma ciência neutra enquanto as escolas e universidades são alvo de uma política de terra arrasada promovida pelo velho Estado ditada pelo imperialismo, principalmente ianque.",
-          "link": "https://anovademocracia.com.br/estudantes-df-preparam-para-43-enepe/",
-          "publishedOn": "2026-05-01T01:21:12.000Z",
-          "wordCount": null,
-          "title": "DF: Estudantes de Pedagogia levantam a bandeira da resistência e preparam comitiva para o 43º ENEPe",
           "imageUrl": null
         }
       ]
@@ -986,7 +936,7 @@
           "description": "Juliana Paula Magalhães: \"Ao demonstrar a especificidade histórica das formas sociais capitalistas, dentre elas a forma jurídica, a forma política estatal e a forma moral, Pachukanis fornece uma preciosa chave para a compreensão estrutural da mentira no capitalismo em suas múltiplas conformações e determinações.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/02/a-mentira-na-filosofia-tres-caminhos-da-filosofia-contemporanea/",
           "publishedOn": "2026-05-02T11:00:00.000Z",
-          "wordCount": 18543,
+          "wordCount": 18385,
           "title": "A mentira na filosofia: três caminhos da filosofia contemporânea",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-30.png"
         },
