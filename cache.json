@@ -68,117 +68,30 @@
       ]
     },
     {
-      "title": "Jornal A Verdade",
-      "feedUrl": "https://averdade.org.br/feed/",
-      "siteUrl": "https://averdade.org.br/",
-      "articles": [
-        {
-          "id": "https://averdade.org.br/?p=61618",
-          "author": "Jesse Lisboa",
-          "description": "Há exatamente 65 anos, as areias de Playa Girón, em Cuba, tornaram-se cenário de uma das mais gloriosas páginas da história de resistência dos povos oprimidos contra o imperialismo, quando 1.500 mercenários cubanos, treinados e financiados pelos Estados Unidos, foram derrotados e feitos prisioneiros após uma tentativa fracassada de invasão armada cujo objetivo era derrubar […]",
-          "link": "https://averdade.org.br/2026/05/65-anos-da-batalha-de-playa-giron-a-primeira-grande-derrota-do-imperialismo-na-america-latina/",
-          "publishedOn": "2026-05-03T13:33:16.000Z",
-          "wordCount": 10233,
-          "title": "65 anos da batalha de Playa Girón: a primeira grande derrota do imperialismo na América Latina",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Giron_02-cor.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61615",
-          "author": "Jesse Lisboa",
-          "description": "Durante a ditadura militar, marcada por perseguições, censura e torturas, as mulheres estiveram na linha de frente da resistência, organizando greves e movimentos pela anistia. Larissa Mayumi (SP) e Evelyn Dionízio (PE) MULHERES – Historicamente, a luta das mulheres é apagada e silenciada. Isso faz parte de um sistema que quer vê-las como mercadoria perante […]",
-          "link": "https://averdade.org.br/2026/05/mulheres-em-tempos-de-repressao/",
-          "publishedOn": "2026-05-03T11:19:01.000Z",
-          "wordCount": 9561,
-          "title": "Mulheres em tempos de repressão",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Mulheres-Contra-Ditadura-Memorias-da-Ditadura-CC.webp"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61612",
-          "author": "Jesse Lisboa",
-          "description": "O Movimento Olga Benario realizou 17 ocupações em todas as regiões do Brasil, denunciando o aumento dos feminicídios e criando espaços de acolhimento e organização popular. Passado um mês, dez ocupações seguem firmes, salvando vidas e fortalecendo a luta das mulheres contra a violência e pelo socialismo. Luiza Wolff (SC) e Larissa Mayumi (SP) MULHERES […]",
-          "link": "https://averdade.org.br/2026/05/ocupacoes-resistem-e-seguem-organizando-luta-das-mulheres/",
-          "publishedOn": "2026-05-03T11:12:38.000Z",
-          "wordCount": 9572,
-          "title": "Ocupações resistem e seguem organizando luta das mulheres",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P10.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61609",
-          "author": "Jesse Lisboa",
-          "description": "Dois meses após o início da ofensiva militar dos Estados Unidos e de Israel contra o Irã, que já deixou mais de 5 mil mortos, incluindo centenas de crianças, a resistência do povo iraniano e a pressão internacional obrigaram Donald Trump e Benjamin Netanyahu a recuar e aceitar um cessar-fogo. Comitê Central do PCR MUNDO […]",
-          "link": "https://averdade.org.br/2026/05/contra-o-imperialismo-e-as-guerras-e-hora-de-tomar-partido/",
-          "publishedOn": "2026-05-03T10:53:52.000Z",
-          "wordCount": 10048,
-          "title": "Contra o imperialismo e as guerras, é hora de tomar partido!",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/p9-Donavan-Sampaio.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61606",
-          "author": "Jesse Lisboa",
-          "description": "O Brasil vive uma escalada alarmante da violência policial: entre 2024 e 2025, as mortes causadas por policiais militares cresceram 4,5% em todo o país, com 17 estados registrando aumento nos índices de letalidade. Redação SP Segundo dados divulgados pelo Ministério da Justiça, o Brasil registrou um aumento de 4,5% nas mortes causadas por policiais […]",
-          "link": "https://averdade.org.br/2026/05/violencia-policial-continua-crescendo-no-brasil/",
-          "publishedOn": "2026-05-03T10:43:13.000Z",
-          "wordCount": 9333,
-          "title": "Violência policial continua crescendo no Brasil",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/mais-armas-mais-mortes-violencia-policial-FPSPNE.webp"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61602",
-          "author": "Jesse Lisboa",
-          "description": "O Movimento de Luta nos Bairros (MLB) tem enfrentado a violência do Estado e das construtoras em Joinville (SC), onde famílias pobres do bairro Ulysses Guimarães sofrem remoções e demolições de suas casas. Kauê de Oliveira (SC) e Selma Almeida (SP) LUTA POPULAR – O Movimento de Luta nos Bairros (MLB), desde sua criação, luta contra […]",
-          "link": "https://averdade.org.br/2026/05/pago-luz-e-agua-ha-mais-de-um-ano-e-eles-vem-e-derrubam-a-casa-da-gente/",
-          "publishedOn": "2026-05-03T10:14:12.000Z",
-          "wordCount": 9606,
-          "title": "“Pago luz e água há mais de um ano, e eles vêm e derrubam a casa da gente”",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P8-_-Joinville.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61598",
-          "author": "Jesse Lisboa",
-          "description": "Com combatividade e espírito de luta, o Movimento Rebele-se e a União da Juventude Rebelião (UJR) marcaram presença no 46º Congresso da União Brasileira dos Estudantes Secundaristas (Ubes), realizado em São Bernardo do Campo entre 16 e 19 de abril. Nathalia Vergara e Leonardo de Paula | São Bernardo do Campo (SP) JUVENTUDE – Foi com […]",
-          "link": "https://averdade.org.br/2026/05/congresso-da-ubes-estudantes-organizam-luta-pela-educacao-publica/",
-          "publishedOn": "2026-05-03T09:51:38.000Z",
-          "wordCount": 9793,
-          "title": "Congresso da Ubes: estudantes organizam luta anti-imperialista e pela educação pública",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P7-_-Lucas-Barbosa.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61589",
-          "author": "Jesse Lisboa",
-          "description": "Roraima lidera o crescimento populacional no Brasil, com alta de 46% em dez anos, impulsionada pela imigração venezuelana que busca trabalho e sobrevivência no estado. Noah Eros | Boa Vista (RR) BRASIL – Segundo dados de 2025 do Instituto Brasileiro de Geografia e Estatística (IBGE), a população do estado Roraima cresceu mais de 46% em […]",
-          "link": "https://averdade.org.br/2026/05/venezuelanos-sofrem-com-xenofobia-e-superexploracao-em-roraima/",
-          "publishedOn": "2026-05-03T01:19:43.000Z",
-          "wordCount": 9286,
-          "title": "Venezuelanos sofrem com xenofobia e superexploração em Roraima",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P6-_-Roraima.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61583",
-          "author": "Jesse Lisboa",
-          "description": "Na madrugada de 3 de abril, Thawanna da Silva Salamázio, mãe de cinco filhos, foi assassinada pela Polícia Militar em Cidade Tiradentes (SP), após denunciar a violência de uma abordagem contra seu marido Nathalia Vergara | São Paulo (SP) BRASIL – Na madrugada do dia 3 de abril, Thawanna da Silva Salamázio, 31 anos, ajudante-geral, […]",
-          "link": "https://averdade.org.br/2026/05/policia-militar-de-tarcisio-assassina-trabalhadora-na-zona-leste-de-sp/",
-          "publishedOn": "2026-05-02T15:58:28.000Z",
-          "wordCount": 9535,
-          "title": "Polícia militar de Tarcísio assassina trabalhadora na Zona Leste de SP",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Design-sem-nome.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61578",
-          "author": "Jesse Lisboa",
-          "description": "Com salários corroídos e serviços públicos ameaçados pela terceirização, os servidores municipais de São Paulo declararam estado de greve em 2026, exigindo valorização e condições dignas de trabalho. Movimento Luta de Classes | São Paulo (SP) TRABALHADOR UNIDO – Os servidores municipais de São Paulo declararam estado de greve na Campanha Salarial de 2026. A […]",
-          "link": "https://averdade.org.br/2026/05/servidores-municipais-de-sao-paulo-lutam-contra-a-gestao-privatista-de-ricardo-nunes/",
-          "publishedOn": "2026-05-02T15:43:07.000Z",
-          "wordCount": 9426,
-          "title": "Servidores Municipais de São Paulo lutam contra a gestão privatista de Ricardo Nunes",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P5-_-servidores-SP-_-Elineudo-Meira.jpeg"
-        }
-      ]
-    },
-    {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "69f7abe6b4054afef5839f17",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Cerca de 200 famílias exigem desapropriação de terras improdutivas e ação imediata do INCRA",
+          "link": "https://opiniaosocialista.com.br/sp-trabalhadores-rurais-ocupam-area-de-cerrado-da-ufscar-por-reforma-agraria-em-sao-carlos/",
+          "publishedOn": "2026-05-03T20:35:29.000Z",
+          "wordCount": 991,
+          "title": "SP: Trabalhadores rurais ocupam área de cerrado da UFSCar por reforma agrária em São Carlos",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/Ufscar_campo.png"
+        },
+        {
+          "id": "69f7a10fb4054afef5839ec4",
+          "author": "PSTU Belo Horizonte",
+          "description": "Por que os trabalhadores em educação concursados da capital mineira estão em greve?",
+          "link": "https://opiniaosocialista.com.br/por-que-a-educacao-de-belo-horizonte-pavimenta-caminho-para-a-privatizacao/",
+          "publishedOn": "2026-05-03T19:48:31.000Z",
+          "wordCount": 1642,
+          "title": "Por que a educação de Belo Horizonte pavimenta caminho para a privatização?",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/greve-educa----o-BH.jpeg"
+        },
         {
           "id": "69f72e06b4054afef5839e6f",
           "author": "Roberto Aguiar, da redação",
@@ -277,12 +190,22 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Parar-Sao-Paulo-dia-06-05-para-derrotar-Nunes-em-defesa-da-educacao-municipal",
+          "author": "Nossa Classe - Educação",
+          "description": "As educadoras da rede municipal de São Paulo estão em greve desde o último dia 28, contra a precarização do trabalho que avança a cada dia e afeta desde os professores até o quadro de apoio, os estagiários e os terceirizados, refletindo diretamente na qualidade da educação dos filhos e filhas da nossa classe e, também, contra a absurda proposta de reajuste salarial oferecida pela prefeitura de Ricardo Nunes. É preciso unificar categorias e lutas nas ruas no dia 06/05 em forte ato que sirva para massificar a greve para impor uma derrota a Nunes!\n02-05-2026\n\n/ Classe trabalhadora, Educação, Greve, Greve Professores Municipais SP, Greve de professores",
+          "link": "https://www.esquerdadiario.com.br/Parar-Sao-Paulo-dia-06-05-para-derrotar-Nunes-em-defesa-da-educacao-municipal",
+          "publishedOn": "2026-05-03T20:12:26.000Z",
+          "wordCount": 9514,
+          "title": "Parar São Paulo dia 06/05 para derrotar Nunes, em defesa da educação municipal!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-03_at_17.03_58.jpg?1777839113"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Nicolas-del-Cano-no-1-de-maio-em-Ferro-E-preciso-abolir-o-capitalismo",
           "author": "Redação",
           "description": "O deputado nacional e dirigente do PTS-Frente de Esquerda abriu a série de discursos no ato internacionalista organizado pela Corrente Revolução Permanente. “Nosso anti-imperialismo busca aliar-se a todos os trabalhadores do mundo na perspectiva da revolução socialista”, disse\n02-05-2026\n\n/ Internacional, Argentina, PTS na FIT, PTS, 1 de Maio, Partido dos Trabalhadores Socialistas (PTS)",
           "link": "https://www.esquerdadiario.com.br/Nicolas-del-Cano-no-1-de-maio-em-Ferro-E-preciso-abolir-o-capitalismo",
           "publishedOn": "2026-05-03T15:06:40.000Z",
-          "wordCount": 8277,
+          "wordCount": 8281,
           "title": "Nicolás del Caño no 1 de maio em Ferro: \"É preciso abolir o capitalismo\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nico.jpg?1777820749"
         },
@@ -292,7 +215,7 @@
           "description": "Discurso em Ferro, do dirigente do PTS Christian Castillo.\n02-05-2026\n\n/ Internacional, Argentina, 1 de Maio, Partido dos Trabalhadores Socialistas (PTS)",
           "link": "https://www.esquerdadiario.com.br/Castillo-Que-a-militancia-seja-um-engrenagem-para-organizar-a-resistencia-e-um-Cordobaco-do-sec-XXI",
           "publishedOn": "2026-05-03T14:19:54.000Z",
-          "wordCount": 8699,
+          "wordCount": 8698,
           "title": "Castillo: \"Que a militância seja um engrenagem para organizar a resistência e um Cordobaço do séc. XXI\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_ato_pts.jpg?1777818074"
         },
@@ -302,7 +225,7 @@
           "description": "Os quatro membros da delegação brasileira da Global Sumud Flotilha, Thiago Ávila, Leandro Lanfredi, Mandi Coelho e Thainara Rogério, foram sequestrados em águas internacionais pela tropa naval de Israel.\n30-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Quatro-brasileiros-da-Global-Sumud-Flotilha-seguem-sequestrados-pelas-forcas-de-ocupacao-de-Israel",
           "publishedOn": "2026-05-01T00:52:10.000Z",
-          "wordCount": 7971,
+          "wordCount": 7978,
           "title": "Quatro brasileiros da Global Sumud Flotilha seguem sequestrados pelas forças de ocupação de Israel",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/d8638f21-b5a4-40c4-85dd-bd1c1266fbd0.jpg?1777596721"
         },
@@ -312,7 +235,7 @@
           "description": "“A Sombra do meu Pai” (2025) não é apenas um melodrama político, trata-se de uma semibiografia do cineasta Akinola Davies Jr no contexto da crise política da Nigéria em 1993, onde acompanhamos a viagem de dois irmãos com o seu pai distante, Folarin, para a capital Lagos. O filme de estreia do diretor foi o primeiro longa-metragem nigeriano na Seleção Oficial do Festival de Cannes (2025), onde recebeu a Menção Especial Caméra d´Or e estreia no Brasil agora no dia 30/04.\n30-04-2026\n\n/ Cultura",
           "link": "https://www.esquerdadiario.com.br/A-ditadura-militar-da-Nigeria-sob-o-olhar-de-duas-criancas",
           "publishedOn": "2026-04-30T23:16:55.000Z",
-          "wordCount": 8409,
+          "wordCount": 8416,
           "title": "A ditadura militar da Nigéria sob o olhar de duas crianças",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/poster_a_sombra_do_meu_paied4.jpg?1777590961"
         },
@@ -322,7 +245,7 @@
           "description": "Em comunicados e postagens nas redes sociais, a Federação Nacional de Petroleiros (FNP) e o Sindicato de Petroleiros do Rio de Janeiro (Sindipetro-RJ) denunciam o sequestro do seu diretor, Leandro Lanfredi, militante do MRT que integra a Corrente Revolução Permanente - Quarta Internacional (CRP - QI) e dos demais ativistas que faziam parte da missão humanitária da Global Sumud Flotilha. Chamamos a todos a se somarem a esta campanha e a repudiar esse novo crime de guerra cometido pela entidade sionista ao sequestrar milhares de ativistas em águas internacionais.\n30-04-2026\n\n/ Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, FNP - Federação Nacional dos Petroleiros, SINDIPETRO-RJ, Genocídio, Sionismo, Palestina operária e socialista, Flotilha, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/Sindipetro-RJ-e-FNP-chamam-campanha-pela-liberacao-de-seu-diretor-Leandro-Lanfredi-e-demais",
           "publishedOn": "2026-04-30T21:28:39.000Z",
-          "wordCount": 8755,
+          "wordCount": 8761,
           "title": "Sindipetro-RJ e FNP chamam campanha pela liberação de seu diretor Leandro Lanfredi e demais sequestrados da flotilha por Israel",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/le_megafone-2.jpg?1777584455"
         },
@@ -332,7 +255,7 @@
           "description": "Trabalhadores da rede municipal de educação em BH vem sendo um exemplo da luta contra o desmonte, sucateamento e privatização da educação pública. Iniciando sua greve nesta última segunda (27), contra o apagão da educação, a privatização do ensino por meio das OSCs e pelo reajuste salarial; mostram que serem chatos para Álvaro Damião é motivo de orgulho para categoria! \n A educação municipal de BH se encontra em uma situação crítica, fruto de anos de políticas de desmonte nas gestões (…)\n30-04-2026\n\n/ Educação, Greve, Belo Horizonte , Greve na educação de BH, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/O-que-esta-chato-sao-os-ataques-de-Damiao-Todo-apoio-a-greve-da-educacao-municipal",
           "publishedOn": "2026-04-30T13:47:31.000Z",
-          "wordCount": 8251,
+          "wordCount": 8253,
           "title": "O que “está chato” são os ataques de Damião. Todo apoio à greve da educação municipal!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2026-04-27-at-14.37.14-1-1024x768.jpg?1777556841"
         },
@@ -342,7 +265,7 @@
           "description": "Leandro Lanfredi, petroleiro e dirigente do Sindipetro-RJ e da FNP, a bordo do barco La Pinya, da Global Sumud Flotilla, teve sua interceptação confirmada ontem à noite e está atualmente sequestrado pelas Forças de Ocupação de Israel.\n30-04-2026",
           "link": "https://www.esquerdadiario.com.br/Israel-sequestra-petroleiro-brasileiro-Leandro-Lanfredi-e-ativistas-da-flotilha",
           "publishedOn": "2026-04-30T12:56:09.000Z",
-          "wordCount": 7635,
+          "wordCount": 7637,
           "title": "Israel sequestra petroleiro brasileiro Leandro Lanfredi e ativistas da flotilha",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/le-2.jpg?1777553735"
         },
@@ -352,7 +275,7 @@
           "description": "Manifestamos toda nossa solidariedade aos ativistas angolanos perseguidos pelo governo do MPLA e exigimos a absolvição e libertação imediata de Osvaldo Kaholo e todos os presos políticos. Lutar não é crime!! Mexeu com um, mexeu com todos! Seguiremos juntos nessa luta que é uma só e não tem fronteiras!!\n29-04-2026\n\n/ Internacional, África, Angola, Angola",
           "link": "https://www.esquerdadiario.com.br/Liberdade-para-Osvaldo-Kaholo-e-todos-os-presos-politicos-em-Angola",
           "publishedOn": "2026-04-30T10:32:37.000Z",
-          "wordCount": 7955,
+          "wordCount": 7962,
           "title": "Liberdade para Osvaldo Kaholo e todos os presos políticos em Angola",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/angola-2.jpg?1777545152"
         },
@@ -362,7 +285,7 @@
           "description": "Forças israelenses interceptam e apreendem navios da Global Sumud a centenas de quilômetros de Gaza margens; bloqueando comunicações, sequestrando civis e estabelecendo um ambiente sem precedente legal em águas internacionais\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza",
           "link": "https://www.esquerdadiario.com.br/Pirataria-a-vista-de-todos-Israel-sequestra-civis-multinacionais-no-Mar-aberto",
           "publishedOn": "2026-04-30T01:43:40.000Z",
-          "wordCount": 8035,
+          "wordCount": 8042,
           "title": "Pirataria à vista de todos: Israel sequestra civis multinacionais no Mar aberto",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/comunicado_de_imprensa-18.png?1777513275"
         },
@@ -372,7 +295,7 @@
           "description": "A Global Sumud Flotilha confirma a interceptação de barcos da missão pelas forças de ocupação israelenses.\n29-04-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Faixa de Gaza, Exército de Israel, Palestina Livre, Genocídio, Sionismo, Marcha Global para Gaza, Global Sumud Flotilha, Global Movement to Gaza, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-confirma-interceptacao-de-barcos-pelas-forcas-de-ocupacao-israelenses",
           "publishedOn": "2026-04-30T00:14:39.000Z",
-          "wordCount": 7719,
+          "wordCount": 7726,
           "title": "Global Sumud Flotilha confirma interceptação de barcos pelas forças de ocupação israelenses",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/design_sem_nome_6_.png?1777508023"
         },
@@ -382,7 +305,7 @@
           "description": "Pela primeira vez em mais de 130 anos, Senado barra indicação presidencial ao STF. \n Pela primeira vez em mais de 130 anos, Senado barra indicação presidencial ao STF. O nome de Jorge Messias foi rejeitado por 42 votos e aprovado por 34. \n29-04-2026\n\n/ Política",
           "link": "https://www.esquerdadiario.com.br/Apesar-de-inumeros-acenos-a-direita-Messias-e-rejeitado-pelo-Senado",
           "publishedOn": "2026-04-29T22:28:09.000Z",
-          "wordCount": 7828,
+          "wordCount": 7830,
           "title": "Apesar de inúmeros acenos a direita, Messias é rejeitado pelo Senado",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000295840.png?1777501618"
         },
@@ -392,7 +315,7 @@
           "description": "Um áudio gravado a partir de um barco do Greenpeace revela militares israelenses ameaçando a Global Sumud Flotilha em águas internacionais próximas à Grécia. A denúncia ocorre após os barcos serem rodeados por lanchas militares, que apontaram lasers e armas semiautomáticas contra as embarcações e ordenaram que os participantes ficassem de joelhos, com as mãos no chão. \n As comunicações dos barcos estão sofrendo interferência e um pedido de socorro foi emitido.\n29-04-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Marinha-israelense-ataca-navios-e-faz-ameacas-a-Global-Sumud-Flotilha-pelo-radio",
           "publishedOn": "2026-04-29T21:46:38.000Z",
-          "wordCount": 7755,
+          "wordCount": 7758,
           "title": "Marinha israelense ataca navios e faz ameaças à Global Sumud Flotilha pelo rádio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/4d89f0e7-0aab-4937-ae35-d2899b7e2711.jpg?1777499190"
         },
@@ -402,7 +325,7 @@
           "description": "Em plena proximidade de águas gregas, barcos da Global Sumud Flotilha foram abordados por lanchas militares, que se identificaram como “israelenses”, apontando lasers e armas semiautomáticas. Segundo as informações recebidas, os militares ordenaram que os participantes se posicionassem na proa das embarcações e se ajoelhassem.\n29-04-2026\n\n/ Internacional, Palestina Livre, #FreePalestine, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/Proximo-as-aguas-gregas-barcos-da-Global-Sumud-Flotilha-sao-abordados-por-lanchas-militares-rapidas",
           "publishedOn": "2026-04-29T20:44:00.000Z",
-          "wordCount": 7857,
+          "wordCount": 7864,
           "title": "Próximo às águas gregas, barcos da Global Sumud Flotilha são abordados por lanchas militares rápidas com lasers e armas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flotilhass.jpg?1777495336"
         },
@@ -412,7 +335,7 @@
           "description": "De acordo com informações da Global Sumud Flotilha, o barco Jenin, também identificado como Bianca, de bandeira italiana, está sendo abordado neste momento. A maioria das embarcações da missão também sofre interferência nas comunicações. \n A nova missão da Global Sumud Flotilha teve início no começo de abril e tem como objetivo romper o cerco criminoso imposto por Israel contra Gaza, levando solidariedade internacional ao povo palestino diante do genocídio em curso. \n29-04-2026\n\n/ Internacional, Flotilha, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/URGENTE-Barco-Jenin-da-Global-Sumud-Flotilha-e-abordado-e-embarcacoes-sofrem-interferencia-na",
           "publishedOn": "2026-04-29T20:22:22.000Z",
-          "wordCount": 7717,
+          "wordCount": 7724,
           "title": "URGENTE: Barco Jenin, da Global Sumud Flotilha, é abordado e embarcações sofrem interferência na comunicação",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flotilha-2.jpg?1777494114"
         },
@@ -422,7 +345,7 @@
           "description": "A prefeitura do Rio de Janeiro, para agradar os sionistas da Conib e Fierj, simplesmente suspendeu o alvará do Bar Partisan, na Lapa, isso tudo após vereadores representantes do Lobby sionista terem se utilizado da máquina estatal para procurar prejudicar o bar.\n29-04-2026\n\n/ Política, Rio de Janeiro, Palestina Livre, #FreePalestine, Sionismo, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/E-preciso-derrotar-a-perseguicao-sionista-da-prefeitura-do-Rio-contra-o-Bar-Partisan",
           "publishedOn": "2026-04-29T14:22:34.000Z",
-          "wordCount": 8629,
+          "wordCount": 8622,
           "title": "É preciso derrotar a perseguição sionista da prefeitura do Rio contra o Bar Partisan",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1_untitled-design---2026-04-29t082429-282-66471659.jpg.webp?1777472550"
         },
@@ -432,7 +355,7 @@
           "description": "Na manhã da última terça-feira, 27/04, um incêndio em um dos acessos da estação São Judas do Metrô de São Paulo expôs mais uma vez a grave situação da precarização do Metrô de SP com a falta de quadro de trabalhadores nas estações.\n28-04-2026\n\n/ Classe trabalhadora, Metrô, Acidentes de Trabalho, Tarcísio de Freitas, Privatização do metrô, Metrô de SP",
           "link": "https://www.esquerdadiario.com.br/Incendio-na-estacao-Sao-Judas-precarizacao-e-falta-de-efetivos-colocam-passageiros-e-trabalhadores",
           "publishedOn": "2026-04-29T12:18:50.000Z",
-          "wordCount": 8105,
+          "wordCount": 8116,
           "title": "Incêndio na estação São Judas: precarização e falta de efetivos colocam passageiros e trabalhadores em risco",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/5297e7b2-8053-45ba-821a-d224c553eeb7.jpg?1777464967"
         }
@@ -580,12 +503,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=253680",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente Luiz Inácio Lula da Silva lembrou, neste domingo (03/05), o centenário de nascimento do geógrafo brasileiro Milton Santos. Crítico da globalização, Milton Santos tornou-se uma referência na sua área em todo o mundo. “Sua obra é referência para entendermos as desigualdades da globalização e os potenciais de transformação que vêm das periferias. Pouca […]\nO post Lula celebra centenário de geógrafo brasileiro Milton Santos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-celebra-centenario-de-geografo-brasileiro-milton-santos/",
+          "publishedOn": "2026-05-03T19:23:22.000Z",
+          "wordCount": 2888,
+          "title": "Lula celebra centenário de geógrafo brasileiro Milton Santos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/milton_santos_100_anos_geografo_negro_teorizou_sobre_desigualdades03.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253678",
+          "author": "Tabitha Ramalho",
+          "description": "O Irã confirmou neste domingo (03/05) que recebeu, através da mediação do Paquistão, o parecer dos Estados Unidos sobre sua proposta de paz em 14 pontos, como resposta à iniciativa de 9 pontos de Washington. Segundo o porta-voz do Ministério das Relações Exteriores, o documento norte-americano está sendo avaliado pelas autoridades iranianas e, assim que […]\nO post Irã entrega proposta de paz de 14 pontos aos EUA; Trump diz que é ‘inaceitável’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-entrega-proposta-de-paz-de-14-pontos-aos-eua-trump-diz-que-e-inaceitavel/",
+          "publishedOn": "2026-05-03T18:50:35.000Z",
+          "wordCount": 3113,
+          "title": "Irã entrega proposta de paz de 14 pontos aos EUA; Trump diz que é ‘inaceitável’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/hfud1chbyaakbta-e1775642790355.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253663",
+          "author": "Victor Farinelli",
+          "description": "A Alemanha reagiu neste sábado (02/05) ao anúncio dos Estados Unidos de retirar cerca de 5 mil soldados do país dentro de um ano, afirmando que a Europa precisa assumir mais responsabilidades por sua própria segurança. A decisão, tomada em meio às tensões entre Washington e aliados europeus por causa da guerra no Irã, levou […]\nO post Alemanha cobra reforço da OTAN após EUA anunciarem retirada de tropas do país apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/alemanha-cobra-reforco-da-otan-apos-eua-anunciarem-retirada-de-tropas-do-pais/",
+          "publishedOn": "2026-05-03T17:20:30.000Z",
+          "wordCount": 3998,
+          "title": "Alemanha cobra reforço da OTAN após EUA anunciarem retirada de tropas do país",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/pistori.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=253672",
           "author": "Pedro Marin",
           "description": "A professora do Instituto de Artes da UNESP, Sandra Regina Campos, foi vítima de um mal súbito e veio a óbito em meio à sua aula na noite de 7 de abril. Como a universidade não conta com uma política de emergência médica nem ambulatorial, mesmo com os esforços dos seus alunos, foi impossível salvar […]\nO post Tarcísio de Freitas na mira: greves crescem nas universidades de São Paulo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/tarcisio-de-freitas-na-mira-greves-crescem-nas-universidades-de-sao-paulo/",
           "publishedOn": "2026-05-03T16:38:07.000Z",
-          "wordCount": 4115,
+          "wordCount": 4076,
           "title": "Tarcísio de Freitas na mira: greves crescem nas universidades de São Paulo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/tarcisio.webp"
         },
@@ -593,9 +546,9 @@
           "id": "https://operamundi.uol.com.br/?p=253669",
           "author": "Tabitha Ramalho",
           "description": "A Bolívia amanheceu neste sábado (02/05) em um clima de forte instabilidade após o início de uma greve geral por tempo indeterminado convocada pela Central Operária Boliviana (COB). O secretário executivo Mario Argollo anunciou a medida após uma grande assembleia popular em El Alto, onde foi reafirmada a rejeição às políticas econômicas do governo de […]\nO post Central Operária Boliviana convoca greve geral por tempo indeterminado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/uncategorized/central-operaria-boliviana-convoca-greve-geral-por-tempo-indeterminado/",
+          "link": "https://operamundi.uol.com.br/america-latina/central-operaria-boliviana-convoca-greve-geral-por-tempo-indeterminado/",
           "publishedOn": "2026-05-03T16:20:16.000Z",
-          "wordCount": 2928,
+          "wordCount": 2979,
           "title": "Central Operária Boliviana convoca greve geral por tempo indeterminado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/arton79323-b6a9e.jpg"
         },
@@ -605,7 +558,7 @@
           "description": "O presidente da Colômbia, Gustavo Petro, rejeitou no sábado (02/05) a intenção declarada de Donald Trump de que ele “tomaria o controle” de Cuba “quase imediatamente” por meio de pressão militar, e enfatizou que tal passo implicaria agressão contra toda a região. “Não concordo com uma agressão militar contra Cuba, porque isso seria uma agressão […]\nO post ‘Agressão militar contra Cuba é contra a América Latina’, afirma Petro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/agressao-militar-contra-cuba-e-contra-a-america-latina-afirma-petro/",
           "publishedOn": "2026-05-03T15:22:04.000Z",
-          "wordCount": 4076,
+          "wordCount": 4084,
           "title": "‘Agressão militar contra Cuba é contra a América Latina’, afirma Petro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/cuba-red-rechaza-agresiones01.jpg.webp"
         },
@@ -615,7 +568,7 @@
           "description": "O Ministério do Comércio da China proibiu no sábado (02/05) o reconhecimento e a aplicação das sanções norte-americanas impostas a cinco empresas petroquímicas chinesas, sob o pretexto de seu suposto envolvimento em transações petrolíferas com o Irã. Segundo a agência, as empresas em questão são Hengli Petrochemical, Shandong Shouguang Luqing Petrochemical, Shandong Jincheng Petrochemical Group, […]\nO post China rejeita sanções dos EUA contra suas empresas petrolíferas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/china-rejeita-sancoes-dos-eua-contra-suas-empresas-petroliferas/",
           "publishedOn": "2026-05-03T14:51:21.000Z",
-          "wordCount": 2824,
+          "wordCount": 2885,
           "title": "China rejeita sanções dos EUA contra suas empresas petrolíferas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/2026-05-03-at-01-21-19.jpg.webp"
         },
@@ -625,7 +578,7 @@
           "description": "Os ativistas e organizadores da Flotilha Global Sumud, o brasileiro Thiago Ávila e o palestino-espanhol Saif Abukeshek, chegaram na manhã deste domingo (03/05) ao porto de Ashdod, em Israel. Eles foram transferidos para a Prisão de Shikma em Askalan, ao norte de Gaza, na Palestina ocupada, após serem sequestrados em águas europeias pelas forças de […]\nO post Ativistas da flotilha chegam a prisão em Israel com marcas de agressão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/ativistas-da-flotilha-chegam-a-prisao-em-israel-com-marcas-de-agressao/",
           "publishedOn": "2026-05-03T14:24:05.000Z",
-          "wordCount": 3711,
+          "wordCount": 3722,
           "title": "Ativistas da flotilha chegam a prisão em Israel com marcas de agressão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-9.png"
         },
@@ -635,7 +588,7 @@
           "description": "O Irã afirmou neste sábado (02/05) estar “pronto” tanto para retomar a guerra quanto para avançar pela via diplomática para encerrar o confronto com os Estados Unidos, dizendo que “a bola está no campo” de Washington. Segundo Teerã, um plano foi entregue ao mediador paquistanês para buscar uma solução permanente, mas Donald Trump rejeitou a […]\nO post Irã diz estar pronto para ‘guerra ou acordo’, e que fim do conflito ‘depende dos EUA’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-diz-estar-pronto-para-guerra-ou-acordo-e-que-fim-do-conflito-depende-dos-eua/",
           "publishedOn": "2026-05-02T20:34:58.000Z",
-          "wordCount": 3312,
+          "wordCount": 3377,
           "title": "Irã diz estar pronto para ‘guerra ou acordo’, e que fim do conflito ‘depende dos EUA’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405010617395126636174084.jpg"
         },
@@ -645,39 +598,9 @@
           "description": "O presidente de Cuba, Miguel Díaz-Canel, rebateu neste sábado (02/05), em publicação na rede social X, as novas ameaças contra o país feitas pelo presidente dos Estados Unidos, Donald Trump. No dia anterior, o magnata voltou a afirmar que, após encerrar a guerra contra o Irã, iria tomar Cuba. Em resposta, o líder cubano ressaltou […]\nO post ‘Nenhum agressor encontrará rendição em Cuba’, presidente cubano rebate ameaças de Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/nenhum-agressor-encontrara-rendicao-em-cuba-presidente-cubano-rebate-ameacas-de-trump/",
           "publishedOn": "2026-05-02T20:00:22.000Z",
-          "wordCount": 3511,
+          "wordCount": 3519,
           "title": "‘Nenhum agressor encontrará rendição em Cuba’, presidente cubano rebate ameaças de Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hgrxznjayaav9-a.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253641",
-          "author": "Tabitha Ramalho",
-          "description": "A morte de Raimundo Rodrigues Pereira, neste 2 de maio de 2026, aos 85 anos, nos obriga a olhar para trás e reconhecer a dimensão de uma trajetória rara no jornalismo brasileiro — talvez a maior de todas. Expulso do Instituto Tecnológico de Aeronáutica, Raimundo fez um movimento pouco convencional: deixou para trás a engenharia […]\nO post Morre Raimundo Pereira, o maior dos jornalistas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/obituario/morre-raimundo-pereira-o-maior-dos-jornalistas/",
-          "publishedOn": "2026-05-02T19:16:14.000Z",
-          "wordCount": 3275,
-          "title": "Morre Raimundo Pereira, o maior dos jornalistas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-02-at-16.11.01.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253634",
-          "author": "Tabitha Ramalho",
-          "description": "Policiais mascarados invadiram na sexta-feira (01/05) um ponto de encontro de jovens ativistas do partido conjunto árabe-israelense Hadash na cidade de Umm al-Fahm e confiscaram bandeiras palestinas do local. O deputado Ofer Cassif, do partido Hadash, enviou uma carta à Procuradora-Geral Gali Baharav-Miara solicitando a abertura imediata de uma investigação sobre o incidente. “O simples […]\nO post Polícia de Israel invade clube do Partido Comunista e confisca bandeiras palestinas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/policia-de-israel-invade-clube-do-partido-comunista-e-confisca-bandeiras-palestinas/",
-          "publishedOn": "2026-05-02T18:30:09.000Z",
-          "wordCount": 2981,
-          "title": "Polícia de Israel invade clube do Partido Comunista e confisca bandeiras palestinas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/dbc44eccb6c62813c469ec253e4d313887ea73a7.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=251289",
-          "author": "Tabitha Ramalho",
-          "description": "Em meio a uma viagem com sua mãe pela praia de Jericoacoara, no Ceará, o ativista Tiago Guilherme foi abordado por um grupo de turistas isralenses que começaram a proferir ataques racistas. O episódio foi relatado em uma publicação nas redes sociais. A Opera Mundi, ele explicou que a vila é relativamente isolada e de […]\nO post Soldados israelenses usam viagem pós-serviço militar para espalhar cultura sionista no Brasil apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/soldados-israelenses-usam-viagem-pos-servico-militar-para-espalhar-cultura-sionista-no-brasil/",
-          "publishedOn": "2026-05-02T17:30:49.000Z",
-          "wordCount": 6007,
-          "title": "Soldados israelenses usam viagem pós-serviço militar para espalhar cultura sionista no Brasil",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-4.png"
         }
       ]
     },
