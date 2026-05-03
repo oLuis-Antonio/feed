@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-03T06:34:08.413Z</id>
+    <id>urn:2026-05-03T09:26:28.190Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-03T06:34:08.413Z</updated>
+    <updated>2026-05-03T09:26:28.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1016,29 +1016,6 @@ O conteúdo Estado é condenado a indenizar fotógrafo que ficou cego durante a�
         <summary type="html"><![CDATA[cena dura apenas alguns segundos, mas contém mais do que parece. Tom Llamas, jornalista da NBC News, faz uma pergunta ao ministro das Relações Exteriores do Irã, Abbas Araghchi, durante uma entrevista realizada no último dia 5 de março. — O presidente Trump não descartou o envio de tropas ao Irã. O senhor teme uma […]]]></summary>
         <author>
             <name>Revista Crisis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toda solidariedade ao Zé Maria do PSTU: abaixo à repressão aos que lutam pela Palestina!]]></title>
-        <id>https://www.esquerdadiario.com.br/Toda-solidariedade-ao-Ze-Maria-do-PSTU-abaixo-a-repressao-aos-que-lutam-pela-Palestina</id>
-        <link href="https://www.esquerdadiario.com.br/Toda-solidariedade-ao-Ze-Maria-do-PSTU-abaixo-a-repressao-aos-que-lutam-pela-Palestina"/>
-        <updated>2026-04-28T21:05:13.000Z</updated>
-        <summary type="html"><![CDATA[A absurda decisão da Justiça Federal que condenou Zé Maria do PSTU a dois anos de prisão em regime aberto é um grave ataque às liberdades democráticas e escancara o avanço da tentativa de criminalizar a solidariedade ao povo palestino no Brasil. Em um ato de se colocar ombro a ombro do povo palestino, Zé Maria expressou apoio à resistência palestina e à luta por uma Palestina livre do rio ao mar, uma posição histórica de amplos setores que se colocam contra a ocupação e o apartheid.
-28-04-2026
-
-/ Internacional, Sociedade, Repressão, PSTU, Palestina, Justiça dos ricos, Perseguição, Palestina Livre, #FreePalestine, Perseguição aos lutadores, Sionismo]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entre a guerra e o bolso: alta dos combustíveis expõe limites da política econômica brasileira]]></title>
-        <id>Rr516G</id>
-        <link href="https://jornalofuturo.com.br/artigo/Rr516G-entre-a-guerra-e-o-bolso-alta-dos-combustiveis-expoe-limites-da-politica-economica-brasileira"/>
-        <updated>2026-04-28T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Redução do ICMS é paliativa e mantém lógica neoliberal dos combustíveis, enquanto crise internacional expõe dependência e fragiliza a soberania energética brasileira.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
         </author>
     </entry>
 </feed>
