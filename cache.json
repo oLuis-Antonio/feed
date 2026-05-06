@@ -4,18 +4,7 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": [
-        {
-          "id": "9mEdAB",
-          "author": null,
-          "description": "Frente sindical grega apresenta reivindicações à Organização Marítima Internacional para garantir a segurança dos trabalhadores embarcados e o fim das guerras.",
-          "link": "https://jornalofuturo.com.br/artigo/9mEdAB-trabalhadores-maritimos-ameacam-greve-contra-guerra-no-estreito-de-ormuz",
-          "publishedOn": "2026-05-01T16:30:00.000Z",
-          "wordCount": 1722,
-          "title": "Trabalhadores marítimos ameaçam greve contra guerra no Estreito de Ormuz",
-          "imageUrl": "https://media.jornalofuturo.com.br/estreitoormuz-900x573.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Jornal A Verdade",
@@ -372,7 +361,7 @@
           "description": "As trabalhadoras da saúde subiram ao palco para saudar o ato dezenas de representantes dos trabalhadores e trabalhadoras da saúde. Da heroica luta do Hospital Garrahan, do Hospital Posadas, que também enfrenta os ataques de Milei, de outros hospitais como Bonaparte, Cestino, San Martín, dos hospitais municipais de La Matanza, da Tenda de Saúde e Cuidados. Como parte da Marrón, veio de uma participação nas eleições da CICOP com a frente Multicolor e defendendo a seção Florencio Varela.\n04-05-2026\n\n/ Saúde, Argentina, PTS, 1 de Maio, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Trabalhadoras-essenciais-da-saude-ocupam-palco-do-1-de-Maio-internacionalista-em-Buenos-Aires",
           "publishedOn": "2026-05-04T15:14:16.000Z",
-          "wordCount": 7801,
+          "wordCount": 7803,
           "title": "Trabalhadoras essenciais da saúde ocupam palco do 1 de Maio internacionalista em Buenos Aires",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-01_at_6.24_13_pm-59602.jpg?1777907612"
         },
@@ -695,7 +684,7 @@
           "description": "A Palantir Technologies, empresa norte-americana de software e inteligência artificial (IA) comandada por Alex Karp, reportou lucros recordes no primeiro trimestre de 2026. Fornecedora de tecnologia para o Pentágono, seus lucros quadriplicaram em meio à guerra contra o Irã, iniciada pelos Estados Unidos e Israel em 28 de fevereiro. Em carta aos acionistas, Karp anunciou […]\nO post Lucros da empresa de software Palantir quadruplicam com guerra no Irã  apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/lucros-da-empresa-de-software-palantir-quadruplicam-com-guerra-no-ira/",
           "publishedOn": "2026-05-05T20:40:27.000Z",
-          "wordCount": 3356,
+          "wordCount": 3306,
           "title": "Lucros da empresa de software Palantir quadruplicam com guerra no Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/arrow-forcas-armadas-de-israel.jpg"
         },
@@ -720,6 +709,12 @@
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/01/papa1c-1767526517-1.webp"
         }
       ]
+    },
+    {
+      "title": "De Olho nos Ruralistas",
+      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
+      "siteUrl": "https://deolhonosruralistas.com.br/",
+      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -1004,7 +999,7 @@
           "description": "Ederson Duda: \"O aumento do endividamento das famílias e a sensação generalizada de deterioração das condições de vida não constituem desvios em relação a um padrão anterior de estabilidade, mas a própria forma historicamente específica pela qual a reprodução da vida social vem sendo reorganizada sob a hegemonia do capital financeiro.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/05/a-vida-sob-a-divida-por-que-a-vida-nao-melhora-mesmo-com-a-economia-melhorando/",
           "publishedOn": "2026-05-05T21:44:11.000Z",
-          "wordCount": 15851,
+          "wordCount": 15850,
           "title": "A vida sob a dívida: por que a vida não melhora mesmo com a economia “melhorando”?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/chatgpt-image-5-de-mai.-de-2026-18_15_38.png?fit=1200%2C800&ssl=1"
         },
@@ -1014,7 +1009,7 @@
           "description": "No site da Boitempo ou em livrarias de todo o país, celebre os 208 anos de Marx com uma promoção imperdível para ampliar sua biblioteca. Saiba mais aqui.",
           "link": "https://blogdaboitempo.com.br/2026/05/05/diam-2026-comemore-o-aniversario-de-marx-com-descontos-e-brindes-exclusivos/",
           "publishedOn": "2026-05-05T11:00:00.000Z",
-          "wordCount": 12342,
+          "wordCount": 12183,
           "title": "#DiaM 2026: comemore o aniversário de Marx com descontos e brindes exclusivos",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-blog-promo-diam-2026_02.jpg"
         },

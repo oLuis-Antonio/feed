@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-06T03:52:50.637Z</id>
+    <id>urn:2026-05-06T06:37:29.597Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-06T03:52:50.637Z</updated>
+    <updated>2026-05-06T06:37:29.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1016,16 +1016,6 @@ O post O voo escandaloso de Hugo Motta e Ciro Nogueira  apareceu primeiro em In
         <summary type="html"><![CDATA[screvendo há mais de 2 mil anos, o historiador grego Plutarco nos deixou uma descrição eloquente do que os historiadores modernos chamam hoje de “micro-militarismo”. Quando uma potência imperial, como a Atenas daquela época, ou os Estados Unidos de hoje, está em declínio, seus líderes costumam reagir emocionalmente, lançando ataques militares aparentemente ousados na esperança […]]]></summary>
         <author>
             <name>Common Dreams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trabalhadores marítimos ameaçam greve contra guerra no Estreito de Ormuz]]></title>
-        <id>9mEdAB</id>
-        <link href="https://jornalofuturo.com.br/artigo/9mEdAB-trabalhadores-maritimos-ameacam-greve-contra-guerra-no-estreito-de-ormuz"/>
-        <updated>2026-05-01T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Frente sindical grega apresenta reivindicações à Organização Marítima Internacional para garantir a segurança dos trabalhadores embarcados e o fim das guerras.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
         </author>
     </entry>
 </feed>
