@@ -7,17 +7,134 @@
       "articles": []
     },
     {
+      "title": "Jornal A Verdade",
+      "feedUrl": "https://averdade.org.br/feed/",
+      "siteUrl": "https://averdade.org.br/",
+      "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61643",
+          "author": "Jesse Lisboa",
+          "description": "O Tribunal do Júri de Maceió condenou os militares responsáveis pelo sequestro, tortura e assassinato de Davi da Silva, jovem negro de 17 anos desaparecido em 2014 após uma abordagem no Benedito Bentes, em Alagoas. Lenilda Luna | Maceió (AL) BRASIL – Em uma decisão histórica que ecoa como um grito de basta contra a […]",
+          "link": "https://averdade.org.br/2026/05/condenacao-de-pms-em-alagoas-rompe-decadas-de-impunidade-e-reacende-luta-por-desmilitarizacao/",
+          "publishedOn": "2026-05-06T11:33:41.000Z",
+          "wordCount": 7392,
+          "title": "Condenação de PMs em Alagoas rompe décadas de impunidade e reacende luta por desmilitarização",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG-20260506-WA0005.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61639",
+          "author": "Jesse Lisboa",
+          "description": "No processo de privatização do Metrô do Recife, os trens usados serão comprados pelo Governo de Pernambuco a preços superfaturados, denunciam metroviários e usuários do metrô. Jesse Lisboa | Redação PE BRASIL – Cerca de 400 mil passageiros usam o metrô do Recife por dia, passando pelas 4 principais cidades da Região Metropolitana do Recife […]",
+          "link": "https://averdade.org.br/2026/05/governo-de-pernambuco-paga-r10-milhoes-em-trens-que-custariam-r3-milhoes/",
+          "publishedOn": "2026-05-06T11:17:28.000Z",
+          "wordCount": 7015,
+          "title": "Governo de Pernambuco paga R$10 milhões em trens que custariam R$3 milhões",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/1_ag221121030-19480111.webp"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61632",
+          "author": "Felipe Annunziata",
+          "description": "Regime sionista de Israel prorroga por mais 6 dias sequestro de Thiago Ávila e Saif Abu Keshek durante flotilha por lutarem contra o genocídio em Gaza.  Felipe Annunziata | Redação INTERNACIONAL – Quase uma semana após o início do sequestro, um tribunal do regime sionista israelense decidiu nesta terça (05/05) manter Thiago Ávila e Saif […]",
+          "link": "https://averdade.org.br/2026/05/israel-prorroga-sequestro-militantes-da-flotilha/",
+          "publishedOn": "2026-05-05T21:38:05.000Z",
+          "wordCount": 6943,
+          "title": "Israel prorroga sequestro de militantes da Flotilha de apoio à Gaza",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Ativistaspresos.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61628",
+          "author": "Leonardo de Paula",
+          "description": "Desde o início de 2025, a Prefeitura de Embu-Guaçu (SP) atrasa o pagamento dos salários e benefícios de todos os servidores do município, alegando falta de disponibilidade orçamentária. Servidores estão se organizando para a segunda greve em menos de 2 meses. Camila Cavalcanti | São Paulo Trabalhador Unido – Localizado no extremo sudoeste da região […]",
+          "link": "https://averdade.org.br/2026/05/prefeitura-de-embu-guacu-atrasa-pagamento-de-servidores-ha-mais-de-um-ano/",
+          "publishedOn": "2026-05-04T16:38:06.000Z",
+          "wordCount": 7117,
+          "title": "Prefeitura de Embu-Guaçu atrasa pagamento de servidores há mais de um ano",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-03-at-20.09.42.jpeg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61623",
+          "author": "Leonardo de Paula",
+          "description": "Em todo Brasil, trabalhadores ocuparam as ruas exigindo o fim da escala 6×1, o fim das guerras imperialistas, aumento geral dos salários e melhores condições de trabalho. Impulsionados pela militância do Movimento Luta de Classes (MLC) e pela Unidade Popular pelo Socialismo (UP), os trabalhadores reafirmaram seu compromisso em lutar pelo Poder Popular e pelo […]",
+          "link": "https://averdade.org.br/2026/05/trabalhadoras-vao-as-ruas-de-todo-o-brasil-exigir-fim-da-escala-6x1-no-1-de-maio/",
+          "publishedOn": "2026-05-03T22:54:45.000Z",
+          "wordCount": 7164,
+          "title": "Trabalhadores vão às ruas de todo o Brasil exigir fim da escala 6×1 no 1° de maio",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_2918.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61618",
+          "author": "Jesse Lisboa",
+          "description": "Há exatamente 65 anos, as areias de Playa Girón, em Cuba, tornaram-se cenário de uma das mais gloriosas páginas da história de resistência dos povos oprimidos contra o imperialismo, quando 1.500 mercenários cubanos, treinados e financiados pelos Estados Unidos, foram derrotados e feitos prisioneiros após uma tentativa fracassada de invasão armada cujo objetivo era derrubar […]",
+          "link": "https://averdade.org.br/2026/05/65-anos-da-batalha-de-playa-giron-a-primeira-grande-derrota-do-imperialismo-na-america-latina/",
+          "publishedOn": "2026-05-03T13:33:16.000Z",
+          "wordCount": 7759,
+          "title": "65 anos da batalha de Playa Girón: a primeira grande derrota do imperialismo na América Latina",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Giron_02-cor.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61615",
+          "author": "Jesse Lisboa",
+          "description": "Durante a ditadura militar, marcada por perseguições, censura e torturas, as mulheres estiveram na linha de frente da resistência, organizando greves e movimentos pela anistia. Larissa Mayumi (SP) e Evelyn Dionízio (PE) MULHERES – Historicamente, a luta das mulheres é apagada e silenciada. Isso faz parte de um sistema que quer vê-las como mercadoria perante […]",
+          "link": "https://averdade.org.br/2026/05/mulheres-em-tempos-de-repressao/",
+          "publishedOn": "2026-05-03T11:19:01.000Z",
+          "wordCount": 7048,
+          "title": "Mulheres em tempos de repressão",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Mulheres-Contra-Ditadura-Memorias-da-Ditadura-CC.webp"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61612",
+          "author": "Jesse Lisboa",
+          "description": "O Movimento Olga Benario realizou 17 ocupações em todas as regiões do Brasil, denunciando o aumento dos feminicídios e criando espaços de acolhimento e organização popular. Passado um mês, dez ocupações seguem firmes, salvando vidas e fortalecendo a luta das mulheres contra a violência e pelo socialismo. Luiza Wolff (SC) e Larissa Mayumi (SP) MULHERES […]",
+          "link": "https://averdade.org.br/2026/05/ocupacoes-resistem-e-seguem-organizando-luta-das-mulheres/",
+          "publishedOn": "2026-05-03T11:12:38.000Z",
+          "wordCount": 7065,
+          "title": "Ocupações resistem e seguem organizando luta das mulheres",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P10.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61609",
+          "author": "Jesse Lisboa",
+          "description": "Dois meses após o início da ofensiva militar dos Estados Unidos e de Israel contra o Irã, que já deixou mais de 5 mil mortos, incluindo centenas de crianças, a resistência do povo iraniano e a pressão internacional obrigaram Donald Trump e Benjamin Netanyahu a recuar e aceitar um cessar-fogo. Comitê Central do PCR MUNDO […]",
+          "link": "https://averdade.org.br/2026/05/contra-o-imperialismo-e-as-guerras-e-hora-de-tomar-partido/",
+          "publishedOn": "2026-05-03T10:53:52.000Z",
+          "wordCount": 7550,
+          "title": "Contra o imperialismo e as guerras, é hora de tomar partido!",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/p9-Donavan-Sampaio.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61606",
+          "author": "Jesse Lisboa",
+          "description": "O Brasil vive uma escalada alarmante da violência policial: entre 2024 e 2025, as mortes causadas por policiais militares cresceram 4,5% em todo o país, com 17 estados registrando aumento nos índices de letalidade. Redação SP Segundo dados divulgados pelo Ministério da Justiça, o Brasil registrou um aumento de 4,5% nas mortes causadas por policiais […]",
+          "link": "https://averdade.org.br/2026/05/violencia-policial-continua-crescendo-no-brasil/",
+          "publishedOn": "2026-05-03T10:43:13.000Z",
+          "wordCount": 6836,
+          "title": "Violência policial continua crescendo no Brasil",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/mais-armas-mais-mortes-violencia-policial-FPSPNE.webp"
+        }
+      ]
+    },
+    {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "69fbe54021c9b102a30917bd",
+          "author": "Direção Nacional do PSTU",
+          "description": "José Welmovicki, o Zezoca, foi dirigente da LIT-QI e do PSTU",
+          "link": "https://opiniaosocialista.com.br/um-ano-sem-zezoca-nossa-homenagem-a-um-dos-grandes-combatentes-contra-o-sionismo-no-brasil/",
+          "publishedOn": "2026-05-07T01:24:45.000Z",
+          "wordCount": 1543,
+          "title": "Um ano sem Zezoca:  Nossa homenagem a um dos grandes combatentes contra o sionismo no Brasil",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/2003-01-23-ATO-EM-POVO-PALESTINO-3-FMS-097-1024x727.jpg"
+        },
         {
           "id": "69fa549a21c9b102a3091671",
           "author": "Ana Godoi",
           "description": "5 de maio de 1818, Tréveris, Alemanha. Nessa data, nesse local, nascia Karl Marx. 208 anos nos separam desse momento, mas, acreditamos, temos muito o que lembrar e, principalmente, celebrar nesta data.\nNos dias de hoje, muito se fala sobre a distância que nos separa do",
           "link": "https://opiniaosocialista.com.br/uma-data-para-celebrar-208-anos-do-nascimento-de-karl-marx/",
           "publishedOn": "2026-05-05T20:41:14.000Z",
-          "wordCount": 1475,
+          "wordCount": 1479,
           "title": "Uma data para celebrar: 208 anos do nascimento de Karl Marx!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/marx.png"
         },
@@ -37,7 +154,7 @@
           "description": "Artigo publicado na Folha de S. Paulo em resposta à coluna de Demétrio Magnoli\nO jornalista Demétrio Magnoli publicou nesta Folha (1/5/26) artigo onde me acusa de racismo contra o povo Judeu e reitera a tese da sentença que me condenou a",
           "link": "https://opiniaosocialista.com.br/resposta-ao-jornalista-demetrio-magnoli/",
           "publishedOn": "2026-05-05T16:59:17.000Z",
-          "wordCount": 1034,
+          "wordCount": 994,
           "title": "Resposta a Demétrio Magnoli",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/ze-maria-_notaFolha-2.png"
         },
@@ -47,7 +164,7 @@
           "description": "Os ativistas brasileiros Mandi Coelho e Leandro Lanfredi desembarcaram na madrugada desta segunda-feira (4) no Aeroporto Internacional de São Paulo/Guarulhos, após integrarem a missão da Flotilha Global Sumud, organizada em solidariedade ao povo palestino.\nA chegada foi marcada por um ato de recep&",
           "link": "https://opiniaosocialista.com.br/ativistas-brasileiros-retornam-ao-pais-apos-missao-da-flotilha-global-sumud-e-denunciam-repressao-em-aguas-internacionais/",
           "publishedOn": "2026-05-04T16:09:43.000Z",
-          "wordCount": 1146,
+          "wordCount": 1150,
           "title": "Ativistas brasileiros retornam ao país após missão da Flotilha Global Sumud e denunciam repressão em águas internacionais",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/mandi1--1-.png"
         },
@@ -57,7 +174,7 @@
           "description": "Tragédias recorrentes revelam falta de políticas públicas, enquanto população enfrenta perdas, mortes e descaso histórico",
           "link": "https://opiniaosocialista.com.br/pe-chuvas-expoem-abandono-e-irresponsabilidade-dos-governos/",
           "publishedOn": "2026-05-04T13:35:51.000Z",
-          "wordCount": 1270,
+          "wordCount": 1274,
           "title": "PE: Chuvas expõem abandono e irresponsabilidade dos governos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/chuvas_PE-4-1.png"
         },
@@ -67,7 +184,7 @@
           "description": "Perdemos, na manhã deste sábado 2, um grande jornalista que traçou sua trajetória de vida na luta contra a ditadura militar, sempre combatendo o bom combate em defesa do povo mais explorado e oprimido. Foi uma das principais referências a gera&",
           "link": "https://opiniaosocialista.com.br/raimundo-pereira-1940-2026-uma-homenagem-a-referencia-da-imprensa-alternativa-na-luta-contra-a-ditadura/",
           "publishedOn": "2026-05-04T02:05:39.000Z",
-          "wordCount": 1095,
+          "wordCount": 1099,
           "title": "Raimundo Pereira (1940-2026): Uma homenagem à referência da imprensa alternativa na luta contra a ditadura",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/raimundo-pereira.png"
         },
@@ -77,7 +194,7 @@
           "description": "Após a interceptação ilegal de embarcações da Global Sumud Flotilha por forças militares israelenses em águas internacionais na costa da Grécia, o ativista brasileiro Thiago Ávila e o espanhol-palestino Saif Abu Kishk permanecem sequestrados e sob",
           "link": "https://opiniaosocialista.com.br/liberdade-ja-para-thiago-avila-e-asif-sequestrados-e-torturados-pelo-estado-de-israel/",
           "publishedOn": "2026-05-03T23:26:15.000Z",
-          "wordCount": 1473,
+          "wordCount": 1477,
           "title": "Liberdade para Thiago Ávila e Saif, sequestrados e torturados pelo Estado de Israel",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/thiago-e-saif--1-.png"
         },
@@ -87,7 +204,7 @@
           "description": "Cerca de 200 famílias exigem desapropriação de terras improdutivas e ação imediata do INCRA",
           "link": "https://opiniaosocialista.com.br/sp-trabalhadores-rurais-ocupam-area-de-cerrado-da-ufscar-por-reforma-agraria-em-sao-carlos/",
           "publishedOn": "2026-05-03T20:35:29.000Z",
-          "wordCount": 991,
+          "wordCount": 995,
           "title": "SP: Trabalhadores rurais ocupam área de cerrado da UFSCar por reforma agrária em São Carlos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/Ufscar_campo.png"
         },
@@ -97,7 +214,7 @@
           "description": "Por que os trabalhadores em educação concursados da capital mineira estão em greve?",
           "link": "https://opiniaosocialista.com.br/por-que-a-educacao-de-belo-horizonte-pavimenta-caminho-para-a-privatizacao/",
           "publishedOn": "2026-05-03T19:48:31.000Z",
-          "wordCount": 1642,
+          "wordCount": 1646,
           "title": "Por que a educação de Belo Horizonte pavimenta caminho para a privatização?",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/greve-educa----o-BH.jpeg"
         },
@@ -107,7 +224,7 @@
           "description": "Mortes, deslizamentos e milhares de desabrigados em Pernambuco e Paraíba expõem o resultado de décadas de ausência de políticas públicas",
           "link": "https://opiniaosocialista.com.br/nordeste-quando-a-chuva-revela-a-desigualdade-social-e-escancara-o-abandono-historico/",
           "publishedOn": "2026-05-03T12:13:26.000Z",
-          "wordCount": 1768,
+          "wordCount": 1772,
           "title": "Nordeste: Quando a chuva revela a desigualdade social e escancara o abandono histórico",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/chuvas_PE-3-2.png"
         }
@@ -119,23 +236,53 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Ato-unifica-estudantes-e-trabalhadores-na-UFRN-contra-a-precarizacao-por-mais-professores-e",
+          "author": "Redação",
+          "description": "Após um início de semestre marcado pelo caos e pela falta de professores em diversas disciplinas, estudantes da UFRN realizaram nesta terça-feira (06/05) um importante ato unificado em defesa da educação pública e das condições de permanência estudantil. A mobilização foi impulsionada pelo abaixo-assinado organizado pelo Centro Acadêmico de Letras (CALET), que reuniu impressionantes 2 mil assinaturas, contando com ampla participação estudantil e apoio de professores e técnicos (…)\n26-09-2025\n\n/ Movimento Estudantil, UFRN, Natal, Luta, ato, TAEs",
+          "link": "https://www.esquerdadiario.com.br/Ato-unifica-estudantes-e-trabalhadores-na-UFRN-contra-a-precarizacao-por-mais-professores-e",
+          "publishedOn": "2026-05-06T23:43:16.000Z",
+          "wordCount": 8392,
+          "title": "Ato unifica estudantes e trabalhadores na UFRN contra a precarização, por mais professores e intérpretes e pelas demandas des residentes!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato-2.jpg?1778110908"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Apos-forte-ato-na-23-de-Maio-educadores-da-rede-municipal-votam-continuidade-da-greve",
+          "author": "Redação",
+          "description": "Trabalhadores da educação municipal em greve pararam a 23 de Maio em forte e ato e votaram por seguir em greve contra o arrocho salarial de Nunes e a precarização dos serviços públicos. \n Os trabalhadores da educação de São Paulo, em greve há oito dias contra os ataques de Ricardo Nunes (MDB) à educação pública, começaram essa quarta-feira (6) com um grande ato, trancando a Av. 23 de Maio. \n Ver essa foto no Instagram \n06-05-2026\n\n/ São Paulo (capital), Educação, Ricardo Nunes, Tarcísio de Freitas, Greve na Educação, Trabalhadores da Educação municipal em São Paulo",
+          "link": "https://www.esquerdadiario.com.br/Apos-forte-ato-na-23-de-Maio-educadores-da-rede-municipal-votam-continuidade-da-greve",
+          "publishedOn": "2026-05-06T22:32:38.000Z",
+          "wordCount": 8035,
+          "title": "Após forte ato na 23 de Maio, educadores da rede municipal votam continuidade da greve",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000298918.jpg?1778106652"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/As-terras-raras-sao-nossas-contra-o-entreguismo-a-subordinacao-ao-imperialismo-e-a-destruicao",
+          "author": "Danilo Paris, Diana Assunção",
+          "description": "A reunião de amanhã entre Lula e Donald Trump ocorre em um cenário internacional marcado pelo agravamento das disputas interimperialistas, pela crise econômica mundial e pela corrida das grandes potências por recursos estratégicos. Entre eles, as chamadas “terras raras” ocupam um lugar central, fundamentais para a indústria tecnológica, militar e energética contemporânea. Não por acaso, o Brasil aparece cada vez mais no radar do imperialismo estadunidense.\n06-05-2026\n\n/ Meio Ambiente, MRT, Lula, Donald Trump, Ronaldo Caiado, Destruição do meio ambiente, Governo Lula, Terras Raras",
+          "link": "https://www.esquerdadiario.com.br/As-terras-raras-sao-nossas-contra-o-entreguismo-a-subordinacao-ao-imperialismo-e-a-destruicao",
+          "publishedOn": "2026-05-06T21:18:26.000Z",
+          "wordCount": 8907,
+          "title": "As terras raras são nossas: contra o entreguismo, a subordinação ao imperialismo e a destruição ambiental",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-06_at_18.12_28.jpg?1778102229"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Israel-usa-a-agua-como-arma-contra-a-populacao-de-Gaza-denuncia-Medicos-Sem-Fronteiras",
           "author": "Redação",
           "description": "Um novo relatório da organização Médicos Sem Fronteiras denuncia que Israel vem utilizando o acesso à água como arma contra a população palestina em Gaza, em uma política sistemática de punição coletiva. O documento, intitulado “A água como arma: a destruição e privação de água e saneamento por Israel em Gaza”, afirma que a privação deliberada de água é parte integrante do genocídio perpetrado pelo Estado de Israel contra o povo palestino. \n Segundo a MSF se trata de um padrão recorrente, (…)\n06-05-2026\n\n/ Internacional, Palestina, Faixa de Gaza, Palestina Livre, #FreePalestine, Genocídio, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Israel-usa-a-agua-como-arma-contra-a-populacao-de-Gaza-denuncia-Medicos-Sem-Fronteiras",
           "publishedOn": "2026-05-06T20:49:37.000Z",
-          "wordCount": 8257,
+          "wordCount": 8259,
           "title": "Israel usa a água como arma contra a população de Gaza, denuncia Médicos Sem Fronteiras",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-06_at_17.40_59.jpg?1778100475"
         },
         {
-          "id": "https://www.esquerdadiario.com.br/PL-que-flexibiliza-exploracao-de-terras-raras-com-apoio-do-governo-Lula-pode-ser-votado-ainda-hoje",
+          "id": "https://www.esquerdadiario.com.br/Com-apoio-do-PT-e-de-Lula-Camara-aprova-PL-de-entrega-das-terras-raras-em-votacao-simbolica",
           "author": "Redação",
           "description": "A Câmara dos Deputados deve votar nesta quarta-feira, 6 de maio, o PL 2780/2024, apresentado como a “Política Nacional de Minerais Críticos e Estratégicos”. O texto, relatado por Arnaldo Jardim (Cidadania-SP), foi adiado na terça-feira após pressão das mineradoras, que pediram mais tempo para negociar mudanças no relatório. Segundo a CNN Brasil, o adiamento teve aval do presidente da Câmara, Hugo Motta, e do governo federal, que ainda assim quer aprovar o projeto antes da reunião de Lula com Donald Trump, marcada para quinta-feira, em Washington.\n06-05-2026\n\n/ Política, Donald Trump, Ecologia, Imperialismo, Mineração, Governo Lula, Terras Raras",
-          "link": "https://www.esquerdadiario.com.br/PL-que-flexibiliza-exploracao-de-terras-raras-com-apoio-do-governo-Lula-pode-ser-votado-ainda-hoje",
+          "link": "https://www.esquerdadiario.com.br/Com-apoio-do-PT-e-de-Lula-Camara-aprova-PL-de-entrega-das-terras-raras-em-votacao-simbolica",
           "publishedOn": "2026-05-06T20:38:11.000Z",
-          "wordCount": 8565,
-          "title": "PL que flexibiliza exploração de terras raras com apoio do governo Lula pode ser votado ainda hoje",
+          "wordCount": 8541,
+          "title": "Com apoio do PT e de Lula, Câmara aprova PL de entrega das terras raras em votação simbólica",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/deputado-ze-silva-durante-a-exposicao-minerais-criticos-e-estrategicos-para-a-transicao-energetica.-credito-fpmin.jpg?1778099815"
         },
         {
@@ -144,7 +291,7 @@
           "description": "Em comunicado, a equipe de advogadas informou que o Tribunal Distrital de Beer Sheva rejeitou o recurso contra a continuidade da detenção dos ativistas da Flotilha, Saif Abukeshek e Thiago Ávila.\n06-05-2026\n\n/ Internacional, Israel, Estado de Israel, Palestina, #ResistePalestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Saif-Abukeshek-endurece-sua-greve-de-fome-e-deixa-de-ingerir-liquidos",
           "publishedOn": "2026-05-06T20:14:00.000Z",
-          "wordCount": 8453,
+          "wordCount": 8455,
           "title": "Saif Abukeshek endurece sua greve de fome e deixa de ingerir líquidos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/saif.jpg?1778098411"
         },
@@ -154,7 +301,7 @@
           "description": "Mesmo após a morte de Teresa Regina de Ávila e Silva, mãe de Thiago Ávila, o tribunal de Israel negou um novo recurso contra a prisão ilegal na qual ele e Saif Abukeshek seguem detidos. Ambos foram sequestrados em águas internacionais durante a missão da Global Sumud Flotilla e seguem submetidos a violações físicas e psicológicas pelo Estado de Israel. \n Teresa Regina faleceu na manhã desta terça-feira, 5 de maio, em Brasília, aos 63 anos, sem que Thiago pudesse estar presente com seus (…)\n06-05-2026\n\n/ Internacional, Palestina, Palestina Livre, #FreePalestine, Thiago Ávila, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Um-dia-apos-a-morte-da-mae-de-Thiago-Avila-Israel-rejeita-novo-recurso-contra-sua-prisao-ilegal",
           "publishedOn": "2026-05-06T19:55:59.000Z",
-          "wordCount": 8179,
+          "wordCount": 8176,
           "title": "Um dia após a morte da mãe de Thiago Ávila, Israel rejeita novo recurso contra sua prisão ilegal",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/99657af6fc8f9be3bfb8d2fee741bd-a13d0.jpg?1778097301"
         },
@@ -164,7 +311,7 @@
           "description": "Encontro diplomático entre Wang Yi e Abbas Araghchi revela as preocupações da às vésperas da cúpula com Donald Trump.\n06-05-2026\n\n/ Internacional, China, Irã, Donald Trump",
           "link": "https://www.esquerdadiario.com.br/Encontro-China-Ira-preocupacao-com-Ormuz-e-o-anseio-pela-desescalada",
           "publishedOn": "2026-05-06T14:23:55.000Z",
-          "wordCount": 8723,
+          "wordCount": 8733,
           "title": "Encontro China-Irã: preocupação com Ormuz e o anseio pela desescalada",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2fe2470d-a787-47c2-9c2d-7c045c468b87.jpg?1778077405"
         },
@@ -174,7 +321,7 @@
           "description": "Professores recém-efetivados denunciam que estão passando mais de um mês e meio sem receber salário\n06-05-2026\n\n/ Professores, Educação, Educação, Rio Grande do Norte, Rio Grande do Norte, Fátima Bezerra (PT), Brasil, Natal, Nordeste, Professores do Rio Grande do Norte",
           "link": "https://www.esquerdadiario.com.br/RN-professores-efetivados-passam-mais-de-um-mes-e-meio-sem-salario-sob-responsabilidade-do-governo",
           "publishedOn": "2026-05-06T13:48:54.000Z",
-          "wordCount": 8119,
+          "wordCount": 8118,
           "title": "RN: professores efetivados passam mais de um mês e meio sem salário, sob responsabilidade do governo Fátima",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000590578.jpg?1778075312"
         },
@@ -184,7 +331,7 @@
           "description": "Nesta terça-feira, 5, os estudantes da UFRN que moram na residência universitária realizaram um importante ato para denunciar a situação de fome e precariedade que a reitoria da universidade está fazendo eles passarem. Os residentes novamente estão denunciando a falta da quarta refeição e da janta aos finais de semana, além de uma série de problemas de infraestrutura, como fogões e micro-ondas que não funcionam, precarização da infraestrutura dos pisos, entre outros problemas. Nesta matéria, reproduzimos alguns relatos desses estudantes.\n06-05-2026\n\n/ Juventude, Moradia, Permanência Estudantil, UFRN, Estudantes, Insegurança alimentar, Faísca Revolucionária",
           "link": "https://www.esquerdadiario.com.br/Residentes-da-UFRN-denunciam-falta-de-comida-e-predios-precarizados-em-ato-na-reitoria",
           "publishedOn": "2026-05-06T13:24:46.000Z",
-          "wordCount": 8748,
+          "wordCount": 8751,
           "title": "Residentes da UFRN denunciam falta de comida e prédios precarizados em ato na reitoria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-06_at_10.15_40.jpg?1778073878"
         },
@@ -194,7 +341,7 @@
           "description": "Nós da Faísca Revolucionária, que estamos construindo a greve desde seu início, junto aos trabalhadores, e com diversos delegados eleitos para o Comando de Greve, queremos expressar nossa visão sobre o forte movimento que viemos construindo e fazer propostas para fortalecer nossa greve em um momento decisivo contra a intransigência da reitoria. \n 1. Nenhuma confiança na reitoria capacho do Tarcísio! Nossa greve arrancou conquistas, mas é fundamental seguir, defendendo o aumento do PAPFE, (…)\n04-05-2026\n\n/ Juventude, São Paulo (capital), CRUSP, Tarcísio de Freitas, Reitoria USP, DCE USP, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/5-pontos-para-fortalecer-a-greve-des-estudantes-da-USP-contra-a-intransigencia-da-reitoria",
           "publishedOn": "2026-05-04T23:31:22.000Z",
-          "wordCount": 8783,
+          "wordCount": 8787,
           "title": "5 pontos para fortalecer a greve des estudantes da USP contra a intransigência da reitoria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000298022.jpg?1777937397"
         },
@@ -234,7 +381,7 @@
           "description": "Thiago Ávila escreveu uma comovente carta a sua filha Teresa em meio a prisão sionista. Ele segue preso na prisão de Shikma, na Palestina ocupada, sendo submetidos a torturas após seu sequestro ilegal em águas internacionais pelos soldados israelenses. A bela carta à sua filha é uma mensagem a ela e ao mundo sobre a urgência de por fim ao genocídio que hoje faz mais de um milhão de crianças sangrarem na Faixa de Gaza. Confira a carta completa.\n04-05-2026\n\n/ Internacional, Israel, Conflito Palestina-Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, infância, direito à infância, Genocídio",
           "link": "https://www.esquerdadiario.com.br/Em-emocionante-carta-Thiago-Avila-deseja-a-sua-filha-um-mundo-em-que-as-criancas-vivam-sem",
           "publishedOn": "2026-05-04T20:20:56.000Z",
-          "wordCount": 8199,
+          "wordCount": 8201,
           "title": "Em emocionante carta, Thiago Ávila deseja a sua filha um mundo em que as crianças vivam sem genocídio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/thiago-avila-entrega-girafa-que-ganhou-de-integrante-da-flotilha-para-a-filha-tereza-foto-reproducao-de-video.jpg?1777925921"
         },
@@ -244,7 +391,7 @@
           "description": "Em nota para a imprensa, os advogados Adalah - Centro Legal voltado ao atendimento jurídico de minorias árabes em Israel, sobretudo palestinos e ativistas - relatou sobre a visita que fizeram a Thiago Ávila, brasileiro, e a Saif Abukeshek, espanhol de origem palestina. Os ativistas, membros do Comitê Diretor da Global Sumud Flotilha, foram raptados por soldados israelenses em meio a interceptação ilegal dos barcos da missão a 500 milhas náuticas da costa ocupada pelos sionistas. Foram levados para a Palestina ocupada e feitos prisioneiros em regime de isolamento sem nenhuma comprovação das acusações que lhes foram imputadas.\n04-05-2026\n\n/ Israel, Estado de Israel, Palestina, Exército de Israel, Palestina Livre, #FreePalestine, Flotilha, Thiago Ávila, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/Advogados-de-Thiago-e-Saif-relatam-ameacas-de-morte-e-de-prisao-por-tempo-indeterminado-contra-os",
           "publishedOn": "2026-05-04T19:40:43.000Z",
-          "wordCount": 8271,
+          "wordCount": 8275,
           "title": "Advogados de Thiago e Saif relatam ameaças de morte e de prisão por tempo indeterminado contra os ativistas. Liberdade já!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/saifthiago.jpg?1777923578"
         },
@@ -264,7 +411,7 @@
           "description": "Na próxima quarta-feira, dia 06/05, estudantes e servidores da UFRN irão realizar um ato de entrega do abaixo-assinado por mais professores e intérpretes de libras, frente às dificuldades para o início de disciplinas no semestre e ao quadro insuficiente de intérpretes na universidade. O ato acontecerá após a assembleia dos TAEs da UFRN, que seguem com mais de 70 dias de greve pelo cumprimento do acordo assinado pelo governo Lula em 2024, e que tem como uma das reivindicações a contratação de (…)\n04-05-2026\n\n/ Rio Grande do Norte, UFRN, Natal, Estudantes, Assembleia, TAEs",
           "link": "https://www.esquerdadiario.com.br/CALET-DCE-da-UFRN-e-SINTEST-convocam-ato-na-UFRN-pela-contratacao-de-interpretes-de-libras-e",
           "publishedOn": "2026-05-04T18:32:21.000Z",
-          "wordCount": 8250,
+          "wordCount": 8252,
           "title": "CALET, DCE da UFRN e SINTEST convocam ato na UFRN pela contratação de intérpretes de libras e professores",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/abaixoassinado-2.jpg?1777919377"
         },
@@ -274,7 +421,7 @@
           "description": "A seguir, disponibilizamos o compilado de matérias divulgando as intervenções no ato internacionalista do 1 de Maio organizado pelo PTS e pela FITU no estágio Ferro, em Buenos Aires.\n04-05-2026\n\n/ Internacional, Myriam Bregman, Nicolás del Caño , PTS, FIT-U, 1 de Maio, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Confira-as-intervencoes-no-ato-internacionalista-do-1-de-Maio-do-PTS-e-da-FITU-na-Argentina",
           "publishedOn": "2026-05-04T17:45:29.000Z",
-          "wordCount": 7884,
+          "wordCount": 7888,
           "title": "Confira as intervenções no ato internacionalista do 1 de Maio do PTS e da FITU na Argentina",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-01_at_7.42_13_pm-3d228.jpg?1777916697"
         },
@@ -294,7 +441,7 @@
           "description": "Membros da delegação brasileira da Global Sumud Flotilha chegaram hoje, segunda-feira (4), ao Brasil, após terem sido sequestrados pelas tropas de ocupação de Israel e praticamente deportados para a Turquia. Leandro Lanfredi e Mandi Coelho foram recebidos por militantes da causa palestina e apoiadores da Global Sumud Flotilha no aeroporto.\n04-05-2026\n\n/ Internacional, PSTU, Israel, Palestina, Palestina Livre, FNP - Federação Nacional dos Petroleiros, Thiago Ávila, Global Sumud Flotilha, Global Movement to Gaza",
           "link": "https://www.esquerdadiario.com.br/Leandro-Lanfredi-e-Mandi-Coelho-chegam-no-Brasil-apos-sequestro-da-Flotilha-por-Israel",
           "publishedOn": "2026-05-04T16:05:54.000Z",
-          "wordCount": 7987,
+          "wordCount": 7989,
           "title": "Leandro Lanfredi e Mandi Coelho chegam no Brasil após sequestro da Flotilha por Israel",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-04_at_07.09_37.jpg?1777910705"
         },
@@ -304,7 +451,7 @@
           "description": "Trabalhadores do metrô, aeroviários, ferroviários, das fábricas ocupadas da Madygraf e Zanon, da Secco, da Lustramax, da Shell, do Estaleiro Rio Santiago, motoristas da UTA, telefonistas. São algumas das categorias que marcaram presença no ato internacionalista do 1 de Maio que aconteceu no estádio Ferro, em Buenos Aires, organizado pelo PTS e pela FITU.\n04-05-2026\n\n/ Internacional, Classe trabalhadora, Argentina, PTS, 1 de Maio, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Trabalhadores-da-Secco-Lustramax-Mondelez-dos-transportes-e-outras-categorias-marcam-o-1-de-Maio",
           "publishedOn": "2026-05-04T15:54:23.000Z",
-          "wordCount": 8242,
+          "wordCount": 8239,
           "title": "Trabalhadores da Secco, Lustramax, Mondelez, dos transportes e outras categorias marcam o 1 de Maio internacionalista",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-01_at_6.02_12_pm-e7b43.jpg?1777910031"
         },
@@ -334,7 +481,7 @@
           "description": "O trabalhador da Fate, fábrica de pneus ocupada pelos trabalhadores, subiu ao palco com outros trabalhadores acompanhados de suas famílias, que já levam mais de 70 dias de luta.\n04-05-2026\n\n/ Internacional, Argentina, PTS, 1 de Maio, Fábrica, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Sebastian-Tesoro-A-Fate-nao-fecha-por-isso-ocupamos-resistimos-e-temos-as-maos-disponiveis-para",
           "publishedOn": "2026-05-04T14:37:00.000Z",
-          "wordCount": 7929,
+          "wordCount": 7933,
           "title": "Sebastián Tesoro: “A Fate não fecha, por isso ocupamos, resistimos e temos as mãos disponíveis para produzir”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-01_at_6_02_15_pm.jpg?1777905381"
         },
@@ -344,7 +491,7 @@
           "description": "A partir de um ato multitudinário em Ferro pelo 1º de Maio, a destacada professora Laura Champeau denunciou as condições de precariedade e atraso salarial dos e das professoras. Questionou duramente o ajuste na PBA e a perseguição à juventude. A candidata a secretária-geral no Suteba Ensenada pela Lista Multicolor chamou a recuperar essa ferramenta de luta.\n04-05-2026\n\n/ Internacional, Professores, Argentina, PTS, 1 de Maio, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Laura-Champeau-Temos-que-recuperar-nossos-sindicatos-para-que-sejam-ferramentas-de-luta-coletiva",
           "publishedOn": "2026-05-04T14:13:52.000Z",
-          "wordCount": 8505,
+          "wordCount": 8509,
           "title": "Laura Champeau: “Temos que recuperar nossos sindicatos para que sejam ferramentas de luta coletiva”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-04_at_11.11_56.jpg?1777903932"
         },
@@ -354,7 +501,7 @@
           "description": "Discurso de Ariane Anemoyannis, integrante de Revolução Permanente, organização irmã do PTS na França e da Corrente Revolução Permanente.\n04-05-2026\n\n/ Internacional, PTS na FIT, França, PTS, 1 de Maio, Révolution Permanente, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Ariane-Anemoyannis-Com-as-crises-e-as-guerras-tambem-florescem-as-revolucoes",
           "publishedOn": "2026-05-04T13:02:40.000Z",
-          "wordCount": 7915,
+          "wordCount": 7919,
           "title": "Ariane Anemoyannis: “Com as crises e as guerras também florescem as revoluções”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-04_at_10.01_51.jpg?1777899719"
         },
@@ -364,7 +511,7 @@
           "description": "“O único caminho pelo qual podemos deter o rearmamento imperialista em todo o mundo, que prepara novas grandes guerras imperialistas, é com a força da classe trabalhadora aliada a todos os oprimidos, com total independência de classe, sem nenhuma confiança em nenhum governo burguês, em nenhuma estratégia de aliança com a burguesia de onde quer que seja.”\n02-05-2026\n\n/ Internacional, Argentina, PTS, 1 de Maio, Partido dos Trabalhadores Socialistas (PTS)",
           "link": "https://www.esquerdadiario.com.br/Veja-o-discurso-de-Bruno-Gilga-no-1-de-maio-internacionalista-em-Buenos-Aires",
           "publishedOn": "2026-05-03T22:37:40.000Z",
-          "wordCount": 8847,
+          "wordCount": 8851,
           "title": "Veja o discurso de Bruno Gilga no 1 de maio internacionalista em Buenos Aires",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/bruno_gilga.jpg?1777847846"
         },
@@ -384,19 +531,9 @@
           "description": "O deputado nacional e dirigente do PTS-Frente de Esquerda abriu a série de discursos no ato internacionalista organizado pela Corrente Revolução Permanente. “Nosso anti-imperialismo busca aliar-se a todos os trabalhadores do mundo na perspectiva da revolução socialista”, disse\n02-05-2026\n\n/ Internacional, Argentina, PTS na FIT, PTS, 1 de Maio, Partido dos Trabalhadores Socialistas (PTS)",
           "link": "https://www.esquerdadiario.com.br/Nicolas-del-Cano-no-1-de-maio-em-Ferro-E-preciso-abolir-o-capitalismo",
           "publishedOn": "2026-05-03T15:06:40.000Z",
-          "wordCount": 8277,
+          "wordCount": 8281,
           "title": "Nicolás del Caño no 1 de maio em Ferro: \"É preciso abolir o capitalismo\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nico.jpg?1777820749"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Castillo-Que-a-militancia-seja-um-engrenagem-para-organizar-a-resistencia-e-um-Cordobaco-do-sec-XXI",
-          "author": "Redação",
-          "description": "Discurso em Ferro, do dirigente do PTS Christian Castillo.\n02-05-2026\n\n/ Internacional, Argentina, 1 de Maio, Partido dos Trabalhadores Socialistas (PTS)",
-          "link": "https://www.esquerdadiario.com.br/Castillo-Que-a-militancia-seja-um-engrenagem-para-organizar-a-resistencia-e-um-Cordobaco-do-sec-XXI",
-          "publishedOn": "2026-05-03T14:19:54.000Z",
-          "wordCount": 8699,
-          "title": "Castillo: \"Que a militância seja um engrenagem para organizar a resistência e um Cordobaço do séc. XXI\"",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_ato_pts.jpg?1777818074"
         }
       ]
     },
@@ -464,21 +601,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/04/28383306-high.jpeg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442663",
-          "author": "Isabella Mota",
-          "description": "Parlamentares viajaram com outros dois deputados federais, também defensores das apostas online, no avião de um empresário de uma bet para um paraíso fiscal no Caribe; na volta, cinco malas não passaram pelos raios X\nO post O voo escandaloso de Hugo Motta e Ciro Nogueira  apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/05/02/voo-escandaloso-hugo-motta-ciro-nogueira/",
-          "publishedOn": "2026-05-02T10:00:00.000Z",
-          "wordCount": null,
-          "title": "O voo escandaloso de Hugo Motta e Ciro Nogueira",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/04/Wando3.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/04/Wando3.jpg"
         }
       ]
     },
@@ -602,12 +724,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=253987",
+          "author": "Raissa Neves",
+          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (06/05) que, caso não haja acordo entre o Irã, “os bombardeios começarão”, acrescentando que a ação militar será conduzida “em um nível e com uma intensidade muito maiores do que antes”. Como medida, o presidente norte-americano afirmou que, caso o Irã aceite o acordo de […]\nO post Trump ameaça intensificar ataques caso não haja acordo com o Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-ameaca-intensificar-ataques-caso-nao-haja-acordo-com-o-ira/",
+          "publishedOn": "2026-05-06T22:10:41.000Z",
+          "wordCount": 3289,
+          "title": "Trump ameaça intensificar ataques caso não haja acordo com o Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/p20260416mr-0605.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=253957",
+          "author": "Raissa Neves",
+          "description": "Cerca de dois anos após as eleições norte-americanas que elegeram o atual presidente dos Estados Unidos, Donald Trump, um estudo da revista científica Nature afirma que o algoritmo do TikTok favoreceu conteúdo pró-Partido Republicano em três estados norte-americanos antes das eleições de 2024. O método utilizado pelos pesquisadores foi o uso de contas falsas que […]\nO post EUA: algoritmo do TikTok beneficiou conteúdo pró-Republicanos nas eleições de 2024, diz pesquisa apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/eua-algoritmo-do-tiktok-beneficiou-conteudo-pro-republicanos-nas-eleicoes-de-2024-diz-pesquisa/",
+          "publishedOn": "2026-05-06T21:40:02.000Z",
+          "wordCount": 3361,
+          "title": "EUA: algoritmo do TikTok beneficiou conteúdo pró-Republicanos nas eleições de 2024, diz pesquisa",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/solen-feyissa-yaw9mfg9qfq-unsplash-1-scaled.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=253982",
           "author": "Victor Farinelli",
           "description": "As forças de Israel lançaram na noite desta quarta-feira (06/05) um ataque aéreo contra os distritos de Haret Hreik e Ghobeiry, na zona sul da região metropolitana de Beirute, capital do Líbano. Segundo a Agência Nacional de Notícias do Líbano (NNA, por sua sigla em inglês), “aviões de guerra israelenses lançaram um ataque contra Ghobeiri, […]\nO post Em meio a rumores de acordo EUA-Irã para fim da guerra, Israel volta a bombardear Beirute apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/oriente-medio/em-meio-a-rumores-de-acordo-eua-ira-para-fim-da-guerra-israel-volta-a-bombardear-beirute/",
           "publishedOn": "2026-05-06T21:00:16.000Z",
-          "wordCount": 2945,
+          "wordCount": 2995,
           "title": "Em meio a rumores de acordo EUA-Irã para fim da guerra, Israel volta a bombardear Beirute",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/beirute.jpg"
         },
@@ -617,7 +759,7 @@
           "description": "Artista sempre sintonizada com a contemporaneidade da música brasileira, Alice Caymmi destrava um fantasma ao dedicar um álbum inteiro à releitura da obra de seu mitológico avô, Dorival Caymmi (1914-2008). Com 12 faixas. Caymmi varre composições históricas do cancioneiro baiano e brasileiro, num arco que compreende temas originais lançados desde 1939 até 1972. Em primeiro […]\nO post Alice Caymmi profana o avô Dorival para manter viva a chama da música brasileira e latino-americana apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/alice-caymmi-profana-o-avo-dorival-para-manter-viva-a-chama-da-musica-brasileira-e-latino-americana/",
           "publishedOn": "2026-05-06T20:19:19.000Z",
-          "wordCount": 5227,
+          "wordCount": 5277,
           "title": "Alice Caymmi profana o avô Dorival para manter viva a chama da música brasileira e latino-americana",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/0g0a0088_0.webp"
         },
@@ -637,7 +779,7 @@
           "description": "A cultura de massas, produzida de modo industrial desde meados do século XX, imprimiu uma espécie de subjetivação uniforme da sociedade, pautando-se em perspectivas e valores organizados fundamentalmente pelo horizonte estadunidense, que definiu as formas de produção estética como uma espécie de softpower do imperialismo. A crítica produzida pela tradição frankfurtiana à indústria cultural foi, […]\nO post Distopia: entre ficção e realidade apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/distopia-entre-ficcao-e-realidade/",
           "publishedOn": "2026-05-06T20:02:18.000Z",
-          "wordCount": 4178,
+          "wordCount": 4228,
           "title": "Distopia: entre ficção e realidade",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/aaaaqubi2ifqmrueusc7cw67ojseweop4j_aqcscuvtgg8zlxu9vhkgdtv-l8jiv1kka8clyluu-v1dhm1nanrbco5lkwywscgpgmsvz1fld8oadc_fpnhbicrqthvtkfiq6ccr5nskv9dkkgjjb2u7hl6tj-1024x683-1.jpg"
         },
@@ -667,7 +809,7 @@
           "description": "Conhecido como o espião dos Estados Unidos condenado por vender informações a Israel, Jonathan Pollard anunciou esta semana que pretende se candidatar a uma vaga no Knesset (Parlamento israelense), nas eleições que estão programadas para o próximo mês de outubro. A informação veio à tona durante uma entrevista ao Canal 13 de Israel, na qual […]\nO post Candidato ao Parlamento de Israel, ex-espião dos EUA defende limpeza étnica e anexação de Gaza apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/candidato-ao-parlamento-de-israel-ex-espiao-dos-eua-defende-limpeza-etnica-e-anexacao-de-gaza/",
           "publishedOn": "2026-05-06T18:00:14.000Z",
-          "wordCount": 3443,
+          "wordCount": 3493,
           "title": "Candidato ao Parlamento de Israel, ex-espião dos EUA defende limpeza étnica e anexação de Gaza",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/pollard.jpg"
         },
@@ -677,43 +819,57 @@
           "description": "O Tribunal Distrital de Beer Sheva, de Israel, rejeitou nesta quarta-feira (06/05) um recurso apresentado pela Adalah, associação jurídica de direitos humanos que representa os ativistas brasileiro Thiago Ávila e palestino-espanhol Saif Abu Keshek, contra a manutenção de suas detenções. O órgão israelense, por sua vez, confirmou a decisão de manter detidos os membros da […]\nO post Justiça de Israel rejeita recurso e mantém detenção de Thiago Ávila e Abu Keshek até domingo (10) apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/justica-de-israel-rejeita-recurso-e-mantem-detencao-de-thiago-avila-e-abu-keshek-ate-domingo-10/",
           "publishedOn": "2026-05-06T17:30:20.000Z",
-          "wordCount": 3274,
+          "wordCount": 3224,
           "title": "Justiça de Israel rejeita recurso e mantém detenção de Thiago Ávila e Abu Keshek até domingo (10)",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-9-750x536-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253938",
-          "author": "Rocio Paik",
-          "description": "A Organização das Nações Unidas (ONU) exigiu nesta quarta-feira (06/05) que o governo de Israel liberte, sem demora, o brasileiro Thiago Ávila e o hispano-palestino Saif Abu Keshek, ativistas capturados em uma flotilha que se dirigia a Gaza, exigindo ainda a apuração de denúncias sobre abusos físicos. A dupla permanece em uma unidade prisional em […]\nO post ONU exige libertação ‘imediata’ de Thiago Ávila e Abu Keshek, ativistas detidos em Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/onu-exige-libertacao-imediata-de-thiago-avila-e-abu-keshek-ativistas-detidos-em-israel/",
-          "publishedOn": "2026-05-06T16:00:02.000Z",
-          "wordCount": 3500,
-          "title": "ONU exige libertação ‘imediata’ de Thiago Ávila e Abu Keshek, ativistas detidos em Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-05-at-08.18.51-e1777980163491.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=253937",
-          "author": "Tatiana Carlotti",
-          "description": "Às vésperas do encontro entre o presidente Luiz Inácio Lula da Silva e seu homólogo nos Estados Unidos, Donald Trump, pesquisa do Instituto Real Time Big Data revela que em vez de ajudar, o apoio do mandatário norte-americano pode prejudicar os candidatos que disputam a Presidência brasileira neste ano. Segundo o levantamento, um eventual apoio […]\nO post Apoio de Trump pode prejudicar candidaturas nas eleições brasileiras, diz pesquisa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/apoio-de-trump-pode-prejudicar-candidaturas-nas-eleicoes-brasileiras-diz-pesquisa/",
-          "publishedOn": "2026-05-06T15:20:32.000Z",
-          "wordCount": 3079,
-          "title": "Apoio de Trump pode prejudicar candidaturas nas eleições brasileiras, diz pesquisa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/daniel-torok.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=225299",
+          "author": "Redação de AND",
+          "description": "O governo oportunista de Luiz Inácio (PT) anunciou no dia 4 de maio a implementação da segunda edição do programa “Desenrola Brasil”, que promove a transferência de renda pública para bancos e instituições financeiras a fim de parcelar o endividamento da população brasileira. Atualmente, 80,4% das famílias brasileiras estão endividadas, segundo dados da Confederação Nacional de Comércio, Bens, Serviços e Turismo.  A medida agradou rapidamente os magnatas do capital comprador e financeiro. É o caso do CEO do banco Itaú, Milton Maluhy Filho, crítico da primeira edição do programa “Desenrola Brasil” em 2023, onde classificou a medida como um “risco",
+          "link": "https://anovademocracia.com.br/desenrola-brasil-aumenta-divida-mais-pobres/",
+          "publishedOn": "2026-05-06T22:15:47.000Z",
+          "wordCount": null,
+          "title": "‘Desenrola Brasil’ entrega dinheiro aos bancos enquanto prorroga e aumenta dívida dos mais pobres",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=225292",
+          "author": "Redação de AND",
+          "description": "O tema mais sensível e perigoso da pauta é a intenção do EUA de classificar as chamadas “facções” como organizações terroristas. Se concretizada, essa medida não é meramente burocrática e performática, pois ela concede ao imperialismo ianque a prerrogativa legal de intervir diretamente no território brasileiro, sob o pretexto de \"combate ao terrorismo\".",
+          "link": "https://anovademocracia.com.br/luiz-inacio-trump-ingerencia-ianque-faccoes/",
+          "publishedOn": "2026-05-06T21:59:48.000Z",
+          "wordCount": null,
+          "title": "Luiz Inácio se reunirá com Trump para selar ingerência ianque no Brasil sob pretexto de ‘combate às facções’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=225272",
+          "author": "Redação de AND",
+          "description": "Enquanto o “Grande Satã” tenta reorganizar sua retórica de guerra, o Irã avança na consolidação de seu controle sobre o Estreito de Ormuz.",
+          "link": "https://anovademocracia.com.br/eua-suspende-operacao-ormuz-ira-controle/",
+          "publishedOn": "2026-05-06T21:45:02.000Z",
+          "wordCount": null,
+          "title": "Após fiasco militar, EUA suspende operação em Ormuz enquanto Irã amplia controle sobre estreito",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=225277",
+          "author": "Montezuma Cruz",
+          "description": "A arrecadação de terras devolutas para reforma agrária no Estado de Rondônia está moralmente comprometida, após a liberdade, sob fiança, de um oficial PM que contrabandeava medicamentos e canetas emagrecedoras.",
+          "link": "https://anovademocracia.com.br/pm-terras-devolutas-rondonia-contrabando/",
+          "publishedOn": "2026-05-06T21:30:47.000Z",
+          "wordCount": null,
+          "title": "PM arrecadador de terras devolutas em Rondônia cai nas garras do contrabando",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=225261",
           "author": "Redação de AND",
@@ -773,51 +929,6 @@
           "wordCount": null,
           "title": "SC: Trabalhadores do Serviço Público de Florianópolis iniciam greve contra a precarização das condições de trabalho",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225193",
-          "author": "Ana Nascimento",
-          "description": "Na brigada, os ativistas distribuíram materiais do Movimento Feminino Popular sobre a violência contra mulher que foram muito bem recebidos pelos moradores e moradoras que concordaram com a linha do AND e MFP. As moradoras denunciaram a constante insegurança de andar na rua e o caráter reacionário da polícia que piora os problemas da comunidade.",
-          "link": "https://anovademocracia.com.br/comite-apoio-and-brigada-contra-feminicidio/",
-          "publishedOn": "2026-05-05T17:25:45.000Z",
-          "wordCount": null,
-          "title": "SC: Comitê de Apoio ao AND realiza brigada com ativistas contra o feminicídio em Florianópolis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225187",
-          "author": "Giovanna Maria",
-          "description": "A manifestação ocorreu no terminal de ônibus mais movimentado da cidade e abordou as massas voltando do trabalho. Os ativistas rechaçaram a escala 6x1 e demonstraram apoio às lutas anti-imperialistas atualmente em curso e à guerra popular na Índia.",
-          "link": "https://anovademocracia.com.br/pb-ato-em-celebracao-ao-1-de-maio-agita-centro-de-joao-pessoa/",
-          "publishedOn": "2026-05-05T13:43:11.000Z",
-          "wordCount": null,
-          "title": "PB: Ato em celebração ao 1° de maio agita centro de João Pessoa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225175",
-          "author": "Redação de AND",
-          "description": "A cena se repete a cada chuva: alagamentos, canais de esgoto vazados, aulas suspensas e, o pior, mortes e deslocamentos forçados por desastres premeditados.",
-          "link": "https://anovademocracia.com.br/negligencia-produz-124-mil-desabrigados-e-8-mortos-durante-as-fortes-chuvas-em-pernambuco-e-paraiba/",
-          "publishedOn": "2026-05-04T22:13:32.000Z",
-          "wordCount": null,
-          "title": "Negligência produz 12,4 mil desabrigados e 8 mortos durante as fortes chuvas em Pernambuco e Paraíba",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/05/Video-1-Fonte_-Reproducao-da-internet-Legenda_-Homem-fala-sobre-a-situacao-que-a-populacao-esta-passando-por-conta-das-fortes-chuvas-no-nas-medicoes-do-Sesi-Ibura.mp4",
-            "length": "16308736",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225171",
-          "author": "Redação de AND",
-          "description": "A importância estratégica dessas ações transcende o conflito interno e se coloca como um entrave real aos planos da reação colombiana e do imperialismo ianque na região.",
-          "link": "https://anovademocracia.com.br/em-meio-a-ofensiva-eln-desmascara-a-submissao-de-petro-ao-imperialismo/",
-          "publishedOn": "2026-05-04T22:03:22.000Z",
-          "wordCount": null,
-          "title": "Em meio à ofensiva, ELN desmascara a submissão de Petro ao imperialismo",
-          "imageUrl": null
         }
       ]
     },
@@ -846,10 +957,10 @@
         {
           "id": "https://outraspalavras.net/?p=3184341",
           "author": "Edna Aparecida da Silva",
-          "description": "Não é só Serra Verde. Em surdina, Casa Branca avança sobre minerais estratégicos brasileiros. Apropriação é parte de projeto geopolítico: voltar o país contra o Sul Global e usá-lo como peão, para que o Ocidente controle as novas tecnologias\nThe post Terras Raras: O assalto americano appeared first on Outras Palavras.",
+          "description": "Às vésperas do encontro Lula-Trump, Casa Branca avança sobre minerais críticos brasileiros. Apropriação é parte de projeto geopolítico: voltar o país contra o Sul Global e usá-lo como peão, para que o Ocidente controle as novas tecnologias\nThe post Terras Raras: O assalto americano appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/terras-raras-o-assalto-americano/",
           "publishedOn": "2026-05-06T21:04:57.000Z",
-          "wordCount": 4705,
+          "wordCount": 4706,
           "title": "Terras Raras: O assalto americano",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/06180139/Screenshot-2026-05-06-at-18-01-20-42cecb8b1e17ad4ea885a92646bdf9cfe122e72980f78ba035d6e842a1b1311d.jpg-imagem-JPEG-3840-%C3%97-2160-pixels-Redimensionada-32-768x433.png"
         },
@@ -966,7 +1077,7 @@
           "description": "Os ataques contínuos de Israel e as restrições à ajuda humanitária transformaram o cessar-fogo em uma farsa. Agora, Israel condiciona a retirada do cessar-fogo à entrega total das armas do Hamas. Por Muhammad Shehada",
           "link": "https://passapalavra.info/2026/05/159162/",
           "publishedOn": "2026-05-05T14:38:58.000Z",
-          "wordCount": 8713,
+          "wordCount": 9044,
           "title": "A armadilha do desarmamento em Gaza",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-11-37-21-imagem-JPEG-445-×-304-pixels.png"
         },
@@ -1003,7 +1114,7 @@
           "description": "Ederson Duda: \"O aumento do endividamento das famílias e a sensação generalizada de deterioração das condições de vida não constituem desvios em relação a um padrão anterior de estabilidade, mas a própria forma historicamente específica pela qual a reprodução da vida social vem sendo reorganizada sob a hegemonia do capital financeiro.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/05/a-vida-sob-a-divida-por-que-a-vida-nao-melhora-mesmo-com-a-economia-melhorando/",
           "publishedOn": "2026-05-05T21:44:11.000Z",
-          "wordCount": 15696,
+          "wordCount": 15850,
           "title": "A vida sob a dívida: por que a vida não melhora mesmo com a economia “melhorando”?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/chatgpt-image-5-de-mai.-de-2026-18_15_38.png?fit=1200%2C800&ssl=1"
         },
@@ -1023,7 +1134,7 @@
           "description": "Nos 30 anos da Boitempo, nosso tradicional curso livre Marx-Engels ganha nova edição, baseada na antologia \"O essencial de Marx e Engels\". Confira a programação completa das aulas que começam neste final de semana, no Rio de Janeiro – e fique de olho nas nossas redes, pois este ano o curso chega pela primeira vez a todas as regiões do Brasil!",
           "link": "https://blogdaboitempo.com.br/2026/05/04/o-curso-livre-marx-engels-o-essencial-chega-ao-rio-confira-a-programacao-e-saiba-mais-sobre-o-projeto/",
           "publishedOn": "2026-05-04T22:00:17.000Z",
-          "wordCount": 11599,
+          "wordCount": 11749,
           "title": "O “Curso Livre Marx-Engels: O Essencial” chega ao Rio! Confira a programação e saiba mais sobre o projeto",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-email-curso-livre-marx-engels-2026-ze-paulo_01.jpg"
         },
@@ -1036,16 +1147,6 @@
           "wordCount": 13280,
           "title": "Como Nino virou Antonio Gramsci?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-39.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=63872",
-          "author": "Boitempo",
-          "description": "Juliana Paula Magalhães: \"Ao demonstrar a especificidade histórica das formas sociais capitalistas, dentre elas a forma jurídica, a forma política estatal e a forma moral, Pachukanis fornece uma preciosa chave para a compreensão estrutural da mentira no capitalismo em suas múltiplas conformações e determinações.\"",
-          "link": "https://blogdaboitempo.com.br/2026/05/02/a-mentira-na-filosofia-tres-caminhos-da-filosofia-contemporanea/",
-          "publishedOn": "2026-05-02T11:00:00.000Z",
-          "wordCount": 18385,
-          "title": "A mentira na filosofia: três caminhos da filosofia contemporânea",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/04/image-30.png"
         }
       ]
     }
