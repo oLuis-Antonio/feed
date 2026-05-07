@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T03:51:23.522Z</id>
+    <id>urn:2026-05-07T06:44:46.546Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-07T03:51:23.522Z</updated>
+    <updated>2026-05-07T06:44:46.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1159,16 +1159,6 @@ O post Bets já tiram mais dinheiro das famílias pobres do que os juros aparece
         <summary type="html"><![CDATA[O Brasil vive uma escalada alarmante da violência policial: entre 2024 e 2025, as mortes causadas por policiais militares cresceram 4,5% em todo o país, com 17 estados registrando aumento nos índices de letalidade. Redação SP Segundo dados divulgados pelo Ministério da Justiça, o Brasil registrou um aumento de 4,5% nas mortes causadas por policiais […]]]></summary>
         <author>
             <name>Jesse Lisboa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ataque de dissertação]]></title>
-        <id>https://passapalavra.info/?p=159155</id>
-        <link href="https://passapalavra.info/2026/05/159155/"/>
-        <updated>2026-05-02T16:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Os dois estavam chegando na universidade naquele ano, um para a graduação e o outro para o mestrado: — Vai estudar o que no mestrado? — A economia da reciclagem nesta região… — O quê? — O trabalho dos catadores de lixo reciclável, a relação desse trabalho com as empresas do setor, com o poder […]]]></summary>
-        <author>
-            <name>FP</name>
         </author>
     </entry>
 </feed>
