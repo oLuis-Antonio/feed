@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "lMomi3",
+          "author": null,
+          "description": "A decisão é consequência da Reitoria se negar a cumprir com o compromisso de negociação com os estudantes, como havia acordado no dia 30 de abril.",
+          "link": "https://jornalofuturo.com.br/artigo/lMomi3-estudantes-da-usp-ocupam-a-reitoria-pela-abertura-da-mesa-de-negociacao",
+          "publishedOn": "2026-05-08T12:00:00.000Z",
+          "wordCount": 2813,
+          "title": "Estudantes da USP ocupam a reitoria pela abertura da mesa de negociação",
+          "imageUrl": "https://media.jornalofuturo.com.br/greveusp1-900x1600.jpg"
+        },
+        {
           "id": "72Ejrc",
           "author": null,
           "description": "Retirada da pauta da agenda escancara as contradições de um governo incapaz de defender os trabalhadores frente às big-techs de aplicativos.",
@@ -71,16 +81,6 @@
           "wordCount": 7117,
           "title": "Prefeitura de Embu-Guaçu atrasa pagamento de servidores há mais de um ano",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-03-at-20.09.42.jpeg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61623",
-          "author": "Leonardo de Paula",
-          "description": "Em todo Brasil, trabalhadores ocuparam as ruas exigindo o fim da escala 6×1, o fim das guerras imperialistas, aumento geral dos salários e melhores condições de trabalho. Impulsionados pela militância do Movimento Luta de Classes (MLC) e pela Unidade Popular pelo Socialismo (UP), os trabalhadores reafirmaram seu compromisso em lutar pelo Poder Popular e pelo […]",
-          "link": "https://averdade.org.br/2026/05/trabalhadoras-vao-as-ruas-de-todo-o-brasil-exigir-fim-da-escala-6x1-no-1-de-maio/",
-          "publishedOn": "2026-05-03T22:54:45.000Z",
-          "wordCount": 7164,
-          "title": "Trabalhadores vão às ruas de todo o Brasil exigir fim da escala 6×1 no 1° de maio",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_2918.jpg"
         }
       ]
     },
@@ -247,12 +247,32 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Zema-Simoes-querem-jogar-2-mil-trabalhadoras-da-educacao-no-desemprego-apos-leiloar-95-escolas",
+          "author": "Redação MG",
+          "description": "O governo Zema/Simões se prepara para demitir cerca de 2 mil ASBs, responsáveis pelo funcionamento cotidiano das escolas estaduais.\n06-05-2026\n\n/ Classe trabalhadora, Educação, Terceirização, Demissões, Minas Gerais, Romeu Zema, Rossieli Soares, Privatização da Educação",
+          "link": "https://www.esquerdadiario.com.br/Zema-Simoes-querem-jogar-2-mil-trabalhadoras-da-educacao-no-desemprego-apos-leiloar-95-escolas",
+          "publishedOn": "2026-05-08T12:34:20.000Z",
+          "wordCount": 8171,
+          "title": "Zema/Simões querem jogar 2 mil trabalhadoras da educação no desemprego após leiloar 95 escolas",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-08_at_09.30_13_1_.jpg?1778243468"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Trabalhador-da-Linha-9-Esmeralda-de-Sao-Paulo-morre-eletrocutado-Tarcisio-e-Via-Mobilidade-sao",
+          "author": "Redação",
+          "description": "Adriano Alves Ferreira, pai de uma filha, morreu eletrocutado enquanto realizava manutenção na via aérea próximo à Estação de trem Morumbi. Em 2025 e 2022 outros eletricistas morreram em condições semelhantes na mesma linha, sendo esta a terceira morte de trabalhador desde a privatização desta linha em 2022. \n A privatização e precarização do trabalho vitimaram mais um trabalhador. Adriano Alves Ferreira realizava manutenção de rotina na rede alimentadora dos trens que atendem a Faria Lima (…)\n06-05-2026\n\n/ Classe trabalhadora",
+          "link": "https://www.esquerdadiario.com.br/Trabalhador-da-Linha-9-Esmeralda-de-Sao-Paulo-morre-eletrocutado-Tarcisio-e-Via-Mobilidade-sao",
+          "publishedOn": "2026-05-08T10:40:28.000Z",
+          "wordCount": 7885,
+          "title": "Trabalhador da Linha 9 - Esmeralda de São Paulo morre eletrocutado. Tarcísio e Via Mobilidade são responsáveis",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000420366.jpg?1778236621"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Os-estudantes-da-USP-defendem-a-educacao-quem-causa-danos-ao-patrimonio-publico-e-a-reitoria",
           "author": "Redação",
           "description": "Após a ocupação no prédio da reitoria por parte dos estudantes, a reitoria soltou uma nota absurda acusando os estudantes de causar dano ao patrimônio público, e ainda fez ameaças de repressão com a PM de Tarcísio\n02-05-2026\n\n/ Juventude, USP, São Paulo, USP, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Os-estudantes-da-USP-defendem-a-educacao-quem-causa-danos-ao-patrimonio-publico-e-a-reitoria",
           "publishedOn": "2026-05-08T00:00:26.000Z",
-          "wordCount": 7991,
+          "wordCount": 7996,
           "title": "Os estudantes da USP defendem a educação, quem causa danos ao patrimônio público é a reitoria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ocupacaousp.jpg?1778198300"
         },
@@ -292,7 +312,7 @@
           "description": "A reunião de amanhã entre Lula e Donald Trump ocorre em um cenário internacional marcado pelo agravamento das disputas interimperialistas, pela crise econômica mundial e pela corrida das grandes potências por recursos estratégicos. Entre eles, as chamadas “terras raras” ocupam um lugar central, fundamentais para a indústria tecnológica, militar e energética contemporânea. Não por acaso, o Brasil aparece cada vez mais no radar do imperialismo estadunidense.\n06-05-2026\n\n/ Meio Ambiente, MRT, Lula, Donald Trump, Editorial MRT, Ronaldo Caiado, Destruição do meio ambiente, Governo Lula, Terras Raras",
           "link": "https://www.esquerdadiario.com.br/As-terras-raras-sao-nossas-contra-o-entreguismo-a-subordinacao-ao-imperialismo-e-a-destruicao",
           "publishedOn": "2026-05-06T21:18:26.000Z",
-          "wordCount": 8905,
+          "wordCount": 8909,
           "title": "As terras raras são nossas: contra o entreguismo, a subordinação ao imperialismo e a destruição ambiental",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-06_at_18.12_28.jpg?1778102229"
         },
@@ -342,7 +362,7 @@
           "description": "Encontro diplomático entre Wang Yi e Abbas Araghchi revela as preocupações da às vésperas da cúpula com Donald Trump.\n06-05-2026\n\n/ Internacional, China, Irã, Donald Trump",
           "link": "https://www.esquerdadiario.com.br/Encontro-China-Ira-preocupacao-com-Ormuz-e-o-anseio-pela-desescalada",
           "publishedOn": "2026-05-06T14:23:55.000Z",
-          "wordCount": 8717,
+          "wordCount": 8720,
           "title": "Encontro China-Irã: preocupação com Ormuz e o anseio pela desescalada",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2fe2470d-a787-47c2-9c2d-7c045c468b87.jpg?1778077405"
         },
@@ -362,7 +382,7 @@
           "description": "Nesta terça-feira, 5, os estudantes da UFRN que moram na residência universitária realizaram um importante ato para denunciar a situação de fome e precariedade que a reitoria da universidade está fazendo eles passarem. Os residentes novamente estão denunciando a falta da quarta refeição e da janta aos finais de semana, além de uma série de problemas de infraestrutura, como fogões e micro-ondas que não funcionam, precarização da infraestrutura dos pisos, entre outros problemas. Nesta matéria, reproduzimos alguns relatos desses estudantes.\n06-05-2026\n\n/ Juventude, Moradia, Permanência Estudantil, UFRN, Estudantes, Insegurança alimentar, Faísca Revolucionária",
           "link": "https://www.esquerdadiario.com.br/Residentes-da-UFRN-denunciam-falta-de-comida-e-predios-precarizados-em-ato-na-reitoria",
           "publishedOn": "2026-05-06T13:24:46.000Z",
-          "wordCount": 8748,
+          "wordCount": 8752,
           "title": "Residentes da UFRN denunciam falta de comida e prédios precarizados em ato na reitoria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-06_at_10.15_40.jpg?1778073878"
         },
@@ -512,7 +532,7 @@
           "description": "O trabalhador da Fate, fábrica de pneus ocupada pelos trabalhadores, subiu ao palco com outros trabalhadores acompanhados de suas famílias, que já levam mais de 70 dias de luta.\n04-05-2026\n\n/ Internacional, Argentina, PTS, 1 de Maio, Fábrica, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Sebastian-Tesoro-A-Fate-nao-fecha-por-isso-ocupamos-resistimos-e-temos-as-maos-disponiveis-para",
           "publishedOn": "2026-05-04T14:37:00.000Z",
-          "wordCount": 7921,
+          "wordCount": 7929,
           "title": "Sebastián Tesoro: “A Fate não fecha, por isso ocupamos, resistimos e temos as mãos disponíveis para produzir”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-01_at_6_02_15_pm.jpg?1777905381"
         },
@@ -522,29 +542,9 @@
           "description": "A partir de um ato multitudinário em Ferro pelo 1º de Maio, a destacada professora Laura Champeau denunciou as condições de precariedade e atraso salarial dos e das professoras. Questionou duramente o ajuste na PBA e a perseguição à juventude. A candidata a secretária-geral no Suteba Ensenada pela Lista Multicolor chamou a recuperar essa ferramenta de luta.\n04-05-2026\n\n/ Internacional, Professores, Argentina, PTS, 1 de Maio, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Laura-Champeau-Temos-que-recuperar-nossos-sindicatos-para-que-sejam-ferramentas-de-luta-coletiva",
           "publishedOn": "2026-05-04T14:13:52.000Z",
-          "wordCount": 8499,
+          "wordCount": 8500,
           "title": "Laura Champeau: “Temos que recuperar nossos sindicatos para que sejam ferramentas de luta coletiva”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-04_at_11.11_56.jpg?1777903932"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Ariane-Anemoyannis-Com-as-crises-e-as-guerras-tambem-florescem-as-revolucoes",
-          "author": "Redação",
-          "description": "Discurso de Ariane Anemoyannis, integrante de Revolução Permanente, organização irmã do PTS na França e da Corrente Revolução Permanente.\n04-05-2026\n\n/ Internacional, PTS na FIT, França, PTS, 1 de Maio, Révolution Permanente, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
-          "link": "https://www.esquerdadiario.com.br/Ariane-Anemoyannis-Com-as-crises-e-as-guerras-tambem-florescem-as-revolucoes",
-          "publishedOn": "2026-05-04T13:02:40.000Z",
-          "wordCount": 7910,
-          "title": "Ariane Anemoyannis: “Com as crises e as guerras também florescem as revoluções”",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-04_at_10.01_51.jpg?1777899719"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Veja-o-discurso-de-Bruno-Gilga-no-1-de-maio-internacionalista-em-Buenos-Aires",
-          "author": "Redação",
-          "description": "“O único caminho pelo qual podemos deter o rearmamento imperialista em todo o mundo, que prepara novas grandes guerras imperialistas, é com a força da classe trabalhadora aliada a todos os oprimidos, com total independência de classe, sem nenhuma confiança em nenhum governo burguês, em nenhuma estratégia de aliança com a burguesia de onde quer que seja.”\n02-05-2026\n\n/ Internacional, Argentina, PTS, 1 de Maio, Partido dos Trabalhadores Socialistas (PTS)",
-          "link": "https://www.esquerdadiario.com.br/Veja-o-discurso-de-Bruno-Gilga-no-1-de-maio-internacionalista-em-Buenos-Aires",
-          "publishedOn": "2026-05-03T22:37:40.000Z",
-          "wordCount": 8842,
-          "title": "Veja o discurso de Bruno Gilga no 1 de maio internacionalista em Buenos Aires",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/bruno_gilga.jpg?1777847846"
         }
       ]
     },
@@ -641,7 +641,7 @@
           "description": "Ato ocorreu um mês após a morte de Thawanna da Silva Salmázio e reuniu familiares de vítimas, moradores e representantes de entidades civis na zona leste de São Paulo\nO conteúdo ‘Estamos pedindo arrego’: Moradores protestam contra violência policial em Cidade Tiradentes (SP) Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/estamos-pedindo-arrego-moradores-protestam-contra-violencia-policial-em-cidade-tiradentes-sp/",
           "publishedOn": "2026-05-07T23:30:10.000Z",
-          "wordCount": 5963,
+          "wordCount": 6023,
           "title": "‘Estamos pedindo arrego’: Moradores protestam contra violência policial em Cidade Tiradentes (SP)",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/05/PMs-diante-de-faixa-por-justica-para-Thawanna.webp"
         },
@@ -738,7 +738,7 @@
           "description": "inferno se abateu sobre a escola Shajareh Tayyebeh, em Minab. Era sábado, 28 de fevereiro de 2026, dia letivo no Irã. As aulas haviam sido suspensas devido aos bombardeios americanos, mas centenas de pessoas permaneciam no prédio, esperando que os alunos fossem buscados por suas famílias. Era um processo demorado, já que muitas meninas e […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/05/palantir-a-empresa-mais-perigosa-do-mundo/",
           "publishedOn": "2026-05-05T13:03:30.000Z",
-          "wordCount": 4349,
+          "wordCount": 4353,
           "title": "Palantir: a empresa mais perigosa do mundo",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/palantir82_Astorgano.webp"
         },
@@ -760,12 +760,82 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=254159",
+          "author": "Tabitha Ramalho",
+          "description": "A Global Sumud Flotilha (GSF) denunciou relatos de ativistas que sofreram violência física e sexual de soldados israelenses durante a detenção da embarcação humanitária em águas internacionais. Segundo a organização, pelo menos quatro participantes foram assediados pelos militares das IOF. “Duas pessoas relataram terem sofrido penetração anal com um dedo. Outras relataram terem sido golpeadas […]\nO post Flotilha denuncia agressão sexual de soldados israelenses contra ativistas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/flotilha-denuncia-agressao-sexual-de-soldados-israelenses-contra-ativistas/",
+          "publishedOn": "2026-05-08T13:45:53.000Z",
+          "wordCount": 3170,
+          "title": "Flotilha denuncia agressão sexual de soldados israelenses contra ativistas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhtr5-ux0ai1mdr.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254151",
+          "author": "Tabitha Ramalho",
+          "description": "Quase um mês após a eleição presidencial no Peru, a autoridade eleitoral do país ainda não anunciou quem passará para o segundo turno, marcado para 7 de junho. Com 98,25% dos votos apurados , a direitista Keiko Fujimori, filha do ex-ditador Alberto Fujimori, garantiu o primeiro lugar, com 17,14% e quase 2,8 milhões de votos. […]\nO post Organização dos Estados Americanos insta Peru a concluir contagem dos votos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/organizacao-dos-estados-americanos-insta-peru-a-concluir-contagem-dos-votos/",
+          "publishedOn": "2026-05-08T12:10:04.000Z",
+          "wordCount": 3715,
+          "title": "Organização dos Estados Americanos insta Peru a concluir contagem dos votos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/peru-protest-in-defense-of-vote-2.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254149",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente dos Estados Unidos, Donald Trump, conversou por telefone nesta quinta-feira (07/05) com a presidente da Comissão Europeia, Ursula von der Leyen, sobre o acordo comercial firmado por Washington com a União Europeia (UE) em Bruxelas, no ano passado. Ele deu um ultimato para que os países europeus ratifiquem o acordo até o dia […]\nO post Trump exige que União Europeia ratifique acordo comercial até 4 de julho apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/trump-exige-que-uniao-europeia-ratifique-acordo-comercial-ate-4-de-julho/",
+          "publishedOn": "2026-05-08T11:59:06.000Z",
+          "wordCount": 3247,
+          "title": "Trump exige que União Europeia ratifique acordo comercial até 4 de julho",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/54664277132_a4bed6f633_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254144",
+          "author": "Tabitha Ramalho",
+          "description": "O presidente cubano, Miguel Díaz-Canel Bermúdez, descreveu na quinta-feira (07/05) a nova onda de sanções ilegais dos EUA contra a ilha como uma “agressão unilateral” e enfatizou que, embora agravem a “difícil situação” do país, elas “fortalecem nossa determinação de defender a pátria, a Revolução e o socialismo na mesma medida”. “Nosso povo já conhece […]\nO post Díaz-Canel classifica novas sanções dos EUA como ‘agressão unilateral’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-classifica-novas-sancoes-dos-eua-como-agressao-unilateral/",
+          "publishedOn": "2026-05-08T11:26:30.000Z",
+          "wordCount": 4448,
+          "title": "Díaz-Canel classifica novas sanções dos EUA como ‘agressão unilateral’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hdas6j9amaegtk1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254134",
+          "author": "Tatiana Carlotti",
+          "description": "Os Estados Unidos e o Irã entraram em confronto no Estreito de Ormuz na noite desta quinta-feira (07/05), em meio às tratativas indiretas para o cessar-fogo do enclave, anunciado em 8 de abril. As forças iranianas acusaram os Estados Unidos de violar o cessar-fogo ao iniciar os ataques atingindo um petroleiro iraniano e um outro […]\nO post EUA e Irã trocam ataques no Estreito de Ormuz após petroleiro iraniano ser atingido apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-e-ira-trocam-ataques-no-estreito-de-ormuz/",
+          "publishedOn": "2026-05-08T10:25:22.000Z",
+          "wordCount": 3504,
+          "title": "EUA e Irã trocam ataques no Estreito de Ormuz após petroleiro iraniano ser atingido",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/captura-de-tela-2026-03-28-120528.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254131",
+          "author": "Tabitha Ramalho",
+          "description": "O Ministério da Defesa da Rússia anunciou na sexta-feira (08/05) que, apesar da trégua declarada para o Dia da Vitória, as forças do regime de Kiev violaram o cessar-fogo ao lançarem ataques. Segundo o Ministério da Defesa, a partir da meia-noite de 8 de maio, todos os grupos de tropas russas na área da operação […]\nO post Rússia acusa Ucrânia de violar cessar-fogo do Dia da Vitória apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-acusa-ucrania-de-violar-cessar-fogo-do-dia-da-vitoria/",
+          "publishedOn": "2026-05-08T10:21:58.000Z",
+          "wordCount": 3250,
+          "title": "Rússia acusa Ucrânia de violar cessar-fogo do Dia da Vitória",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1473599.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254128",
+          "author": "Tabitha Ramalho",
+          "description": "Os resultados preliminares das eleições locais ocorridas nesta quinta-feira (07/06) na Grã-Bretanha indicam um avanço considerável do partido de extrema direita Reform, do líder Nigel Farage, em redutos tradicionalmente da esquerda trabalhista, como o norte da Inglaterra. Pela contagem parcial dos votos durante a madrugada e nesta manhã (08/05), o Reform UK se mostra muito […]\nO post Extrema direita avança em eleições locais na Grã-Bretanha e ameaça cargo de Starmer apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/europa/extrema-direita-avanca-em-eleicoes-locais-na-gra-bretanha-e-ameaca-cargo-de-starmer/",
+          "publishedOn": "2026-05-08T10:04:30.000Z",
+          "wordCount": 3736,
+          "title": "Extrema direita avança em eleições locais na Grã-Bretanha e ameaça cargo de Starmer",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhu9qjswoauluhu.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=254121",
           "author": "Victor Farinelli",
           "description": "Em coletiva à imprensa organizada na Embaixada do Brasil em Washington, horas depois da reunião realizada nesta quinta-feira (07/05) com seu homólogo dos Estados Unidos, Donald Trump, o presidente do Brasil, Luiz Inácio Lula da Silva, disse que o encontro não abordou um dos elementos mais discutidos a esse respeito nos últimos meses: as ameaças […]\nO post Omissão sobre CV e PCC em reunião com Trump merece desconfiança de Lula, diz especialista apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/omissao-sobre-cv-e-pcc-em-reuniao-com-trump-merece-desconfianca-de-lula-diz-especialista/",
           "publishedOn": "2026-05-07T22:37:07.000Z",
-          "wordCount": 3579,
+          "wordCount": 3575,
           "title": "Omissão sobre CV e PCC em reunião com Trump merece desconfiança de Lula, diz especialista",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55255888144_db94efbaf8_b.jpg"
         },
@@ -775,7 +845,7 @@
           "description": "Assis Valente era baiano, negro, compositor e dentista de pobres no Rio dos anos 1930. Homem que conhecia o desastre de perto e sabia que o desastre, na maioria das vezes, passa. Em 1938, escreveu um  samba sobre o fim do mundo que não veio. Carmen Miranda gravou bonito, o país inteiro assimilou e cantou […]\nO post Jorge Messias barrado, e o mundo não se acabou apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/jorge-messias-barrado-e-o-mundo-nao-se-acabou/",
           "publishedOn": "2026-05-07T22:09:17.000Z",
-          "wordCount": 4074,
+          "wordCount": 4070,
           "title": "Jorge Messias barrado, e o mundo não se acabou",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/54321385438_c850ac102d_c.jpg"
         },
@@ -785,79 +855,9 @@
           "description": "A Associação Brasileira dos Municípios Mineradores (Amig Brasil) e especialistas em mineração criticaram o texto do projeto de lei (PL) sobre minerais críticos, aprovado nesta quarta-feira (06/05) na Câmara dos Deputados. Diferentemente das mineradoras privadas que elogiaram a matéria, a Amig alega que a proposta não é capaz de promover a industrialização desses minerais no […]\nO post Especialistas e municípios criticam PL sobre minerais críticos apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/especialistas-e-municipios-criticam-pl-sobre-minerais-criticos/",
           "publishedOn": "2026-05-07T22:05:27.000Z",
-          "wordCount": 5116,
+          "wordCount": 5112,
           "title": "Especialistas e municípios criticam PL sobre minerais críticos",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/sigma-lithium-litio-jequitinhonh.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254092",
-          "author": "Victor Farinelli",
-          "description": "Depois de um mês de abril marcado por crescentes manifestações populares e trabalhistas, o governo interino do Haiti anunciou na segunda-feira (04/05) um aumento no salário mínimo dos operários terceirizados. Ainda que abaixo da reivindicação dos grevistas, o ajuste vem recompensar a mobilização sindical que começou seis meses atrás e cresceu feito bola de neve […]\nO post Governo do Haiti ‘não tem interesse em reestabelecer democracia’, diz líder sindical apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/governo-do-haiti-nao-tem-interesse-em-reestabelecer-democracia-diz-lider-sindical/",
-          "publishedOn": "2026-05-07T21:00:35.000Z",
-          "wordCount": 4396,
-          "title": "Governo do Haiti ‘não tem interesse em reestabelecer democracia’, diz líder sindical",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/haiti.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254088",
-          "author": "Rocio Paik",
-          "description": "A Organização Mundial da Saúde (OMS) afirmou nesta quinta‑feira (07/05) que o surto de hantavírus identificado em um navio de cruzeiro que agora navega rumo à ilha de Tenerife deve permanecer limitado e que não há risco pandêmico. “Embora seja um incidente sério, a OMS avalia o risco para a saúde pública como baixo”, afirmou […]\nO post OMS espera novos casos de hantavírus, mas descarta pandemia e ‘novas cadeias de transmissão’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/saude/oms-espera-novos-casos-de-hantavirus-mas-descarta-pandemia-e-novas-cadeias-de-transmissao/",
-          "publishedOn": "2026-05-07T20:20:31.000Z",
-          "wordCount": 3886,
-          "title": "OMS espera novos casos de hantavírus, mas descarta pandemia e ‘novas cadeias de transmissão’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hgfjgbrwcaas_ap.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254071",
-          "author": "Tatiana Carlotti",
-          "description": "O ex-presidente russo Dmitry Medvedev publicou um longo artigo no portal russo RT nesta quinta-feira (07/05), comparando o atual comportamento da Alemanha com o governo nazista em 1941, antes de o país invadir a União Soviética, dando início à Operação Barbarossa, durante a II Guerra Mundial. Medvedev, presidente entre 2008 e 2012, detalha vários exemplos […]\nO post Ex-presidente russo acusa Alemanha de colocar segurança da Europa em risco apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/ex-presidente-russo-acusa-alemanha-de-colocar-seguranca-da-europa-em-risco/",
-          "publishedOn": "2026-05-07T19:40:02.000Z",
-          "wordCount": 3880,
-          "title": "Ex-presidente russo acusa Alemanha de colocar segurança da Europa em risco",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-07-134513.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254066",
-          "author": "Fernanda Oliveira",
-          "description": "A relatora das Nações Unidas para os territórios palestinos ocupados, Francesca Albanese, repudiou o sequestro ilegal do ativista brasileiro Thiago Ávila e do palestino-espanhol Abu Keshek em águas internacionais próximas à Grécia pelo Exército de Israel. Ambos integravam a Flotilha Global Sumud, a missão humanitária que navegava para Faixa de Gaza com intuito de quebrar […]\nO post Francesca Albanese pede ‘mais pressão’ da Europa pela liberdade de ativistas detidos em Israel apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/francesca-albanese-pede-mais-pressao-da-europa-pela-liberdade-de-ativistas-detidos-em-israel/",
-          "publishedOn": "2026-05-07T19:00:17.000Z",
-          "wordCount": 3241,
-          "title": "Francesca Albanese pede ‘mais pressão’ da Europa pela liberdade de ativistas detidos em Israel",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-06-at-19.39.11-e1778171047863.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254099",
-          "author": "Victor Farinelli",
-          "description": "O presidente brasileiro Luiz Inácio Lula da Silva classificou a reunião com o homólogo norte-americano Donald Trump nesta quinta-feira (07/05) em Washington, na Casa Branca, que durou mais de três horas, como um “passo importante na consolidação da relação democrática e histórica”. Durante coletiva, o líder sul-americano ressaltou que uma boa relação entre as “duas […]\nO post Lula diz que Trump descartou invasão a Cuba durante reunião apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-diz-que-trump-descartou-invasao-a-cuba-durante-reuniao/",
-          "publishedOn": "2026-05-07T18:50:46.000Z",
-          "wordCount": 4711,
-          "title": "Lula diz que Trump descartou invasão a Cuba durante reunião",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/lula-trump.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254090",
-          "author": "Raissa Neves",
-          "description": "Em 7 de maio de 1919, nascia Eva Perón, dita Evita, uma das lideranças políticas mais populares e influentes da história da Argentina. Casada com Juan Domingo Perón e alçada ao posto de primeira-dama, Eva usou sua popularidade como instrumento político e elemento de ligação com as classes populares, ajudando a converter o peronismo em […]\nO post Eva Perón: a construção de um mito apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/eva-peron-a-construcao-de-um-mito/",
-          "publishedOn": "2026-05-07T18:24:20.000Z",
-          "wordCount": 5721,
-          "title": "Eva Perón: a construção de um mito",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/evita.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254069",
-          "author": "Rocio Paik",
-          "description": "O presidente colombiano Gustavo Petro interrogou o primeiro-ministro de Israel, Benjamin Netanyahu, pelo seu papel crucial na libertação do ex-presidente de Honduras e traficante de drogas, Juan Orlando Hernández, denunciando objetivos de “destruir” seu país e o México. “Que motivo o senhor Netanyahu tem para libertar um grande traficante de drogas, o ex-presidente de Honduras, […]\nO post ‘Apenas para destruir Colômbia e México’, diz Petro ao questionar Netanyahu sobre libertação de ex-presidente hondurenho apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/apenas-para-destruir-colombia-e-mexico-diz-petro-ao-questionar-netanyahu-sobre-libertacao-de-ex-presidente-hondurenho/",
-          "publishedOn": "2026-05-07T18:20:12.000Z",
-          "wordCount": 3709,
-          "title": "‘Apenas para destruir Colômbia e México’, diz Petro ao questionar Netanyahu sobre libertação de ex-presidente hondurenho",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/240516-03-congreso-sistema-nacional-reforma-agraria-1280.jpg"
         }
       ]
     },
@@ -872,6 +872,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=225398",
+          "author": "Redação de AND",
+          "description": "Sob o biombo de uma suposta \"soberania nacional\", o que se desenha é a garantia de fornecimento exclusivo para Washington, oferecendo o controle sobre o nióbio e as “terras raras” em troca da promessa de estabilidade comercial.",
+          "link": "https://anovademocracia.com.br/camara-aprova-entrega-terras-raras-trump/",
+          "publishedOn": "2026-05-08T11:12:19.000Z",
+          "wordCount": null,
+          "title": "Câmara aprova entrega das ‘terras raras’ em meio à negociações de Luiz Inácio com Trump",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=225375",
           "author": "Redação de AND",
@@ -960,16 +970,6 @@
           "publishedOn": "2026-05-06T22:15:47.000Z",
           "wordCount": null,
           "title": "‘Desenrola Brasil’ entrega dinheiro aos bancos enquanto prorroga e aumenta dívida dos mais pobres",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225292",
-          "author": "Redação de AND",
-          "description": "O tema mais sensível e perigoso da pauta é a intenção do EUA de classificar as chamadas “facções” como organizações terroristas. Se concretizada, essa medida não é meramente burocrática e performática, pois ela concede ao imperialismo ianque a prerrogativa legal de intervir diretamente no território brasileiro, sob o pretexto de \"combate ao terrorismo\".",
-          "link": "https://anovademocracia.com.br/luiz-inacio-trump-ingerencia-ianque-faccoes/",
-          "publishedOn": "2026-05-06T21:59:48.000Z",
-          "wordCount": null,
-          "title": "Luiz Inácio se reunirá com Trump para selar ingerência ianque no Brasil sob pretexto de ‘combate às facções’",
           "imageUrl": null
         }
       ]
@@ -1151,12 +1151,22 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=64219",
+          "author": "Boitempo",
+          "description": "Fazendo associações livres, Mouzar Benedito explora temas que vão do futebol à resistência gaulesa, passando pelo tarô e memórias de infância – tudo em clima de Copa do Mundo e enquanto a vaca não vai pro brejo...",
+          "link": "https://blogdaboitempo.com.br/2026/05/08/cultura-inutil-dicionarios-futebol-asterix-etc/",
+          "publishedOn": "2026-05-08T11:00:00.000Z",
+          "wordCount": 13091,
+          "title": "Cultura inútil | Dicionários, futebol, Asterix etc.",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-4.png?fit=1200%2C778&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=64166",
           "author": "Boitempo",
           "description": "O Dia das Mães está chegando e aqui estão as nossas sugestões de obras para presentear mães, avós, amigas e quem mais esteja merecendo um bom livro — e tempo livre para aproveitar as leituras.",
           "link": "https://blogdaboitempo.com.br/2026/05/07/dia-das-maes-na-boitempo-livro-e-o-melhor-presente/",
           "publishedOn": "2026-05-07T18:17:42.000Z",
-          "wordCount": 12218,
+          "wordCount": 12060,
           "title": "Dia das mães na Boitempo: livro é o melhor presente",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-blog-dia-das-maes-boitempo-2026_02.jpg"
         },
@@ -1166,7 +1176,7 @@
           "description": "Alysson Oliveira: \"A contradição mais rasteira entre valor de uso e valor de troca foi figurada por 'O diabo veste Prada', o original, no famoso monólogo de Miranda Priesley sobre o suéter azul cerúleo. Uma fala como essa não encontra ecos no segundo longa, pois se na trama original ela era uma vilã do mercado de trabalho, na mais recente versão ela se adapta à nova realidade e se torna inclusive vítima de um mercado de itens de luxo que ela mesma delineou.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/07/eat-the-rich-mas-salvem-miranda-priestly-o-que-o-diabo-veste-prada-2-tem-a-dizer-sobre-o-presente/",
           "publishedOn": "2026-05-07T13:00:00.000Z",
-          "wordCount": 12049,
+          "wordCount": 12084,
           "title": "“Eat the rich”, mas salvem Miranda Priestly: o que “O diabo veste Prada 2” tem a dizer sobre o presente?",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-3.png"
         },
