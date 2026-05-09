@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T03:43:22.946Z</id>
+    <id>urn:2026-05-09T06:23:10.736Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-09T03:43:22.946Z</updated>
+    <updated>2026-05-09T06:23:10.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1243,16 +1243,6 @@ O post EUA fazem guerra psicológica com sites falsos em árabe apareceu primeir
 / Rio Grande do Norte, UFRN, Natal, Estudantes, Assembleia, TAEs]]></summary>
         <author>
             <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prefeitura de Embu-Guaçu atrasa pagamento de servidores há mais de um ano]]></title>
-        <id>https://averdade.org.br/?p=61628</id>
-        <link href="https://averdade.org.br/2026/05/prefeitura-de-embu-guacu-atrasa-pagamento-de-servidores-ha-mais-de-um-ano/"/>
-        <updated>2026-05-04T16:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Desde o início de 2025, a Prefeitura de Embu-Guaçu (SP) atrasa o pagamento dos salários e benefícios de todos os servidores do município, alegando falta de disponibilidade orçamentária. Servidores estão se organizando para a segunda greve em menos de 2 meses. Camila Cavalcanti | São Paulo Trabalhador Unido – Localizado no extremo sudoeste da região […]]]></summary>
-        <author>
-            <name>Leonardo de Paula</name>
         </author>
     </entry>
 </feed>
