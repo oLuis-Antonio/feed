@@ -38,6 +38,63 @@
       ]
     },
     {
+      "title": "Jornal A Verdade",
+      "feedUrl": "https://averdade.org.br/feed/",
+      "siteUrl": "https://averdade.org.br/",
+      "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61659",
+          "author": "Jesse Lisboa",
+          "description": "Após 10 dias de prisão e tortura por parte do Estado sionista de Israel, o ativista brasileiro Thiago Ávila e o espanhol-palestino Saif Abukeshek são libertados. Redação INTERNACIONAL – Após 10 dias de prisão e tortura por parte do Estado sionista de Israel o ativista brasileiro Thiago Ávila e o espanhol-palestino Saif Abukeshek são libertados. […]",
+          "link": "https://averdade.org.br/2026/05/thiago-avila-e-saif-keshek-sao-libertados-apos-mobilizacao-internacional/",
+          "publishedOn": "2026-05-10T00:25:46.000Z",
+          "wordCount": 6808,
+          "title": "Thiago Ávila e Saif Keshek são libertados após mobilização internacional",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/33030563-high-scaled-960x540-1.webp"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61656",
+          "author": "Jesse Lisboa",
+          "description": "Quinze trabalhadores foram resgatados de condições análogas à escravidão na Ilha de Itamaracá durante uma operação do Ministério do Trabalho e Emprego.  Jesse Lisboa | Redação PE BRASIL – Uma operação do Ministério do Trabalho e Emprego (MTE) resgatou 15 trabalhadores submetidos a condições análogas à escravidão na Ilha de Itamaracá, na Região Metropolitana do […]",
+          "link": "https://averdade.org.br/2026/05/15-trabalhadores-sao-resgatados-em-situacao-analoga-a-escravidao-em-itamaraca-pe/",
+          "publishedOn": "2026-05-09T22:35:33.000Z",
+          "wordCount": 6941,
+          "title": "15 trabalhadores são resgatados em situação análoga à escravidão em Itamaracá (PE)",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/34591bc8-bbcb-4831-9418-86af85e6050f.jpeg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61650",
+          "author": "Leonardo de Paula",
+          "description": "Há 22 dias em greve, estudantes da USP ocupam o local de trabalho do reitor Aluísio Segurado após o mesmo encerrar a mesa de negociação sem avanços significativos. Os alunos exigem melhores condições de permanência na Universidade, cotas trans e se mobilizam para denunciar o governador Tarcísio de Freitas (Republicanos), principal inimigo da juventude Giovanna […]",
+          "link": "https://averdade.org.br/2026/05/estudantes-em-greve-ocupam-reitoria-da-usp-por-melhores-condicoes-de-permanencia/",
+          "publishedOn": "2026-05-08T14:32:18.000Z",
+          "wordCount": 7057,
+          "title": "Estudantes em greve ocupam reitoria da USP por melhores condições de permanência",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_9213.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61643",
+          "author": "Jesse Lisboa",
+          "description": "O Tribunal do Júri de Maceió condenou os militares responsáveis pelo sequestro, tortura e assassinato de Davi da Silva, jovem negro de 17 anos desaparecido em 2014 após uma abordagem no Benedito Bentes, em Alagoas. Lenilda Luna | Maceió (AL) BRASIL – Em uma decisão histórica que ecoa como um grito de basta contra a […]",
+          "link": "https://averdade.org.br/2026/05/condenacao-de-pms-em-alagoas-rompe-decadas-de-impunidade-e-reacende-luta-por-desmilitarizacao/",
+          "publishedOn": "2026-05-06T11:33:41.000Z",
+          "wordCount": 7381,
+          "title": "Condenação de PMs em Alagoas rompe décadas de impunidade e reacende luta por desmilitarização",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG-20260506-WA0005.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61639",
+          "author": "Jesse Lisboa",
+          "description": "No processo de privatização do Metrô do Recife, os trens usados serão comprados pelo Governo de Pernambuco a preços superfaturados, denunciam metroviários e usuários do metrô. Jesse Lisboa | Redação PE BRASIL – Cerca de 400 mil passageiros usam o metrô do Recife por dia, passando pelas 4 principais cidades da Região Metropolitana do Recife […]",
+          "link": "https://averdade.org.br/2026/05/governo-de-pernambuco-paga-r10-milhoes-em-trens-que-custariam-r3-milhoes/",
+          "publishedOn": "2026-05-06T11:17:28.000Z",
+          "wordCount": 6992,
+          "title": "Governo de Pernambuco paga R$10 milhões em trens que custariam R$3 milhões",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/1_ag221121030-19480111.webp"
+        }
+      ]
+    },
+    {
       "title": "Opinião Socialista",
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
@@ -78,7 +135,7 @@
           "description": "Vários episódios hamaram a atenção: a agressão do cantor Ed Motta a garçom; a agressão sofrida por enfermeira por Magno Malta ou a doméstica grávida agredida pela patrola no Maranhão",
           "link": "https://opiniaosocialista.com.br/da-cadeira-arremessada-ao-espancamento-da-domestica-a-barbarie-cotidiana-de-um-capitalismo-em-decomposicao/",
           "publishedOn": "2026-05-08T18:37:36.000Z",
-          "wordCount": 1227,
+          "wordCount": 1184,
           "title": "Da cadeira arremessada ao espancamento da doméstica: a barbárie cotidiana de um capitalismo em decomposição",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/patroa-acusada-agredir-empregada-maranhao--1-.png"
         },
@@ -88,7 +145,7 @@
           "description": "Governo Lula recontratou Candiota III até o ano 2040",
           "link": "https://opiniaosocialista.com.br/candiota-iii-e-pampa-sul-usinas-a-carvao-que-mais-emitem-gas-de-efeito-estufa-estao-no-rio-grande-do-sul/",
           "publishedOn": "2026-05-08T15:16:39.000Z",
-          "wordCount": 2495,
+          "wordCount": 2375,
           "title": "Candiota III e Pampa Sul: Usinas a carvão que mais emitem gás de efeito estufa estão no Rio Grande do Sul",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/WhatsApp-Image-2026-05-08-at-10.39.13.jpeg"
         },
@@ -98,7 +155,7 @@
           "description": "As recentes notícias de violência e abuso às crianças acendem um sinal de alerta e revelam uma sociedade doente",
           "link": "https://opiniaosocialista.com.br/estupro-coletivo-de-criancas-uma-tragedia-que-diz-muito-sobre-a-sociedade-que-somos/",
           "publishedOn": "2026-05-08T14:26:24.000Z",
-          "wordCount": 1835,
+          "wordCount": 1729,
           "title": "Estupro coletivo de crianças: Uma tragédia que diz muito sobre a sociedade que somos",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/violencia-criancas.jpg"
         },
@@ -118,7 +175,7 @@
           "description": "O governo sofreu derrotas importantes no Congresso Nacional, evidenciando que sua política de concessão e aliança com o centrão é um verdadeiro desastre. No Senado, a rejeição de Jorge Messias numa indicação ao Supremo Tribunal Federal",
           "link": "https://opiniaosocialista.com.br/as-derrotas-do-governo-mostram-os-limites-da-conciliacao/",
           "publishedOn": "2026-05-07T23:22:21.000Z",
-          "wordCount": 1424,
+          "wordCount": 1375,
           "title": "As derrotas do governo mostram os limites da conciliação",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/Lula-e-Alcolumbre-Foto-Marcelo-CamargoAgencia-Brasil.webp"
         },
@@ -138,7 +195,7 @@
           "description": "Movimento reivindica reajuste real do auxílio permanência e reabertura da mesa de negociação com a reitoria",
           "link": "https://opiniaosocialista.com.br/usp-estudantes-em-greve-ocupam-reitoria-apos-suspensao-das-negociacoes/",
           "publishedOn": "2026-05-07T21:16:18.000Z",
-          "wordCount": 813,
+          "wordCount": 757,
           "title": "USP: Estudantes em greve ocupam reitoria após suspensão das negociações",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/reitoria-ups-ocupada.webp"
         },
@@ -158,7 +215,7 @@
           "description": "Técnicos fazem greve em mais de 56 universidades federais. E os estudantes?",
           "link": "https://opiniaosocialista.com.br/usp-defender-a-educacao-publica-e-derrotar-o-projeto-capitalista-de-tarcisio-e-lula/",
           "publishedOn": "2026-05-07T19:00:00.000Z",
-          "wordCount": 1220,
+          "wordCount": 1114,
           "title": "USP: Defender a educação pública e derrotar o projeto capitalista de Tarcísio e Lula",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/Com-mais-de-105-cursos-paralisados-e-com-a-greve-dos-servidores--ontem-foi-deflagrado-greve-estu--4-.jpg"
         },
@@ -168,7 +225,7 @@
           "description": "No dia 27 de abril, o juiz Massimo Palazzolo, da 4ª Vara Criminal Federal, condenou o presidente do PSTU, Zé Maria de Almeida, a dois anos de prisão por defender, em manifestação de solidariedade ao povo palestino, o fim do Estado racista e",
           "link": "https://opiniaosocialista.com.br/solidariedade-a-palestina-nao-e-crime-nao-a-condenacao-de-ze-maria/",
           "publishedOn": "2026-05-07T18:59:00.000Z",
-          "wordCount": 1761,
+          "wordCount": 1623,
           "title": "Solidariedade à Palestina não é crime! Não à condenação de Zé Maria!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/WhatsApp-Image-2026-04-28-at-19.58.05-1.jpeg"
         },
@@ -178,7 +235,7 @@
           "description": "",
           "link": "https://opiniaosocialista.com.br/estado-de-israel-sequestra-ativistas-da-flotilha-e-expoe-a-cumplicidade-internacional/",
           "publishedOn": "2026-05-07T18:42:00.000Z",
-          "wordCount": 1968,
+          "wordCount": 1838,
           "title": "Estado de Israel sequestra ativistas da flotilha e expõe a cumplicidade internacional",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/thiago-e-saif--1---1-.webp"
         },
@@ -188,7 +245,7 @@
           "description": "O Instituto Brasil-Palestina (IBRASPAL) manifesta seu veemente repúdio à condenação do dirigente político José Maria de Almeida (Zé Maria), presidente do PSTU, pela Justiça da 4ª Vara Criminal Federal, que o sentenciou a dois anos de prisã",
           "link": "https://opiniaosocialista.com.br/instituto-brasil-palestina-nota-publica-em-solidariedade-com-ze-maria/",
           "publishedOn": "2026-05-07T16:18:33.000Z",
-          "wordCount": 865,
+          "wordCount": 819,
           "title": "Instituto Brasil-Palestina: Nota pública em solidariedade com Zé Maria",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/Instituto-Brasil-Palestina.png"
         }
@@ -215,7 +272,7 @@
           "description": "Nesta madrugada de domingo (10) de dia das mães, a polícia Tarcísio entrou na USP para reprimir violentamente os estudantes que manifestavam contra as condições precárias de permanência.\nMatérias\n\n/ USP, Repressão, Repressão policial, Brutalidade policial, Tarcísio de Freitas, Reitoria USP, Polícia Militar, Greve contra Tarcísio, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Estudantes-nao-aceitam-comer-comida-com-larvas-e-sofrem-repressao-violenta-da-policia-de-Tarcisio",
           "publishedOn": "2026-05-10T14:25:50.000Z",
-          "wordCount": 7774,
+          "wordCount": 7784,
           "title": "Estudantes não aceitam comer comida com larvas e sofrem repressão violenta da polícia de Tarcisio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/larva.jpg?1778423053"
         },
@@ -225,7 +282,7 @@
           "description": "A polícia racista que Tarcísio de Freitas usa para suas chacinas invadiu a reitoria da USP de forma brutalmente violenta nessa madrugada. As imagens são chocantes: bombas de efeito moral, cacetetes, estudantes detidos de forma totalmente arbitrária. A polícia usou o tradicional método de tortura: corredor polonês, obrigando estudantes a passarem no meio para agredi-los violentamente. Há muitos estudantes feridos e o movimento se organizou prontamente pela liberdade dos detidos\nMatérias\n\n/ Juventude, Repressão, Repressão policial, Brutalidade policial, Reitoria USP, São Paulo",
           "link": "https://www.esquerdadiario.com.br/Policia-de-Tarcisio-de-Freitas-invade-a-reitoria-da-USP-detidos-feridos-corredor-polones-bombas-e",
           "publishedOn": "2026-05-10T13:53:32.000Z",
-          "wordCount": 8212,
+          "wordCount": 8208,
           "title": "Polícia de Tarcísio de Freitas invade a reitoria da USP: detidos, feridos, corredor polonês, bombas e cassetetes",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/17784032266a00479a9b3e2_1778403226_3x2_xl.jpg?1778421506"
         },
@@ -275,7 +332,7 @@
           "description": "8 de maio é o Dia da Libertação — o dia em que os nazistas capitularam em 1945. Hoje, estudantes secundaristas por toda a Alemanha entraram em greve contra a guerra e o militarismo\n06-05-2026\n\n/ Internacional, Movimento Estudantil, Alemanha, Greve Estudantil",
           "link": "https://www.esquerdadiario.com.br/Estudantes-na-Alemanha-fazem-greve-contra-a-guerra-e-o-recrutamento-militar",
           "publishedOn": "2026-05-08T22:54:34.000Z",
-          "wordCount": 8405,
+          "wordCount": 8407,
           "title": "Estudantes na Alemanha fazem greve contra a guerra e o recrutamento militar",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/alemanha-2.jpg?1778280806"
         },
@@ -325,7 +382,7 @@
           "description": "A Polícia Militar de São Paulo, servindo aos interesses da reitoria da USP e do governador bolsonarista Tarcísio de Freitas, cercou o prédio da reitoria após a ocupação feita pelos estudantes na noite dessa quinta-feira, 7. Os estudantes lutam por nada mais que o direito a permanecer e condições mínimas para estudar, sobretudo aos estudantes pobres, filhos da classe trabalhadora e cotistas. É um escândalo que a PM imponha um cerco a mobilização dos estudantes e chamamos a todos a exigirem a (…)\n08-05-2026\n\n/ Juventude, USP, Greve, PM São Paulo, PM, Permanência Estudantil, Reitoria, CRUSP, Estudantes, Tarcísio de Freitas, Reitoria USP, DCE USP, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/PM-corta-agua-e-luz-da-reitoria-ocupada-pelos-estudantes-da-USP-que-lutam-por-permanencia-digna",
           "publishedOn": "2026-05-08T14:18:25.000Z",
-          "wordCount": 7984,
+          "wordCount": 7981,
           "title": "PM corta água e luz da reitoria ocupada pelos estudantes da USP que lutam por permanência digna",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/984956406-rnlao3fm45gu5bppyeic4e7zla.jpg?1778249842"
         },
@@ -335,7 +392,7 @@
           "description": "O governo Zema/Simões se prepara para demitir cerca de 2 mil ASBs, responsáveis pelo funcionamento cotidiano das escolas estaduais.\n06-05-2026\n\n/ Classe trabalhadora, Educação, Terceirização, Demissões, Minas Gerais, Romeu Zema, Rossieli Soares, Privatização da Educação",
           "link": "https://www.esquerdadiario.com.br/Zema-Simoes-querem-jogar-2-mil-trabalhadoras-da-educacao-no-desemprego-apos-leiloar-95-escolas",
           "publishedOn": "2026-05-08T12:34:20.000Z",
-          "wordCount": 8212,
+          "wordCount": 8204,
           "title": "Zema/Simões querem jogar 2 mil trabalhadoras da educação no desemprego após leiloar 95 escolas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-08_at_09.30_13_1_.jpg?1778243468"
         },
@@ -465,7 +522,7 @@
           "description": "Nesta terça-feira, 5, os estudantes da UFRN que moram na residência universitária realizaram um importante ato para denunciar a situação de fome e precariedade que a reitoria da universidade está fazendo eles passarem. Os residentes novamente estão denunciando a falta da quarta refeição e da janta aos finais de semana, além de uma série de problemas de infraestrutura, como fogões e micro-ondas que não funcionam, precarização da infraestrutura dos pisos, entre outros problemas. Nesta matéria, reproduzimos alguns relatos desses estudantes.\n06-05-2026\n\n/ Juventude, Moradia, Permanência Estudantil, UFRN, Estudantes, Insegurança alimentar, Faísca Revolucionária",
           "link": "https://www.esquerdadiario.com.br/Residentes-da-UFRN-denunciam-falta-de-comida-e-predios-precarizados-em-ato-na-reitoria",
           "publishedOn": "2026-05-06T13:24:46.000Z",
-          "wordCount": 8765,
+          "wordCount": 8768,
           "title": "Residentes da UFRN denunciam falta de comida e prédios precarizados em ato na reitoria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-06_at_10.15_40.jpg?1778073878"
         }
@@ -608,12 +665,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=254296",
+          "author": "Rocio Paik",
+          "description": "Acordar às 6h, preparar o café da manhã, arrumar a filha, caminhar por cinco quarteirões para deixar a menina na escola e já partir para mais um dia de trabalho. Ao final do expediente, por volta das 16h, passar na escola, pegar a filha e retornar para casa onde a rotina ainda inclui fazer o […]\nO post Mães solo no Brasil superam tamanho da população de Portugal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/maes-solo-no-brasil-superam-tamanho-da-populacao-de-portugal/",
+          "publishedOn": "2026-05-10T20:30:55.000Z",
+          "wordCount": 5400,
+          "title": "Mães solo no Brasil superam tamanho da população de Portugal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/2422470804_0d826130f1_o.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254290",
+          "author": "Rocio Paik",
+          "description": "O primeiro-ministro israelense Benjamin Netanyahu afirmou que a guerra que promove juntamente com os Estados Unidos contra o Irã deve terminar somente quando o urânio enriquecido seja completamente “retirado” do país. A posição foi dada em entrevista ao programa 60 Minutes, da emissora norte-americana CBS, em um trecho de prévia exibido neste domingo (10/05).  “Ainda […]\nO post Netanyahu diz que guerra contra Irã ‘só termina’ após retirada de urânio enriquecido ‘com ou sem acordo’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/netanyahu-diz-que-guerra-contra-ira-so-termina-apos-retirada-de-uranio-enriquecido-com-ou-sem-acordo/",
+          "publishedOn": "2026-05-10T19:40:30.000Z",
+          "wordCount": 3217,
+          "title": "Netanyahu diz que guerra contra Irã ‘só termina’ após retirada de urânio enriquecido ‘com ou sem acordo’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/g9xgsniwoaaz5h2.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254293",
+          "author": "Rocio Paik",
+          "description": "O porta-voz do Exército do Irã, Mohammad Akramina, declarou neste domingo (10/05) que não permitirá que embarcações de países que aderem à política de sanções dos Estados Unidos contra o país persa passem pelo Estreito de Ormuz. “A partir de agora, os países que seguirem o exemplo dos Estados Unidos e imporem sanções à República […]\nO post Irã bloqueia passagem em Ormuz a navios que sigam política de sanções dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-bloqueia-passagem-em-ormuz-a-navios-que-sigam-politica-de-sancoes-dos-eua/",
+          "publishedOn": "2026-05-10T18:50:57.000Z",
+          "wordCount": 3269,
+          "title": "Irã bloqueia passagem em Ormuz a navios que sigam política de sanções dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/uscgc_aquidneck_in_strait_of_hormuz_201202-n-ie405-2219.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254287",
+          "author": "Rocio Paik",
+          "description": "O Comitê Ministerial de Legislação de Israel debate neste domingo (10/05) um projeto de lei apresentado pela vice-presidente do Parlamento do Knesset, Limor Son Har Melech, que pede o cancelamento dos Acordos de Oslo e a rejeição formal de qualquer futuro estabelecimento do Estado palestino.  A proposta representa uma das tentativas mais diretas de anular […]\nO post Comitê Ministerial de Israel avalia cancelar Acordos de Oslo e impedir futuro Estado palestino apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/comite-ministerial-de-israel-avalia-cancelar-acordos-de-oslo-e-impedir-futuro-estado-palestino/",
+          "publishedOn": "2026-05-10T18:00:07.000Z",
+          "wordCount": 3434,
+          "title": "Comitê Ministerial de Israel avalia cancelar Acordos de Oslo e impedir futuro Estado palestino",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hbjxkbkwgaalln4.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254284",
+          "author": "Rocio Paik",
+          "description": "Começou neste domingo (10/05) o desembarque dos mais de cem passageiros a bordo do cruzeiro MV Hondius, afetado por um surto de hantavírus, nas Ilhas Canárias. A operação de resgate no porto de Granadilla de Abona deverá se prolongar até amanhã, segundo autoridades espanholas. Os primeiros a desembarcar foram os 14 espanhóis a bordo. Num […]\nO post Desembarque dos mais de cem passageiros do navio com hantavírus começa nas Ilhas Canárias apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/desembarque-dos-mais-de-cem-passageiros-do-navio-com-hantavirus-comeca-nas-ilhas-canarias/",
+          "publishedOn": "2026-05-10T17:10:47.000Z",
+          "wordCount": 3406,
+          "title": "Desembarque dos mais de cem passageiros do navio com hantavírus começa nas Ilhas Canárias",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/a6e67a26-148b-4ce2-99f5-4711a549b252-hh1ksnaw8aipvqk.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254179",
+          "author": "Tatiana Carlotti",
+          "description": "“Nunca houve um nível tão alto de intenção de voto estimulado entre os candidatos”, afirmou o economista Maurício Moura, fundador do Instituto de Pesquisa Ideia ao analisar o cenário eleitoral, observando que a onda de polarização é um fenômeno global. A Opera Mundi, a avaliação do especialista é de que o pleito será definido pelo grupo […]\nO post ‘Eleição brasileira será decidida por 3% dos eleitores independentes’, diz economista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/eleicao-brasileira-sera-decidida-por-3-dos-eleitores-independentes-diz-economista/",
+          "publishedOn": "2026-05-10T16:20:02.000Z",
+          "wordCount": 5906,
+          "title": "‘Eleição brasileira será decidida por 3% dos eleitores independentes’, diz economista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/mauricio-moura-arquivo-pessoal.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=254280",
           "author": "Rocio Paik",
           "description": "O Irã enviou neste domingo (10/05), por intermédio do Paquistão, sua resposta à proposta dos Estados Unidos que busca pôr fim à guerra no Oriente Médio. Ao mesmo tempo, o líder supremo iraniano, Mojtaba Khamenei, deu “novas diretivas para prosseguir as operações e enfrentar firmemente os adversários”, enquanto um representante de Teerã avisou que novos […]\nO post Irã envia resposta à proposta dos EUA e Mojtaba Khamenei defende manutenção de operações contra ‘inimigo’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-envia-resposta-a-proposta-dos-eua-e-mojtaba-khamenei-defende-manutencao-de-operacoes-contra-inimigo/",
           "publishedOn": "2026-05-10T15:30:46.000Z",
-          "wordCount": 3347,
+          "wordCount": 3356,
           "title": "Irã envia resposta à proposta dos EUA e Mojtaba Khamenei defende manutenção de operações contra ‘inimigo’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/mojtaba_khamenei_2023.jpg"
         },
@@ -623,7 +740,7 @@
           "description": "A presidente interina da Venezuela, Delcy Rodríguez, desembarcou neste domingo (10/05) na cidade holandesa de Haia para defender, em audiência na sede da Corte Internacional de Justiça (CIJ), o Acordo de Genebra e os direitos históricos que o país tem sobre a Guiana Essequiba.  “Aqui estamos vindo defender a majestade e o vigor do Acordo […]\nO post Delcy Rodríguez chega em Haia para defender ‘direitos históricos’ sobre Essequibo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/delcy-rodriguez-chega-em-haia-para-defender-direitos-historicos-sobre-essequibo/",
           "publishedOn": "2026-05-10T14:40:14.000Z",
-          "wordCount": 3066,
+          "wordCount": 3018,
           "title": "Delcy Rodríguez chega em Haia para defender ‘direitos históricos’ sobre Essequibo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela_10-5-2026_113548_vtv.com_.ve_.jpeg"
         },
@@ -633,7 +750,7 @@
           "description": "O Ministério das Relações Exteriores de Israel confirmou formalmente neste domingo (10/05) que os ativistas brasileiro Thiago Ávila e espanhol-palestino Saif Abu Keshek, membros da Flotilha Global Sumud, foram libertados e deportados, não estando mais, portanto, sob custódia israelense. A informação também foi comunicada para a Adalah, equipe jurídica de direitos humanos. A pasta, no […]\nO post Israel deporta ativista brasileiro Thiago Ávila após uma semana de detenção apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-deporta-ativista-brasileiro-thiago-avila-apos-uma-semana-de-detencao/",
           "publishedOn": "2026-05-10T13:50:45.000Z",
-          "wordCount": 3531,
+          "wordCount": 3532,
           "title": "Israel deporta ativista brasileiro Thiago Ávila após uma semana de detenção",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-9-750x536-1-1.webp"
         },
@@ -643,77 +760,11 @@
           "description": "Depois de vários dias à deriva no Atlântico, as quase 150 pessoas a bordo do cruzeiro atingido por um surto de hantavírus começam a vislumbrar uma saída. Um complexo resgate a partir das Ilhas Canárias está sendo organizado por autoridades locais, governo espanhol, vários outros países e Organização Mundial da Saúde (OMS). O navio MV […]\nO post Como será o resgate de passageiros no navio com hantavírus apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/saude/como-sera-o-resgate-de-passageiros-no-navio-com-hantavirus/",
           "publishedOn": "2026-05-09T20:40:26.000Z",
-          "wordCount": 3876,
+          "wordCount": 3880,
           "title": "Como será o resgate de passageiros no navio com hantavírus",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhuikqaxyaal2fd.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254257",
-          "author": "Rocio Paik",
-          "description": "O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, suspendeu neste sábado (09/05) a aplicação da Lei da Dosimetria em pedidos relacionados aos atos golpistas de 8 de janeiro de 2023. O ministro, que foi sorteado para ser relator de ações que questionam a validade da Lei da Dosimetria, decidiu que a suspensão terá […]\nO post Moraes suspende aplicação da Lei da Dosimetria até nova decisão do STF apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/moraes-suspende-aplicacao-da-lei-da-dosimetria-ate-nova-decisao-do-stf/",
-          "publishedOn": "2026-05-09T19:50:48.000Z",
-          "wordCount": 3040,
-          "title": "Moraes suspende aplicação da Lei da Dosimetria até nova decisão do STF",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/0d7a8378.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254253",
-          "author": "Rocio Paik",
-          "description": "A federação de futebol do Irã (FFIRI, na sigla em inglês) afirmou na sexta-feira (08/05) que a seleção masculina participará da Copa do Mundo de 2026, mas desde que os anfitriões – Estados Unidos, México e Canadá – atendam a algumas de suas condições no contexto da guerra promovida pelos governos norte-americano e israelense contra […]\nO post Irã exige ‘vistos, respeito e segurança’ como condições para participar da Copa 2026 nos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/ira-exige-vistos-respeito-e-seguranca-como-condicoes-para-participar-da-copa-2026-nos-eua/",
-          "publishedOn": "2026-05-09T19:05:32.000Z",
-          "wordCount": 3113,
-          "title": "Irã exige ‘vistos, respeito e segurança’ como condições para participar da Copa 2026 nos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/iranian_federation_celebrated_qualification_to_the_wc_3.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254250",
-          "author": "Rocio Paik",
-          "description": "O Comando Sul dos Estados Unidos (Southcom, na sigla em inglês) informou ter realizado um “ataque cinético letal” a uma embarcação no Pacífico Oriental na sexta-feira (08/05), resultando na morte de dois homens e deixando um sobrevivente. A operação foi ordenada pelo General Francis L. Donovan, comandante da força-tarefa “Southern Spear”, alegando suspeita de “tráfico […]\nO post EUA lançam novo ataque contra embarcação no Pacífico e matam dois homens apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eua-lancam-novo-ataque-contra-embarcacao-no-pacifico-e-matam-dois-homens/",
-          "publishedOn": "2026-05-09T17:50:51.000Z",
-          "wordCount": 2991,
-          "title": "EUA lançam novo ataque contra embarcação no Pacífico e matam dois homens",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-09-140001.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254247",
-          "author": "Rocio Paik",
-          "description": "O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, assegurou neste sábado (09/05) aos moradores de Tenerife que é “baixo” o risco de propagação de hantavírus relacionado à chegada de um navio de cruzeiro onde há um foco da doença. Segundo ele, a situação não pode ser comparada à pandemia de Covid-19. “Preciso […]\nO post ‘Não é a nova covid’, diz chefe da OMS antes de navio com foco de hantavírus chegar em Tenerife apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/saude/nao-e-a-nova-covid-diz-chefe-da-oms-antes-de-navio-com-foco-de-hantavirus-chegar-em-tenerife/",
-          "publishedOn": "2026-05-09T17:00:39.000Z",
-          "wordCount": 3915,
-          "title": "‘Não é a nova covid’, diz chefe da OMS antes de navio com foco de hantavírus chegar em Tenerife",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/g8fajw8xyaiiigv.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254241",
-          "author": "Rocio Paik",
-          "description": "Atualizada às 17h00 O Exército de Israel intensificou seus ataques no Líbano ao longo deste sábado (09/05), matando pelo menos 23 pessoas, de acordo com a emissora catari Al Jazeera. Trata-se de mais uma violação do acordo de cessar-fogo estabelecido com o governo libanês sob mediação dos Estados Unidos. Na sexta-feira (08/05), dezenas de civis […]\nO post Sobe para 23 números de mortos em ataques israelenses no Líbano; Hezbollah reage apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/sobe-para-23-numeros-de-mortos-em-ataques-israelenses-no-libano-hezbollah-reage/",
-          "publishedOn": "2026-05-09T16:10:26.000Z",
-          "wordCount": 3298,
-          "title": "Sobe para 23 números de mortos em ataques israelenses no Líbano; Hezbollah reage",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhtr5-ux0ai1mdr.jpeg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254238",
-          "author": "Rocio Paik",
-          "description": "No âmbito das celebrações do 81º Dia da Vitória, na Praça Vermelha, em Moscou, o presidente da Rússia, Vladimir Putin, homenageou neste sábado (09/05) os soldados que se dedicaram ao combate contra a agressão fascista na Segunda Guerra Mundial. Em discurso, o líder do Kremlin ressaltou que o feito serviu de inspiração para os militares […]\nO post Putin recorda triunfo soviético no Dia da Vitória e fala em ‘inspiração’ para lutar contra ‘agressão’ da OTAN apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/putin-recorda-triunfo-sovietico-no-dia-da-vitoria-e-fala-em-inspiracao-para-lutar-contra-agressao-da-otan/",
-          "publishedOn": "2026-05-09T15:20:05.000Z",
-          "wordCount": 3610,
-          "title": "Putin recorda triunfo soviético no Dia da Vitória e fala em ‘inspiração’ para lutar contra ‘agressão’ da OTAN",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1473773.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -984,7 +1035,7 @@
           "description": "Ana Clara Ferrari: \"Assim como o capitalismo transforma a experiência da maternidade em máquina de produção de força de trabalho, podemos dizer que, dialeticamente, a experiência da maternidade transforma profundamente a relação das mulheres com a própria existência e o meio em que estão inseridas, a começar pelo mecanismo de controle mais efetivo do capital: o tempo.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/10/localizando-a-maternidade-no-modo-de-producao-capitalista-um-dialogo-a-partir-de-leopoldina-fortunatti/",
           "publishedOn": "2026-05-10T11:00:00.000Z",
-          "wordCount": 15621,
+          "wordCount": 15620,
           "title": "Localizando a maternidade no modo de produção capitalista: um diálogo a partir de Leopoldina Fortunati",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image.png?fit=902%2C1200&ssl=1"
         },
