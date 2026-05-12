@@ -90,12 +90,22 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a036094379d4ffc8d2bcc29",
+          "author": "Roberto Aguiar, da redação",
+          "description": "Evento acontece nesta quinta-feira (15), às 19h, e reúne entidades, ativistas e organizações em defesa da Palestina e contra o chamado “PL da Mordaça” da deputada federal Tabata Amaral",
+          "link": "https://opiniaosocialista.com.br/ato-na-faculdade-de-direito-da-usp-denuncia-condenacao-de-ze-maria-e-defende-liberdade-de-expressao-em-solidariedade-a-palestina/",
+          "publishedOn": "2026-05-12T17:25:11.000Z",
+          "wordCount": 1020,
+          "title": "Ato na Faculdade de Direito da USP denuncia condenação de Zé Maria e defende liberdade de expressão em solidariedade à Palestina",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/z---maria_palestina_faixa.webp"
+        },
+        {
           "id": "6a03359f379d4ffc8d2bcbea",
           "author": "PSTU-SP",
           "description": "A explosão ocorrida nesta segunda-feira (11), no Jaguaré, zona oeste de São Paulo, não foi uma “fatalidade”. Foi mais uma consequência direta da política de privatização e precarização da Sabesp (Companhia",
           "link": "https://opiniaosocialista.com.br/sp-explosao-em-obras-da-sabesp-e-resultado-da-privatizacao-e-tarcisio-e-responsavel/",
           "publishedOn": "2026-05-12T14:27:30.000Z",
-          "wordCount": 1105,
+          "wordCount": 1119,
           "title": "SP: Explosão em obras da Sabesp é resultado da privatização e Tarcísio é responsável",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/explos--o-sabesp_2.webp"
         },
@@ -145,7 +155,7 @@
           "description": "O SINASEFE manifesta seu apoio e solidariedade ao companheiro José Maria de Almeida, o Zé Maria, presidente e fundador do PSTU, diante de sua condenação a dois anos de reclusão em regime aberto, proferida pela 4ª Vara Criminal Federal de Sã",
           "link": "https://opiniaosocialista.com.br/sinasefe-nota-de-apoio-e-solidariedade-ao-companheiro-ze-maria/",
           "publishedOn": "2026-05-10T12:10:45.000Z",
-          "wordCount": 1073,
+          "wordCount": 1087,
           "title": "Sinasefe: Nota de apoio e solidariedade ao companheiro Zé Maria",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/sinasefe.png"
         },
@@ -155,7 +165,7 @@
           "description": "A liberdade de expressão, de organização e de manifestação são pilares fundamentais de qualquer sociedade democrática",
           "link": "https://opiniaosocialista.com.br/fenajufe-apoio-e-solidariedade-a-jose-maria-de-almeida-presidente-do-pstu/",
           "publishedOn": "2026-05-09T00:32:03.000Z",
-          "wordCount": 828,
+          "wordCount": 842,
           "title": "Fenajufe: Apoio e solidariedade a José Maria de Almeida, presidente do PSTU",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/nota-p--blica-fenajufe.jpeg"
         },
@@ -207,12 +217,22 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/A-resposta-iraniana-aprofunda-o-dilema-estrategico-de-Trump",
+          "author": "Juan Chingo",
+          "description": "Após meses de guerra e pressão econômica, o Irã segue negociando sem se render, deixando a Casa Branca presa entre iniciar uma nova escalada militar de alto risco ou aceitar implicitamente um acordo muito distante das metas proclamadas no início do conflito.\n12-05-2026\n\n/ Internacional, Israel, Donald Trump, Irã, Guerra contra o Irã",
+          "link": "https://www.esquerdadiario.com.br/A-resposta-iraniana-aprofunda-o-dilema-estrategico-de-Trump",
+          "publishedOn": "2026-05-12T16:53:57.000Z",
+          "wordCount": 8882,
+          "title": "A resposta iraniana aprofunda o dilema estratégico de Trump",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_chingo_12-05.jpeg.jpg?1778604831"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Privatizacao-mata-explosao-causada-pela-SABESP-no-Jaguare-escancara-a-logica-criminosa-da",
           "author": "Tamiris Carvalho",
           "description": "Na tarde de ontem (11), uma explosão provocada após uma tubulação de gás ser atingida durante uma obra da Sabesp, no Jaguaré, deixou uma pessoa morta, além de três feridos — dois em estado grave — e dezenas de casas afetadas na região. \n Segundo informações divulgadas, o acidente ocorreu durante intervenções realizadas pela Sabesp em conjunto com a Comgás e destruiu imóveis, espalhou pânico entre os moradores e escancarou, mais uma vez, as consequências irresponsáveis da política de (…)\n12-05-2026\n\n/ Classe trabalhadora, Privatização, Privatização da Água, Tarcísio de Freitas, morte, Sabesp, Privatização da Sabesp",
           "link": "https://www.esquerdadiario.com.br/Privatizacao-mata-explosao-causada-pela-SABESP-no-Jaguare-escancara-a-logica-criminosa-da",
           "publishedOn": "2026-05-12T14:37:01.000Z",
-          "wordCount": 8150,
+          "wordCount": 8146,
           "title": "Privatização mata: explosão causada pela SABESP no Jaguaré escancara a lógica criminosa da precarização e terceirização",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000189527.jpg?1778594850"
         },
@@ -222,7 +242,7 @@
           "description": "A greve da educação de BH enfrenta a intransigência de Álvaro Damião mas tem ao seu lado um apoio indispensável: o das famílias do estudantes da rede municipal.\n12-05-2026\n\n/ Classe trabalhadora, Belo Horizonte, Educação, Greve, Minas Gerais, Comunidade Escolar, Solidariedade",
           "link": "https://www.esquerdadiario.com.br/Mais-uma-vez-greve-da-educacao-municipal-de-BH-conquista-apoio-das-familias",
           "publishedOn": "2026-05-12T14:26:17.000Z",
-          "wordCount": 8114,
+          "wordCount": 8108,
           "title": "Mais uma vez, greve da educação municipal de BH conquista apoio das famílias",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-11_at_11.48_25.jpg?1778595888"
         },
@@ -232,7 +252,7 @@
           "description": "Os servidores municipais de Florianópolis, em sua terceira semana de greve, responderam à intransigência, à judicialização e ao corte de ponto da gestão do prefeito Topázio Neto (Podemos) com atos massivos. Nesta terça (12) está sendo convocada nova vigília em frente ao Tribunal de Justiça, em meio à audiência de conciliação com a prefeitura.\n12-05-2026\n\n/ Classe trabalhadora, Greve, Santa Catarina, Sul",
           "link": "https://www.esquerdadiario.com.br/Servidores-de-Florianopolis-seguem-em-greve-com-fortes-atos-de-rua-e-vigilias-apesar-da-repressao",
           "publishedOn": "2026-05-12T13:46:01.000Z",
-          "wordCount": 8040,
+          "wordCount": 8036,
           "title": "Servidores de Florianópolis seguem em greve, com fortes atos de rua e vigílias, apesar da repressão do governo e da justiça",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000375309.jpg?1778593495"
         },
@@ -242,7 +262,7 @@
           "description": "Os metroviários aprovaram indicativo de greve para o dia 13/05. Para enfrentar a intransigência do Metrô e do governo Tarcísio que se recusam a negociar com a categoria na campanha salarial e querem avançar com seus planos privatistas, é necessário construir uma forte greve, em aliança com as demais categorias em luta, com os terceirizados e com a população. \n08-05-2026\n\n/ Classe trabalhadora, Metrô, Movimento Nossa Classe, metroviários, Tarcísio de Freitas, Privatização do metrô, Metrô de São Paulo, Greve do Metrô",
           "link": "https://www.esquerdadiario.com.br/Por-uma-forte-greve-por-concurso-publico-em-defesa-do-plano-de-saude-em-unidade-com-os",
           "publishedOn": "2026-05-11T16:07:15.000Z",
-          "wordCount": 8835,
+          "wordCount": 8831,
           "title": "Por uma forte greve por concurso público, em defesa do plano de saúde, em unidade com os terceirizados, as categorias em luta e a população",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000424019.jpg?1778515505"
         },
@@ -252,7 +272,7 @@
           "description": "Reprudizimos abaixo a declração do Sindicato de Trabalhadores da USP: \"AMANHÃ, 11/5, FORTE PARALISAÇÃO E TODOS PARA O ATO!!\"\nMatérias\n\n/ USP, Repressão, SINTUSP, Repressão policial, Tarcísio de Freitas, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Sindicato-de-trabalhadores-da-USP-repudia-convoca-ato-contra-a-repressao-e-a-violencia-policial-de",
           "publishedOn": "2026-05-10T14:49:25.000Z",
-          "wordCount": 7938,
+          "wordCount": 7934,
           "title": "Sindicato de trabalhadores da USP repudia e convoca ato contra a repressão e a violência policial de Tarcísio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nota_usp.jpg?1778424494"
         },
@@ -262,7 +282,7 @@
           "description": "Nesta madrugada de domingo (10) de dia das mães, a polícia Tarcísio entrou na USP para reprimir violentamente os estudantes que manifestavam contra as condições precárias de permanência.\nMatérias\n\n/ USP, Repressão, Repressão policial, Brutalidade policial, Tarcísio de Freitas, Reitoria USP, Polícia Militar, Greve contra Tarcísio, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Estudantes-nao-aceitam-comer-comida-com-larvas-e-sofrem-repressao-violenta-da-policia-de-Tarcisio",
           "publishedOn": "2026-05-10T14:25:50.000Z",
-          "wordCount": 7784,
+          "wordCount": 7780,
           "title": "Estudantes não aceitam comer comida com larvas e sofrem repressão violenta da polícia de Tarcisio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/larva.jpg?1778423053"
         },
@@ -272,7 +292,7 @@
           "description": "A polícia racista que Tarcísio de Freitas usa para suas chacinas invadiu a reitoria da USP de forma brutalmente violenta nessa madrugada. As imagens são chocantes: bombas de efeito moral, cacetetes, estudantes detidos de forma totalmente arbitrária. A polícia usou o tradicional método de tortura: corredor polonês, obrigando estudantes a passarem no meio para agredi-los violentamente. Há muitos estudantes feridos e o movimento se organizou prontamente pela liberdade dos detidos\nMatérias\n\n/ Juventude, Repressão, Repressão policial, Brutalidade policial, Reitoria USP, São Paulo",
           "link": "https://www.esquerdadiario.com.br/Policia-de-Tarcisio-de-Freitas-invade-a-reitoria-da-USP-detidos-feridos-corredor-polones-bombas-e",
           "publishedOn": "2026-05-10T13:53:32.000Z",
-          "wordCount": 8229,
+          "wordCount": 8225,
           "title": "Polícia de Tarcísio de Freitas invade a reitoria da USP: detidos, feridos, corredor polonês, bombas e cassetetes",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/17784032266a00479a9b3e2_1778403226_3x2_xl.jpg?1778421506"
         },
@@ -282,7 +302,7 @@
           "description": "Inúmeros casos de assédio moral são cotidianamente realizados nas estações do Metrô de SP contra os trabalhadores terceirizados da Works, grandes alvos destas injustiças, principalmente quando se trata de licenças médicas que são descontadas dos salários destes trabalhadores, que sofrem diversas punições quando pegam essas licenças, inclusive sendo recorrentemente trocados de postos compulsóriamente. \n Após a denúncia feita no último artigo que publicamos sobre o tema, \"Empresa de (…)\n08-05-2026\n\n/ Classe trabalhadora",
           "link": "https://www.esquerdadiario.com.br/Estou-trabalhando-doente-com-medo-do-assedio-moral-deles-denuncia-trabalhador-da-Works-do-Metro-SP",
           "publishedOn": "2026-05-09T14:36:08.000Z",
-          "wordCount": 8132,
+          "wordCount": 8128,
           "title": "\"Estou trabalhando doente com medo do assédio moral deles\", denuncia trabalhador da Works do Metrô-SP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000420876.jpg?1778264718"
         },
@@ -292,7 +312,7 @@
           "description": "O brasileiro Thiago Ávila e o palestino-espanhol Saif Abukeshek, ativistas da Global Sumud Flotilla, serão libertados nas próximas horas após dias sequestro e prisão ilegal pelo regime genocida de Israel na Palestina ocupada. A informação foi confirmada pela equipe jurídica da Flotilha e também pelo ministro das Relações Exteriores da Espanha, José Manuel Albares. \n Segundo as informações divulgadas, os dois ativistas serão transferidos para um centro de detenção para migrantes, onde (…)\n08-05-2026\n\n/ Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Thiago-Avila-e-Saif-Abukeshek-serao-libertados-apos-pressao-da-solidariedade-internacional",
           "publishedOn": "2026-05-09T13:02:16.000Z",
-          "wordCount": 8029,
+          "wordCount": 8025,
           "title": "Thiago Ávila e Saif Abukeshek serão libertados após pressão da solidariedade internacional",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/soltos.jpg?1778331731"
         },
@@ -302,7 +322,7 @@
           "description": "Ocupação chega ao segundo dia, com bastante força, enfrentando as bravatas de Aluisio Segurado e sua Reitoria, que se negam a negociar com os estudantes e ordenou o corte de luz e água do prédio. \n Os estudantes da USP seguem com uma forte ocupação da reitoria, que chega a seu segundo dia. Na noite desta sexta, o reitor fez novas ameaças absurdas aos estudantes através de dois comunicados da Pró-reitoria de Graduação. \n08-05-2026\n\n/ Juventude, São Paulo (capital), Faísca - Juventude Revolucionária e Anticapitalista, Reitoria USP, DCE USP, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Ocupacao-da-reitoria-da-USP-segue-com-forca-frente-a-intransigencia-do-reitor",
           "publishedOn": "2026-05-09T00:04:26.000Z",
-          "wordCount": 8132,
+          "wordCount": 8128,
           "title": "Ocupação da reitoria da USP segue com força frente à intransigência do reitor",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000300610.jpg?1778284641"
         },
@@ -312,7 +332,7 @@
           "description": "Pela primeira vez na mostra de arte, trabalhadores, artistas e sindicatos lançam uma greve organizada. Sob a palavra de ordem \"Fechar o pavilhão do genocídio\", denunciam o uso da arte para encobrir o massacre em Gaza. A medida conta com o respaldo de setores que protagonizaram os bloqueios e greves junto a estudantes e em apoio à Flotilha Global Sumud\n08-05-2026\n\n/ Internacional, Palestina, Itália, Nenhuma gota de petróleo do Brasil e da Petrobras para o genocídio",
           "link": "https://www.esquerdadiario.com.br/Trabalhadores-da-cultura-convocam-greve-na-Bienal-de-Veneza-contra-o-Pavilhao-do-Genocidio-de",
           "publishedOn": "2026-05-08T23:21:09.000Z",
-          "wordCount": 8169,
+          "wordCount": 8165,
           "title": "Trabalhadores da cultura convocam greve na Bienal de Veneza contra o \"Pavilhão do Genocídio\" de Israel",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/palestine_venecia-6fde1.jpg?1778282459"
         },
@@ -322,7 +342,7 @@
           "description": "8 de maio é o Dia da Libertação — o dia em que os nazistas capitularam em 1945. Hoje, estudantes secundaristas por toda a Alemanha entraram em greve contra a guerra e o militarismo\n06-05-2026\n\n/ Internacional, Movimento Estudantil, Alemanha, Greve Estudantil",
           "link": "https://www.esquerdadiario.com.br/Estudantes-na-Alemanha-fazem-greve-contra-a-guerra-e-o-recrutamento-militar",
           "publishedOn": "2026-05-08T22:54:34.000Z",
-          "wordCount": 8413,
+          "wordCount": 8409,
           "title": "Estudantes na Alemanha fazem greve contra a guerra e o recrutamento militar",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/alemanha-2.jpg?1778280806"
         },
@@ -332,7 +352,7 @@
           "description": "A greve dos trabalhadores da Qintess, iniciada na quinta-feira, 30, atinge equipes que prestam serviços à Caixa Econômica Federal e coloca em evidência uma série de denúncias trabalhistas contra a empresa\n06-05-2026\n\n/ Classe trabalhadora, Bancários, Greve, Greve Bancários, Trabalhadores Terceirizados, São Paulo",
           "link": "https://www.esquerdadiario.com.br/Greve-na-Qintess-atinge-equipes-que-prestam-servicos-a-Caixa-e-expoe-denuncias-de-atrasos",
           "publishedOn": "2026-05-08T21:26:59.000Z",
-          "wordCount": 8519,
+          "wordCount": 8517,
           "title": "Greve na Qintess atinge equipes que prestam serviços à Caixa e expõe denúncias de atrasos trabalhistas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/qintess.jpg?1778275553"
         },
@@ -342,7 +362,7 @@
           "description": "A Prefeitura de Ricardo Nunes recorreu novamente ao Tribunal de Justiça de São Paulo para tentar criminalizar a greve dos servidores municipais e enfraquecer a luta por um reajuste digno. Enquanto isso, Nunes tenta correr com a aprovação do PL 354/2026, que estabelece um reajuste insuficiente e ataques a direitos históricos, e que é rejeitado pela categoria.\n06-05-2026\n\n/ Classe trabalhadora, São Paulo, Greve, Nossa Classe Educação, Greve Professores Municipais SP, Ricardo Nunes, Greve de professores, Greve na Educação",
           "link": "https://www.esquerdadiario.com.br/Prefeitura-judicializa-greve-dos-educadores-e-do-funcionalismo-de-SP-Pela-defesa-do-direito-de",
           "publishedOn": "2026-05-08T16:46:09.000Z",
-          "wordCount": 8463,
+          "wordCount": 8461,
           "title": "Prefeitura judicializa greve dos educadores e do funcionalismo de SP. Pela defesa do direito de greve!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/c01ad79c8c10221e0d92_1170x530_0_0_1_1.jpg?1778258720"
         },
@@ -352,7 +372,7 @@
           "description": "Neste momento, mais de 100 cursos da USP estão em greve há mais de 20 dias, em um processo que teve início com a vitoriosa greve dos trabalhadores da USP, e agora enfrentam com ocupação a intransigência da reitoria que se recusa a negociar. Trabalhadored da Unicamp em assembleia histórica votaram greve. Estudantes da Unesp de Rio Claro também aprovaram greve em vários cursos, assim como em Araraquara e Assis, somando forças ao processo que já toma o campus da Barra Funda, na capital paulista, com greve e ocupação. A Unicamp também entra no mapa da mobilização, com o campus Limeira aderindo à greve e com assembleia geral marcada com mais de mil estudantes votando indicativo de greve. Tudo isso é uma resposta à política privatista de Tarcísio de Freitas. É necessário unir e coordenar!\n08-05-2026\n\n/ Juventude, USP, Unicamp, Greve das estaduais paulistas, Permanência Estudantil, Tarcísio de Freitas, USP, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Greve-e-ocupacao-nas-estaduais-paulistas-Coordenar-nossas-lutas-contra-Tarcisio-de-Freitas-e-seu-61293",
           "publishedOn": "2026-05-08T15:54:56.000Z",
-          "wordCount": 9108,
+          "wordCount": 9104,
           "title": "Greve e ocupação nas estaduais paulistas! Coordenar nossas lutas contra Tarcísio de Freitas e seu projeto privatista",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000049516.jpg?1778255129"
         },
@@ -362,7 +382,7 @@
           "description": "Em sua fala, Patrícia Galvão, trabalhadora da FFLCH, diretora e integrante da Secretaria de Mulheres do SINTUSP e do Movimento Nossa Classe trabalhadora, reafirma algo que a reitoria tenta quebrar: a união entre estudantes e trabalhadores na luta contra a precarização da universidade.\n08-05-2026\n\n/ Juventude, USP, SINTUSP, Reitoria, Tarcísio de Freitas, Reitoria USP",
           "link": "https://www.esquerdadiario.com.br/Patricia-Galvao-declara-que-ocupacao-da-reitoria-da-USP-e-sopro-de-esperanca-para-os-trabalhadores",
           "publishedOn": "2026-05-08T14:32:10.000Z",
-          "wordCount": 7955,
+          "wordCount": 7951,
           "title": "Patrícia Galvão declara que ocupação da reitoria da USP é \"sopro de esperança para os trabalhadores\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-08_at_11.31_09.jpg?1778250677"
         },
@@ -372,7 +392,7 @@
           "description": "A Polícia Militar de São Paulo, servindo aos interesses da reitoria da USP e do governador bolsonarista Tarcísio de Freitas, cercou o prédio da reitoria após a ocupação feita pelos estudantes na noite dessa quinta-feira, 7. Os estudantes lutam por nada mais que o direito a permanecer e condições mínimas para estudar, sobretudo aos estudantes pobres, filhos da classe trabalhadora e cotistas. É um escândalo que a PM imponha um cerco a mobilização dos estudantes e chamamos a todos a exigirem a (…)\n08-05-2026\n\n/ Juventude, USP, Greve, PM São Paulo, PM, Permanência Estudantil, Reitoria, CRUSP, Estudantes, Tarcísio de Freitas, Reitoria USP, DCE USP, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/PM-corta-agua-e-luz-da-reitoria-ocupada-pelos-estudantes-da-USP-que-lutam-por-permanencia-digna",
           "publishedOn": "2026-05-08T14:18:25.000Z",
-          "wordCount": 7988,
+          "wordCount": 7984,
           "title": "PM corta água e luz da reitoria ocupada pelos estudantes da USP que lutam por permanência digna",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/984956406-rnlao3fm45gu5bppyeic4e7zla.jpg?1778249842"
         },
@@ -382,7 +402,7 @@
           "description": "O governo Zema/Simões se prepara para demitir cerca de 2 mil ASBs, responsáveis pelo funcionamento cotidiano das escolas estaduais.\n06-05-2026\n\n/ Classe trabalhadora, Educação, Terceirização, Demissões, Minas Gerais, Romeu Zema, Rossieli Soares, Privatização da Educação",
           "link": "https://www.esquerdadiario.com.br/Zema-Simoes-querem-jogar-2-mil-trabalhadoras-da-educacao-no-desemprego-apos-leiloar-95-escolas",
           "publishedOn": "2026-05-08T12:34:20.000Z",
-          "wordCount": 8193,
+          "wordCount": 8183,
           "title": "Zema/Simões querem jogar 2 mil trabalhadoras da educação no desemprego após leiloar 95 escolas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-08_at_09.30_13_1_.jpg?1778243468"
         },
@@ -392,7 +412,7 @@
           "description": "Adriano Alves Ferreira, pai de uma filha, morreu eletrocutado enquanto realizava manutenção na via aérea próximo à Estação de trem Morumbi. Em 2025 e 2022 outros eletricistas morreram em condições semelhantes na mesma linha, sendo esta a terceira morte de trabalhador desde a privatização desta linha em 2022. \n A privatização e precarização do trabalho vitimaram mais um trabalhador. Adriano Alves Ferreira realizava manutenção de rotina na rede alimentadora dos trens que atendem a Faria Lima (…)\n06-05-2026\n\n/ Classe trabalhadora, São Paulo, Metrô de São Paulo",
           "link": "https://www.esquerdadiario.com.br/Trabalhador-da-Linha-9-Esmeralda-de-Sao-Paulo-morre-eletrocutado-Tarcisio-e-Via-Mobilidade-sao",
           "publishedOn": "2026-05-08T10:40:28.000Z",
-          "wordCount": 8037,
+          "wordCount": 8033,
           "title": "Trabalhador da Linha 9 - Esmeralda de São Paulo morre eletrocutado. Tarcísio e Via Mobilidade são responsáveis",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000420366.jpg?1778236621"
         }
@@ -486,6 +506,16 @@
       "siteUrl": "https://ponte.org/",
       "articles": [
         {
+          "id": "https://ponte.org/?p=160114",
+          "author": "Catarina Duarte",
+          "description": "Episódio reconstrói os dias de medo em São Paulo e mostra como centenas de mortes de civis foram apagadas da memória sobre maio de 2006\nO conteúdo ‘Memórias de Maio’: primeiro episódio do podcast da Ponte e do BdF revisita início do massacre de 2006 Pode ser acessado em Ponte Jornalismo.",
+          "link": "https://ponte.org/memorias-de-maio-primeiro-episodio-do-podcast-da-ponte-revisita-inicio-do-massacre-de-2006/",
+          "publishedOn": "2026-05-12T14:59:52.000Z",
+          "wordCount": 5237,
+          "title": "‘Memórias de Maio’: primeiro episódio do podcast da Ponte e do BdF revisita início do massacre de 2006",
+          "imageUrl": "https://ponte.org/wp-content/uploads/2021/11/291120211638146691maes-de-maio-bonifacio-4-ms-lsnburhvua.jpeg"
+        },
+        {
           "id": "https://ponte.org/?p=160142",
           "author": "Catarina Duarte",
           "description": "Série em áudio reconstrói episódio letal e discute como a violência policial, a impunidade e a disputa por memória que seguem presentes\nO conteúdo Ponte Jornalismo e Brasil de Fato lançam podcast que marca os 20 anos dos Crimes de Maio Pode ser acessado em Ponte Jornalismo.",
@@ -570,23 +600,83 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=254458",
+          "author": "Victor Farinelli",
+          "description": "Em declaração dada nesta terça-feira (12/05), o líder do Hezbollah, Naim Qassem, afirmou que o arsenal de armas do grupo xiita não faz parte das negociações por um acordo de paz que coloque fim à invasão de Israel ao sul do Líbano. As palavras de Qassem se referem ao diálogo entre Tel Aviv e Beirute, […]\nO post Líder do Hezbollah nega entrega de armas como parte de negociações com Israel apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/oriente-medio/lider-do-hezbollah-nega-entrega-de-armas-como-parte-de-negociacoes-com-israel/",
+          "publishedOn": "2026-05-12T18:00:26.000Z",
+          "wordCount": 3100,
+          "title": "Líder do Hezbollah nega entrega de armas como parte de negociações com Israel",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/naim.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254453",
+          "author": "Tatiana Carlotti",
+          "description": "A guerra contra o Irã, promovida pelos Estados Unidos e por Israel, está pesando no custo de vida dos consumidores norte-americanos. Um levantamento da Brown University estima que, desde o início dos ataques, em 28 de fevereiro, o aumento dos preços da gasolina e do diesel custou mais de US$ 37 bilhões aos estadunidenses, o […]\nO post Guerra contra Irã custou R$ 181 bilhões aos consumidores dos EUA, aponta relatório; aprovação de Trump cai apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/guerra-contra-ira-custou-r-181-bilhoes-aos-consumidores-dos-eua-aponta-relatorio-aprovacao-de-trump-cai/",
+          "publishedOn": "2026-05-12T17:30:12.000Z",
+          "wordCount": 3356,
+          "title": "Guerra contra Irã custou R$ 181 bilhões aos consumidores dos EUA, aponta relatório; aprovação de Trump cai",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/trump-daniel-torok.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254444",
+          "author": "Tabitha Ramalho",
+          "description": "O jogador de futebol Lamine Yamal, que é filho de pai marroquino, comemorou o título do Campeonato Espanhol pelo Barcelona erguendo a bandeira da Palestina dentro de um trio elétrico nesta segunda-feira (11/05). Desde o início da guerra genocida de Israel contra Gaza, em outubro de 2023, a cidade espanhola tem servido como um importante […]\nO post Lamine Yamal comemora título do Barcelona com bandeira da Palestina apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/lamine-yamal-comemora-titulo-do-barcelona-com-bandeira-da-palestina/",
+          "publishedOn": "2026-05-12T16:08:18.000Z",
+          "wordCount": 3034,
+          "title": "Lamine Yamal comemora título do Barcelona com bandeira da Palestina",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/unnamed.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254430",
+          "author": "Rocio Paik",
+          "description": "Fiona Ben Chekroun, co-coordenadora europeia do Comitê Nacional do BDS (BNC), visitou recentemente Liubliana, Rijeka e Zagreb, onde se reuniu com grupos locais de solidariedade com a Palestina e discutiu campanhas de Boicote, Desinvestimento e Sanções (BDS) na Eslovênia e Croácia. O Peoples Dispatch conversou com Ben Chekroun sobre mudanças e avanços nesse campo desde […]\nO post Movimento BDS ganha força na Europa com apoio de grupos estudantis, climáticos e LGBTQI+ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/movimento-bds-ganha-forca-na-europa-com-apoio-de-grupos-estudantis-climaticos-e-lgbtqi/",
+          "publishedOn": "2026-05-12T16:00:51.000Z",
+          "wordCount": 6077,
+          "title": "Movimento BDS ganha força na Europa com apoio de grupos estudantis, climáticos e LGBTQI+",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/romania-pscj-head.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254431",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente dos Estados Unidos, Donald Trump, estaria considerando de forma mais concreta a possibilidade de retomar operações militares de grande escala contra o Irã, segundo informações divulgadas pela CNN, com base em relatos de fontes próximas ao governo norte-americano. Nesta segunda-feira (11/05), Trump voltou a se reunir com sua equipe de segurança nacional para […]\nO post Trump avalia retomar ofensiva militar contra Irã após trégua, diz CNN apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-avalia-retomar-ofensiva-militar-contra-ira-apos-tregua-diz-cnn/",
+          "publishedOn": "2026-05-12T15:20:21.000Z",
+          "wordCount": 2982,
+          "title": "Trump avalia retomar ofensiva militar contra Irã após trégua, diz CNN",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55025777404_8c5d16e7f8_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254429",
+          "author": "Tabitha Ramalho",
+          "description": "A presidente interina, Delcy Rodríguez, declarou nesta segunda-feira (11/05), durante sua viagem a Haia, que a Venezuela “nunca” considerou se tornar o 51º estado dos Estados Unidos, como sugerido pelo presidente dos Estados Unidos, Donald Trump, após a captura de Nicolás Maduro. “Isso jamais seria considerado, porque se há algo que nós, venezuelanos e venezuelanas, […]\nO post Delcy Rodríguez rechaça proposta de Trump para anexar Venezuela aos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/conflito-eua-e-venezuela/delcy-rodriguez-rechaca-proposta-de-trump-para-anexar-venezuela-aos-eua/",
+          "publishedOn": "2026-05-12T14:47:32.000Z",
+          "wordCount": 3340,
+          "title": "Delcy Rodríguez rechaça proposta de Trump para anexar Venezuela aos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hiesbbgxkaeowih-1536x1025.jpg.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=254427",
           "author": "Tatiana Carlotti",
-          "description": "A Marinha da Guarda Revolucionária Islâmica do Irã (IRGC) afirmou nesta terça-feira (12/05) que o Estreito de Ormuz foi ampliado. A região deixou de ser considerada apenas uma passagem marítima e passou a integrar uma ampla “zona estratégica” sob vigilância militar iraniana. Segundo Mohammad Akbarzadeh, vice-comandante político da Marinha iraniana, a área operacional associada ao […]\nO post Irã amplia definição estratégica do Estreito de Ormuz e estende área controlada apareceu primeiro em Opera Mundi.",
+          "description": "A Marinha da Guarda Revolucionária Islâmica do Irã (IRGC) afirmou nesta terça-feira (12/05) que o Estreito de Ormuz foi ampliado. A região deixou de ser considerada apenas uma passagem marítima e passou a integrar uma ampla “zona estratégica” sob vigilância militar iraniana. Segundo Mohammad Akbarzadeh, vice-comandante político da Marinha iraniana, a área operacional associada ao […]\nO post Irã aumenta área controlada em Ormuz e diz que estreito é ‘zona estratégica’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-amplia-definicao-estrategica-do-estreito-de-ormuz-e-estende-area-controlada/",
           "publishedOn": "2026-05-12T14:30:23.000Z",
-          "wordCount": 3360,
-          "title": "Irã amplia definição estratégica do Estreito de Ormuz e estende área controlada",
+          "wordCount": 3356,
+          "title": "Irã aumenta área controlada em Ormuz e diz que estreito é ‘zona estratégica’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/captura-de-tela-2026-02-10-102903.png"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=254422",
           "author": "Tabitha Ramalho",
-          "description": "As emissoras públicas da Espanha, Irlanda e Eslovênia anunciaram nesta segunda-feira (11/05) que não exibirão a 70ª edição do Festival Eurovisão da Canção em boicote devido à participação de Israel. O evento deste ano em Viena começa nesta terça-feira (12/05) e tem sua grande final no sábado (16/05). “Em vez do circo do Festival Eurovisão, […]\nO post Espanha, Irlanda e Eslovênia boicotam Eurovision em protesto contra participação de Israel apareceu primeiro em Opera Mundi.",
+          "description": "As emissoras públicas da Espanha, Irlanda e Eslovênia anunciaram nesta segunda-feira (11/05) que não exibirão a 70ª edição do Festival Eurovisão da Canção em boicote devido à participação de Israel. O evento deste ano em Viena começa nesta terça-feira (12/05) e tem sua grande final no sábado (16/05). “Em vez do circo do Festival Eurovisão, […]\nO post Eslovênia, Espanha e Irlanda boicotam Eurovision em protesto contra participação de Israel apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/espanha-irlanda-e-eslovenia-boicotam-eurovision-em-protesto-contra-participacao-de-israel/",
           "publishedOn": "2026-05-12T13:48:44.000Z",
-          "wordCount": 2932,
-          "title": "Espanha, Irlanda e Eslovênia boicotam Eurovision em protesto contra participação de Israel",
+          "wordCount": 2929,
+          "title": "Eslovênia, Espanha e Irlanda boicotam Eurovision em protesto contra participação de Israel",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-12-104634.png"
         },
         {
@@ -595,87 +685,21 @@
           "description": "O presidente Luiz Inácio Lula da Silva recebeu nesta segunda-feira (11/05), no Palácio do Planalto, a ex-presidente do Chile, Michelle Bachelet, que disputa o cargo de secretária-geral da Organização das Nações Unidas (ONU), o mais alto do colegiado internacional de países. A ONU jamais foi chefiada por uma mulher. “Sua experiência como chefe de Estado […]\nO post Lula reitera apoio à candidatura de Michelle Bachelet na ONU: ‘experiência a credencia’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/lula-reitera-apoio-a-candidatura-de-michelle-bachelet-na-onu-experiencia-a-credencia/",
           "publishedOn": "2026-05-12T12:50:33.000Z",
-          "wordCount": 3230,
+          "wordCount": 3226,
           "title": "Lula reitera apoio à candidatura de Michelle Bachelet na ONU: ‘experiência a credencia’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55264479354_b02834509c_o.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=254411",
           "author": "Tatiana Carlotti",
-          "description": "O Knesset, parlamento de Israel, aprovou um projeto de lei nesta segunda-feira (11/05) que cria um tribunal especial com poder para impor pena de morte a palestinos acusados de envolvimento nos ataques liderados pelo Hamas em 7 de outubro de 2023. A proposta, aprovada por unanimidade no Knesset, facilita a aplicação da pena capital, ao […]\nO post Israel aprova lei que permite pena de morte para acusados pelo 7 de outubro apareceu primeiro em Opera Mundi.",
+          "description": "O Knesset aprovou um projeto de lei nesta segunda-feira (11/05) que cria um tribunal especial com poder para impor pena de morte a palestinos acusados de envolvimento nos ataques liderados pelo Hamas em 7 de outubro de 2023. O projeto de lei foi aprovado por 93 votos a 0 no parlamento israelense, que é composto […]\nO post Israel aprova lei que permite pena de morte para acusados pelo 7 de outubro apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/israel-aprova-lei-que-permite-pena-de-morte-para-acusados-pelo-7-de-outubro/",
           "publishedOn": "2026-05-12T12:14:02.000Z",
-          "wordCount": 3269,
+          "wordCount": 3377,
           "title": "Israel aprova lei que permite pena de morte para acusados pelo 7 de outubro",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/06/1280px-knesset_building_south_side.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254410",
-          "author": "Tabitha Ramalho",
-          "description": "A União Europeia concordou em “dar o sinal verde” para sancionar colonos israelenses por violência contra palestinos e figuras importantes do Hamas. As medidas têm como alvo três colonos israelenses e quatro organizações de colonos; no entanto, suas identidades ainda não foram divulgadas publicamente. “Já era hora de sairmos do impasse e partirmos para a […]\nO post União Europeia concorda em sancionar colonos israelenses por violência na Cisjordânia apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/uniao-europeia-concorda-em-sancionar-colonos-israelenses-por-violencia-na-cisjordania/",
-          "publishedOn": "2026-05-12T12:08:13.000Z",
-          "wordCount": 4153,
-          "title": "União Europeia concorda em sancionar colonos israelenses por violência na Cisjordânia",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/wafaimage-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254386",
-          "author": "Raissa Neves",
-          "description": "O ex-presidente do Estado Plurinacional da Bolívia, Evo Morales, foi considerado culpado por desacato após não comparecer ao tribunal, nesta segunda-feira (11/05). O Ministério Público boliviano alega que a “ausência injustificada” confirma o “status de fugitivo” do ex-presidente, justificando a ordem de prisão e a proibição dele sair do país. O juiz Luis Ortiz Flores […]\nO post Evo Morales acusa ‘guerra jurídica’ após juiz emitir mandado de prisão por ausência em tribunal apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/evo-morales-acusa-guerra-juridica-apos-juiz-emitir-mandado-de-prisao-por-ausencia-em-tribunal/",
-          "publishedOn": "2026-05-12T10:28:30.000Z",
-          "wordCount": 3203,
-          "title": "Evo Morales acusa ‘guerra jurídica’ após juiz emitir mandado de prisão por ausência em tribunal",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/evo.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254403",
-          "author": "Tabitha Ramalho",
-          "description": "O governo do presidente Donald Trump anunciou na segunda-feira (11/05) uma nova rodada de sanções contra operações petrolíferas ligadas à Guarda Revolucionária Islâmica do Irã (IRGC), em uma nova escalada da política de “pressão máxima” promovida por Washington contra Teerã. O Departamento de Estado informou que as medidas visam uma rede dedicada à venda e […]\nO post EUA anunciam novas sanções contra operações petrolíferas ligadas à Guarda Revolucionária do Irã apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-anunciam-novas-sancoes-contra-operacoes-petroliferas-ligadas-a-guarda-revolucionaria-do-ira/",
-          "publishedOn": "2026-05-12T10:17:19.000Z",
-          "wordCount": 3202,
-          "title": "EUA anunciam novas sanções contra operações petrolíferas ligadas à Guarda Revolucionária do Irã",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405012509041042036397934.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254397",
-          "author": "Tabitha Ramalho",
-          "description": "O candidato presidencial de esquerda Roberto Sánchez (Juntos Por Peru) deve enfrentar a candidata de extrema direita Keiko Fujimori (Força Popular) no segundo turno das eleições peruanas. Com 99,68% dos votos apurados, sua vantagem sobre o candidato da ultradireita Rafael López Aliaga (Popular Renewal) é praticamente insuperável. Com aproximadamente 60.000 votos ainda a serem contabilizados, […]\nO post Peru: apuração em fase final indica Roberto Sánchez no segundo turno contra Keiko Fujimori apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/peru-roberto-sanchez-disputara-segundo-turno-das-eleicoes-contra-keiko-fujimori/",
-          "publishedOn": "2026-05-12T09:51:38.000Z",
-          "wordCount": 3435,
-          "title": "Peru: apuração em fase final indica Roberto Sánchez no segundo turno contra Keiko Fujimori",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hfkcjvzxkaextfq.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254373",
-          "author": "Victor Farinelli",
-          "description": "O ativista brasileiro Thiago Ávila retornou ao Brasil nesta segunda-feira (11/05), após ser mantido preso em Israel por dez dias. O defensor da causa palestina foi sequestrado pelas forças armadas israelenses no dia 30 de abril, quando participava em uma nova missão da Global Sumud Flotilha que tentava levar ajuda humanitária à Faixa de Gaza. […]\nO post Thiago Ávila chega ao Brasil após prisão em Israel e denuncia tortura: ‘diziam diretamente que queriam me matar’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/palestina/thiago-avila-chega-ao-brasil-israel-tortura-matar/",
-          "publishedOn": "2026-05-11T21:54:46.000Z",
-          "wordCount": 5652,
-          "title": "Thiago Ávila chega ao Brasil após prisão em Israel e denuncia tortura: ‘diziam diretamente que queriam me matar’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/aero-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254376",
-          "author": "Pedro Marin",
-          "description": "Após se aposentar do universo do xadrez, Garry Kasparov encontrou uma nova vocação: promover os objetivos da política externa dos Estados Unidos. A partir de suas posições belicistas em relação à política externa, incluindo o apoio às invasões americanas e ao uso de armas nucleares contra seus inimigos, sua defesa veemente do genocídio israelense e […]\nO post Garry Kasparov, de ícone do xadrez a apoiador do Departamento de Estado apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/garry-kasparov-de-icone-do-xadrez-a-apoiador-do-departamento-de-estado/",
-          "publishedOn": "2026-05-11T21:25:32.000Z",
-          "wordCount": 10166,
-          "title": "Garry Kasparov, de ícone do xadrez a apoiador do Departamento de Estado",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/garry-kasparov.webp"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -827,12 +851,22 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3184744",
+          "author": "Ion de Andrade, Aléssio Dionisi, Sarah Andrade, Larissa Sousa, Nilberto Gomes, Heitor de Andrade e Verner Monteiro",
+          "description": "No RN, estudo mostra caminhos para uma política pública inspirada no SUS, Milton Santos e Lefebvre. Alia melhoria habitacional com o Cuidado, assistência técnica, equipamentos públicos e acolhimento social. E custaria somente 1% do orçamento estadual\nThe post Direito à moradia digna: Uma proposta instigante appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/outras-cidades/direito-a-moradia-digna-uma-proposta-instigante/",
+          "publishedOn": "2026-05-12T18:06:40.000Z",
+          "wordCount": null,
+          "title": "Direito à moradia digna: Uma proposta instigante",
+          "imageUrl": null
+        },
+        {
           "id": "https://outraspalavras.net/?p=3184819",
           "author": "Antonio Martins",
           "description": "Outras Palavras e FESP-SP provocam: é possível reverter a contrarreforma trabalhista. Sustentar esta ideia é essencial para derrotar a ultradireita em 2026 –  e ir além. Três grandes estudiosos do tema debatem as estratégias possíveis\nThe post Brasil: Como restaurar os direitos do Trabalho appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/trabalhoeprecariado/brasil-como-restaurar-os-direitos-do-trabalho/",
           "publishedOn": "2026-05-12T13:36:21.000Z",
-          "wordCount": 3856,
+          "wordCount": 3853,
           "title": "Brasil: Como restaurar os direitos do Trabalho",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/12103232/260512-Trabalho2b.jpg"
         },
@@ -850,11 +884,11 @@
           "id": "https://outraspalavras.net/?p=3184731",
           "author": "Jaqueline Morelo",
           "description": "Ausência de um horizonte político e material ameaça mergulhar a juventude em individualismo e consumo vão. Vislumbre de futuro foi encurtado. Como resgatar a dimensão do sonho, e restaurar a noção de que é possível transformar o mundo?\nThe post Ideias para sonhar novos mundos appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outrapolitica/ideias-para-sonhar-novos-mundos/",
+          "link": "https://outraspalavras.net/outrapolitica/ideias-para-sonhar-novo-mundo/",
           "publishedOn": "2026-05-11T20:56:57.000Z",
-          "wordCount": 4286,
+          "wordCount": 4289,
           "title": "Ideias para sonhar novos mundos",
-          "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/05/222.jpg"
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/12130345/Screenshot-2026-05-12-at-13-03-19-Ideias-para-sonhar-novos-mundos-Outras-Palavras.png"
         },
         {
           "id": "https://outraspalavras.net/?p=3184726",
@@ -915,16 +949,6 @@
           "wordCount": 7587,
           "title": "Agroecologia, a arte de enfrentar o atraso",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/08182736/image_processing20200201-29235-kw0pqc.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3184615",
-          "author": "Edna Aparecida da Silva",
-          "description": "Ao contrário do bloco articulado por Washington, Brasil não tem defesas institucionais contra a cobiça sobre seus minerais estratégicos. Criar estatal é o primeiro passo – mas precisa ser seguido por novas medidas, e vasto debate nacional sobre o tema\nThe post Terras raras: a Terrabrás e a defesa contra a captura appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/geopoliticaeguerra/terras-raras-a-terrabras-e-a-defesa-contra-a-captura/",
-          "publishedOn": "2026-05-08T21:01:13.000Z",
-          "wordCount": 4890,
-          "title": "Terras raras: a Terrabrás e a defesa contra a captura",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/08175935/Sem-titulo-1.jpeg"
         }
       ]
     },
