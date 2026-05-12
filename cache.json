@@ -14,16 +14,6 @@
           "wordCount": 2813,
           "title": "Estudantes da USP ocupam a reitoria pela abertura da mesa de negociação",
           "imageUrl": "https://media.jornalofuturo.com.br/greveusp1-900x1600.jpg"
-        },
-        {
-          "id": "72Ejrc",
-          "author": null,
-          "description": "Retirada da pauta da agenda escancara as contradições de um governo incapaz de defender os trabalhadores frente às big-techs de aplicativos.",
-          "link": "https://jornalofuturo.com.br/artigo/72Ejrc-com-projeto-rebaixado-e-ameaca-de-greve-governo-lula-escanteia-pl-dos-aplicativos-para-2027",
-          "publishedOn": "2026-05-07T21:00:00.000Z",
-          "wordCount": 3886,
-          "title": "Com projeto rebaixado e ameaça de greve, governo Lula escanteia PL dos Aplicativos para 2027",
-          "imageUrl": "https://media.jornalofuturo.com.br/protestomotoristasapp-1170x700.jpg"
         }
       ]
     },
@@ -228,26 +218,6 @@
           "wordCount": 1175,
           "title": "Pré-campanha de Hertz Dias ganha força e percorre o país",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/campanha-hertz-rj-elias-dias.png"
-        },
-        {
-          "id": "69fcfaf50829885d261fdc80",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Movimento reivindica reajuste real do auxílio permanência e reabertura da mesa de negociação com a reitoria",
-          "link": "https://opiniaosocialista.com.br/usp-estudantes-em-greve-ocupam-reitoria-apos-suspensao-das-negociacoes/",
-          "publishedOn": "2026-05-07T21:16:18.000Z",
-          "wordCount": 793,
-          "title": "USP: Estudantes em greve ocupam reitoria após suspensão das negociações",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/reitoria-ups-ocupada.webp"
-        },
-        {
-          "id": "69fceb310829885d261fdc1b",
-          "author": "Diego Cruz",
-          "description": "Enquanto fechávamos esta edição, uma ação coordenada entre o Congresso Nacional, o governo Lula e os EUA ocorria para avançar a entrega das chamadas terras raras do país ao imperialismo estadunidense. Esses cobiçados recursos sã",
-          "link": "https://opiniaosocialista.com.br/terras-raras-governo-lula-congresso-nacional-e-extrema-direita-entregam-o-futuro-do-pais-a-trump/",
-          "publishedOn": "2026-05-07T20:05:26.000Z",
-          "wordCount": 2105,
-          "title": "Terras raras: governo Lula, Congresso Nacional e extrema direita entregam o futuro do país a Trump",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/stuckert.jpeg"
         }
       ]
     },
@@ -412,7 +382,7 @@
           "description": "Adriano Alves Ferreira, pai de uma filha, morreu eletrocutado enquanto realizava manutenção na via aérea próximo à Estação de trem Morumbi. Em 2025 e 2022 outros eletricistas morreram em condições semelhantes na mesma linha, sendo esta a terceira morte de trabalhador desde a privatização desta linha em 2022. \n A privatização e precarização do trabalho vitimaram mais um trabalhador. Adriano Alves Ferreira realizava manutenção de rotina na rede alimentadora dos trens que atendem a Faria Lima (…)\n06-05-2026\n\n/ Classe trabalhadora, São Paulo, Metrô de São Paulo",
           "link": "https://www.esquerdadiario.com.br/Trabalhador-da-Linha-9-Esmeralda-de-Sao-Paulo-morre-eletrocutado-Tarcisio-e-Via-Mobilidade-sao",
           "publishedOn": "2026-05-08T10:40:28.000Z",
-          "wordCount": 8039,
+          "wordCount": 8038,
           "title": "Trabalhador da Linha 9 - Esmeralda de São Paulo morre eletrocutado. Tarcísio e Via Mobilidade são responsáveis",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000420366.jpg?1778236621"
         },
@@ -443,6 +413,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=442843",
+          "author": "Isabella Mota",
+          "description": "Anúncio patrocinado pelo empresa circulou sem rótulo político. Peça foi retirada do ar após questionamento da newsletter Cartas Marcadas.\nO post G4 Educação de Tallis Gomes paga anúncio contra fim da escala 6×1 e Meta ignora regra de transparência apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/05/12/g4-educacao-paga-anuncio-contra-escala-6x1-meta-ignora-regras/",
+          "publishedOn": "2026-05-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "G4 Educação de Tallis Gomes paga anúncio contra fim da escala 6×1 e Meta ignora regra de transparência",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/05/HeaderFeat.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/05/HeaderFeat.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=442823",
           "author": "Alice de Souza",
@@ -487,21 +472,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/05/wando-ciro-nogueira.jpg"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=442715",
-          "author": "Isabella Mota",
-          "description": "Das sanções contra a Venezuela às investigações sobre Gustavo Petro, entenda como Washington usa a instabilidade regional como ativo estratégico.\nO post A estratégia de Trump para fragmentar a América Latina e isolar líderes apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/05/07/estrategia-trump-fragmentar-america-latina-isolar-lideres/",
-          "publishedOn": "2026-05-07T18:45:00.000Z",
-          "wordCount": null,
-          "title": "A estratégia de Trump para fragmentar a América Latina e isolar líderes",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/05/33062019-high.jpeg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/05/33062019-high.jpeg"
         }
       ]
     },
@@ -605,12 +575,42 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=254386",
+          "author": "Raissa Neves",
+          "description": "O ex-presidente do Estado Plurinacional da Bolívia, Evo Morales, foi considerado culpado de desacato por um juiz boliviano após não comparecer ao tribunal nesta segunda-feira (11/05). O Ministério Público afirmou que sua ‘ausência injustificada’ confirmou seu status de fugitivo, justificando ordem de prisão e proibição de sua saída no país. O juiz Luis Ortiz Flores […]\nO post Evo Morales acusa ‘guerra jurídica’ após mandado de prisão por ausência em tribunal apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/evo-morales-acusa-guerra-juridica-apos-mandado-de-prisao-por-ausencia-em-tribunal/",
+          "publishedOn": "2026-05-12T10:28:30.000Z",
+          "wordCount": 3263,
+          "title": "Evo Morales acusa ‘guerra jurídica’ após mandado de prisão por ausência em tribunal",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/evo.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254403",
+          "author": "Tabitha Ramalho",
+          "description": "O governo do presidente Donald Trump anunciou na segunda-feira (11/05) uma nova rodada de sanções contra operações petrolíferas ligadas à Guarda Revolucionária Islâmica do Irã (IRGC), em uma nova escalada da política de “pressão máxima” promovida por Washington contra Teerã. O Departamento de Estado informou que as medidas visam uma rede dedicada à venda e […]\nO post EUA anunciam novas sanções contra operações petrolíferas ligadas à Guarda Revolucionária do Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/eua-anunciam-novas-sancoes-contra-operacoes-petroliferas-ligadas-a-guarda-revolucionaria-do-ira/",
+          "publishedOn": "2026-05-12T10:17:19.000Z",
+          "wordCount": 3197,
+          "title": "EUA anunciam novas sanções contra operações petrolíferas ligadas à Guarda Revolucionária do Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405012509041042036397934.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254397",
+          "author": "Tabitha Ramalho",
+          "description": "O candidato presidencial de esquerda Roberto Sánchez (Juntos Por Peru) enfrentará a candidata de direita Keiko Fujimori (Força Popular) no segundo turno das eleições peruanas. Com 99,68% dos votos apurados, sua vantagem sobre o candidato de extrema-direita Rafael López Aliaga (Popular Renewal) é praticamente insuperável. Com aproximadamente 60.000 votos ainda a serem contabilizados, Keiko Fujimori […]\nO post Peru: Roberto Sánchez disputará segundo turno das eleições contra Fujimori apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/peru-roberto-sanchez-disputara-segundo-turno-das-eleicoes-contra-fujimori/",
+          "publishedOn": "2026-05-12T09:51:38.000Z",
+          "wordCount": 3409,
+          "title": "Peru: Roberto Sánchez disputará segundo turno das eleições contra Fujimori",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hfkcjvzxkaextfq.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=254373",
           "author": "Victor Farinelli",
           "description": "O ativista brasileiro Thiago Ávila retornou ao Brasil nesta segunda-feira (11/05), após ser mantido preso em Israel por dez dias. O defensor da causa palestina foi sequestrado pelas forças armadas israelenses no dia 30 de abril, quando participava em uma nova missão da Global Sumud Flotilha que tentava levar ajuda humanitária à Faixa de Gaza. […]\nO post Thiago Ávila chega ao Brasil após prisão em Israel e denuncia tortura: ‘diziam diretamente que queriam me matar’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/palestina/thiago-avila-chega-ao-brasil-israel-tortura-matar/",
           "publishedOn": "2026-05-11T21:54:46.000Z",
-          "wordCount": 5649,
+          "wordCount": 5637,
           "title": "Thiago Ávila chega ao Brasil após prisão em Israel e denuncia tortura: ‘diziam diretamente que queriam me matar’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/aero-2.jpg"
         },
@@ -620,7 +620,7 @@
           "description": "Após se aposentar do universo do xadrez, Garry Kasparov encontrou uma nova vocação: promover os objetivos da política externa dos Estados Unidos. A partir de suas posições belicistas em relação à política externa, incluindo o apoio às invasões americanas e ao uso de armas nucleares contra seus inimigos, sua defesa veemente do genocídio israelense e […]\nO post Garry Kasparov, de ícone do xadrez a apoiador do Departamento de Estado apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/garry-kasparov-de-icone-do-xadrez-a-apoiador-do-departamento-de-estado/",
           "publishedOn": "2026-05-11T21:25:32.000Z",
-          "wordCount": 10121,
+          "wordCount": 10159,
           "title": "Garry Kasparov, de ícone do xadrez a apoiador do Departamento de Estado",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/garry-kasparov.webp"
         },
@@ -630,7 +630,7 @@
           "description": "Em 11 de maio de 1937, policiais militares do Ceará e soldados do Exército Brasileiro assassinavam centenas de camponeses e romeiros no Massacre do Sítio do Caldeirão. Localizada na zona rural do Crato, na região do Cariri, a comunidade do Sítio do Caldeirão se tornou um refúgio para sertanejos pobres, ex-escravizados e flagelados da seca. […]\nO post Bombas no Sertão: o Massacre do Sítio do Caldeirão apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/bombas-no-sertao-o-massacre-do-sitio-do-caldeirao/",
           "publishedOn": "2026-05-11T19:30:35.000Z",
-          "wordCount": 5996,
+          "wordCount": 5934,
           "title": "Bombas no Sertão: o Massacre do Sítio do Caldeirão",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/caldeirao.jpg"
         },
@@ -640,7 +640,7 @@
           "description": "A flotilha humanitária Rumo a Cuba zarpou neste domingo (10/05) do porto de Barcelona, ​​na Espanha, com destino à ilha caribenha. Esta iniciativa, liderada pela ONG Open Arms e apoiada por mais de 20 organizações sociais e políticas, visa entregar equipamentos fotovoltaicos, medicamentos e alimentos ao Hospital Pediátrico Juan Manuel Márquez, em Havana. O navio […]\nO post Nova flotilha com ajuda humanitária a Cuba parte da Espanha apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/nova-flotilha-com-ajuda-humanitaria-a-cuba-parte-da-espanha/",
           "publishedOn": "2026-05-11T18:40:30.000Z",
-          "wordCount": 3132,
+          "wordCount": 3122,
           "title": "Nova flotilha com ajuda humanitária a Cuba parte da Espanha",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/astral.jpg"
         },
@@ -650,7 +650,7 @@
           "description": "Durante décadas, o projeto sionista vendeu ao mundo uma imagem cuidadosamente construída de uma democracia moderna, militarmente invencível, moralmente superior e destinada à permanência histórica. Hoje, essa narrativa desmorona diante dos olhos do mundo. Mas esta crise não nasceu ontem. Às vésperas dos 78 anos da Nakba, a catástrofe palestina de 1948, que marcou a […]\nO post Os 78 anos da Nakba e o colapso do projeto sionista apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/os-78-anos-da-nakba-e-o-colapso-do-projeto-sionista/",
           "publishedOn": "2026-05-11T18:02:30.000Z",
-          "wordCount": 4116,
+          "wordCount": 4154,
           "title": "Os 78 anos da Nakba e o colapso do projeto sionista",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/palestine_nakba_day_demo_in_berlin.jpg"
         },
@@ -660,7 +660,7 @@
           "description": "4.000 habitantes de Utah apresentaram respostas de protesto à Divisão de Direitos da Água de Utah contra o pedido do projeto de direitos de água para um afluente direto do Grande Lago Salgado. Os recursos citaram preocupações sobre o agravamento das condições de seca, o colapso ecológico do Grande Lago Salgado, o aumento dos custos […]\nO post EUA: milhares protestam em Utah contra data center de IA por risco de colapso ecológico apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/eua-milhares-protestam-em-utah-contra-data-center-de-ia-por-risco-de-colapso-ecologico/",
           "publishedOn": "2026-05-11T18:00:22.000Z",
-          "wordCount": 6748,
+          "wordCount": 6736,
           "title": "EUA: milhares protestam em Utah contra data center de IA por risco de colapso ecológico",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/ertyhj.jpeg"
         },
@@ -670,39 +670,9 @@
           "description": "O veterinário e epidemiologista argentino Edmundo Larrieu atua no setor de Zoonoses do Ministério da Saúde da província de Río Negro, na Patagônia, e é especialista no estudo e no controle da cepa Andes Sul do hantavírus, que se propagou no cruzeiro MV Hondius. Ele atuou no primeiro grande surto de hantavírus com transmissão entre […]\nO post ‘Não há motivo para pânico’, diz epidemiologista argentino sobre hantavírus apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/saude/nao-ha-motivo-para-panico-diz-epidemiologista-argentino-sobre-hantavirus/",
           "publishedOn": "2026-05-11T17:20:04.000Z",
-          "wordCount": 4548,
+          "wordCount": 4538,
           "title": "‘Não há motivo para pânico’, diz epidemiologista argentino sobre hantavírus",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhuikqaxyaal2fd.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254337",
-          "author": "Victor Farinelli",
-          "description": "Em ato político realizado neste domingo (10/05), o primeiro-ministro da Espanha, Pedro Sánchez, criticou ironicamente a recente visita ao México protagonizada pela governadora da Comunidade Autônoma de Madri, Isabel Díaz Ayuso, uma das principais líderes da direita tradicional espanhola. Em seu discurso durante evento em favor da saúde pública organizado na cidade de Cádiz, Sánchez […]\nO post Sánchez ironiza governadora de Madri por defender colonização no México: ‘passou vergonha’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/sanchez-ironiza-governadora-de-madri-por-defender-colonizacao-no-mexico-quis-dar-licao-de-historia-mas-passou-vergonha/",
-          "publishedOn": "2026-05-11T16:40:28.000Z",
-          "wordCount": 3933,
-          "title": "Sánchez ironiza governadora de Madri por defender colonização no México: ‘passou vergonha’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/final.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254345",
-          "author": "Tatiana Carlotti",
-          "description": "O Partido Verde da Inglaterra e País de Gales registrou avanços expressivos nas eleições locais do Reino Unido, ocorridas na última quinta-feira (07/05). O partido, no entanto, enfrentou uma onda de ataques políticos e midiáticos durante a campanha, conforme reporta o jornal Middle East Eye. Acusado por adversários e setores da imprensa de promover “sectarismo […]\nO post Partido Verde avança no Reino Unido apesar de ataques durante eleições locais apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/partido-verde-avanca-no-reino-unido-apesar-de-ataques-durante-eleicoes-locais/",
-          "publishedOn": "2026-05-11T16:00:16.000Z",
-          "wordCount": 3737,
-          "title": "Partido Verde avança no Reino Unido apesar de ataques durante eleições locais",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-11-114546.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254334",
-          "author": "Rocio Paik",
-          "description": "O presidente do Paraguai, Santiago Peña, anunciou no domingo (10/05) que seu governo assinou com o Taiwan, de Lai Ching-te, um acordo sem precedentes para a criação do que definiu como “o maior centro de inteligência artificial do mundo”. O projeto, segundo ele, será desenvolvido em um esquema de financiamento em partes iguais, 50/50, visando […]\nO post Paraguai assina acordo de tecnologia inédito com Taiwan prometendo ‘maior centro de IA do mundo’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/paraguai-assina-acordo-de-tecnologia-inedito-com-taiwan-prometendo-maior-centro-de-ia-do-mundo/",
-          "publishedOn": "2026-05-11T15:20:34.000Z",
-          "wordCount": 3195,
-          "title": "Paraguai assina acordo de tecnologia inédito com Taiwan prometendo ‘maior centro de IA do mundo’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hh2gdnwxyamwpsj.jpeg"
         }
       ]
     },
@@ -991,7 +961,7 @@
           "description": "Douglas Barros: \"Tornou-se comum – e até naturalizado, à sombra da miséria espiritual que vivemos – narrar o negro como objeto das circunstâncias, como mero peão de uma estrutura que o nadifica. Du Bois, em seu esforço intelectual notável, mostra o negro não apenas como sujeito, mas como substância dos eventos históricos. Essa posição muda tudo.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/11/o-negro-como-sujeito-historico-a-reconstrucao-negra-de-w-e-b-du-bois/",
           "publishedOn": "2026-05-11T11:00:00.000Z",
-          "wordCount": 12639,
+          "wordCount": 12637,
           "title": "O negro como sujeito histórico: a “Reconstrução negra” de W. E. B. Du Bois",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/03/image-33-edited.png"
         },
@@ -1001,7 +971,7 @@
           "description": "Ana Clara Ferrari: \"Assim como o capitalismo transforma a experiência da maternidade em máquina de produção de força de trabalho, podemos dizer que, dialeticamente, a experiência da maternidade transforma profundamente a relação das mulheres com a própria existência e o meio em que estão inseridas, a começar pelo mecanismo de controle mais efetivo do capital: o tempo.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/10/localizando-a-maternidade-no-modo-de-producao-capitalista-um-dialogo-a-partir-de-leopoldina-fortunatti/",
           "publishedOn": "2026-05-10T11:00:00.000Z",
-          "wordCount": 15620,
+          "wordCount": 15333,
           "title": "Localizando a maternidade no modo de produção capitalista: um diálogo a partir de Leopoldina Fortunati",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image.png?fit=902%2C1200&ssl=1"
         },
@@ -1021,7 +991,7 @@
           "description": "Fazendo associações livres, Mouzar Benedito explora temas que vão do futebol à resistência gaulesa, passando pelo tarô e memórias de infância – tudo em clima de Copa do Mundo e enquanto a vaca não vai pro brejo...",
           "link": "https://blogdaboitempo.com.br/2026/05/08/cultura-inutil-dicionarios-futebol-asterix-etc/",
           "publishedOn": "2026-05-08T11:00:00.000Z",
-          "wordCount": 13091,
+          "wordCount": 12957,
           "title": "Cultura inútil | Dicionários, futebol, Asterix etc.",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-4.png?fit=1200%2C778&ssl=1"
         }
