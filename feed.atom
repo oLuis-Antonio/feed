@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-12T03:55:14.169Z</id>
+    <id>urn:2026-05-12T06:42:34.572Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-12T03:55:14.169Z</updated>
+    <updated>2026-05-12T06:42:34.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1014,26 +1014,6 @@ O conteúdo ‘Estamos pedindo arrego’: Moradores protestam contra violência 
 O post A estratégia de Trump para fragmentar a América Latina e isolar líderes apareceu primeiro em Intercept Brasil.]]></summary>
         <author>
             <name>Isabella Mota</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dia das mães na Boitempo: livro é o melhor presente]]></title>
-        <id>http://blogdaboitempo.com.br/?p=64166</id>
-        <link href="https://blogdaboitempo.com.br/2026/05/07/dia-das-maes-na-boitempo-livro-e-o-melhor-presente/"/>
-        <updated>2026-05-07T18:17:42.000Z</updated>
-        <summary type="html"><![CDATA[O Dia das Mães está chegando e aqui estão as nossas sugestões de obras para presentear mães, avós, amigas e quem mais esteja merecendo um bom livro — e tempo livre para aproveitar as leituras.]]></summary>
-        <author>
-            <name>Boitempo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defesa nacional: a falsa solução dos gastos militares]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73592</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/07/defesa-nacional-a-falsa-solucao-dos-gastos-militares/"/>
-        <updated>2026-05-07T16:56:35.000Z</updated>
-        <summary type="html"><![CDATA[um artigo de novembro do ano passado, argumentei que um dos efeitos de um ataque norte-americano à Venezuela haveria de ser o fortalecimento das posições das Forças Armadas frente o governo brasileiro. O ataque, realizado ao país em 3 de janeiro, motivou, no entanto, que inclusive setores progressistas e de esquerda entrassem no jogo de […]]]></summary>
-        <author>
-            <name>Pedro Marin</name>
         </author>
     </entry>
 </feed>
