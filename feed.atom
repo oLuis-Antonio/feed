@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T04:07:20.718Z</id>
+    <id>urn:2026-05-15T10:33:30.802Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-15T04:07:20.718Z</updated>
+    <updated>2026-05-15T10:33:30.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump encerra viagem a Pequim: ‘resolvemos muitos problemas’]]></title>
+        <id>https://operamundi.uol.com.br/?p=254756</id>
+        <link href="https://operamundi.uol.com.br/estados-unidos/trump-encerra-viagem-a-pequim-resolvemos-muitos-problemas/"/>
+        <updated>2026-05-15T10:27:34.000Z</updated>
+        <summary type="html"><![CDATA[O presidente dos Estados Unidos, Donald Trump, e o líder chinês, Xi Jinping, encerraram nesta sexta-feira (15/05) uma cúpula de dois dias, em Pequim. A visita foi marcada por declarações de aproximação política e promessas de estabilidade estratégica, mas sem anúncios concretos sobre temas centrais da agenda bilateral, como comércio, Taiwan e a guerra envolvendo […]
+O post Trump encerra viagem a Pequim: ‘resolvemos muitos problemas’ apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel pede pena de prisão para Albanese após juiz dos EUA suspender sanções]]></title>
+        <id>https://operamundi.uol.com.br/?p=254751</id>
+        <link href="https://operamundi.uol.com.br/israel-x-palestina/israel-pede-pena-de-prisao-para-albanese-apos-juiz-dos-eua-suspender-sancoes/"/>
+        <updated>2026-05-15T10:24:30.000Z</updated>
+        <summary type="html"><![CDATA[O embaixador de Israel na ONU, Dany Dannon, pediu na quinta-feira (14/05) a prisão da relatora especial para os territórios palestinos, Francesca Albanese, após um tribunal dos EUA suspender as sanções impostas à renomada jurista italiana em 2025 pelo governo de Donald Trump. Dannon considerou irrelevante a suspensão das sanções, reiterando que Albanese, incluída na […]
+O post Israel pede pena de prisão para Albanese após juiz dos EUA suspender sanções apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O futebol não é “o jogo bonito” quando colabora com o genocídio]]></title>
+        <id>https://revistaopera.operamundi.uol.com.br/?p=73671</id>
+        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/15/o-futebol-nao-e-o-jogo-bonito-quando-colabora-com-o-genocidio/"/>
+        <updated>2026-05-15T09:58:45.000Z</updated>
+        <summary type="html"><![CDATA[presidente da FIFA, Gianni Infantino, fez uma jogada infantil no 76º Congresso da FIFA, ao incentivar o presidente da Federação Palestina de Futebol, Jibril Rajoub, e o vice-presidente da Federação Israelense de Futebol, Basim Sheikh Suliman, a apertarem as mãos. Diante da recusa de Rajoub, Infantino declarou: “Vamos trabalhar juntos, presidente Rajoub, vice-presidente Suliman. Vamos […]]]></summary>
+        <author>
+            <name>Middle East Monitor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iván Cepeda reitera denúncia de interferência de grupos armados nas eleições colombianas]]></title>
+        <id>https://operamundi.uol.com.br/?p=254748</id>
+        <link href="https://operamundi.uol.com.br/america-latina/ivan-cepeda-reitera-denuncia-de-interferencia-de-grupos-armados-nas-eleicoes-colombianas/"/>
+        <updated>2026-05-15T09:43:31.000Z</updated>
+        <summary type="html"><![CDATA[O senador colombiano e candidato à presidência, Iván Cepeda Castro, reiterou na quinta-feira (14/05) suas acusações sobre a presença de grupos armados em território colombiano que buscam influenciar o voto dos cidadãos, exigindo uma investigação completa e sanções para os responsáveis. Por meio de suas redes sociais, Cepeda reiterou sua denúncia da pressão exercida por […]
+O post Iván Cepeda reitera denúncia de interferência de grupos armados nas eleições colombianas apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A anti-Nakba: o espírito de Gaza em resposta ao genocídio]]></title>
+        <id>https://anovademocracia.com.br/?p=225596</id>
+        <link href="https://anovademocracia.com.br/anti-nakba-espirito-gaza-genocidio/"/>
+        <updated>2026-05-15T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Hoje, os palestinos são um povo ainda mais experimentado, mais consciente de si mesmo, seus aliados e inimigos – um povo forjado na luta!]]></summary>
+        <author>
+            <name>Yasser Jamil Fayad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RS: Grande ato de professores rechaça megaleilão de 98 escolas estaduais]]></title>
         <id>https://anovademocracia.com.br/?p=225838</id>
@@ -69,7 +122,7 @@ The post Os judeus que dizem não ao sionismo appeared first on Outras Palavras.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AO VIVO – Fim da escala 6×1: Governo atende à exigência dos trabalhadores? – A Propósito #364]]></title>
+        <title type="html"><![CDATA[Fim da escala 6×1: Governo atende à exigência dos trabalhadores? – A Propósito #364]]></title>
         <id>https://anovademocracia.com.br/?p=225825</id>
         <link href="https://anovademocracia.com.br/ao-vivo-fim-da-escala-6x1-governo-atende-a-exigencia-dos-trabalhadores-a-proposito-364/"/>
         <updated>2026-05-14T21:52:59.000Z</updated>
@@ -261,17 +314,6 @@ O post Flávio Bolsonaro e o cinema patriótico apareceu primeiro em Opera Mundi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OMS confirma oito casos de cepa do hantavírus que causou surto em navio]]></title>
-        <id>https://operamundi.uol.com.br/?p=254709</id>
-        <link href="https://operamundi.uol.com.br/saude/oms-confirma-oito-casos-de-cepa-do-hantavirus-que-causou-surto-em-navio/"/>
-        <updated>2026-05-14T18:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Subiu para oito o número de casos confirmados de hantavírus em meio a um surto da doença em um navio de cruzeiro que navegava pelo Atlântico. De acordo com a Organização Mundial da Saúde (OMS), todos os casos são da cepa Andes, a única cepa de hantavírus transmissível de pessoa para pessoa “Até 13 de maio, foram […]
-O post OMS confirma oito casos de cepa do hantavírus que causou surto em navio apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Raissa Neves</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elisa Branco: a costureira comunista que lutou pela paz]]></title>
         <id>https://averdade.org.br/?p=61735</id>
         <link href="https://averdade.org.br/2026/05/elisa-branco-a-costureira-comunista-que-lutou-pela-paz/"/>
@@ -313,17 +355,6 @@ O post URGENTE: Flávio Bolsonaro ataca o Intercept Brasil no STF e no TSE apare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cuba diz que EUA formalizaram pela primeira vez oferta de ajuda humanitária]]></title>
-        <id>https://operamundi.uol.com.br/?p=254702</id>
-        <link href="https://operamundi.uol.com.br/america-latina/cuba-diz-que-eua-formalizaram-pela-primeira-vez-oferta-de-ajuda-humanitaria/"/>
-        <updated>2026-05-14T17:28:51.000Z</updated>
-        <summary type="html"><![CDATA[O ministro das Relações Exteriores de Cuba, Bruno Rodríguez, informou nesta quinta-feira (14/05) que, pela primeira vez, o governo dos Estados Unidos formalizou publicamente uma oferta de assistência humanitária para a ilha. O anúncio de Washington, feito por meio de um comunicado emitido pelo Departamento de Estado norte-americano no dia anterior, contempla uma ajuda avaliada […]
-O post Cuba diz que EUA formalizaram pela primeira vez oferta de ajuda humanitária apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Rocio Paik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cinema: Diálogo de surdos]]></title>
         <id>https://outraspalavras.net/?p=3185205</id>
         <link href="https://outraspalavras.net/poeticas/cinema-dialogo-de-surdos/"/>
@@ -332,17 +363,6 @@ O post Cuba diz que EUA formalizaram pela primeira vez oferta de ajuda humanitá
 The post Cinema: Diálogo de surdos appeared first on Outras Palavras.]]></summary>
         <author>
             <name>José Geraldo Couto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financiamento para filme de Bolsonaro é dobro dos valores de ‘Ainda Estou Aqui’ e ‘O Agente Secreto’ somados]]></title>
-        <id>https://operamundi.uol.com.br/?p=254699</id>
-        <link href="https://operamundi.uol.com.br/cultura/financiamento-para-filme-de-bolsonaro-dobro-valores-ainda-estou-aqui-o-agente-secreto/"/>
-        <updated>2026-05-14T17:00:35.000Z</updated>
-        <summary type="html"><![CDATA[A denúncia de que o senador e pré-candidato presidencial Flávio Bolsonaro (PL-RJ) teria negociado com o dono do Banco Master, Daniel Vorcaro, o financiamento do filme Dark Horse, sobre a vida de seu pai, o ex-presidente Jair Bolsonaro (2019-2023), levantou outra suspeita sobre o caso além de um possível esquema de corrupção envolvendo a produção. […]
-O post Financiamento para filme de Bolsonaro é dobro dos valores de ‘Ainda Estou Aqui’ e ‘O Agente Secreto’ somados apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Victor Farinelli</name>
         </author>
     </entry>
     <entry>
@@ -614,16 +634,6 @@ The post Universidades: “diálogo” e brutalidade appeared first on Outras Pa
 / Argentina, Universidade, Javier milei]]></summary>
         <author>
             <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AL: Trabalhadores dos hospitais Médico Cirúrgico e Santo Antônio, em Maceió, decretam greve por tempo indeterminado]]></title>
-        <id>https://anovademocracia.com.br/?p=225715</id>
-        <link href="https://anovademocracia.com.br/greve-trabalhadores-hospitais-maceio/"/>
-        <updated>2026-05-13T21:22:42.000Z</updated>
-        <summary type="html"><![CDATA[O AND teve contato com os trabalhadores que relataram a falta de transparência das direções dos hospitais e a exploração à qual são submetidos, além de denunciar o governador Paulo Dantas (MDB).]]></summary>
-        <author>
-            <name>Ana Nascimento</name>
         </author>
     </entry>
     <entry>
@@ -1317,16 +1327,6 @@ O post Fomos ao Líbano e vimos de perto a realidade brutal da vida sob ocupaç�
         <summary type="html"><![CDATA[Douglas Barros: "Tornou-se comum – e até naturalizado, à sombra da miséria espiritual que vivemos – narrar o negro como objeto das circunstâncias, como mero peão de uma estrutura que o nadifica. Du Bois, em seu esforço intelectual notável, mostra o negro não apenas como sujeito, mas como substância dos eventos históricos. Essa posição muda tudo."]]></summary>
         <author>
             <name>Boitempo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump e o labirinto cubano]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73620</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/10/trump-e-o-labirinto-cubano/"/>
-        <updated>2026-05-10T22:01:48.000Z</updated>
-        <summary type="html"><![CDATA[mês de maio começou com o endurecimento da política de Trump em relação a Cuba. No mesmo dia em que o governo norte-americano anunciou a aprovação de uma nova ordem executiva destinada a impor sanções a funcionários da ilha “responsáveis pela repressão e por ameaças à segurança nacional dos Estados Unidos”, o presidente, em um […]]]></summary>
-        <author>
-            <name>El Salto</name>
         </author>
     </entry>
 </feed>
