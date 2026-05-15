@@ -43,6 +43,26 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61759",
+          "author": "Clóvis Maia",
+          "description": "Diante de uma situação de descaso nos serviços públicos e dificuldades para trabalhar, os servidores de Florianópolis, Santa Catarina, decidiram cruzar os braços. A mobilização foi perseguida pela prefeitura, mas teve como resposta a resistência dos trabalhadores e apoio por parte da população.  Evandro Prezzi| Santa Catarina BRASIL- No dia 23 de abril, os servidores […]",
+          "link": "https://averdade.org.br/2026/05/prefeito-de-florianopolis-demite-servidores-em-greve/",
+          "publishedOn": "2026-05-15T13:41:28.000Z",
+          "wordCount": 6436,
+          "title": "Prefeito de Florianópolis demite servidores em greve",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/greve-em-santa-catarina.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61756",
+          "author": "Clóvis Maia",
+          "description": "As enchentes que atingiram a Paraíba expõem não apenas a força das chuvas, mas a desigualdade social, a falta de prevenção e o abandono da classe trabalhadora diante de tragédias anunciadas.  Redação Paraíba SOCIEDADE– Enquanto o calendário marcava o feriado do 1º de Maio, Dia do Trabalhador e da Trabalhadora, a chuva desabava sobre a […]",
+          "link": "https://averdade.org.br/2026/05/chuvas-na-paraiba-tragedia-anunciada-pela-desigualdade-e-abandono-do-estado/",
+          "publishedOn": "2026-05-15T12:36:12.000Z",
+          "wordCount": 6641,
+          "title": "Chuvas na Paraíba: tragédia anunciada pela desigualdade e abandono do Estado",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_6491-1.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61752",
           "author": "Clóvis Maia",
           "description": "Data mais do que importante para a classe trabalhadora, o 1° de maio no Brasil também tem sua importância histórica. No sétimo capítulo da Série “A História oficial Versus as lutas do proletariado brasileiro”, aprofundamos o significado dessa data para nossa classe. Natanael Sarmento| Redação Pernambuco HISTÓRIA (Parte 07) – O 1º de maio simboliza […]",
@@ -121,26 +141,6 @@
           "wordCount": 6096,
           "title": "O comboio é nosso, mas o lucro é deles",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/420792203998dea37086defaultlarge_1024.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61716",
-          "author": "Jesse Lisboa",
-          "description": "Sob presidente de direita Daniel Noboa, o Conselho Nacional Eleitoral cassou o registro da Unidade Popular (UP) no Equador, em uma decisão arbitrária e sem base legal. Felipe Annunziata | Redação INTERNACIONAL – Sob ordens do presidente de direita do Equador Daniel Noboa, o Conselho Nacional Eleitoral (CNE) do país cassou o registro legal do […]",
-          "link": "https://averdade.org.br/2026/05/governo-noboa-persegue-partido-unidade-popular-no-equador/",
-          "publishedOn": "2026-05-14T00:05:14.000Z",
-          "wordCount": 6279,
-          "title": "Governo Noboa persegue partido Unidade Popular, no Equador",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/P9-_-UP-Equador.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61711",
-          "author": "Jesse Lisboa",
-          "description": "Nos domingos de sol, grande parte dos trabalhadores da escala 6×1 veem o dia passar pela janela do ônibus. Andreza Mustafa | Trabalhadora da 6×1 CRÔNICA – Quando é domingo de sol, a cidade acorda dourada. Tem cheiro de café demorado, roupa estendida no varal e risada de criança ecoando na laje. Pelo menos me […]",
-          "link": "https://averdade.org.br/2026/05/domingo-de-sol-atraves-da-janela-do-onibus/",
-          "publishedOn": "2026-05-13T23:40:13.000Z",
-          "wordCount": 6047,
-          "title": "Domingo de sol através da janela do ônibus",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/11171830-dentro-do-onibus-e-a-luz-do-sol-pessoas-no-transporte-foto.jpg"
         }
       ]
     },
@@ -149,6 +149,16 @@
       "feedUrl": "https://www.opiniaosocialista.com.br/feed",
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
+        {
+          "id": "6a0722d2379d4ffc8d2bcf13",
+          "author": "Roberto Aguiar, da redação",
+          "description": "A organização internacional Global Sumud Flotilha divulgou nesta quinta-feira (14) um comunicado oficial anunciando a partida da embarcação humanitária da cidade de Marmaris, na Turquia, em direção à Faixa de Gaza. Segundo a nota, a missão, com",
+          "link": "https://opiniaosocialista.com.br/flotilha-global-sumud-parte-da-turquia-rumo-a-gaza/",
+          "publishedOn": "2026-05-15T14:00:12.000Z",
+          "wordCount": 1108,
+          "title": "Flotilha Global Sumud parte da Turquia rumo a Gaza",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/global-sumud-flotilha-1.webp"
+        },
         {
           "id": "6a064b0b379d4ffc8d2bcecc",
           "author": "Diego Cruz",
@@ -287,6 +297,16 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Mas-afinal-o-que-e-a-Reitoria-e-como-funciona-a-consulta-para-eleicao-de-reitor-E-urgente-batalhar",
+          "author": "Redação",
+          "description": "A Reitoria é responsável pela administração da universidade e é eleita a cada 4 anos. Cabe ressaltar, porém, que as eleições da Reitoria não são por democracia direta. Os votos dos professores têm 70% de peso, e os votos dos técnicos administrativos e estudantes apenas 15% cada. Cabe ressaltar, porém, que mesmo quando há consulta à comunidade universitária, esse processo não significa uma democracia direta real. Na UFRN, é preciso confirmar se a consulta para Reitoria ocorre com paridade (…)\n26-09-2025\n\n/ Rio Grande do Norte, Reitoria, UFRN",
+          "link": "https://www.esquerdadiario.com.br/Mas-afinal-o-que-e-a-Reitoria-e-como-funciona-a-consulta-para-eleicao-de-reitor-E-urgente-batalhar",
+          "publishedOn": "2026-05-15T12:04:42.000Z",
+          "wordCount": 9580,
+          "title": "Mas afinal, o que é a Reitoria e como funciona a consulta para eleição de reitor? É urgente batalhar por uma universidade des estudantes, trabalhadores e professores!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/patio_da_reitoria__ufrn__natal__rn_.jpg?1778846597"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Por-uma-reforma-urbana-radical-em-Pernambuco-para-enfrentar-os-lucros-dos-capitalistas-e-atender-as",
           "author": "Léo Barbosa",
           "description": "Neste texto, discutiremos o tema da Reforma Urbana Radical, partindo do pressuposto de que as tragédias decorrentes das chuvas em Pernambuco são mais ou menos previsíveis, visto que todo ano os mesmos problemas reaparecem: enchentes, deslizamentos, pessoas desabrigadas. Ao contrário do que se possa pensar, não se tratam de tragédias naturais, mas revelam características do atual regime político e sistema econômico e mostram a negligência dos representantes políticos eleitos quanto a esse (…)\nMatérias\n\n/ Sociedade, Chuvas, Reforma Urbana, João Campos (PSB-PE), Deslizamento de terra, Raquel Lyra",
@@ -312,7 +332,7 @@
           "description": "O patético filme Dark Horse, uma verdadeira propaganda eleitoral de Bolsonaro, teve um alto custo de produção. Isso não é um problema quando se pode contar com o financiamento de figuras como Daniel Vorcaro. \n O patético filme Dark Horse, uma verdadeira propaganda eleitoral de Bolsonaro, teve um alto custo de produção. Isso não é um problema quando se pode contar com o financiamento de figuras como Daniel Vorcaro. \n13-05-2026\n\n/ Política, Flavio Bolsonaro, Família Bolsonaro, Bolsonaro, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Patetico-filme-de-Bolsonaro-bancado-por-Vorcaro-custou-mais-que-O-Agente-Secreto-e-Ainda-Estou-Aqui",
           "publishedOn": "2026-05-14T00:34:54.000Z",
-          "wordCount": 7876,
+          "wordCount": 7875,
           "title": "Patético filme de Bolsonaro bancado por Vorcaro custou mais que O Agente Secreto e Ainda Estou Aqui",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000304314.webp?1778718811"
         },
@@ -332,7 +352,7 @@
           "description": "Que Yacobitti (Vice-reitor da Universidade de Buenos Aires. Político argentino, pertencente à União Cívica Radical) e os reitores não utilizem esta força enorme para se sentarem à mesa e negociar migalhas com Milei. As burocracias sindicais e estudantis compartilham essa estratégia, que vem fracassando. Eles não querem derrotar o Governo, mas sim negociar misérias com ele. No entanto, isso implica permitir que o ajuste avance. A mobilização massiva desta terça-feira pode ser utilizada para derrotar todo o plano de ajuste. É preciso continuar o combate, desenvolvendo uma luta comum de docentes, funcionários e estudantes, com o apoio da comunidade. Essa é a perspectiva defendida pela Rede Nacional de Agrupamentos En Clave Roja (PTS e estudantes independentes, organização irmã do MRT na Argentina). E isso abre um debate com o restante da esquerda, que compartilhou o palanque com as autoridades.\n13-05-2026\n\n/ Argentina, Universidade, Javier milei",
           "link": "https://www.esquerdadiario.com.br/Uma-Multidao-marcha-pela-universidade-publica-continuar-a-luta-ate-derrotar-todo-o-plano-do-Governo",
           "publishedOn": "2026-05-13T21:32:30.000Z",
-          "wordCount": 8314,
+          "wordCount": 8315,
           "title": "Uma Multidão marcha pela universidade pública: continuar a luta até derrotar todo o plano do Governo Milei",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_lid.jpg?1778707807"
         },
@@ -342,7 +362,7 @@
           "description": "A greve de professores municipais vem crescendo e levou milhares de professores de SP às ruas do centro de São Paulo. Aos gritos de unificar a luta da educação no estado de SP chegam na Av. Paulista\n13-05-2026\n\n/ USP, Educação, Greve, Greve Professores Municipais SP, Greve de professores, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Professores-municipais-em-ato-se-somam-ao-ato-dos-estudantes-na-Av-Paulista-Greve-geral-da-educacao",
           "publishedOn": "2026-05-13T21:00:40.000Z",
-          "wordCount": 7815,
+          "wordCount": 7824,
           "title": "Professores municipais em ato se somam ao ato dos estudantes na Av. Paulista. Greve geral da educação, já!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato-3.jpg?1778705985"
         },
@@ -362,7 +382,7 @@
           "description": "A Global Sumud Flotilha dá continuidade à sua missão não violenta de romper o cerco ilegal imposto por Israel à Gaza, confirmando sua última etapa antes de zarpar rumo à costa palestinas. A frota parte amanhã, composta por 54 barcos e quase 500 participantes de 45 países, com o objetivo de entregar ajuda humanitária às famílias palestinas que vivem sob ocupação. \n Este movimento ocorre na véspera do Dia da Nakba, simbolizando uma luta global pela justiça e pelos direitos do povo palestino, (…)\n13-05-2026\n\n/ Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-volta-a-zarpar-para-quebrar-o-cerco-a-Gaza",
           "publishedOn": "2026-05-13T20:37:37.000Z",
-          "wordCount": 7826,
+          "wordCount": 7817,
           "title": "Global Sumud Flotilha volta a zarpar para quebrar o cerco a Gaza",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/83e5cbb3-36b8-4f2f-ab69-1e6db5824741.jpg?1778704532"
         },
@@ -372,7 +392,7 @@
           "description": "O Esquerda Diário recebeu denúncias das constantes falhas do Educa-DF, sistema de gestão escolar adotado pela Secretaria de Educação do Distrito Federal (SEEDF), na primeira gestão do Ibaneis Rocha (MDB), em 2019 e mantida até hoje. O valor da contratação do sistema pago pelo governo do DF é de absurdos de mais de R$ 40 milhões anuais. O Educa - DF foi anunciado como uma medida para unificar o lançamento de notas, presença e informações de alunos, “modernizar” e ajudar os professores e secretários escolares, uma completa mentira, como mostram os relatos. Além dos secretários escolares, o sistema prejudica também os professores, que fizeram uma recente paralisação no último dia 23 de abril, tendo como uma das pautas a melhoria no sistema. Confira abaixo a entrevista feita com M e F., secretárias de escolas no Gama, C. secretária escolar no Recanto das Emas.\n13-05-2026\n\n/ Brasília, Educação, DF - Brasília, Precarização do trabalho, Centro-oeste",
           "link": "https://www.esquerdadiario.com.br/Secretarias-escolares-denunciam-a-sobrecarga-de-trabalho-e-problemas-de-saude-fruto-das-constantes",
           "publishedOn": "2026-05-13T20:33:02.000Z",
-          "wordCount": 9430,
+          "wordCount": 9412,
           "title": "Secretárias escolares denunciam a sobrecarga de trabalho e problemas de saúde fruto das constantes falhas no Educa-df",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_ed-2.jpg?1778704154"
         },
@@ -382,7 +402,7 @@
           "description": "Diego Zeidan Quaquá publicou nesta terça (12) uma foto com um fuzil em um clube de tiro, como fazem os políticos e influencers da extrema-direita. Diego é filho de Washington Quaquá, prefeito de Maricá-RJ e vice-presidente nacional do PT, e defendeu publicamente os irmãos Brazão, condenados pelo assassinato da vereadora Marielle Franco em 2018.\n13-05-2026\n\n/ Política, ABC paulista, Rio de Janeiro, PT, Washington Quaquá, Posse de armas",
           "link": "https://www.esquerdadiario.com.br/Presidente-do-PT-RJ-ostenta-fuzil-na-internet-em-aceno-a-direita",
           "publishedOn": "2026-05-13T20:28:53.000Z",
-          "wordCount": 8099,
+          "wordCount": 8096,
           "title": "Presidente do PT-RJ ostenta fuzil na internet em aceno à direita",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/diego_quaqua.webp?1778704057"
         },
@@ -402,7 +422,7 @@
           "description": "Neste 13 de Maio, a memória escancara que nossa história se recusa a se descolar do presente. Devemos nos lembrar da luta dos quilombos abolicionistas, greves, aliança entre trabalhadores livres e escravizados, fugas que foram fundamentais para a conquista da abolição. Por outro lado, a realidade racista nos obriga a também olhar de forma crítica os 138 anos da abolição da escravidão no Brasil, porque escancara os desafios que temos que enfrentar atualmente na luta contra o racismo e o (…)\nMatérias\n\n/ Luta Antirracista, Racismo, Racismo, Racismo Estrutural, Racismo de Estado, antirracismo",
           "link": "https://www.esquerdadiario.com.br/Fortalecer-a-campanha-Sonia-Livre-que-segue-presa-por-seus-algozes-com-a-cumplicidade-do-Judiciario",
           "publishedOn": "2026-05-13T19:46:11.000Z",
-          "wordCount": 8843,
+          "wordCount": 8845,
           "title": "Fortalecer a campanha Sônia Livre que segue presa por seus algozes, com a cumplicidade do Judiciário racista",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-13_at_14.05_59.jpg?1778701562"
         },
@@ -422,7 +442,7 @@
           "description": "O senador Flávio Bolsonaro, do PL do Rio de Janeiro, enviou uma mensagem ao dono do Banco Master, Daniel Vorcaro, em 16 de novembro de 2025, dizendo: \"Irmão, estou e estarei contigo sempre, não tem meia conversa entre a gente. Só preciso que me dê uma luz! Abs!\"\n13-05-2026\n\n/ Política, Flavio Bolsonaro, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Irmao-eu-estou-e-estarei-contigo-sempre-disse-Flavio-Bolsonaro-a-Vorcaro-de-quem-recebeu-dezenas-de",
           "publishedOn": "2026-05-13T18:51:49.000Z",
-          "wordCount": 7944,
+          "wordCount": 7937,
           "title": "\"Irmão, eu estou e estarei contigo sempre\", disse Flávio Bolsonaro a Vorcaro, de quem recebeu dezenas de milhões",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flavio.jpg?1778698319"
         },
@@ -452,7 +472,7 @@
           "description": "Depois que milhares de educadores fecharem a Av. 23 de Maio mostrando uma enorme disposição de luta, e avançarem em sua segunda semana de greve, Nunes correu para aprovar seu projeto de privatização das creches, ataque aos concursos e aprofundamento da precarização, além do arrocho salarial, apostando em punir grevistas para desmontar a luta.\nMatérias\n\n/ Classe trabalhadora, Educação, Greve, Greve Professores Municipais SP, São Paulo, Greve de professores",
           "link": "https://www.esquerdadiario.com.br/Ameaca-de-corte-de-ponto-e-criminalizacao-da-greve-A-resposta-para-Nunes-e-Tarcisio-e-UNIFICAR-as",
           "publishedOn": "2026-05-13T16:31:29.000Z",
-          "wordCount": 8305,
+          "wordCount": 8310,
           "title": "Ameaça de corte de ponto e criminalização da greve: A resposta para Nunes e Tarcísio é UNIFICAR as lutas na rua",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/municipais2.jpg?1778690848"
         },
@@ -462,7 +482,7 @@
           "description": "Reproduzimos esse artigo de 2020, recuperando a relação entre luta negra e luta de classes como parte fundamental do processo de Abolição. Resgatar essa relação desde o marxismo é importante na medida em que setores da direita insistem em atacar a luta negra e os direitos conquistados e para desmintir a ideia de que Abolição foi concedidada pela princesa Isabel. Ao mesmo tempo, também serve para questionar setores que defendem que a luta negra deve ser restringir ao Estado burguês e suas (…)\nMatérias\n\n/ Luta Antirracista, Escravidão",
           "link": "https://www.esquerdadiario.com.br/Abolicao-e-pos-abolicao-a-dinamica-das-classes-no-Brasil-de-abolicao-tardia-61344",
           "publishedOn": "2026-05-13T13:23:24.000Z",
-          "wordCount": 9284,
+          "wordCount": 9290,
           "title": "Abolição e pós-abolição: a dinâmica das classes no Brasil de abolição tardia",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/arton35508-91b1f.jpg?1778678594"
         },
@@ -492,7 +512,7 @@
           "description": "No dia 9 deste mês, Nájylla Duenas Nascimento, de 34 anos, foi vítima de feminicídio pelas mãos do guarda municipal Daniel Barbosa Marinho, na própria festa de casamento. \n No dia 9 deste mês, Nájylla Duenas Nascimento, de 34 anos, foi vítima de feminicídio pelas mãos do guarda municipal Daniel Barbosa Marinho, na própria festa de casamento. \n12-05-2026\n\n/ Violência contra a Mulher, Feminicídio, Campinas, Violência",
           "link": "https://www.esquerdadiario.com.br/Feminicidio-Guarda-municipal-mata-esposa-na-propria-festa-de-casamento-em-Campinas",
           "publishedOn": "2026-05-13T01:32:12.000Z",
-          "wordCount": 7853,
+          "wordCount": 7846,
           "title": "Guarda municipal mata esposa na própria festa de casamento em Campinas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/morrem-carro-submerso-1.webp?1778635923"
         },
@@ -522,7 +542,7 @@
           "description": "Na trama de fraudes do escândalo do Banco Master, diversas figuras da extrema direita já apareceram ligadas a Daniel Vorcaro. Apontado como um de seus \"estrategistas\" em ataques contra o Banco Central está Marcello Lopes, coordenador de comunicação da campanha de Flávio Bolsonaro. Outro é Ciro Nogueira, cujos imóveis foram alvos de busca e apreensão, e é cotado como vice da candidatura da extrema direita.\n12-05-2026\n\n/ Política, Extrema direita, Flavio Bolsonaro, Ciro Nogueira, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Escandalo-do-Master-se-aproxima-de-Flavio-Bolsonaro-com-Ciro-Nogueira-e-seu-marqueteiro-envolvidos",
           "publishedOn": "2026-05-12T22:03:11.000Z",
-          "wordCount": 8507,
+          "wordCount": 8513,
           "title": "Escândalo do Master se aproxima de Flávio Bolsonaro com Ciro Nogueira e seu marqueteiro envolvidos com Vorcaro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-12_at_18.49_12.jpg?1778623258"
         },
@@ -532,7 +552,7 @@
           "description": "Ontem uma obra da Sabesp provocou uma desgraça, fruto da privatização. Hoje a Metrô ameaça colocar pessoal sem experiência no comando dos trens para coibir a legítima greve dos metroviários. É o lucro acima da vida. Todo apoio aos metroviários de SP\n12-05-2026\n\n/ Classe trabalhadora, Metrô, Greve, São Paulo, Greve do Metrô",
           "link": "https://www.esquerdadiario.com.br/Sob-comando-de-Tarcicio-Metro-de-SP-ataca-direito-de-greve-e-ameaca-seguranca-da-populacao",
           "publishedOn": "2026-05-12T19:42:26.000Z",
-          "wordCount": 7907,
+          "wordCount": 7903,
           "title": "Sob comando de Tarcício, Metrô de SP ataca direito de greve e ameaça segurança da população",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/metro-greve.jpg?1778614934"
         },
@@ -542,7 +562,7 @@
           "description": "Estranhas imagens de pessoas mamando frascos de detergente têm invadido as redes sociais. O surto não poderia vir de outro setor que não o bolsonarismo.\n12-05-2026\n\n/ Sociedade, Extrema direita, bolsonarismo, Ultradireita",
           "link": "https://www.esquerdadiario.com.br/Bolsonaristas-mamando-detergente-com-risco-de-contaminacao-biologica-o-novo-surto-da-extrema",
           "publishedOn": "2026-05-12T18:51:13.000Z",
-          "wordCount": 8446,
+          "wordCount": 8450,
           "title": "Bolsonaristas mamando detergente com risco de contaminação biológica, o novo surto da extrema direita",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-12_at_15.46_28.jpg?1778611691"
         },
@@ -572,19 +592,9 @@
           "description": "Na tarde de ontem (11), uma explosão provocada após uma tubulação de gás ser atingida durante uma obra da Sabesp, no Jaguaré, deixou uma pessoa morta, além de três feridos, dois em estado grave, e dezenas de casas afetadas na região. \n Segundo informações divulgadas, o acidente ocorreu durante intervenções realizadas pela Sabesp em conjunto com a Comgás e destruiu imóveis, espalhou pânico entre os moradores e escancarou, mais uma vez, as consequências irresponsáveis da política de (…)\n12-05-2026\n\n/ Classe trabalhadora, Privatização, Privatização da Água, Tarcísio de Freitas, morte, Sabesp, Privatização da Sabesp",
           "link": "https://www.esquerdadiario.com.br/Privatizacao-mata-explosao-causada-pela-SABESP-no-Jaguare-escancara-a-logica-criminosa-da",
           "publishedOn": "2026-05-12T14:37:01.000Z",
-          "wordCount": 8134,
+          "wordCount": 8121,
           "title": "Explosão causada pela SABESP no Jaguaré escancara a lógica criminosa da precarização e terceirização",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000189527.jpg?1778594850"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Mais-uma-vez-greve-da-educacao-municipal-de-BH-conquista-apoio-das-familias",
-          "author": "Pedro Gronga",
-          "description": "A greve da educação de BH enfrenta a intransigência de Álvaro Damião mas tem ao seu lado um apoio indispensável: o das famílias do estudantes da rede municipal.\n12-05-2026\n\n/ Classe trabalhadora, Belo Horizonte, Educação, Greve, Minas Gerais, Comunidade Escolar, Solidariedade",
-          "link": "https://www.esquerdadiario.com.br/Mais-uma-vez-greve-da-educacao-municipal-de-BH-conquista-apoio-das-familias",
-          "publishedOn": "2026-05-12T14:26:17.000Z",
-          "wordCount": 8119,
-          "title": "Mais uma vez, greve da educação municipal de BH conquista apoio das famílias",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-11_at_11.48_25.jpg?1778595888"
         }
       ]
     },
@@ -890,23 +900,63 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=254783",
+          "author": "Rocio Paik",
+          "description": "O presidente brasileiro Luiz Inácio Lula da Silva declarou na quinta-feira (14/05) que seu homólogo dos Estados Unidos, Donald Trump, foi quem “inventou” a guerra em curso contra o Irã. O conflito iniciado em 28 de fevereiro resultou na escalada de tensões militares no Oriente Médio e no bloqueio parcial do Estreito de Ormuz, fazendo […]\nO post Lula afirma que Trump ‘inventou’ guerra no Irã apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/lula-afirma-que-trump-inventou-guerra-no-ira/",
+          "publishedOn": "2026-05-15T13:56:38.000Z",
+          "wordCount": 3238,
+          "title": "Lula afirma que Trump ‘inventou’ guerra no Irã",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55270534098_22f658b202_k-e1778853070600.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254770",
+          "author": "Tabitha Ramalho",
+          "description": "O Conselho Nacional Eleitoral do Peru (JNE) anunciará os resultados das eleições presidenciais no próximo domingo (17/05). O presidente do órgão, Roberto Burneo, afirmou que “os candidatos à presidência que avançarão para o segundo turno serão anunciados pela manhã”. A próxima votação está prevista para 7 de junho. El Presidente del JNE, Roberto Burneo, anunció […]\nO post Conselho Eleitoral do Peru afirma que resultado do pleito será anunciado no próximo domingo (17) apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/conselho-eleitoral-do-peru-afirma-que-resultado-do-pleito-sera-anunciado-no-proximo-domingo-17/",
+          "publishedOn": "2026-05-15T12:46:25.000Z",
+          "wordCount": 3511,
+          "title": "Conselho Eleitoral do Peru afirma que resultado do pleito será anunciado no próximo domingo (17)",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-15-094319.png"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254769",
+          "author": "Tatiana Carlotti",
+          "description": "O diretor da Agência Central de Inteligência (CIA) dos Estados Unidos, John Ratcliffe, realizou nesta quinta-feira (14/05) uma visita oficial a Havana, onde se reuniu com autoridades cubanas. O encontro ocorreu em meio ao anúncio de “ajuda humanitária’ por parte de Washington, após meses impondo um severo bloqueio energético contra a ilha. Ratcliffe se encontrou […]\nO post Governo cubano recebe diretor da CIA e reitera que ‘não apoia nem financia terrorismo’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/governo-cubano-recebe-diretor-da-cia-e-reitera-que-nao-apoia-nem-financia-terrorismo/",
+          "publishedOn": "2026-05-15T12:22:36.000Z",
+          "wordCount": 3462,
+          "title": "Governo cubano recebe diretor da CIA e reitera que ‘não apoia nem financia terrorismo’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/1280px-cuba_may_2014_14153895015.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=254765",
+          "author": "Tabitha Ramalho",
+          "description": "Dias após ataques, detenções ilegais e denúncias de tortura cometidos pelas forças militares israelenses, os ativistas da missão internacional da Global Sumud Flotilla retomaram, nesta quinta-feira (14), sua travessia rumo à Faixa de Gaza, na Palestina. Rearticulada a partir do porto de Marmaris, na Turquia, a nova etapa da missão reúne 54 embarcações, cerca de […]\nO post Após sequestros, Flotilha internacional retoma travessia rumo a Gaza apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/apos-sequestros-flotilha-internacional-retoma-travessia-rumo-a-gaza/",
+          "publishedOn": "2026-05-15T11:07:27.000Z",
+          "wordCount": 3246,
+          "title": "Após sequestros, Flotilha internacional retoma travessia rumo a Gaza",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/sumud-flotilla.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=254756",
           "author": "Tatiana Carlotti",
-          "description": "O presidente dos Estados Unidos, Donald Trump, e o líder chinês, Xi Jinping, encerraram nesta sexta-feira (15/05) uma cúpula de dois dias, em Pequim. A visita foi marcada por declarações de aproximação política e promessas de estabilidade estratégica, mas sem anúncios concretos sobre temas centrais da agenda bilateral, como comércio, Taiwan e a guerra envolvendo […]\nO post Trump encerra viagem a Pequim: ‘resolvemos muitos problemas’ apareceu primeiro em Opera Mundi.",
+          "description": "O presidente dos Estados Unidos, Donald Trump, encerrou sua viagem a Pequim nesta sexta-feira (15/05), após dois dias de cúpula com o mandatário da China, Xi Jinping. A visita foi marcada por declarações de aproximação política e promessas de estabilidade estratégica, mas sem anúncios concretos sobre temas centrais da agenda bilateral, como comércio, Taiwan e […]\nO post Trump encerra viagem a Pequim: ‘resolvemos muitos problemas’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/trump-encerra-viagem-a-pequim-resolvemos-muitos-problemas/",
           "publishedOn": "2026-05-15T10:27:34.000Z",
-          "wordCount": 3967,
+          "wordCount": 3849,
           "title": "Trump encerra viagem a Pequim: ‘resolvemos muitos problemas’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/6a06d734a310d68600fd8b38.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=254751",
           "author": "Tabitha Ramalho",
-          "description": "O embaixador de Israel na ONU, Dany Dannon, pediu na quinta-feira (14/05) a prisão da relatora especial para os territórios palestinos, Francesca Albanese, após um tribunal dos EUA suspender as sanções impostas à renomada jurista italiana em 2025 pelo governo de Donald Trump. Dannon considerou irrelevante a suspensão das sanções, reiterando que Albanese, incluída na […]\nO post Israel pede pena de prisão para Albanese após juiz dos EUA suspender sanções apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/israel-x-palestina/israel-pede-pena-de-prisao-para-albanese-apos-juiz-dos-eua-suspender-sancoes/",
+          "description": "O embaixador de Israel na ONU, Dany Dannon, pediu na quinta-feira (14/05) a prisão da relatora especial para os territórios palestinos, Francesca Albanese, após um tribunal dos EUA suspender as sanções impostas à renomada jurista italiana em 2025 pelo governo de Donald Trump. Dannon considerou irrelevante a suspensão das sanções, reiterando que Albanese, incluída na […]\nO post Embaixador de Israel diz que relatora da ONU ‘deveria estar atrás das grades’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/israel-x-palestina/embaixador-de-israel-diz-que-relatora-da-onu-deveria-estar-atras-das-grades/",
           "publishedOn": "2026-05-15T10:24:30.000Z",
-          "wordCount": 3367,
-          "title": "Israel pede pena de prisão para Albanese após juiz dos EUA suspender sanções",
+          "wordCount": 3348,
+          "title": "Embaixador de Israel diz que relatora da ONU ‘deveria estar atrás das grades’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-15-070304.png"
         },
         {
@@ -915,7 +965,7 @@
           "description": "O senador colombiano e candidato à presidência, Iván Cepeda Castro, reiterou na quinta-feira (14/05) suas acusações sobre a presença de grupos armados em território colombiano que buscam influenciar o voto dos cidadãos, exigindo uma investigação completa e sanções para os responsáveis. Por meio de suas redes sociais, Cepeda reiterou sua denúncia da pressão exercida por […]\nO post Iván Cepeda reitera denúncia de interferência de grupos armados nas eleições colombianas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/ivan-cepeda-reitera-denuncia-de-interferencia-de-grupos-armados-nas-eleicoes-colombianas/",
           "publishedOn": "2026-05-15T09:43:31.000Z",
-          "wordCount": 3209,
+          "wordCount": 3102,
           "title": "Iván Cepeda reitera denúncia de interferência de grupos armados nas eleições colombianas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hgykgacaqaanfea.jpg"
         },
@@ -925,7 +975,7 @@
           "description": "O governo do Reino Unido oficializou nesta quinta-feira (14/05) a saída do secretário de Saúde, Wes Streeting, que apresentou sua renúncia ao cargo, agravando a crise política do país. Segundo o diário britânico The Guardian, a renúncia de Streeting aumenta a pressão sobre o primeiro-ministro Keir Starmer, líder do Partido Trabalhista do Reino Unido, que […]\nO post Renúncia de secretário aumenta crise no Reino Unido e coloca em xeque mandato de Starmer como premiê apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/europa/renuncia-de-secretario-aumenta-crise-no-reino-unido-e-coloca-em-xeque-mandato-de-starmer-como-premie/",
           "publishedOn": "2026-05-14T22:57:59.000Z",
-          "wordCount": 3198,
+          "wordCount": 3191,
           "title": "Renúncia de secretário aumenta crise no Reino Unido e coloca em xeque mandato de Starmer como premiê",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/wes.jpg"
         },
@@ -935,7 +985,7 @@
           "description": "O Fundo das Nações Unidas para a Infância (UNICEF) informou nesta quinta-feira (14/05) que os ataques israelenses resultaram na morte de pelo menos 200 crianças no Líbano, enquanto outras 806 ficaram feridas. Isso significa que, em média, 14 crianças são mortas ou feridas diariamente pelo exército israelense. Ao emitir o alerta, a organização destacou que […]\nO post UNICEF denuncia aumento de mortes e traumas entre crianças no Líbano após ataques israelenses apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/unicef-denuncia-aumento-de-mortes-e-traumas-entre-criancas-no-libano-apos-ataques-israelenses/",
           "publishedOn": "2026-05-14T21:50:42.000Z",
-          "wordCount": 3222,
+          "wordCount": 3215,
           "title": "UNICEF denuncia aumento de mortes e traumas entre crianças no Líbano após ataques israelenses",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/shutterstock-2531958279-830x553-1-768x512.jpg.webp"
         },
@@ -945,49 +995,9 @@
           "description": "Autoridades governamentais e parlamentares de Israel lideraram nesta quinta-feira (14/05) incursões em massa pelas áreas palestinas da Cidade Velha em Jerusalém Oriental e invadiram o complexo da Mesquita de Al-Aqsa, antes da chamada “Marcha das Bandeiras”, uma tradicional manifestação nacionalista ligada de extrema direita que celebra a ocupação israelense da cidade em 1967.  Vídeos que […]\nO post Autoridades israelenses invadem Mesquita Al-Aqsa e sugerem construir templo judaico no local apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/autoridades-israelenses-invadem-mesquita-al-aqsa-e-sugerem-construir-templo-judaico-no-local/",
           "publishedOn": "2026-05-14T21:10:56.000Z",
-          "wordCount": 3225,
+          "wordCount": 3218,
           "title": "Autoridades israelenses invadem Mesquita Al-Aqsa e sugerem construir templo judaico no local",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/698680701_1829507898434536_8396601142832890903_n.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254714",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (14/05) que o seu homólogo chinês Xi Jinping se ofereceu para ajudar a abrir o Estreito de Ormuz, rota marítima parcialmente bloqueada pelo Irã em represália à guerra iniciada por Washington e Tel Aviv em 28 de fevereiro.  A informação foi dada em entrevista à […]\nO post Xi Jinping ofereceu ajuda para abrir Ormuz, afirma Trump; Pequim não confirma apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-xi-jinping-ofereceu-ajuda-para-abrir-ormuz-pequim-nao-confirma/",
-          "publishedOn": "2026-05-14T20:30:42.000Z",
-          "wordCount": 3314,
-          "title": "Xi Jinping ofereceu ajuda para abrir Ormuz, afirma Trump; Pequim não confirma",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/e9462b0c-a8e7-411d-838e-571a6d2e6dce-hirye-bwwaaxoml.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254725",
-          "author": "Raissa Neves",
-          "description": "Um trabalhador morto, 49 casas destruídas e mais de 160 pessoas desalojadas. Esse foi o saldo deixado pela explosão causada por uma obra da Sabesp no bairro do Jaguaré, na Zona Oeste de São Paulo, em 11 de maio de 2026. O acidente não é um evento isolado. A explosão no Jaguaré já é a […]\nO post Privatização da Sabesp: crônica de uma tragédia anunciada apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/privatizacao-da-sabesp-cronica-de-uma-tragedia-anunciada/",
-          "publishedOn": "2026-05-14T19:40:50.000Z",
-          "wordCount": 7599,
-          "title": "Privatização da Sabesp: crônica de uma tragédia anunciada",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/53876481909_09f13e799b_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254718",
-          "author": "Victor Farinelli",
-          "description": "A Polícia Federal revelou que trabalha em uma nova linha de investigação a respeito dos recursos enviados pelo banqueiro Daniel Vorcaro para a família Bolsonaro durante o ano de 2025 – supostamente destinados à realização do filme Dark Horse, segundo denúncia do The Intercept, em reportagem publicada nesta quarta-feira (13/05). A suspeita dos agentes federais […]\nO post PF investiga suspeita de que Vorcaro financiou despesas de Eduardo Bolsonaro nos EUA apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/pf-investiga-suspeita-de-que-vorcaro-financiou-despesas-de-eduardo-bolsonaro-nos-eua/",
-          "publishedOn": "2026-05-14T19:10:20.000Z",
-          "wordCount": 3149,
-          "title": "PF investiga suspeita de que Vorcaro financiou despesas de Eduardo Bolsonaro nos EUA",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/eduardo.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=254720",
-          "author": "Raissa Neves",
-          "description": "Durante anos, a Lei Rouanet foi instrumentalizada pela extrema direita para desqualificar uma política pública de fomento cultural com décadas de existência e regras de auditoria abertas ao escrutínio de qualquer cidadão. O alvo real era a política. A acusação de irregularidade servia como cobertura para uma operação de deslegitimação mais ampla: transformar o financiamento […]\nO post Flávio Bolsonaro e o cinema patriótico apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/flavio-bolsonaro-e-o-cinema-patriotico/",
-          "publishedOn": "2026-05-14T18:46:10.000Z",
-          "wordCount": 4312,
-          "title": "Flávio Bolsonaro e o cinema patriótico",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/52068770269_d528a817ac_c.jpg"
         }
       ]
     },
@@ -1162,18 +1172,18 @@
           "description": "A crise de Flávio lhe é muito conveniente. Sem confrontar diretamente o filho do ex-presidente, ela emerge como a alternativa menos contaminada no momento em que o bolsonarismo requer um rosto que não precise ser lavado antes de aparecer na TV\nThe post Os segredos de Michelle appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/direita-assanhada/segredos-de-michelle/",
           "publishedOn": "2026-05-14T20:38:05.000Z",
-          "wordCount": 4432,
+          "wordCount": 4478,
           "title": "Os segredos de Michelle",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/14184504/ec7942ab-michelle-bolsonaro-apos-saida-do-ex-presidente-do-hospital-df-star-metropoles-2-1200x800-1-1.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3185235",
           "author": "Leonardo Foletto",
-          "description": "Big techs já captam todo o conhecimento humano, para treinar seus robôs.  Mas defesa do direito autoral só estimulará acordos com empresas que exploram os criadores. Saída começa por uma aposta nas infraestruturas comunitárias\nThe post Cultura livre na era da IA appeared first on Outras Palavras.",
+          "description": "Big techs já captam todo o conhecimento humano, para treinar seus robôs.  Mas defesa do direito autoral só estimulará acordos com empresas que exploram os criadores. Saída começa por uma aposta nas infraestruturas comunitárias\nThe post Os dilemas da Cultura Livre na era da IA appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/tecnologiaemdisputa/cultura-livre-na-era-ia/",
           "publishedOn": "2026-05-14T20:13:43.000Z",
-          "wordCount": 6253,
-          "title": "Cultura livre na era da IA",
+          "wordCount": 6268,
+          "title": "Os dilemas da Cultura Livre na era da IA",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/14171723/AI-and-copyright.png"
         },
         {
@@ -1182,7 +1192,7 @@
           "description": "Pesquisadores respondem ao manifesto que exige o fim da “cultura do cancelamento” na Academia. Reforçam: defesa do dissenso não significa coleção de opiniões isoladas que reforçam ressentimento e o presentismo desgarrado da memória coletiva, tão típicos no neoliberalismo\nThe post Universidades: crítica ao pluralismo desencarnado appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/crise-brasileira/universidades-critica-ao-pluralismo-desencarnado/",
           "publishedOn": "2026-05-14T19:37:57.000Z",
-          "wordCount": 5006,
+          "wordCount": 4997,
           "title": "Universidades: crítica ao pluralismo desencarnado",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/14163723/linguagem-humana-1.jpeg"
         },
@@ -1202,7 +1212,7 @@
           "description": "Seis meses após eleito, prefeito de Nova York apela à mobilização dos cidadãos. Como isso contrasta com uma prática comum entre a esquerda – a de apelar à militância e trocá-la por negociações com o poder estabelecido, após as eleições\nThe post A aposta da Mamdani no contrapoder popular appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outrapolitica/a-aposta-da-mamdani-no-contrapoder-popular/",
           "publishedOn": "2026-05-13T22:54:25.000Z",
-          "wordCount": 4886,
+          "wordCount": 4950,
           "title": "A aposta da Mamdani no contrapoder popular",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/13195338/photo_4911235493584899198_w1.jpg"
         },
@@ -1301,6 +1311,16 @@
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
         {
+          "id": "http://blogdaboitempo.com.br/?p=64314",
+          "author": "Boitempo",
+          "description": "Marco Gonsales: \"Definida como um mecanismo digital de controle e monitoramento remoto da força de trabalho, operado em larga escala e em tempo real, a gestão algorítmica é o aparato técnico que permite às empresas – com a conivência dos poderes legislativos e do judiciário –, individualizar as relações de trabalho e atualizar formas históricas de intensificação do controle e da exploração.\"",
+          "link": "https://blogdaboitempo.com.br/2026/05/15/taxa-minima-por-que-a-principal-pauta-dos-trabalhadores-apavora-as-plataformas/",
+          "publishedOn": "2026-05-15T11:00:00.000Z",
+          "wordCount": 13788,
+          "title": "Taxa mínima: por que a principal pauta dos trabalhadores apavora as plataformas?",
+          "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/04/54422631433_3bc7d4592e_k.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "http://blogdaboitempo.com.br/?p=64291",
           "author": "Boitempo",
           "description": "Hugo Pontes: \"O filme não te dá tempo de se preparar porque a violência colonial também não avisa. Ela é assim: administrativa, rotineira, indiferente. Fanon passou anos tentando traduzir isso em teoria. 'Fanon' o coloca na tela em trinta segundos.\"",
@@ -1316,7 +1336,7 @@
           "description": "Debates, descontos, bolo, brindes exclusivos e muito mais: prepare-se para mais uma edição da tradicional Festa de Aniversário do Marx em São Paulo. Confira a programação completa de atividades que acontecem dia 23 de maio, sábado, e chame seus camaradas para celebrar conosco!",
           "link": "https://blogdaboitempo.com.br/2026/05/14/saiba-tudo-sobre-a-festa-de-aniversario-do-marx-em-sao-paulo/",
           "publishedOn": "2026-05-14T11:00:00.000Z",
-          "wordCount": 11763,
+          "wordCount": 11783,
           "title": "Saiba tudo sobre a Festa de Aniversário do Marx em São Paulo",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-blog-sp-aniversario-marx_01.jpg"
         },
