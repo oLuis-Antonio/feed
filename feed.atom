@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-17T09:54:40.384Z</id>
+    <id>urn:2026-05-17T13:48:50.746Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-17T09:54:40.384Z</updated>
+    <updated>2026-05-17T13:48:50.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Venezuela informa deportação de Alex Saab para Estados Unidos]]></title>
+        <id>https://operamundi.uol.com.br/?p=254925</id>
+        <link href="https://operamundi.uol.com.br/america-latina/venezuela-informa-deportacao-de-alex-saab-para-estados-unidos/"/>
+        <updated>2026-05-17T13:08:05.000Z</updated>
+        <summary type="html"><![CDATA[O governo da Venezuela informou a deportação do empresário colombiano Alex Naim Saab Morán para os Estados Unidos neste sábado (16/05). Ele é acusado de lavagem de dinheiro pelo governo norte-americano. Em comunicado, emitido pelo Serviço Administrativo de Identificação, Migração e Estrangeiros (Saime) e reproduzido em contas oficiais, Caracas especifica que a deportação foi realizada […]
+O post Venezuela informa deportação de Alex Saab para Estados Unidos apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encontro em Brasília debate soberania digital e riscos das Big Techs sobre a democracia]]></title>
+        <id>https://operamundi.uol.com.br/?p=254813</id>
+        <link href="https://operamundi.uol.com.br/politica-e-economia/encontro-em-brasilia-debate-soberania-digital-e-riscos-das-big-techs-sobre-a-democracia/"/>
+        <updated>2026-05-17T13:00:04.000Z</updated>
+        <summary type="html"><![CDATA[O Distrito Federal receberá o Segundo Encontro Nacional pela Soberania Digital nos dias 18 e 19 de maio, com o intuito de chamar atenção para os riscos associados à atuação das Big Techs nos processos democráticos e eleitorais, principalmente nos âmbitos global e nacional, além da necessidade urgente de regulamentação das infraestruturas, dados e plataformas […]
+O post Encontro em Brasília debate soberania digital e riscos das Big Techs sobre a democracia apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Raissa Neves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A irresponsabilidade da esquerda radical e revolucionária no Brasil: um manifesto]]></title>
+        <id>http://blogdaboitempo.com.br/?p=64374</id>
+        <link href="https://blogdaboitempo.com.br/2026/05/17/a-irresponsabilidade-da-esquerda-radical-e-revolucionaria-no-brasil-um-manifesto/"/>
+        <updated>2026-05-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ronaldo Tadeu: "O trabalho de reconstrução da esquerda será árduo – e não ocorrerá do dia para a noite. E a cada vez que adiamos dar os primeiros passos efetivos, agravamos nossa 'derrota' histórica."]]></summary>
+        <author>
+            <name>Boitempo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movimento Xingu Vivo: Nota de Solidariedade a Zé Maria, presidente nacional do PSTU]]></title>
+        <id>6a09b4ee379d4ffc8d2bd0e2</id>
+        <link href="https://opiniaosocialista.com.br/movimento-xingu-vivo-nota-de-solidariedade-a-ze-maria-presidente-nacional-do-pstu/"/>
+        <updated>2026-05-17T12:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Movimento Xingu Vivo Para Sempre (MXVPS) manifesta sua solidariedade ao presidente e fundador do Partido Socialista dos Trabalhadores Unificado (PSTU), José Maria de Almeida, diante da condenação de prisão por denunciar o genocídio na Palestina.
+A Justiça Federal de S&]]></summary>
+        <author>
+            <name>Redação</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Como o dinheiro do Banco Master racha o mito bolsonarista]]></title>
+        <id>https://www.intercept.com.br/?p=443178</id>
+        <link href="https://www.intercept.com.br/2026/05/17/banco-master-desmorona-mito-bolsonarista/"/>
+        <updated>2026-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Os áudios de Flávio Bolsonaro e Daniel Vorcaro desmoronam a fantasia de cruzada moral, ao revelar vínculos do clã Bolsonaro com o banqueiro mais tóxico do Brasil 
+O post Como o dinheiro do Banco Master racha o mito bolsonarista apareceu primeiro em Intercept Brasil.]]></summary>
+        <author>
+            <name>Bianca Pyl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dia do gari: limpeza urbana da Paraíba celebra dia com grande ato pelo fim da escala 6×1]]></title>
         <id>https://averdade.org.br/?p=61767</id>
@@ -186,17 +240,6 @@ O post Evo Morales denuncia plano entre EUA e governo boliviano para assassiná-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump rejeita mediação da China no diálogo com Irã: ‘não precisamos de ajuda’]]></title>
-        <id>https://operamundi.uol.com.br/?p=254865</id>
-        <link href="https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-rejeita-mediacao-da-china-na-guerra-no-ira-nao-precisamos-de-ajuda/"/>
-        <updated>2026-05-16T13:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Em entrevista recente à Fox News, o presidente dos Estados Unidos, Donald Trump, confirmou sua decisão de rejeitar a proposta de mediação apresentada pelo presidente chinês, Xi Jinping, para resolver o conflito com o Irã. Na última quinta-feira, Trump havia indicado que, durante sua visita de Estado à China, Xi Jinping descartou qualquer ajuda militar […]
-O post Trump rejeita mediação da China no diálogo com Irã: ‘não precisamos de ajuda’ apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tatiana Carlotti</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rússia: Ato celebra o 1º de Maio e a fundação da Liga Anti-imperialista Internacional]]></title>
         <id>https://anovademocracia.com.br/?p=225907</id>
         <link href="https://anovademocracia.com.br/russia-ato-celebra-o-1o-de-maio-e-a-fundacao-da-liga-anti-imperialista-internacional/"/>
@@ -276,17 +319,6 @@ O post Mentiras deixam Flávio Bolsonaro nu em praça pública apareceu primeiro
         <summary type="html"><![CDATA[Marcelo Soares, sociólogo, militante histórico do trotskismo e das lutas ecológicas do Rio Grande do Sul, filiou-se ao PSTU]]></summary>
         <author>
             <name>PSTU-RS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pré-candidato a deputado federal, José Dirceu é diagnosticado com linfoma]]></title>
-        <id>https://operamundi.uol.com.br/?p=254837</id>
-        <link href="https://operamundi.uol.com.br/brasil/pre-candidato-a-deputado-federal-jose-dirceu-e-diagnosticado-com-linfoma/"/>
-        <updated>2026-05-15T23:13:15.000Z</updated>
-        <summary type="html"><![CDATA[O ex-presidente nacional do Partido dos Trabalhadores (PT) e ex-ministro da Casa Civil, José Dirceu, foi diagnostico com um linfoma nesta sexta-feira (15/05), segundo um boletim médico divulgado pelo Hospital Sírio Libanês, em São Paulo. O pré-candidato a deputado federal está internando no hospital desde o último domingo (10/05), na qual realizou conjuntos de exames […]
-O post Pré-candidato a deputado federal, José Dirceu é diagnosticado com linfoma apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Raissa Neves</name>
         </author>
     </entry>
     <entry>
@@ -1269,29 +1301,6 @@ Matérias
         <summary type="html"><![CDATA[A greve da educação municipal de Belo Horizonte, iniciada há mais de 15 dias, expressa a revolta de milhares de trabalhadores da educação, estudantes e famílias contra o projeto de destruição da escola pública levado adiante]]></summary>
         <author>
             <name>Firminia Rodrigues, de Minas Gerais</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metroviários de SP encerram campanha salarial sob forte ingerência antissindical do Metrô e do governo Tarcísio]]></title>
-        <id>https://www.esquerdadiario.com.br/Metroviarios-de-SP-encerram-campanha-salarial-sob-forte-ingerencia-antissindical-do-Metro-e-do</id>
-        <link href="https://www.esquerdadiario.com.br/Metroviarios-de-SP-encerram-campanha-salarial-sob-forte-ingerencia-antissindical-do-Metro-e-do"/>
-        <updated>2026-05-13T01:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Depois de uma sistemática campanha de assédio e pressão por parte da direção da empresa, apoiada pelo governador Tarcísio, a assembléia dos metroviários encerrou a campanha salarial apesar da péssima proposta colocada sobre a mesa. Contudo, a luta contra o sucateamento e a privatização do Metrô, impulsionada pelo governo Tarcísio de Freitas, precisa seguir. Nós do Movimento Nossa Classe Metroviários reafirmamos a necessidade de manter a mobilização para garantir os direitos dos trabalhadores e a qualidade dos serviços públicos, a luta em defesa de um transporte público de qualidade está longe de terminar.
-12-05-2026
-
-/ Classe trabalhadora, Metrô, Tarcísio de Freitas, São Paulo, Greve do Metrô]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guerra silenciosa do Haiti]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73641</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/12/a-guerra-silenciosa-do-haiti/"/>
-        <updated>2026-05-12T22:22:16.000Z</updated>
-        <summary type="html"><![CDATA[violência no Haiti deixou pelo menos 1.642 mortos e 745 feridos no primeiro trimestre de 2026, devido a ataques de gangues e às operações das forças de segurança, de acordo com um balanço apresentado pelo Escritório Integrado das Nações Unidas para o Haiti (BINUH). As forças de segurança são responsáveis por quase 70% dos crimes, […]]]></summary>
-        <author>
-            <name>Centro Latinoamericano de Análisis Estratégico (CLAE)</name>
         </author>
     </entry>
 </feed>
