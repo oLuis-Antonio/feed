@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-16T20:59:02.421Z</id>
+    <id>urn:2026-05-17T04:07:34.801Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-16T20:59:02.421Z</updated>
+    <updated>2026-05-17T04:07:34.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dia do gari: limpeza urbana da Paraíba celebra dia com grande ato pelo fim da escala 6×1]]></title>
+        <id>https://averdade.org.br/?p=61767</id>
+        <link href="https://averdade.org.br/2026/05/dia-do-gari-limpeza-urbana-da-paraiba-celebra-dia-com-grande-ato-pelo-fim-da-escala-6x1/"/>
+        <updated>2026-05-16T23:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Trabalhadores da limpeza urbana na Paraíba celebram o Dia do Gari em ato pelo fim da escala 6×1. Redação PB TRABALHADOR UNIDO – O dia 16 de maio é reconhecido nacionalmente como Dia do Gari. Porém, mesmo que a categoria tenha um dia do calendário em sua homenagem, ainda vive esmagada pelas péssimas condições de […]]]></summary>
+        <author>
+            <name>Jesse Lisboa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Nossos mortos têm voz”: Cordão da Mentira marca 20 anos dos Crimes de Maio]]></title>
+        <id>https://ponte.org/?p=160243</id>
+        <link href="https://ponte.org/cordao-da-mentira-crimes-de-maio-paulista/"/>
+        <updated>2026-05-16T23:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Mães de Maio, movimentos sociais e coletivos culturais ocuparam a Avenida Paulista no 14º Cordão da Mentira para denunciar a impunidade dos Crimes de Maio e a violência do Estado
+O conteúdo “Nossos mortos têm voz”: Cordão da Mentira marca 20 anos dos Crimes de Maio Pode ser acessado em Ponte Jornalismo.]]></summary>
+        <author>
+            <name>Mariana Rosetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hamas condena morte de chefe das Brigadas Al-Qassam em ataque israelense]]></title>
+        <id>https://operamundi.uol.com.br/?p=254906</id>
+        <link href="https://operamundi.uol.com.br/guerra-israel-x-palestina/hamas-condena-morte-de-chefe-das-brigadas-al-qassam-em-ataque-israelense/"/>
+        <updated>2026-05-16T21:17:06.000Z</updated>
+        <summary type="html"><![CDATA[O Hamas condenou neste sábado (16/05) o assassinato de Izz al-Din al-Haddad, líder das Brigadas Al-Qassam, apontado como um dos principais comandantes militares da organização na Faixa de Gaza. Al-Haddad foi morto pelas forças israelenses durante um bombardeio realizado na noite desta sexta-feira (15/05), na zona oeste da Cidade de Gaza. Em comunicado, o Hamas […]
+O post Hamas condena morte de chefe das Brigadas Al-Qassam em ataque israelense apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Milícia digital bolsonarista faz ataque mal-orquestrado contra o Intercept]]></title>
         <id>https://www.intercept.com.br/?p=443186</id>
@@ -265,17 +297,6 @@ O post Pré-candidato a deputado federal, José Dirceu é diagnosticado com linf
         <summary type="html"><![CDATA[O programa A Propósito debateu o acordo do governo para votar o fim da escala 6 por 1 e apontou que a reivindicação operária pode ser esvaziada se não estiver ligada à luta contra as “reformas” trabalhista e previdenciária.]]></summary>
         <author>
             <name>Redação de AND</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novo vazamento revela que Eduardo Bolsonaro controlava recursos de filme sobre o pai]]></title>
-        <id>https://operamundi.uol.com.br/?p=254840</id>
-        <link href="https://operamundi.uol.com.br/brasil/novo-vazamento-revela-que-eduardo-bolsonaro-controlava-recursos-de-filme-sobre-o-pai/"/>
-        <updated>2026-05-15T23:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Um novo vazamento de documentos relacionados à produção do filme Dark Horse revela que o ex-deputado federal Eduardo Bolsonaro teria atuado diretamente na gestão financeira do projeto, através de uma conta nos Estados Unidos que servia para captar os recursos destinados à obra. A informação foi divulgada em uma nova reportagem do site The Intercept […]
-O post Novo vazamento revela que Eduardo Bolsonaro controlava recursos de filme sobre o pai apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Victor Farinelli</name>
         </author>
     </entry>
     <entry>
@@ -561,10 +582,9 @@ O post EXCLUSIVO: Eduardo Bolsonaro tinha poder sobre dinheiro do “Dark Horse�
         <id>6a0737e8379d4ffc8d2bcf67</id>
         <link href="https://opiniaosocialista.com.br/tres-gracas-de-o-encouracado-potemkin-a-vorcaro-a-historia-de-uma-expropriacao/"/>
         <updated>2026-05-15T15:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Jovipe, de São Paulo (SP)
-Chega ao fim Três Graças, novela das nove que tem como espinha dorsal a história de uma expropriação e de “justiça social”. Um dos maiores acertos do horário]]></summary>
+        <summary type="html"><![CDATA[Chega ao fim Três Graças, novela das nove que tem como espinha dorsal a história de uma expropriação e de “justiça social”. Um dos maiores acertos do horário nobre da TV nos últimos anos,]]></summary>
         <author>
-            <name>PSTU-SP</name>
+            <name>João Vitor Pereira</name>
         </author>
     </entry>
     <entry>
@@ -926,16 +946,6 @@ O post Flávio Bolsonaro mentiu sobre o Banco Master duas vezes no mesmo dia  
         <link href="https://averdade.org.br/2026/05/estudante-lute-contra-o-assedio-e-a-violencia/"/>
         <updated>2026-05-14T00:34:15.000Z</updated>
         <summary type="html"><![CDATA[Diante do aumento da violência de gênero e do assédio nas escolas, movimentos estudantis e o Movimento Olga Benario convocam para o dia 19 de maio o Dia Nacional de Luta contra o Assédio e a Violência nas Escolas. Movimento Olga Benario MULHERES – O avanço da violência de gênero nas escolas brasileiras tem levado […]]]></summary>
-        <author>
-            <name>Jesse Lisboa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tarcísio de Freitas: inimigo das mulheres trabalhadoras]]></title>
-        <id>https://averdade.org.br/?p=61722</id>
-        <link href="https://averdade.org.br/2026/05/tarcisio-de-freitas-inimigo-das-mulheres-trabalhadoras/"/>
-        <updated>2026-05-14T00:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Em resposta à piora na vida dos trabalhadores, o Movimento de Mulheres Olga Benario e outras organizações convocam uma marcha ao Palácio dos Bandeirantes, no próximo dia 20 de maio, para protestar contra a agenda política do governo de Tarcísio de Freitas. Vivian Mendes (SP) e Luiza Fegadolli (SP) MULHERES – Desde 2023, o povo […]]]></summary>
         <author>
             <name>Jesse Lisboa</name>
         </author>
@@ -1323,59 +1333,6 @@ Inspirado em uma iniciativa semelhante aprovada em Santa Catarina, o Projeto de 
         <summary type="html"><![CDATA[Evento acontece nesta quinta-feira (14), às 19h, e reúne entidades, ativistas e organizações em defesa da Palestina e contra o chamado “PL da Mordaça” da deputada federal Tabata Amaral]]></summary>
         <author>
             <name>Roberto Aguiar, da redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Memórias de Maio’: primeiro episódio do podcast da Ponte e do BdF revisita início do massacre de 2006]]></title>
-        <id>https://ponte.org/?p=160114</id>
-        <link href="https://ponte.org/memorias-de-maio-primeiro-episodio-do-podcast-da-ponte-revisita-inicio-do-massacre-de-2006/"/>
-        <updated>2026-05-12T14:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Episódio reconstrói os dias de medo em São Paulo e mostra como centenas de mortes de civis foram apagadas da memória sobre maio de 2006
-O conteúdo ‘Memórias de Maio’: primeiro episódio do podcast da Ponte e do BdF revisita início do massacre de 2006 Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Catarina Duarte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SP: Explosão em obras da Sabesp é resultado da privatização e Tarcísio é responsável]]></title>
-        <id>6a03359f379d4ffc8d2bcbea</id>
-        <link href="https://opiniaosocialista.com.br/sp-explosao-em-obras-da-sabesp-e-resultado-da-privatizacao-e-tarcisio-e-responsavel/"/>
-        <updated>2026-05-12T14:27:30.000Z</updated>
-        <summary type="html"><![CDATA[A explosão ocorrida nesta segunda-feira (11), no Jaguaré, zona oeste de São Paulo, não foi uma “fatalidade”. Foi mais uma consequência direta da política de privatização e precarização da Sabesp (Companhia]]></summary>
-        <author>
-            <name>PSTU-SP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O marxismo e as universidades]]></title>
-        <id>https://passapalavra.info/?p=159203</id>
-        <link href="https://passapalavra.info/2026/05/159203/"/>
-        <updated>2026-05-12T13:02:56.000Z</updated>
-        <summary type="html"><![CDATA[O marxismo acadêmico, com raríssimas exceções, se insere nos muros das universidades, sem questionar a natureza reacionária do ambiente acadêmico, se colocando como um observador da luta de classes. Por Michel Goulart da Silva]]></summary>
-        <author>
-            <name>Aníbal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O novo Show do Milhão]]></title>
-        <id>https://www.intercept.com.br/?p=442832</id>
-        <link href="https://www.intercept.com.br/2026/05/12/o-novo-show-do-milhao/"/>
-        <updated>2026-05-12T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Confira o primeiro episódio da série especial e conheça mais sobre o magnata Bruce Rastetter.
-O post  O novo Show do Milhão apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Alice de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G4 Educação de Tallis Gomes paga anúncio contra fim da escala 6×1 e Meta ignora regra de transparência]]></title>
-        <id>https://www.intercept.com.br/?p=442843</id>
-        <link href="https://www.intercept.com.br/2026/05/12/g4-educacao-paga-anuncio-contra-escala-6x1-meta-ignora-regras/"/>
-        <updated>2026-05-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anúncio patrocinado pelo empresa circulou sem rótulo político. Peça foi retirada do ar após questionamento da newsletter Cartas Marcadas.
-O post G4 Educação de Tallis Gomes paga anúncio contra fim da escala 6×1 e Meta ignora regra de transparência apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Isabella Mota</name>
         </author>
     </entry>
 </feed>
