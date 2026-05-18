@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T04:20:08.832Z</id>
+    <id>urn:2026-05-18T11:50:28.486Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-18T04:20:08.832Z</updated>
+    <updated>2026-05-18T11:50:28.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A nova esfera pública particular: entrincheiramento de posições na “terra de ninguém” das plataformas digitais]]></title>
+        <id>http://blogdaboitempo.com.br/?p=64387</id>
+        <link href="https://blogdaboitempo.com.br/2026/05/18/a-nova-esfera-publica-particular-entrincheiramento-de-posicoes-na-terra-de-ninguem-das-plataformas-digitais/"/>
+        <updated>2026-05-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thiago Canettieri: "Havia um certo otimismo quanto ao caráter descentralizado da rede social, em que os consumidores de informações se tornavam replicadores e até produtores de conteúdo. A revolução digital promoveria, portanto, uma mudança no filtro editorial dos grandes conglomerados da comunicação e ressaltaria a conectividade entre as pessoas. Ora, essas palavras hoje certamente soam como notícias de outra era ideológica – e, de fato, era outra época. Afinal, já se sabe muito bem o que as redes sociais implicam."]]></summary>
+        <author>
+            <name>Boitempo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marinha israelense intercepta flotilha rumo a Gaza; 4 brasileiros são sequestrados]]></title>
+        <id>https://operamundi.uol.com.br/?p=255018</id>
+        <link href="https://operamundi.uol.com.br/guerra-israel-x-palestina/marinha-israelense-intercepta-flotilha-rumo-a-gaza-4-brasileiros-sao-sequestrados/"/>
+        <updated>2026-05-18T10:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Navios de guerra da Marinha israelense cercam e interceptam civis da Global Sumud Flotilha nesta segunda-feira (18/05), a 250 milhas náuticas de Gaza, na zona SAR do Chipre, em mais uma interceptação ilegal em alto-mar em águas internacionais. Quatro brasileiros estão a bordo. De acordo com a organização humanitária, citando a mídia israelense, os ativistas […]
+O post Marinha israelense intercepta flotilha rumo a Gaza; 4 brasileiros são sequestrados apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protestos e bloqueios continuam na Bolívia contra governo Paz]]></title>
+        <id>https://operamundi.uol.com.br/?p=255014</id>
+        <link href="https://operamundi.uol.com.br/america-latina/protestos-e-bloqueios-continuam-na-bolivia-contra-governo-paz/"/>
+        <updated>2026-05-18T09:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Após uma escalada de tensão no sábado (16/05), com confrontos entre manifestantes e forças policiais e militares que tentavam desbloquear as vias de acesso às cidades de La Paz e El Alto, os bloqueios, reinstaurados na véspera, continuam neste domingo (17/05), após duas semanas de mobilização na Bolívia contra o governo de Rodrigo Paz. A […]
+O post Protestos e bloqueios continuam na Bolívia contra governo Paz apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keiko Fujimori e Roberto Sánchez disputarão segundo turno no Peru]]></title>
+        <id>https://operamundi.uol.com.br/?p=255011</id>
+        <link href="https://operamundi.uol.com.br/america-latina/keiko-fujimori-e-roberto-sanchez-disputarao-segundo-turno-no-peru/"/>
+        <updated>2026-05-18T09:28:10.000Z</updated>
+        <summary type="html"><![CDATA[A candidata de direita, Keiko Fujimori, e o candidato de esquerda, Roberto Sánchez, disputarão o segundo turno da eleição presidencial no Peru, marcado para 7 de junho, anunciou neste domingo (17/05) a autoridade eleitoral ao proclamar oficialmente os resultados do primeiro turno. A filha do ditador Alberto Fujimori ficou em primeiro lugar no primeiro turno, […]
+O post Keiko Fujimori e Roberto Sánchez disputarão segundo turno no Peru apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comunicação de Isabelle Doneux-Daussaint]]></title>
         <id>https://outraspalavras.net/?p=3185531</id>
@@ -17,7 +60,7 @@ The post Comunicação de Isabelle Doneux-Daussaint appeared first on Outras Pal
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assista: Thiago Ávila fala ao AND após dez dias nas masmorras nazi-sionistas]]></title>
+        <title type="html"><![CDATA[ASSISTA: Thiago Ávila fala ao AND após dez dias nas masmorras nazi-sionistas]]></title>
         <id>https://anovademocracia.com.br/?p=225930</id>
         <link href="https://anovademocracia.com.br/assista-thiago-avila-fala-ao-and/"/>
         <updated>2026-05-18T03:17:06.000Z</updated>
@@ -131,7 +174,7 @@ Matérias
         <id>https://operamundi.uol.com.br/?p=254979</id>
         <link href="https://operamundi.uol.com.br/israel/tpi-pede-mandados-de-prisao-sigilosos-para-ministros-israelenses-diz-haaretz/"/>
         <updated>2026-05-17T20:44:03.000Z</updated>
-        <summary type="html"><![CDATA[O Tribunal Penal Internacional (TPI) solicitou a emissão de mandados de prisão sigilosos contra o ministro das Finanças israelense, Bezalel Smotrich, e o ministro da Segurança Nacional, Itamar Ben-Gvir, segundo reportagem do Haaretz. Segundo fonte diplomática, além deles, outros três mandados seriam expedidos contra a ministra Orit Strock e dois oficiais das Forças de Defesa […]
+        <summary type="html"><![CDATA[O Tribunal Penal Internacional (TPI) solicitou a emissão de mandados de prisão sigilosos contra o ministro das Finanças israelense, Bezalel Smotrich, e o ministro da Segurança Nacional, Itamar Ben-Gvir, segundo reportagem do Haaretz. Segundo fonte diplomática, além deles, outros três mandados teriam sido solicitados contra a ministra Orit Strock e dois oficiais das Forças de […]
 O post TPI pede mandados de prisão sigilosos para ministros israelenses, diz Haaretz apareceu primeiro em Opera Mundi.]]></summary>
         <author>
             <name>Tatiana Carlotti</name>
@@ -189,39 +232,6 @@ O post ‘Quirinas’ traz levantamento inédito sobre trabalhadoras domésticas
         <summary type="html"><![CDATA[Diversas organizações políticas do Brasil emitiram nota em solidariedade a Zé Maria, presidente nacional do PSTU, diante da condenação de prisão, pela Justiça Federal de São Paulo, por denunciar o genocídio na Palestina.]]></summary>
         <author>
             <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lula: ‘Trump sabe que sou contra guerra no Irã, intervenção na Venezuela e genocídio na Palestina’]]></title>
-        <id>https://operamundi.uol.com.br/?p=254943</id>
-        <link href="https://operamundi.uol.com.br/brasil/lula-trump-sabe-que-sou-contra-guerra-no-ira-intervencao-na-venezuela-e-genocidio-na-palestina/"/>
-        <updated>2026-05-17T14:55:12.000Z</updated>
-        <summary type="html"><![CDATA[O presidente Luiz Inácio Lula da Silva afirmou que pretende manter uma relação pragmática com o líder dos Estados Unidos, Donald Trump, apesar das divergências políticas. Em entrevista a The Washington Post, publicada neste domingo (17/05), o mandatário brasileiro disse considerar estratégico preservar o diálogo com o republicano e que defenderá a soberania brasileira. “Trump […]
-O post Lula: ‘Trump sabe que sou contra guerra no Irã, intervenção na Venezuela e genocídio na Palestina’ apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tatiana Carlotti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irã adverte EUA: ‘país vitorioso no campo de batalha é quem impõe condições’]]></title>
-        <id>https://operamundi.uol.com.br/?p=254932</id>
-        <link href="https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-adverte-eua-pais-vitorioso-no-campo-de-batalha-e-quem-impoe-condicoes/"/>
-        <updated>2026-05-17T14:00:56.000Z</updated>
-        <summary type="html"><![CDATA[O Irã, como parte vencedora no confronto com os Estados Unidos, é quem define as condições para uma futura solução do conflito, disse o presidente do Comitê de Assuntos Internos do Parlamento iraniano, Mohammad Saleh Jokar, ressaltando que o plano de 10 pontos do Irã é a “linha vermelha” de qualquer negociação. “O país vitorioso […]
-O post Irã adverte EUA: ‘país vitorioso no campo de batalha é quem impõe condições’ apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tatiana Carlotti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venezuela informa deportação de Alex Saab para Estados Unidos]]></title>
-        <id>https://operamundi.uol.com.br/?p=254925</id>
-        <link href="https://operamundi.uol.com.br/america-latina/venezuela-informa-deportacao-de-alex-saab-para-estados-unidos/"/>
-        <updated>2026-05-17T13:08:05.000Z</updated>
-        <summary type="html"><![CDATA[O governo da Venezuela informou a deportação do empresário colombiano Alex Naim Saab Morán para os Estados Unidos neste sábado (16/05). Ele é acusado de lavagem de dinheiro pelo governo norte-americano. Em comunicado, emitido pelo Serviço Administrativo de Identificação, Migração e Estrangeiros (Saime) e reproduzido em contas oficiais, Caracas especifica que a deportação foi realizada […]
-O post Venezuela informa deportação de Alex Saab para Estados Unidos apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tatiana Carlotti</name>
         </author>
     </entry>
     <entry>
@@ -1014,240 +1024,6 @@ O post Flávio Bolsonaro mentiu sobre o Banco Master duas vezes no mesmo dia  
         <summary type="html"><![CDATA[Diante do aumento da violência de gênero e do assédio nas escolas, movimentos estudantis e o Movimento Olga Benario convocam para o dia 19 de maio o Dia Nacional de Luta contra o Assédio e a Violência nas Escolas. Movimento Olga Benario MULHERES – O avanço da violência de gênero nas escolas brasileiras tem levado […]]]></summary>
         <author>
             <name>Jesse Lisboa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governador de Alagoas faz sorteio de pix em evento do Dia das Mães para divulgação política]]></title>
-        <id>https://www.esquerdadiario.com.br/Governador-de-Alagoas-faz-sorteio-de-pix-em-evento-do-Dia-das-Maes-para-divulgacao-politica</id>
-        <link href="https://www.esquerdadiario.com.br/Governador-de-Alagoas-faz-sorteio-de-pix-em-evento-do-Dia-das-Maes-para-divulgacao-politica"/>
-        <updated>2026-05-13T22:51:38.000Z</updated>
-        <summary type="html"><![CDATA[Neste Dia das Mães (10), o governador de Alagoas Paulo Dantas (MDB) e o senador Renan Calheiros (MDB) realizaram um sorteio de 50 transferências via Pix de R$200 em um evento de celebração da data organizado pela prefeitura de Rio Largo, região metropolitana de Maceió. Renan é pré-candidato à reeleição, e Paulo Dantas vai apoiar sem antecessor Renan Filho (MDB), que já governou o Estado por 2 mandatos.
-13-05-2026
-
-/ Política, Renan Calheiros, MDB, Alagoas, PP]]></summary>
-        <author>
-            <name>Kassandra Andrade de Sousa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A visita de Trump a Pequim e a nova Guerra Fria na Ásia]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73660</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/13/a-visita-de-trump-a-pequim-e-a-nova-guerra-fria-na-asia/"/>
-        <updated>2026-05-13T22:09:40.000Z</updated>
-        <summary type="html"><![CDATA[sta semana, em Pequim, a primeira visita de Estado dos EUA à China em nove anos está sendo encenada para o mundo inteiro ver. O Grande Salão do Povo está aberto para Donald Trump, que viajou acompanhado de 18 executivos norte-americanos — entre eles, os da Apple, Tesla, BlackRock, Boeing e Nvidia. Haverá um banquete […]]]></summary>
-        <author>
-            <name>Globetrotter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uma Multidão marcha pela universidade pública: continuar a luta até derrotar todo o plano do Governo Milei]]></title>
-        <id>https://www.esquerdadiario.com.br/Uma-Multidao-marcha-pela-universidade-publica-continuar-a-luta-ate-derrotar-todo-o-plano-do-Governo</id>
-        <link href="https://www.esquerdadiario.com.br/Uma-Multidao-marcha-pela-universidade-publica-continuar-a-luta-ate-derrotar-todo-o-plano-do-Governo"/>
-        <updated>2026-05-13T21:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Que Yacobitti (Vice-reitor da Universidade de Buenos Aires. Político argentino, pertencente à União Cívica Radical) e os reitores não utilizem esta força enorme para se sentarem à mesa e negociar migalhas com Milei. As burocracias sindicais e estudantis compartilham essa estratégia, que vem fracassando. Eles não querem derrotar o Governo, mas sim negociar misérias com ele. No entanto, isso implica permitir que o ajuste avance. A mobilização massiva desta terça-feira pode ser utilizada para derrotar todo o plano de ajuste. É preciso continuar o combate, desenvolvendo uma luta comum de docentes, funcionários e estudantes, com o apoio da comunidade. Essa é a perspectiva defendida pela Rede Nacional de Agrupamentos En Clave Roja (PTS e estudantes independentes, organização irmã do MRT na Argentina). E isso abre um debate com o restante da esquerda, que compartilhou o palanque com as autoridades.
-13-05-2026
-
-/ Argentina, Universidade, Javier milei]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Professores municipais em ato se somam ao ato dos estudantes na Av. Paulista. Greve geral da educação, já!]]></title>
-        <id>https://www.esquerdadiario.com.br/Professores-municipais-em-ato-se-somam-ao-ato-dos-estudantes-na-Av-Paulista-Greve-geral-da-educacao</id>
-        <link href="https://www.esquerdadiario.com.br/Professores-municipais-em-ato-se-somam-ao-ato-dos-estudantes-na-Av-Paulista-Greve-geral-da-educacao"/>
-        <updated>2026-05-13T21:00:40.000Z</updated>
-        <summary type="html"><![CDATA[A greve de professores municipais vem crescendo e levou milhares de professores de SP às ruas do centro de São Paulo. Aos gritos de unificar a luta da educação no estado de SP chegam na Av. Paulista
-13-05-2026
-
-/ USP, Educação, Greve, Greve Professores Municipais SP, Greve de professores, Greve na USP]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atualizações sobre o impacto das chuvas em Pernambuco - 13/05]]></title>
-        <id>2AoHhb</id>
-        <link href="https://jornalofuturo.com.br/artigo/2AoHhb-atualizacoes-sobre-o-impacto-das-chuvas-em-pernambuco-1305"/>
-        <updated>2026-05-13T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Assim como em toda a história de Pernambuco, as chuvas deste primeiro de maio causaram alagamentos, inundações e deslizamentos de terra; deixam 8 mortos, 1.628 desabrigados e 7.827 pessoas desalojadas, segundo a Defesa Civil.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governador interino do RJ deixa centenas de profissionais da educação sem saber quando vão receber]]></title>
-        <id>https://www.esquerdadiario.com.br/Governador-interino-do-RJ-deixa-centenas-de-profissionais-da-educacao-sem-saber-quando-vao-receber</id>
-        <link href="https://www.esquerdadiario.com.br/Governador-interino-do-RJ-deixa-centenas-de-profissionais-da-educacao-sem-saber-quando-vao-receber"/>
-        <updated>2026-05-13T20:52:40.000Z</updated>
-        <summary type="html"><![CDATA[A Fundação responsável alega revisão de contas do governo interino; tutores, que recebem por bolsa e não tem estabilidade, dizem que podem precisar pagar para trabalhar e ter perdido o último direito que tinham: o de ter o pagamento em dia.
-13-05-2026
-
-/ Classe trabalhadora, Política, Rio de Janeiro, Rio de Janeiro, Educação, Crise no Rio de Janeiro, Crise na Educação, Trabalhadores da educação, Professores Rio de Janeiro, Cortes na Educação, Colapso na Educação]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Sumud Flotilha volta a zarpar para quebrar o cerco a Gaza]]></title>
-        <id>https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-volta-a-zarpar-para-quebrar-o-cerco-a-Gaza</id>
-        <link href="https://www.esquerdadiario.com.br/Global-Sumud-Flotilha-volta-a-zarpar-para-quebrar-o-cerco-a-Gaza"/>
-        <updated>2026-05-13T20:37:37.000Z</updated>
-        <summary type="html"><![CDATA[A Global Sumud Flotilha dá continuidade à sua missão não violenta de romper o cerco ilegal imposto por Israel à Gaza, confirmando sua última etapa antes de zarpar rumo à costa palestinas. A frota parte amanhã, composta por 54 barcos e quase 500 participantes de 45 países, com o objetivo de entregar ajuda humanitária às famílias palestinas que vivem sob ocupação. 
- Este movimento ocorre na véspera do Dia da Nakba, simbolizando uma luta global pela justiça e pelos direitos do povo palestino, (…)
-13-05-2026
-
-/ Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secretárias escolares denunciam a sobrecarga de trabalho e problemas de saúde fruto das constantes falhas no Educa-df]]></title>
-        <id>https://www.esquerdadiario.com.br/Secretarias-escolares-denunciam-a-sobrecarga-de-trabalho-e-problemas-de-saude-fruto-das-constantes</id>
-        <link href="https://www.esquerdadiario.com.br/Secretarias-escolares-denunciam-a-sobrecarga-de-trabalho-e-problemas-de-saude-fruto-das-constantes"/>
-        <updated>2026-05-13T20:33:02.000Z</updated>
-        <summary type="html"><![CDATA[O Esquerda Diário recebeu denúncias das constantes falhas do Educa-DF, sistema de gestão escolar adotado pela Secretaria de Educação do Distrito Federal (SEEDF), na primeira gestão do Ibaneis Rocha (MDB), em 2019 e mantida até hoje. O valor da contratação do sistema pago pelo governo do DF é de absurdos de mais de R$ 40 milhões anuais. O Educa - DF foi anunciado como uma medida para unificar o lançamento de notas, presença e informações de alunos, “modernizar” e ajudar os professores e secretários escolares, uma completa mentira, como mostram os relatos. Além dos secretários escolares, o sistema prejudica também os professores, que fizeram uma recente paralisação no último dia 23 de abril, tendo como uma das pautas a melhoria no sistema. Confira abaixo a entrevista feita com M e F., secretárias de escolas no Gama, C. secretária escolar no Recanto das Emas.
-13-05-2026
-
-/ Brasília, Educação, DF - Brasília, Precarização do trabalho, Centro-oeste]]></summary>
-        <author>
-            <name>Redação Brasília</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presidente do PT-RJ ostenta fuzil na internet em aceno à direita]]></title>
-        <id>https://www.esquerdadiario.com.br/Presidente-do-PT-RJ-ostenta-fuzil-na-internet-em-aceno-a-direita</id>
-        <link href="https://www.esquerdadiario.com.br/Presidente-do-PT-RJ-ostenta-fuzil-na-internet-em-aceno-a-direita"/>
-        <updated>2026-05-13T20:28:53.000Z</updated>
-        <summary type="html"><![CDATA[Diego Zeidan Quaquá publicou nesta terça (12) uma foto com um fuzil em um clube de tiro, como fazem os políticos e influencers da extrema-direita. Diego é filho de Washington Quaquá, prefeito de Maricá-RJ e vice-presidente nacional do PT, e defendeu publicamente os irmãos Brazão, condenados pelo assassinato da vereadora Marielle Franco em 2018.
-13-05-2026
-
-/ Política, ABC paulista, Rio de Janeiro, PT, Washington Quaquá, Posse de armas]]></summary>
-        <author>
-            <name>Kassandra Andrade de Sousa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A ilusão da segurança: o perigoso modelo Bukele]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73655</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/13/a-ilusao-da-seguranca-o-perigoso-modelo-bukele/"/>
-        <updated>2026-05-13T20:13:55.000Z</updated>
-        <summary type="html"><![CDATA[aparente grande popularidade do governo (regime) de Nayib Bukele funciona como uma sofisticada cortina de fumaça midiática. Sob a máscara da eficácia, esconde-se o desmantelamento deliberado do Estado de Direito e o aprofundamento de uma situação de precariedade social que se tenta invisibilizar. A segurança física, alcançada por meio da suspensão permanente das garantias, é […]]]></summary>
-        <author>
-            <name>Globetrotter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Professores de Goiânia começam greve massiva e cerca de 100 escolas entram em luta]]></title>
-        <id>https://www.esquerdadiario.com.br/Professores-de-Goiania-comecam-greve-massiva-e-cerca-de-100-escolas-entram-em-luta</id>
-        <link href="https://www.esquerdadiario.com.br/Professores-de-Goiania-comecam-greve-massiva-e-cerca-de-100-escolas-entram-em-luta"/>
-        <updated>2026-05-13T20:03:07.000Z</updated>
-        <summary type="html"><![CDATA[A partir desta terça-feira (12), os professores e trabalhadores administrativos da rede municipal de Educação de Goiânia entraram em greve, somando-se à crescente mobilização em defesa dos direitos dos educadores em diversas partes do Brasil.
-13-05-2026
-
-/ Professores, Educação, Goiânia, Goiás, Greve de professores, União Brasil]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortalecer a campanha Sônia Livre que segue presa por seus algozes, com a cumplicidade do Judiciário racista]]></title>
-        <id>https://www.esquerdadiario.com.br/Fortalecer-a-campanha-Sonia-Livre-que-segue-presa-por-seus-algozes-com-a-cumplicidade-do-Judiciario</id>
-        <link href="https://www.esquerdadiario.com.br/Fortalecer-a-campanha-Sonia-Livre-que-segue-presa-por-seus-algozes-com-a-cumplicidade-do-Judiciario"/>
-        <updated>2026-05-13T19:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Neste 13 de Maio, a memória escancara que nossa história se recusa a se descolar do presente. Devemos nos lembrar da luta dos quilombos abolicionistas, greves, aliança entre trabalhadores livres e escravizados, fugas que foram fundamentais para a conquista da abolição. Por outro lado, a realidade racista nos obriga a também olhar de forma crítica os 138 anos da abolição da escravidão no Brasil, porque escancara os desafios que temos que enfrentar atualmente na luta contra o racismo e o (…)
-Matérias
-
-/ Luta Antirracista, Racismo, Racismo, Racismo Estrutural, Racismo de Estado, antirracismo]]></summary>
-        <author>
-            <name>Antonio Neves, Karoline Braz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adusp denúncia professores da Medicina que apoiaram repressão por lecionarem em projeto privatista no HC]]></title>
-        <id>https://www.esquerdadiario.com.br/Adusp-denuncia-professores-da-Medicina-que-apoiaram-repressao-por-lecionarem-em-projeto-privatista</id>
-        <link href="https://www.esquerdadiario.com.br/Adusp-denuncia-professores-da-Medicina-que-apoiaram-repressao-por-lecionarem-em-projeto-privatista"/>
-        <updated>2026-05-13T19:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Reproduzimos a nota da Adusp denunciando o apoio de professores da Medicina à desocupação violenta por parte da PM e da reitoria no domingo de Dia das Mães, um apoio que ataca a greve dos estudantes que paralisou o curso. Os alunos da Medicina, além das demandas gerais da greve, denunciam a falta de funcionários e de leitos no HU e HC, assim como defendem o fim da "Experiência USP", um projeto de estágios privados com mensalidades de mais de R$8.000,00.
-13-05-2026
-
-/ Juventude, USP, Saúde, Hospital Universitário da USP, medicina social]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Irmão, eu estou e estarei contigo sempre", disse Flávio Bolsonaro a Vorcaro, de quem recebeu dezenas de milhões]]></title>
-        <id>https://www.esquerdadiario.com.br/Irmao-eu-estou-e-estarei-contigo-sempre-disse-Flavio-Bolsonaro-a-Vorcaro-de-quem-recebeu-dezenas-de</id>
-        <link href="https://www.esquerdadiario.com.br/Irmao-eu-estou-e-estarei-contigo-sempre-disse-Flavio-Bolsonaro-a-Vorcaro-de-quem-recebeu-dezenas-de"/>
-        <updated>2026-05-13T18:51:49.000Z</updated>
-        <summary type="html"><![CDATA[O senador Flávio Bolsonaro, do PL do Rio de Janeiro, enviou uma mensagem ao dono do Banco Master, Daniel Vorcaro, em 16 de novembro de 2025, dizendo: "Irmão, estou e estarei contigo sempre, não tem meia conversa entre a gente. Só preciso que me dê uma luz! Abs!"
-13-05-2026
-
-/ Política, Flavio Bolsonaro, Banco Master]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trabalhadores da Zeentech votam seguir greve contra 400 demissões. Nenhuma família na rua!]]></title>
-        <id>https://www.esquerdadiario.com.br/Trabalhadores-da-Zeentech-votam-seguir-greve-contra-400-demissoes-Nenhuma-familia-na-rua</id>
-        <link href="https://www.esquerdadiario.com.br/Trabalhadores-da-Zeentech-votam-seguir-greve-contra-400-demissoes-Nenhuma-familia-na-rua"/>
-        <updated>2026-05-13T18:46:57.000Z</updated>
-        <summary type="html"><![CDATA[A greve dos trabalhadores da Zeentech, empresa terceirizada que opera no complexo da Alstom em Taubaté, segue sem acordo após a audiência no Tribunal Regional do Trabalho (TRT), realizada nesta quarta-feira (13). A paralisação teve início após o anúncio do fim do contrato da Zeentech com a Alstom, uma das principais fornecedoras do setor ferroviário. A previsão é de que cerca de 400 trabalhadores sejam demitidos, representando cerca de 40% da força de trabalho da planta.
-13-05-2026
-
-/ Classe trabalhadora, Indústria, CSP-Conlutas, Greve, Metalúrgicos, Indústria Automotiva, Trabalhadores da indústria, Alstom, trens]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pesquisa Quaest: Lula se recupera um pouco, mas a juventude trabalhadora segue sendo seu calcanhar de aquiles]]></title>
-        <id>https://www.esquerdadiario.com.br/Pesquisa-Quaest-Lula-se-recupera-um-pouco-mas-a-juventude-trabalhadora-segue-sendo-seu-calcanhar-de</id>
-        <link href="https://www.esquerdadiario.com.br/Pesquisa-Quaest-Lula-se-recupera-um-pouco-mas-a-juventude-trabalhadora-segue-sendo-seu-calcanhar-de"/>
-        <updated>2026-05-13T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A força demonstrada por Flávio Bolsonaro nas pesquisas seis meses antes das eleições colocaram em primeiro plano as debilidades do governo de Frente Ampla. Sua principal promessa de campanha, que justificou a aliança com o neoliberal Geraldo Alckmin, que era derrotar a extrema direita, não foi entregue. O bolsonarismo segue vivo e com chances de vencer as eleições
-13-05-2026
-
-/ Lula, Juventude trabalhadora, Flavio Bolsonaro, Chapa Lula-Alckmin]]></summary>
-        <author>
-            <name>Thiago Flamé</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israel se tornou o país mais impopular do mundo, aponta pesquisa global]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73648</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/13/israel-se-tornou-o-pais-mais-impopular-do-mundo-aponta-pesquisa-global/"/>
-        <updated>2026-05-13T18:19:44.000Z</updated>
-        <summary type="html"><![CDATA[srael é agora visto de forma mais negativa do que qualquer outro país do mundo, seguido pela Coreia do Norte, Afeganistão e Irã, de acordo com uma nova pesquisa global publicada pela Nira Data como parte de seu estudo sobre democracia e percepção dos países em 2026. Os cinco países mais bem vistos foram Suíça, […]]]></summary>
-        <author>
-            <name>REDAÇÃO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ÁUDIO: Flávio Bolsonaro negociou com Daniel Vorcaro R$ 134 milhões para bancar filme sobre Jair]]></title>
-        <id>https://www.intercept.com.br/?p=442863</id>
-        <link href="https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/"/>
-        <updated>2026-05-13T17:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Mensagens obtidas pelo Intercept indicam conexão direta entre senador e dono do Banco Master, que está preso. Documentos indicam que pelo menos R$ 61 milhões teriam sido enviados aos EUA através de fundo de aliados de Eduardo Bolsonaro.
-O post ÁUDIO: Flávio Bolsonaro negociou com Daniel Vorcaro R$ 134 milhões para bancar filme sobre Jair apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Eduardo Goulart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ameaça de corte de ponto e criminalização da greve: A resposta para Nunes e Tarcísio é UNIFICAR as lutas na rua]]></title>
-        <id>https://www.esquerdadiario.com.br/Ameaca-de-corte-de-ponto-e-criminalizacao-da-greve-A-resposta-para-Nunes-e-Tarcisio-e-UNIFICAR-as</id>
-        <link href="https://www.esquerdadiario.com.br/Ameaca-de-corte-de-ponto-e-criminalizacao-da-greve-A-resposta-para-Nunes-e-Tarcisio-e-UNIFICAR-as"/>
-        <updated>2026-05-13T16:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Depois que milhares de educadores fecharem a Av. 23 de Maio mostrando uma enorme disposição de luta, e avançarem em sua segunda semana de greve, Nunes correu para aprovar seu projeto de privatização das creches, ataque aos concursos e aprofundamento da precarização, além do arrocho salarial, apostando em punir grevistas para desmontar a luta.
-Matérias
-
-/ Classe trabalhadora, Educação, Greve, Greve Professores Municipais SP, São Paulo, Greve de professores]]></summary>
-        <author>
-            <name>Nossa Classe - Educação</name>
         </author>
     </entry>
 </feed>
