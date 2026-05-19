@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T04:16:00.078Z</id>
+    <id>urn:2026-05-19T11:27:55.875Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-19T04:16:00.078Z</updated>
+    <updated>2026-05-19T11:27:55.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Conferência de Michelle Porte]]></title>
+        <id>https://outraspalavras.net/?p=3185697</id>
+        <link href="https://outraspalavras.net/sem-categoria/conferencia-de-michelle-porte/"/>
+        <updated>2026-05-19T11:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Colóquio Internacional Marguerite Duras SP 26 : Porosidade e intermidialidade  Conferência de Michelle Royer, em 19 de maio de 2026 […]
+The post Conferência de Michelle Porte appeared first on Outras Palavras.]]></summary>
+        <author>
+            <name>Maurício Ayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vladimir Sacchetta também viajou]]></title>
+        <id>http://blogdaboitempo.com.br/?p=64431</id>
+        <link href="https://blogdaboitempo.com.br/2026/05/19/vladimir-sacchetta-tambem-viajou/"/>
+        <updated>2026-05-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[José Paulo Netto compartilha suas memórias com Vladimir Sacchetta, falecido no último 16 de maio.]]></summary>
+        <author>
+            <name>Boitempo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Díaz-Canel repudia bloqueio energético dos EUA: ‘imoral e criminoso’]]></title>
+        <id>https://operamundi.uol.com.br/?p=255108</id>
+        <link href="https://operamundi.uol.com.br/america-latina/diaz-canel-repudia-bloqueio-energetico-dos-eua-imoral-e-criminoso/"/>
+        <updated>2026-05-19T10:25:35.000Z</updated>
+        <summary type="html"><![CDATA[O presidente cubano, Miguel Díaz-Canel, criticou duramente na segunda-feira (18/05) uma ordem executiva dos EUA que pressiona fornecedores de combustível. “A ordem executiva que persegue e ameaça terceiros que querem vender combustível para Cuba e que extraterritorializa o bloqueio a níveis sem precedentes, penalizando empresas que querem investir em Cuba ou simplesmente nos fornecer bens […]
+O post Díaz-Canel repudia bloqueio energético dos EUA: ‘imoral e criminoso’ apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin ressalta parceria ‘sem precedentes’ com China e cooperação para estabilidade mundial]]></title>
+        <id>https://operamundi.uol.com.br/?p=255109</id>
+        <link href="https://operamundi.uol.com.br/asia/putin-ressalta-parceria-sem-precedentes-com-china-e-cooperacao-para-estabilidade-mundial/"/>
+        <updated>2026-05-19T10:25:09.000Z</updated>
+        <summary type="html"><![CDATA[O presidente russo Vladimir Putin divulgou uma mensagem em vídeo ao povo chinês exaltando a cooperação “sem precedentes” das duas nações. A declaração foi divulgada na véspera de sua chegada à Pequim a convite do presidente chinês Xi Jinping, nesta segunda-feira (19/05). A visita de Putin coincide com o 25º aniversário do Tratado de Boa […]
+O post Putin ressalta parceria ‘sem precedentes’ com China e cooperação para estabilidade mundial apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procurador-geral da Bolívia pede prisão do líder da Central Operária Boliviana em meio aos protestos]]></title>
+        <id>https://operamundi.uol.com.br/?p=255106</id>
+        <link href="https://operamundi.uol.com.br/america-latina/procurador-geral-da-bolivia-pede-prisao-do-lider-da-central-operaria-boliviana-em-meio-aos-protestos/"/>
+        <updated>2026-05-19T10:07:17.000Z</updated>
+        <summary type="html"><![CDATA[O Ministério Público da Bolívia emitiu, na segunda-feira (18/05), um mandado de prisão contra o secretário-executivo da Central Operária Boliviana (COB), Mario Argollo, acusado dos crimes de incitação pública ao crime, terrorismo e outros. Argollo é um dos rostos visíveis das intensas mobilizações antineoliberais que vêm ocorrendo na Bolívia nas últimas semanas , reunindo professores, […]
+O post Procurador-geral da Bolívia pede prisão do líder da Central Operária Boliviana em meio aos protestos apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sobre a cúpula Trump-Xi Jinping]]></title>
         <id>6a0be152262db5aa2f8dcff7</id>
@@ -244,17 +298,6 @@ The post Dark Horse e a pedagogia do escândalo appeared first on Outras Palavra
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Putin e Xi anunciarão estabelecimento de ‘novo mundo multipolar’, afirma Kremlin]]></title>
-        <id>https://operamundi.uol.com.br/?p=255070</id>
-        <link href="https://operamundi.uol.com.br/brics/putin-e-xi-anunciarao-estabelecimento-de-novo-mundo-multipolar-afirma-kremlin/"/>
-        <updated>2026-05-18T18:10:54.000Z</updated>
-        <summary type="html"><![CDATA[O presidente da Rússia, Vladimir Putin, e o seu homólogo chinês, Xi Jinping, adotarão uma “Declaração sobre o Estabelecimento de um Mundo Multipolar e um Novo Tipo de Relações Internacionais” durante a visita do líder russo à China. A informação foi divulgada pelo assessor da presidência russa para Assuntos Internacionais, Yuri Ushakov, nesta segunda-feira (18/05), […]
-O post Putin e Xi anunciarão estabelecimento de ‘novo mundo multipolar’, afirma Kremlin apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Victor Farinelli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Flotilha Global Sumud desafia cerco israelense e segue rumo a Gaza com mais de 20 embarcações civis]]></title>
         <id>6a0b4d3a262db5aa2f8dcf4c</id>
         <link href="https://opiniaosocialista.com.br/flotilha-global-sumud-desafia-cerco-israelense-e-segue-rumo-a-gaza-com-mais-de-20-embarcacoes-civis/"/>
@@ -263,28 +306,6 @@ O post Putin e Xi anunciarão estabelecimento de ‘novo mundo multipolar’, af
 Mais de 20 embarcações civis da Global Sumud Flotilha seguem avançando em direção à Faixa de Gaza mesmo]]></summary>
         <author>
             <name>Roberto Aguiar, da redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Caso Araceli: o crime brutal que a ditadura tentou encobrir]]></title>
-        <id>https://operamundi.uol.com.br/?p=255066</id>
-        <link href="https://operamundi.uol.com.br/pensar-a-historia/o-caso-araceli-o-crime-brutal-que-a-ditadura-tentou-encobrir/"/>
-        <updated>2026-05-18T17:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Há 53 anos, em 18 de maio de 1973, Araceli Crespo, uma menina de apenas 8 anos de idade, era raptada após sair da escola. Seu corpo seria encontrado uma semana depois, desfigurado por ácido, com sinais de tortura e abuso sexual. Os principais suspeitos do crime eram Paulo Constanteen Helal e Dante de Brito […]
-O post O Caso Araceli: o crime brutal que a ditadura tentou encobrir apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Raissa Neves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Além do Vale do Silício’: livro defende ‘modelo socialista chinês’ para uso mundial da IA]]></title>
-        <id>https://operamundi.uol.com.br/?p=255052</id>
-        <link href="https://operamundi.uol.com.br/ciencia-e-tecnologia/alem-do-vale-do-silicio-livro-defende-modelo-socialista-chines-para-uso-mundial-da-ia/"/>
-        <updated>2026-05-18T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Ao lançar no Brasil o livro Além do Vale do Silício – Inteligência Artificial com Características Chinesas, o tecnólogo chinês Jeff Xiong defendeu neste sábado (16/05), um modelo socialista de utilização da inteligência artificial (IA) pelo Sul Global, em oposição frontal à abordagem capitalista adotada pelos países do Ocidente, sob liderança e influência dos Estados […]
-O post ‘Além do Vale do Silício’: livro defende ‘modelo socialista chinês’ para uso mundial da IA apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Victor Farinelli</name>
         </author>
     </entry>
     <entry>
@@ -421,17 +442,6 @@ The post Comunicação de Dominique Villeneuve appeared first on Outras Palavras
         <updated>2026-05-18T01:14:38.000Z</updated>
         <summary type="html"><![CDATA[Conférence de Maria Luiza Berwanger Colloque International Marguerite Duras SP 26 : Porosité et intermédialité  Conférence de Maria Luiza Berwanger, […]
 The post Conférence de Maria Luiza Berwanger appeared first on Outras Palavras.]]></summary>
-        <author>
-            <name>Maurício Ayer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conferência de Joëlle Pagès-Pindon]]></title>
-        <id>https://outraspalavras.net/?p=3185510</id>
-        <link href="https://outraspalavras.net/sem-categoria/conferencia-de-joelle-pages-pindon/"/>
-        <updated>2026-05-18T00:44:46.000Z</updated>
-        <summary type="html"><![CDATA[Colóquio Internacional Marguerite Duras SP 26 : Porosidade e intermidialidade  Conferência de Joëlle Pagès-Pindon, dia 18 de maio de 2026 […]
-The post Conferência de Joëlle Pagès-Pindon appeared first on Outras Palavras.]]></summary>
         <author>
             <name>Maurício Ayer</name>
         </author>
@@ -929,130 +939,6 @@ O conteúdo Como o Estado também torturou empregada doméstica grávida no Mara
         <summary type="html"><![CDATA[presidente da FIFA, Gianni Infantino, fez uma jogada infantil no 76º Congresso da FIFA, ao incentivar o presidente da Federação Palestina de Futebol, Jibril Rajoub, e o vice-presidente da Federação Israelense de Futebol, Basim Sheikh Suliman, a apertarem as mãos. Diante da recusa de Rajoub, Infantino declarou: “Vamos trabalhar juntos, presidente Rajoub, vice-presidente Suliman. Vamos […]]]></summary>
         <author>
             <name>Middle East Monitor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O inimigo necessário: China e a expansão militar dos EUA]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73666</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/14/o-inimigo-necessario-china-e-a-expansao-militar-dos-eua/"/>
-        <updated>2026-05-14T22:47:26.000Z</updated>
-        <summary type="html"><![CDATA[a semana passada, o secretário da Guerra dos EUA, Pete Hegseth, instou o Congresso a aprovar um orçamento do Pentágono para 2027 no valor de 1,5 trilhão de dólares. Ele justificou o aumento afirmando que precisamos de forças armadas modernizadas e com alta tecnologia para fazer frente à China. Há anos que os legisladores dos […]]]></summary>
-        <author>
-            <name>Common Dreams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ato em Solidariedade a Zé Maria e a Todos os Perseguidos por Defender a Palestina]]></title>
-        <id>6a064b0b379d4ffc8d2bcecc</id>
-        <link href="https://opiniaosocialista.com.br/ato-em-solidariedade-a-ze-maria-e-a-todos-os-perseguidos-por-defender-a-palestina/"/>
-        <updated>2026-05-14T22:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Direto da Faculdade de Direito São Francisco]]></summary>
-        <author>
-            <name>Diego Cruz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O plano secreto para levar Jair Bolsonaro na mansão de Vorcaro]]></title>
-        <id>https://www.intercept.com.br/?p=443008</id>
-        <link href="https://www.intercept.com.br/2026/05/14/flavio-bolsonaro-mario-frias-jair-bolsonaro-daniel-vorcaro/"/>
-        <updated>2026-05-14T21:14:54.000Z</updated>
-        <summary type="html"><![CDATA[Ideia era 'assistirem juntos' a um documentário. Combinação para marcar data ocorreu um dia após Jair virar réu pela trama golpista. Mensagens indicam que Flávio e Mario Frias sabiam do encontro.
-O post O plano secreto para levar Jair Bolsonaro na mansão de Vorcaro apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Eduardo Goulart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RN: Matheus Faustino, vereador de Natal, ataca espetáculo artístico na UFRN]]></title>
-        <id>6a062f80379d4ffc8d2bce7b</id>
-        <link href="https://opiniaosocialista.com.br/rn-matheus-faustino-vereador-de-natal-ataca-espetaculo-artistico-na-ufrn/"/>
-        <updated>2026-05-14T20:38:13.000Z</updated>
-        <summary type="html"><![CDATA[O vereador e pré-candidato a deputado federal Matheus Faustino (União Brasil) denunciou através de vídeo divulgado em suas redes sociais nesta quarta-feira (13) o espetáculo “PAPANGÚ”, do artista e pesquisador Alexandre Américo, pela obra, segundo]]></summary>
-        <author>
-            <name>PSTU-RN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1915- O Dia Internacional do Trabalhador no Brasil]]></title>
-        <id>https://averdade.org.br/?p=61752</id>
-        <link href="https://averdade.org.br/2026/05/1915-o-dia-internacional-do-trabalhador-no-brasil/"/>
-        <updated>2026-05-14T20:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Data mais do que importante para a classe trabalhadora, o 1° de maio no Brasil também tem sua importância histórica. No sétimo capítulo da Série “A História oficial Versus as lutas do proletariado brasileiro”, aprofundamos o significado dessa data para nossa classe. Natanael Sarmento| Redação Pernambuco HISTÓRIA (Parte 07) – O 1º de maio simboliza […]]]></summary>
-        <author>
-            <name>Clóvis Maia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mães de Maio lançam Tribunal Popular: ‘O Estado vai ser réu até destruirmos esse sistema’]]></title>
-        <id>https://ponte.org/?p=160167</id>
-        <link href="https://ponte.org/maes-de-maio-lancam-tribunal-popular-o-estado-vai-ser-reu-ate-destruirmos-esse-sistema/"/>
-        <updated>2026-05-14T20:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Iniciativa extrajudicial e cidadã inclui agenda de eventos até 2027, com caráter simbólico, político e pedagógico para denunciar as violações praticadas pelo Estado nos Crimes de Maio, em 2006, e também repetidas nos últimos 20 anos
-O conteúdo Mães de Maio lançam Tribunal Popular: ‘O Estado vai ser réu até destruirmos esse sistema’ Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Paulo Batistella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flávio Bolsonaro faria melhor se tivesse captado seguindo o modelo da Lei Rouanet]]></title>
-        <id>https://www.intercept.com.br/?p=443004</id>
-        <link href="https://www.intercept.com.br/2026/05/14/flavio-bolsonaro-captacao-lei-rouanet/"/>
-        <updated>2026-05-14T20:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Dinheiro seria verdadeiramente privado – além de captado e gerido com maior transparência. 
-O post Flávio Bolsonaro faria melhor se tivesse captado seguindo o modelo da Lei Rouanet apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Isabella Mota</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flávio Bolsonaro pego na mentira: “Ei Vorcaro, me dá um dinheiro aí”]]></title>
-        <id>6a062323379d4ffc8d2bce1f</id>
-        <link href="https://opiniaosocialista.com.br/flavio-bolsonaro-pego-na-mentira-ei-vorcaro-me-da-um-dinheiro-ai/"/>
-        <updated>2026-05-14T19:46:31.000Z</updated>
-        <summary type="html"><![CDATA[O áudio de Flávio Bolsonaro cobrando milhões a Daniel Vorcaro, um dia antes de o banqueiro ser preso pela Polícia Federal, caiu como uma bomba na campanha bolsonarista]]></summary>
-        <author>
-            <name>Diego Cruz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elisa Branco: a costureira comunista que lutou pela paz]]></title>
-        <id>https://averdade.org.br/?p=61735</id>
-        <link href="https://averdade.org.br/2026/05/elisa-branco-a-costureira-comunista-que-lutou-pela-paz/"/>
-        <updated>2026-05-14T18:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Militante comunista sacrificou a própria liberdade para impedir a entrada do Brasil na Guerra da Coreia na década de 1950]]></summary>
-        <author>
-            <name>Redação SP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URGENTE: Flávio Bolsonaro ataca o Intercept Brasil no STF e no TSE]]></title>
-        <id>https://www.intercept.com.br/?p=442985</id>
-        <link href="https://www.intercept.com.br/2026/05/14/flavio-bolsonaro-ataca-intercept-stf-tse/"/>
-        <updated>2026-05-14T18:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Flávio quer impedir nossas reportagens bombásticas. Nos ajude a lutar contra isso.
-O post URGENTE: Flávio Bolsonaro ataca o Intercept Brasil no STF e no TSE apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Andrew Fishman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liberdade para Fernando e Marina Já. Estado censura cartas de trabalhadores à Fernando]]></title>
-        <id>https://averdade.org.br/?p=61736</id>
-        <link href="https://averdade.org.br/2026/05/liberdade-para-fernando-e-marina-ja-estado-censura-cartas-de-trabalhadores-a-fernando/"/>
-        <updated>2026-05-14T18:00:06.000Z</updated>
-        <summary type="html"><![CDATA[No dia 10 de fevereiro de 2026, o jornal A Verdade denunciou que o Estado mantém mãe e filho presos injustamente por lutarem contra despejos em São Paulo. (https://averdade.org.br/2026/02/liberdade-ja-para-fernando-e-marina) O caso do Fernando, um companheiro de luta, trabalhador, pai solo e sua mãe, Marina, uma mulher idosa, que, juntos, criavam 3 crianças num barraco em […]]]></summary>
-        <author>
-            <name>Leonardo de Paula</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Fanon”: a cinebiografia de Jean-Claude Barny e as perguntas que o cinema não responde]]></title>
-        <id>http://blogdaboitempo.com.br/?p=64291</id>
-        <link href="https://blogdaboitempo.com.br/2026/05/14/fanon-a-cinebiografia-de-jean-claude-barny-e-as-perguntas-que-o-cinema-nao-responde/"/>
-        <updated>2026-05-14T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hugo Pontes: "O filme não te dá tempo de se preparar porque a violência colonial também não avisa. Ela é assim: administrativa, rotineira, indiferente. Fanon passou anos tentando traduzir isso em teoria. 'Fanon' o coloca na tela em trinta segundos."]]></summary>
-        <author>
-            <name>Boitempo</name>
         </author>
     </entry>
 </feed>
