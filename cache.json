@@ -6,6 +6,16 @@
       "siteUrl": "https://jornalofuturo.com.br",
       "articles": [
         {
+          "id": "DPOF5X",
+          "author": null,
+          "description": "Em um cenário de intensificação da austeridade em todo país, movimentos e partidos como o PCBR, PCR, MES (PSOL) e PSTU estão construindo e convocando uma marcha estadual das lutas unificadas no dia 20 de maio rumo ao Palácio dos Bandeirantes.",
+          "link": "https://jornalofuturo.com.br/artigo/DPOF5X-apos-expulsao-truculenta-de-ocupacao-estudantil-na-usp-movimentos-organizam-grande-marcha-unificada",
+          "publishedOn": "2026-05-19T21:00:00.000Z",
+          "wordCount": 2470,
+          "title": "Após expulsão truculenta de ocupação estudantil na USP, movimentos organizam grande marcha unificada",
+          "imageUrl": "https://media.jornalofuturo.com.br/atospestaduais1-1280x853.jpg"
+        },
+        {
           "id": "rvcicK",
           "author": null,
           "description": "Estudantes e movimentos organizados conquistaram através da luta novos dispositivos de incentivo a proteção e capacitação e o fortalecimento de mecanismos de acolhimento às vítimas, além do afastamento dos docentes acusados nas denúncias.",
@@ -32,6 +42,16 @@
       "feedUrl": "https://averdade.org.br/feed/",
       "siteUrl": "https://averdade.org.br/",
       "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61778",
+          "author": "Leonardo de Paula",
+          "description": "No dia 20 de março, estudantes e trabalhadores de todas as regiões do estado de São Paulo se encontraram na capital paulista para realizar a Marcha em defesa dos direitos e da vida, contra o fascismo. A marcha foi convocada pelos estudantes das três universidades paulistas, UNESP. USP e UNICAMP são uma resposta aos crimes […]",
+          "link": "https://averdade.org.br/2026/05/estudantes-das-universidades-estaduais-paulistas-convocam-marcha-estadual-contra-o-governador-tarcisio/",
+          "publishedOn": "2026-05-19T19:06:28.000Z",
+          "wordCount": 7357,
+          "title": "Estudantes das Universidades estaduais paulistas convocam marcha estadual contra o governador Tarcísio",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_9492.jpg"
+        },
         {
           "id": "https://averdade.org.br/?p=61771",
           "author": "Jesse Lisboa",
@@ -237,24 +257,144 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Em-depoimento-no-Senado-Galipolo-tenta-blindar-Banco-Central-no-caso-Master-mas-nao-consegue",
+          "author": "Redação",
+          "description": "Em audiência na Comissão de Assuntos Econômicos do Senado nesta terça-feira, o presidente do Banco Central, Gabriel Galípolo, tentou apresentar a liquidação do Banco Master como resultado de uma atuação técnica e tardia apenas diante do “uso dos recursos” captados pela instituição\n19-05-2026\n\n/ Política, Senado, Banco Central, Bancos, Banco Master",
+          "link": "https://www.esquerdadiario.com.br/Em-depoimento-no-Senado-Galipolo-tenta-blindar-Banco-Central-no-caso-Master-mas-nao-consegue",
+          "publishedOn": "2026-05-19T21:15:12.000Z",
+          "wordCount": 8347,
+          "title": "Em depoimento no Senado Galípolo tenta blindar Banco Central no caso Master, mas não consegue",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/galipolo.jpg?1779225255"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Depois-da-dura-repressao-aprofunda-se-a-luta-na-Bolivia-contra-o-governo",
+          "author": "Redação",
+          "description": "Depois da intensa jornada desta segunda-feira, com centenas de detidos e feridos produto da repressão nas imediações da Plaza Murillo, trabalhadores, camponeses e estudantes se preparam para continuar a luta pela queda do governo direitista e ajustador. Transmitimos diretamente de La Izquierda Diario Bolívia.\n19-05-2026\n\n/ Internacional, Bolivia",
+          "link": "https://www.esquerdadiario.com.br/Depois-da-dura-repressao-aprofunda-se-a-luta-na-Bolivia-contra-o-governo",
+          "publishedOn": "2026-05-19T20:29:43.000Z",
+          "wordCount": 8382,
+          "title": "Depois da dura repressão, aprofunda-se a luta na Bolívia contra o governo",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/marcha_la_paz-19d85.jpg?1779222579"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Lula-defende-associacao-com-EUA-para-explorar-terras-raras-o-que-significa-mais-submissao-ao",
+          "author": "Valéria Muller",
+          "description": "Na última segunda-feira (18) Lula declarou querer que Trump \"se associe\" ao Brasil na exploração de terras raras e disse também que não há preferência: \"pode vir chinês, francês, alemão, japonês\". Ou seja, um convite ao imperialismo americano, europeu e à China para explorar os minerais estratégicos do país, aprofundando a submissão do Brasil.\n19-05-2026\n\n/ Política, Donald Trump, Imperialismo, imperialismo, Terras Raras",
+          "link": "https://www.esquerdadiario.com.br/Lula-defende-associacao-com-EUA-para-explorar-terras-raras-o-que-significa-mais-submissao-ao",
+          "publishedOn": "2026-05-19T20:26:00.000Z",
+          "wordCount": 8361,
+          "title": "Lula defende \"associação\" com EUA para explorar terras raras, o que significa mais submissão ao imperialismo",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-19_at_17.24_25.jpg?1779222350"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/E-classe-trabalhadora-que-paga-a-conta-das-guerras-do-imperialismo-e-do-sionismo",
+          "author": "Leandro Lanfredi",
+          "description": "Qual o impacto da guerra no que diz respeito ao mercado do petróleo e qual um programa pode enfrentar essa crise energética, para fortalecer a solidariedade entre os povos e a luta contra o imperialismo.\n19-05-2026\n\n/ Internacional, Petróleo",
+          "link": "https://www.esquerdadiario.com.br/E-classe-trabalhadora-que-paga-a-conta-das-guerras-do-imperialismo-e-do-sionismo",
+          "publishedOn": "2026-05-19T19:51:41.000Z",
+          "wordCount": 7970,
+          "title": "É classe trabalhadora que paga a conta das guerras do imperialismo e do sionismo.",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-19_at_12.59_38.jpg?1779220293"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Por-uma-reforma-urbana-radical-em-Pernambuco-para-enfrentar-os-lucros-dos-capitalistas-e-atender-as",
+          "author": "Léo Barbosa",
+          "description": "Elaboração sobre a necessária reforma urbana radical em Pernambuco, onde as chuvas são tragédias anunciadas e a cada ano vemos a classe trabalhadora e o povo pobre amargar com a perda de seus bens e entes queridos.\n19-05-2026\n\n/ Sociedade, Chuvas, Reforma Urbana, João Campos (PSB-PE), Deslizamento de terra, Raquel Lyra",
+          "link": "https://www.esquerdadiario.com.br/Por-uma-reforma-urbana-radical-em-Pernambuco-para-enfrentar-os-lucros-dos-capitalistas-e-atender-as",
+          "publishedOn": "2026-05-19T19:14:12.000Z",
+          "wordCount": 9588,
+          "title": "Por uma reforma urbana radical em Pernambuco: para enfrentar os lucros dos capitalistas e atender as demandas da população atingida pelas chuvas!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/chuva_recife_28_05.webp?1778758675"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Educadores-municipais-de-Sao-Paulo-votam-a-continuidade-da-greve",
+          "author": "Victoria Santello",
+          "description": "Os educadores municipais de São Paulo estão travando uma forte luta contra o projeto de educação privatista e precário do Ricardo Nunes, e decidiram seguir em greve na assembleia desta terça, (19).\n19-05-2026\n\n/ Classe trabalhadora, São Paulo, Greve, Professores São Paulo, Ricardo Nunes",
+          "link": "https://www.esquerdadiario.com.br/Educadores-municipais-de-Sao-Paulo-votam-a-continuidade-da-greve",
+          "publishedOn": "2026-05-19T18:43:13.000Z",
+          "wordCount": 7949,
+          "title": "Educadores municipais de São Paulo votam a continuidade da greve",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-19_at_14.48_35.jpg?1779216187"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/Contribuicoes-para-um-balanco-da-campanha-salarial-e-a-luta-contra-a-privatizacao-de-Tarcisio",
           "author": "Fernanda Peluci, Marília Rocha",
-          "description": "Julio Castiglioni, presidente do Metrô indicado por Tarcísio de Freitas, anunciou, desde que assumiu a direção da empresa, que veio para acabar com as greves dos metroviários para passar a privatização. Frente a isso, a direção do sindicato tem sido impotente para unificar a categoria na defesa dos seus direitos e do Metrô público. Isso, somado ao papel traidor das Centrais Sindicais, contribuiu de forma determinante para o resultado da campanha salarial deste ano, onde a categoria, ainda (…)\n15-05-2026\n\n/ Classe trabalhadora, Metrô, Privatização, Tarcísio de Freitas, Metrô de SP, Metrô de São Paulo, Greve do Metrô",
+          "description": "Julio Castiglioni, presidente do Metrô indicado por Tarcísio, anunciou, desde que assumiu a direção da empresa, que veio para acabar com as greves dos metroviários para passar a privatização. Frente a isso, a direção do sindicato tem sido impotente para unificar a categoria na defesa dos seus direitos e do Metrô público. Isso, somado ao papel traidor das Centrais Sindicais, contribuiu de forma determinante para o resultado da campanha salarial deste ano, onde a categoria, ainda que por (…)\n19-05-2026\n\n/ Classe trabalhadora, Metrô, Privatização, Tarcísio de Freitas, Metrô de SP, Metrô de São Paulo, Greve do Metrô",
           "link": "https://www.esquerdadiario.com.br/Contribuicoes-para-um-balanco-da-campanha-salarial-e-a-luta-contra-a-privatizacao-de-Tarcisio",
           "publishedOn": "2026-05-19T16:33:17.000Z",
-          "wordCount": 10453,
+          "wordCount": 10755,
           "title": "Contribuições para um balanço da campanha salarial e a luta contra a privatização de Tarcísio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-15_at_20.39_35_1_.jpg?1778888552"
         },
         {
-          "id": "https://www.esquerdadiario.com.br/Contribuicoes-para-um-balanco-da-campanha-salarial-e-a-luta-contra-a-privatizacao-de-Tarcisio-61409",
-          "author": "Fernanda Peluci, Marília Rocha",
-          "description": "Julio Castiglioni, presidente do Metrô indicado por Tarcísio, anunciou, desde que assumiu a direção da empresa, que veio para acabar com as greves dos metroviários para passar a privatização. Frente a isso, a direção do sindicato tem sido impotente para unificar a categoria na defesa dos seus direitos e do Metrô público. Isso, somado ao papel traidor das Centrais Sindicais, contribuiu de forma determinante para o resultado da campanha salarial deste ano, onde a categoria, ainda que por (…)\n15-05-2026\n\n/ Classe trabalhadora, Metrô, Privatização, Privatização dos transportes, Tarcísio de Freitas, Metrô de SP, Greve do Metrô",
-          "link": "https://www.esquerdadiario.com.br/Contribuicoes-para-um-balanco-da-campanha-salarial-e-a-luta-contra-a-privatizacao-de-Tarcisio-61409",
-          "publishedOn": "2026-05-19T16:27:42.000Z",
-          "wordCount": 10756,
-          "title": "Contribuições para um balanço da campanha salarial e a luta contra a privatização de Tarcísio",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-19_at_13.24_58.jpg?1779208052"
+          "id": "https://www.esquerdadiario.com.br/Dez-anos-de-transicao-escala-por-acordo-52-horas-semanais-a-ofensiva-da-direita-e-da-extrema",
+          "author": "Maré",
+          "description": "De emenda em emenda para atacar o fim da escala 6x1, diferentes setores do Congresso Nacional vão mostrando sua cara de inimigos dos trabalhadores.\n18-05-2026\n\n/ Classe trabalhadora, Congresso, Centrão, Extrema direita, jornada 6x1",
+          "link": "https://www.esquerdadiario.com.br/Dez-anos-de-transicao-escala-por-acordo-52-horas-semanais-a-ofensiva-da-direita-e-da-extrema",
+          "publishedOn": "2026-05-19T15:16:28.000Z",
+          "wordCount": 8197,
+          "title": "Dez anos de transição, escala por acordo, 52 horas semanais: a ofensiva da direita e da extrema direita contra o fim da 6x1",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-19_at_12.11_29.jpg?1779203526"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Rodrigo-Rebelato-presente",
+          "author": "Marcella Campos",
+          "description": "Recebemos a triste notícia do falecimento do professor Rodrigo Rebelato, grande amigo, educador e lutador implacável da greve de 2015. Um dos companheiros que ajudou a consolidar a nossa corrente, quando ainda éramos Professores pela Base. \n Rodrigo era daqueles professores que os alunos amam: criava, bagunçava, brincava e ensinava. Daqueles que fazem da sala de aula um espaço vivo, crítico e humano, justamente o tipo de professor que o Estado tenta sufocar, controlar ou apagar. \n19-05-2026\n\n/ Classe trabalhadora, Professores, Greve professores SP, Educação, Professores São Paulo",
+          "link": "https://www.esquerdadiario.com.br/Rodrigo-Rebelato-presente",
+          "publishedOn": "2026-05-19T15:07:10.000Z",
+          "wordCount": 7937,
+          "title": "Rodrigo Rebelato, presente!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sem_titulo-63.jpg?1779203146"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Crescem-as-mobilizacoes-e-bloqueios-de-estradas-e-o-Governo-de-Rodrigo-Paz-ameaca-com-Estado-de",
+          "author": "Juana Gabriela Runa",
+          "description": "A crise política e social na Bolívia atravessa um momento de aceleração. O que começou como uma rejeição das comunidades indígenas de Beni e Pando à Lei 1720, “de reconversão de terras”, junto com as mobilizações de trabalhadores do transporte e de diferentes setores populares contra o problema do combustível adulterado e caro, transformou-se em um processo nacional de mobilização gradual, que combina reivindicações econômicas, territoriais e políticas. O crescimento dos bloqueios, a ampliação das alianças sindicais e camponesas e a entrada das Forças Armadas em tarefas de desbloqueio mostram que o conflito entrou em uma nova fase.\n18-05-2026\n\n/ Internacional, Povos indígenas, Bolivia, Crise Política na Bolívia, Política Bolívia, Central Obrera Boliviana (COB), Direito a terra, Trabalhadores Camponeses, Rodrigo Paz, Greve geral na Bolívia",
+          "link": "https://www.esquerdadiario.com.br/Crescem-as-mobilizacoes-e-bloqueios-de-estradas-e-o-Governo-de-Rodrigo-Paz-ameaca-com-Estado-de",
+          "publishedOn": "2026-05-19T11:06:16.000Z",
+          "wordCount": 9512,
+          "title": "Crescem as mobilizações e bloqueios de estradas, e o Governo de Rodrigo Paz ameaça com Estado de Sítio",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image-30.jpg?1779188429"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Rodoviarios-de-Teresina-PI-entram-paralisam-por-reajuste-e-melhorias-no-transporte-para-a-populacao",
+          "author": "Redação",
+          "description": "Motoristas e cobradores do transporte coletivo de Teresina, no Piauí, entraram em greve nesta segunda-feira (18) para exigir valorização salarial, melhores condições de trabalho e melhorias no transporte público da capital. A paralisação começou pela manhã, das 6h às 8h, atingindo um dos principais horários de circulação da cidade. Depois, diante das declarações autoritárias do prefeito Sílvio Mendes (União Brasil), a categoria ampliou a mobilização e realizou uma nova paralisação das 16h às 20h.\n18-05-2026\n\n/ Classe trabalhadora, Transporte, Greve, rodoviários, Nordeste, Piauí, Rodoviários Teresina, Greve dos Transportes",
+          "link": "https://www.esquerdadiario.com.br/Rodoviarios-de-Teresina-PI-entram-paralisam-por-reajuste-e-melhorias-no-transporte-para-a-populacao",
+          "publishedOn": "2026-05-19T01:25:47.000Z",
+          "wordCount": 8242,
+          "title": "Rodoviários de Teresina-PI paralisam por reajuste e melhorias no transporte para a população",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/greve_motoristas_e_cobradores_teresina.jpg?1779153945"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Greve-dos-tres-setores-na-Unicamp-5-ideias-para-vencer",
+          "author": "Faísca Unicamp",
+          "description": "Nesta sexta-feira (15), com a adesão recém votada pelos docentes, está decretada uma greve dos 3 setores da Unicamp, algo que não víamos há 10 anos. É uma força muito importante que tem se expressado e podemos vencer em unidade. Para isso, queremos contribuir com 5 ideias para fortalecer nossa luta.\n18-05-2026\n\n/ Educação, Unicamp, Trabalhadores, Estudantes Unicamp",
+          "link": "https://www.esquerdadiario.com.br/Greve-dos-tres-setores-na-Unicamp-5-ideias-para-vencer",
+          "publishedOn": "2026-05-19T01:11:44.000Z",
+          "wordCount": 8404,
+          "title": "Greve dos três setores na Unicamp: 5 ideias para vencer!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/image-29.jpg?1779153091"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Estudantes-da-Ufam-denunciam-ovos-de-barata-e-metal-na-comida-retrato-da-permanencia-precaria-nas",
+          "author": "Redação",
+          "description": "Em vídeo divulgado pelos estudantes da Universidade Federal do Amazonas, é possível visualizar um pequeno objeto metálico, semelhante a um pedaço de grampo, encontrado em uma das refeições servidas no Restaurante Universitário. Segundo as denúncias, no mesmo dia, ovos de barata também foram encontrados em um mamão servido no café da manhã. Cenas como essa estão cada dia mais frequentes, seja nas Universidades Federais, seja na USP, e representam um retrato da crescente precarização da permanência estudantil nas universidades do país.\n18-05-2026\n\n/ Educação, Universidades Federais, Amazonas, Permanência Estudantil, Insegurança alimentar, Arcabouço Fiscal",
+          "link": "https://www.esquerdadiario.com.br/Estudantes-da-Ufam-denunciam-ovos-de-barata-e-metal-na-comida-retrato-da-permanencia-precaria-nas",
+          "publishedOn": "2026-05-18T23:21:36.000Z",
+          "wordCount": 8695,
+          "title": "Estudantes da Ufam denunciam ovos de barata e metal na comida, retrato da permanência precária nas UFs",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/4giy1hcu1jrjl38nghhzqz36e.jpg?1779146448"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Quanto-vale-uma-vida-Sabesp-paga-1-8-bilhao-em-dividendo-enquanto-deixa-2-mortos-no-Jaguare",
+          "author": "Redação",
+          "description": "Valor de quase R$1,8 bilhões de dividendos, referente ao acumulado de 2025, foram distribuídos no mês de abril deste ano aos acionistas privados da Sabesp. O caso da explosão de uma tubulação da Comgás, no bairro Jaguaré da capital paulista, no último dia 11, escancara as consequências dessa política privatista que garante lucros bilionários aos acionistas privados da empresa, precarizando a força de trabalho e a infraestrutura da Sabesp, afetando dezenas de famílias e levando a morte de dois moradores. Para os capitalistas, nossas vidas não valem nada e seus lucros estão acima do direito da população à água e ao saneamento básico.\n18-05-2026\n\n/ Sociedade, Privatização, Privatização da Água, Tarcísio de Freitas, Sabesp, Privatização da Sabesp",
+          "link": "https://www.esquerdadiario.com.br/Quanto-vale-uma-vida-Sabesp-paga-1-8-bilhao-em-dividendo-enquanto-deixa-2-mortos-no-Jaguare",
+          "publishedOn": "2026-05-18T21:48:30.000Z",
+          "wordCount": 8474,
+          "title": "Quanto vale uma vida? Sabesp paga 1,8 bilhão em dividendo enquanto deixa 2 mortos no Jaguaré",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/20260514130528_5565c6c1a17dc6f47718f63627bdaa7c7388c09327e89db92f5117b9972f76ce_2_.jpg?1779140880"
         },
         {
           "id": "https://www.esquerdadiario.com.br/Territorio-Seguro-pra-quem-Moradores-da-Vila-de-Ponta-Negra-vao-as-ruas-contra-a-violencia-policial",
@@ -262,9 +402,19 @@
           "description": "Neste sábado do dia 16 ocorreu na vila de Ponta Negra um ato contra violência policial no bairro contra as operações do projeto território Seguro que vem causando terror na comunidade com a polícia invadindo casas agredindo moradores assassinando a juventude negra e assustando crianças e adolescentes na saída das escolas. \n Os moradores pediam mais educação, mais cultura, saúde, rechaçando fortemente a obra da engorda da praia, de Álvaro Dias e Paulinho Freire, que atingiu os trabalhadores (…)\n26-09-2025\n\n/ Violência policial, Rio Grande do Norte, Brutalidade policial, Natal",
           "link": "https://www.esquerdadiario.com.br/Territorio-Seguro-pra-quem-Moradores-da-Vila-de-Ponta-Negra-vao-as-ruas-contra-a-violencia-policial",
           "publishedOn": "2026-05-18T20:54:08.000Z",
-          "wordCount": 7835,
+          "wordCount": 7830,
           "title": "Território Seguro pra quem? Moradores da Vila de Ponta Negra vão às ruas contra a violência policial da PM de Fátima (PT)",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-18_at_16.40_41.jpg?1779137157"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Fora-Paz-Greve-geral-por-tempo-indeterminado-e-bloqueio-de-estradas-ate-cair-o-governo-dos",
+          "author": "Liga Obrera Revolucionaria por la Cuarta Internacional (LOR-CI)",
+          "description": "Nas marchas e dos bloqueios se escuta o grito de “Fora Paz!”, e motivos não faltam. Em 6 meses, o governo de Paz e dos empresários demonstrou qual é seu plano de governo: expropriar as terras camponesas e indígenas, saquear os recursos naturais, privatizar as empresas públicas, endividar o país, enquanto reduz os impostos dos grandes empresários.\n18-05-2026\n\n/ Bolivia, Indígenas, Que os capitalistas paguem pela crise!, Impostos, Greve Geral, Neoliberalismo, Central Obrera Boliviana (COB), Trabalhadores Camponeses, Rodrigo Paz",
+          "link": "https://www.esquerdadiario.com.br/Fora-Paz-Greve-geral-por-tempo-indeterminado-e-bloqueio-de-estradas-ate-cair-o-governo-dos",
+          "publishedOn": "2026-05-18T15:54:02.000Z",
+          "wordCount": 8915,
+          "title": "“Fora Paz!” Greve geral por tempo indeterminado e bloqueio de estradas até cair o governo dos empresários e do FMI",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/portada_18may.jpg?1779119549"
         },
         {
           "id": "https://www.esquerdadiario.com.br/No-pais-herdeiro-da-escravidao-o-inadmissivel-e-manchete-trabalhadora-negra-e-gravida-e-torturada",
@@ -272,9 +422,79 @@
           "description": "No mês passado uma notícia chocou o país em pleno 2026 mesmo após 138 anos da abolição da escravidão. Uma empregada doméstica de 19 anos e grávida de 6 meses foi torturada pela patroa e por um Policial Militar, na cidade de Paço Lumiar no Maranhão. Samara levou chutes pelo corpo, teve os dedos pisados e foi ameaçada com uma arma. Justiça por Samara!\nMatérias\n\n/ Gênero e sexualidade, Trabalho Escravo, Escravidão , Gênero e Sexualidade, Trabalho doméstico",
           "link": "https://www.esquerdadiario.com.br/No-pais-herdeiro-da-escravidao-o-inadmissivel-e-manchete-trabalhadora-negra-e-gravida-e-torturada",
           "publishedOn": "2026-05-18T15:20:44.000Z",
-          "wordCount": 8638,
+          "wordCount": 8633,
           "title": "No país herdeiro da escravidão o inadmissível é manchete: trabalhadora negra e grávida é torturada por patroa e policial militar",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/14600524_x216.jpg?1779117934"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Bolivia-Greve-geral-por-tempo-indeterminado",
+          "author": "Nathanael Hastie",
+          "description": "O governo de Paz está em um estado de crise permanente, assim que apagam um foco de incêndio, outro se acende. A demagogia do programa de \"capitalismo para todos\" na campanha eleitoral há menos de meio ano hoje é vista sem matizes nem meias medidas. O programa do governo de Paz e dos empresários é de saque e ajuste, retirada de terras, privatização e avanço acelerado das restrições da dívida externa.\n18-05-2026\n\n/ Internacional, Bolivia, Greve Geral, Rodrigo Paz",
+          "link": "https://www.esquerdadiario.com.br/Bolivia-Greve-geral-por-tempo-indeterminado",
+          "publishedOn": "2026-05-18T15:13:48.000Z",
+          "wordCount": 10112,
+          "title": "Bolívia: Greve geral por tempo indeterminado?",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_bolivia.jpeg.jpg?1779117220"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Italia-tera-marchas-e-paralisacoes-nesta-segunda-em-apoio-a-Flotilha-e-contra-o-militarismo-de",
+          "author": "Redação Internacional",
+          "description": "A Itália vive um dia de greves, marchas e bloqueios nesta segunda-feira, 18 de maio, convocados pela União dos Sindicatos de Base (USB) em apoio à Flotilha Global Sumud, que acaba de ser atacada por Israel, e contra o militarismo de Meloni e da OTAN, e seu apoio ao Estado genocida de Israel.\n18-05-2026\n\n/ Israel, Estado de Israel, Palestina, Itália, Flotilha, Global Sumud Flotilha, Blocchiamo Tutto",
+          "link": "https://www.esquerdadiario.com.br/Italia-tera-marchas-e-paralisacoes-nesta-segunda-em-apoio-a-Flotilha-e-contra-o-militarismo-de",
+          "publishedOn": "2026-05-18T14:28:22.000Z",
+          "wordCount": 8490,
+          "title": "Itália terá marchas e paralisações nesta segunda em apoio a Flotilha e contra o militarismo de Meloni",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sciopero-flotilla-milano1.jpg?1779114206"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Festival-Canalha-em-apoio-a-greve-da-USP-acontece-apesar-da-ameaca-de-repressao-de-Tarcisio",
+          "author": "Redação",
+          "description": "Neste domingo, 17, centenas de estudantes fizeram parte do Festival Canalha, organizado pelo DCE da USP em apoio a greve dos estudantes que completa 1 mês de mobilização. O festival contou com a presença de grandes nomes de artistas como os DJs MU540, D.Silvestre e Charlão, além de Isma e Afroboneca.\n18-05-2026\n\n/ Juventude, USP, Tarcísio de Freitas, Reitoria USP, Greve contra Tarcísio, Greve na USP",
+          "link": "https://www.esquerdadiario.com.br/Festival-Canalha-em-apoio-a-greve-da-USP-acontece-apesar-da-ameaca-de-repressao-de-Tarcisio",
+          "publishedOn": "2026-05-18T13:51:26.000Z",
+          "wordCount": 8091,
+          "title": "Festival Canalha em apoio à greve da USP acontece apesar da ameaça de repressão de Tarcísio",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/snapinsta_to_701658154_18104972275861491_6853651260204599362_n.jpg?1779112207"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Nossa-greve-e-para-defender-o-hospital-para-a-populacao-diz-trabalhador-da-Unicamp-em-greve",
+          "author": "Redação",
+          "description": "Os trabalhadores da Unicamp fizeram uma importante ação hoje na área da saúde e em diálogo com a população. A greve é um importante exemplo de luta contra o projeto privatista de Tarcísio e da reitoria que querem autarquizar o complexo hospitalar da Unicamp para abrir espaço e entregar a privatização. Nossas vidas valem mais que o lucro deles!\n18-05-2026\n\n/ Educação, Unicamp, Greve das estaduais paulistas, Campinas, Tarcísio de Freitas, Reitoria Unicamp, Estudantes Unicamp, Hospital, Greve contra Tarcísio",
+          "link": "https://www.esquerdadiario.com.br/Nossa-greve-e-para-defender-o-hospital-para-a-populacao-diz-trabalhador-da-Unicamp-em-greve",
+          "publishedOn": "2026-05-18T13:48:27.000Z",
+          "wordCount": 8135,
+          "title": "“Nossa greve é para defender o hospital para a população” diz trabalhador da Unicamp em greve",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-12_at_15.08_22-2.jpg?1779112102"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Greve-da-Unicamp-faz-acao-na-Saude-para-fortalecer-a-luta-e-dialogar-com-a-populacao",
+          "author": "Redação",
+          "description": "Hoje, dia 18, os trabalhadores da Unicamp em greve fizeram importante ação na saúde junto com os estudantes da medicina. O objetivo foi dialogar com a população que utiliza o complexo de saúde e fortalecer a greve entre os trabalhadores da saúde. A greve de trabalhadores da Unicamp se enfrenta com o arrocho salarial, mas também com a política de privatização de Tarcísio e do reitor Cesinha, que estão avançando na autarquização do complexo de saúde da Unicamp.\n18-05-2026\n\n/ Educação, Unicamp, Greve das estaduais paulistas, Reitoria Unicamp, Estudantes Unicamp, Greve contra Tarcísio",
+          "link": "https://www.esquerdadiario.com.br/Greve-da-Unicamp-faz-acao-na-Saude-para-fortalecer-a-luta-e-dialogar-com-a-populacao",
+          "publishedOn": "2026-05-18T13:44:12.000Z",
+          "wordCount": 8100,
+          "title": "Greve da Unicamp faz ação na Saúde para fortalecer a luta e dialogar com a população",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-18_at_10.32_59.jpg?1779111843"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Todos-a-grande-marcha-rumo-ao-palacio-dos-bandeirantes-no-dia-20-05",
+          "author": "Redação",
+          "description": "Estamos em meio à greve das três universidades estaduais paulistas que denunciam a precarização, com restaurantes universitários servindo comida com larvas, tetos desabando nas bibliotecas e uma política de permanência estudantil cada vez mais precária. Estão em luta pela saúde a serviço da classe trabalhadora e da população, e por mais contratações sem trabalho precário e terceirizado.\n18-05-2026\n\n/ Política, USP, Greve Professores Municipais SP, Tarcísio de Freitas, Greve de professores, Greve contra Tarcísio",
+          "link": "https://www.esquerdadiario.com.br/Todos-a-grande-marcha-rumo-ao-palacio-dos-bandeirantes-no-dia-20-05",
+          "publishedOn": "2026-05-18T13:01:02.000Z",
+          "wordCount": 7914,
+          "title": "Todos à grande marcha rumo ao palácio dos bandeirantes no dia 20/05!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/120526a1_medium.jpg?1779109208"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Israel-ataca-novamente-a-Global-Sumud-Flotilla-em-aguas-internacionais-e-sequestra-seus",
+          "author": "Redação",
+          "description": "Navios de guerra israelenses cercaram, na manhã desta segunda-feira, a flotilha humanitária a 250 milhas de Gaza, em águas sob responsabilidade de resgate de Chipre. A missão denuncia um novo ato de “pirataria” e responsabiliza Israel e as potências cúmplices por qualquer agressão contra civis desarmados. Mobilizações urgentes estão sendo convocadas para esta mesma tarde. \n Em um novo episódio de escalada repressiva contra a solidariedade internacional com a Palestina, navios de guerra (…)\n18-05-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha",
+          "link": "https://www.esquerdadiario.com.br/Israel-ataca-novamente-a-Global-Sumud-Flotilla-em-aguas-internacionais-e-sequestra-seus",
+          "publishedOn": "2026-05-18T12:52:20.000Z",
+          "wordCount": 8326,
+          "title": "Israel ataca novamente a Global Sumud Flotilla em águas internacionais e sequestra seus participantes",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sem_titulo-62.jpg?1779108737"
         },
         {
           "id": "https://www.esquerdadiario.com.br/Unificar-e-coordenar-nossas-lutas-contra-Tarcisio-e-reitorias-por-educacao-e-saude",
@@ -282,7 +502,7 @@
           "description": "Abaixo a autarquização do complexo da saúde, pela recomposição das perdas salariais e em defesa de todos os terceirizados!\nMatérias\n\n/ Classe trabalhadora, Greve das estaduais paulistas, Tarcísio de Freitas, Reitoria Unicamp, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Unificar-e-coordenar-nossas-lutas-contra-Tarcisio-e-reitorias-por-educacao-e-saude",
           "publishedOn": "2026-05-17T21:04:36.000Z",
-          "wordCount": 8441,
+          "wordCount": 8450,
           "title": "Unificar e coordenar nossas lutas contra Tarcísio e reitorias por educação e saúde!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-17_at_18.02_50.jpg?1779051803"
         },
@@ -292,7 +512,7 @@
           "description": "Com mais de 20 dias de greve do funcionalismo em São Paulo, o Prefeito Ricardo Nunes, também envolvido no escândalo do Banco Master com denúncias de um edital ilegal que favoreceu a ONG que produziu o filme de Dark Horse, a biografia de Bolsonaro, publicou em diário oficial a orientação para aplicar o corte de ponto aos grevistas, depois de ter judicializado a greve numa clara perseguição sindical. Em resposta a esse ataque absurdo, os Supervisores da rede municipal de ensino que estão em greve publicaram uma carta aberta em defesa do direito de greve e pedindo para não acatarem o corte de ponto.\n26-09-2025\n\n/ Educação, Greve Professores Municipais SP, Ricardo Nunes, Greve de professores",
           "link": "https://www.esquerdadiario.com.br/Supervisores-Escolares-em-greve-publicam-carta-contra-corte-de-ponto-de-Nunes-em-SP",
           "publishedOn": "2026-05-16T19:29:20.000Z",
-          "wordCount": 8325,
+          "wordCount": 8317,
           "title": "Supervisores Escolares em greve publicam carta contra corte de ponto de Nunes em SP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/104133.jpg?1778959714"
         },
@@ -302,89 +522,39 @@
           "description": "Na sexta-feira, dia 10 de Abril de 2026, o entregador Douglas Renato Scheeffer Zwarg foi assassinado por um GCM. Seu crime? Ouvir música, pedalando, após sua última entrega. Há mais de um mês da morte do entregador Douglas Renato: seguimos exigindo justiça!\n26-09-2025\n\n/ Classe trabalhadora, Violência policial, São Paulo, Entregadores, entregador",
           "link": "https://www.esquerdadiario.com.br/Um-mes-da-morte-do-entregador-Douglas-Renato-exigimos-justica",
           "publishedOn": "2026-05-16T18:53:15.000Z",
-          "wordCount": 7966,
+          "wordCount": 7955,
           "title": "Um mês da morte do entregador Douglas Renato: exigimos justiça!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/106156.jpg?1778957466"
         },
         {
-          "id": "https://www.esquerdadiario.com.br/Apoio-de-prefeita-Bolsonarista-a-Joao-Campos-escancara-projeto-da-Frente-Ampla-de-Lula-em",
-          "author": "Esquerda Diário Pernambuco",
-          "description": "A prefeita da cidade de Escada no interior de Pernambuco, Mary Gouveia do PL – mesmo partido de Jair Bolsonaro e Flávio Bolsonaro – declarou apoio à candidatura de João Campos do PSB para o governo do estado. \n A prefeita da cidade de Escada no interior de Pernambuco, Mary Gouveia do PL – mesmo partido de Jair Bolsonaro e Flávio Bolsonaro – declarou apoio à candidatura de João Campos do PSB para o governo do estado. \n15-05-2026\n\n/ Política, Pernambuco, Pernambuco, João Campos (PSB-PE)",
-          "link": "https://www.esquerdadiario.com.br/Apoio-de-prefeita-Bolsonarista-a-Joao-Campos-escancara-projeto-da-Frente-Ampla-de-Lula-em",
-          "publishedOn": "2026-05-16T14:24:10.000Z",
-          "wordCount": 8283,
-          "title": "Apoio de prefeita Bolsonarista a João Campos escancara projeto da Frente Ampla de Lula em Pernambuco",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/images-17.jpg?1778941345"
+          "id": "https://www.esquerdadiario.com.br/Da-Alemanha-ao-Chile-o-movimento-estudantil-protagoniza-mobilizacoes-no-mundo",
+          "author": "Daniel Vargas Downing",
+          "description": "Analisamos brevemente as principais mobilizações que hoje atravessam o movimento estudantil a nível internacional, destacando a relevância da juventude como ator político para enfrentar ataques e lutar pelos direitos das trabalhadoras e dos trabalhadores, em defesa da educação pública, contra os ajustes e contra a guerra.\n16-05-2026\n\n/ Internacional, Juventude, USP, Chile, Faísca - Juventude Revolucionária e Anticapitalista, Argentina, Alemanha, Javier Milei , José Antonio Kast, Militarização",
+          "link": "https://www.esquerdadiario.com.br/Da-Alemanha-ao-Chile-o-movimento-estudantil-protagoniza-mobilizacoes-no-mundo",
+          "publishedOn": "2026-05-16T18:04:52.000Z",
+          "wordCount": 9006,
+          "title": "Da Alemanha ao Chile: o movimento estudantil protagoniza mobilizações no mundo",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1764971077121-a3e09.jpg?1778954690"
         },
         {
-          "id": "https://www.esquerdadiario.com.br/Professores-municipais-em-greve-ajudam-trabalhadores-da-USP-a-restaurar-acervo-da-biblioteca-da",
+          "id": "https://www.esquerdadiario.com.br/Cuba-voltou-aos-longos-apagoes-e-houve-protestos-massivos-em-Havana",
+          "author": "Diego Dalai",
+          "description": "À falta de combustível devido ao cerco imposto por Trump em janeiro, somam-se falhas nas velhas centrais termoelétricas. Houve apagões de até 22 horas e foram registrados panelaços e bloqueios de ruas em diferentes esquinas da capital. \n O bloqueio de combustíveis imposto por Donald Trump em janeiro voltou a colocar o povo cubano contra as cordas, após se esgotarem as 100 mil toneladas de petróleo que chegaram em abril no cargueiro russo Anatoly Kolodkin. \n16-05-2026\n\n/ Internacional, Donald Trump, Cuba, Petróleo, EUA, Miguel Díaz-Canel, Bloqueio a Cuba, energia",
+          "link": "https://www.esquerdadiario.com.br/Cuba-voltou-aos-longos-apagoes-e-houve-protestos-massivos-em-Havana",
+          "publishedOn": "2026-05-16T16:00:18.000Z",
+          "wordCount": 8517,
+          "title": "Cuba voltou aos longos apagões e houve protestos massivos em Havana",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/cuba.jpg?1778947200"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Urgente-Aldeia-Limao-Verde-e-novamente-cercada-pela-policia-em-Amambai",
           "author": "Redação",
-          "description": "Na tarde da quinta-feira, 14, professores da rede municipal de São Paulo foram até a Faculdade de Educação da USP e deram uma demonstração prática da unidade das lutas da educação. O acervo da biblioteca da FEUSP sofreu danos inestimáveis na última segunda-feira, 11, após o teto desabar em meio às chuvas por conta da política de sucateamento da universidade por parte do governador Tarcísio e da reitoria da universidade.\n15-05-2026\n\n/ Classe trabalhadora, USP, Educação, SINTUSP, FEUSP, Greve Professores Municipais SP, Ricardo Nunes, Tarcísio de Freitas, Reitoria USP, Trabalhadores da Educação municipal em São Paulo , Greve na USP",
-          "link": "https://www.esquerdadiario.com.br/Professores-municipais-em-greve-ajudam-trabalhadores-da-USP-a-restaurar-acervo-da-biblioteca-da",
-          "publishedOn": "2026-05-15T22:44:34.000Z",
-          "wordCount": 8832,
-          "title": "Professores municipais em greve ajudam trabalhadores da USP a restaurar acervo da biblioteca da FEUSP",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-15_at_11.29_31_3_.jpg?1778872091"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Tomar-as-ruas-no-dia-20-5-para-derrotar-Tarcisio-e-privatizacoes-com-a-forca-da-luta-unificada",
-          "author": "Vitória Camargo",
-          "description": "É hora de ir às ruas para derrotar com uma forte luta unificada o governador Tarcísio de Freitas e sua política privatista. Chamamos todos a se somarem à grande marcha rumo ao Palácio dos Bandeirantes no dia 20/5.\n15-05-2026\n\n/ Classe trabalhadora, Educação, Greve Professores Municipais SP, São Paulo, Greve de professores, Greve contra Tarcísio, Greve na USP, Greve das Federais",
-          "link": "https://www.esquerdadiario.com.br/Tomar-as-ruas-no-dia-20-5-para-derrotar-Tarcisio-e-privatizacoes-com-a-forca-da-luta-unificada",
-          "publishedOn": "2026-05-15T22:01:11.000Z",
-          "wordCount": 8538,
-          "title": "Tomar as ruas no dia 20/5 para derrotar Tarcísio e privatizações com a força da luta unificada",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato_estaduais.jpg?1778882461"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Flavio-mente-Tarcisio-se-esquiva-e-Zema-derrapa-Aproveitar-a-crise-para-golpear-os-amigos-de",
-          "author": "Thiago Flamé",
-          "description": "Em São Paulo e Minas Gerais, onde Tarcísio e Zema tentam posar de bolsonarismo moderado, o enfraquecimento da extrema direita com o caso Master abre uma oportunidade política\n15-05-2026\n\n/ Política, Greve, Greve das estaduais paulistas, Greve Professores Municipais SP, Greve de professores, Greve contra Tarcísio, Banco Master",
-          "link": "https://www.esquerdadiario.com.br/Flavio-mente-Tarcisio-se-esquiva-e-Zema-derrapa-Aproveitar-a-crise-para-golpear-os-amigos-de",
-          "publishedOn": "2026-05-15T21:44:09.000Z",
-          "wordCount": 8733,
-          "title": "Flávio mente, Tarcísio se esquiva e Zema derrapa. Aproveitar a crise para golpear os amigos de Vorcaro",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/fabiano.jpg?1778881357"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/A-greve-dos-servidores-e-educadores-de-Florianopolis-precisa-vencer-Abaixo-as-demissoes-do-prefeito",
-          "author": "Thiago Flamé",
-          "description": "No estado que é um bastião do bolsonarismo e da extrema direita mais retrógrada, a luta dos servidores e educadores municipais se ergue para enfrentar o prefeito que expulsa migrantes e que agora demitiu 209 professores em greve. A massividade e a combatividade da greve dos servidores é um exemplo para todo o país e precisa ser cercada de solidariedade para vencer\n15-05-2026\n\n/ Educação, Greve, Greve Nacional da Educação, Greve de professores, Greve na Educação, greve servidores",
-          "link": "https://www.esquerdadiario.com.br/A-greve-dos-servidores-e-educadores-de-Florianopolis-precisa-vencer-Abaixo-as-demissoes-do-prefeito",
-          "publishedOn": "2026-05-15T20:22:12.000Z",
-          "wordCount": 8436,
-          "title": "A greve dos servidores e educadores de Florianópolis precisa vencer! Abaixo as demissões do prefeito Topázio",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/f207052026-3.jpg?1778876454"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/15-de-maio-78-anos-da-Nakba-Palestina-uma-catastrofe-continua",
-          "author": "Vitória Busato",
-          "description": "A data de hoje marca o fatídico dia da criação do Estado ilegítimo e genocida de Israel e o início de um processo de 78 anos de catástrofe contínua: a Nakba Palestina.\n15-05-2026\n\n/ Internacional, Palestina, #ResistePalestina, Palestina Livre, Nakba, Palestina operária e socialista",
-          "link": "https://www.esquerdadiario.com.br/15-de-maio-78-anos-da-Nakba-Palestina-uma-catastrofe-continua",
-          "publishedOn": "2026-05-15T20:18:31.000Z",
-          "wordCount": 8153,
-          "title": "15 de maio: 78 anos da Nakba Palestina, uma catástrofe contínua",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000379456.jpg?1778876220"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Professores-da-Unicamp-aprovam-greve-ampliando-a-luta-das-estaduais-paulistas",
-          "author": "Redação",
-          "description": "Os professores da Unicamp rejeitaram a proposta de reajuste oferecida pelo Cruesp (Conselho de Reitores das Universidades Estaduais Paulistas), de 3,47%, abaixo da inflação, representando um arrocho salarial da categoria. Eles propõem um reajuste de 3,6%, correspondente à estimativa do índice IPC-Fipe do período.\n15-05-2026\n\n/ Professores, Educação, Unicamp, Greve de professores",
-          "link": "https://www.esquerdadiario.com.br/Professores-da-Unicamp-aprovam-greve-ampliando-a-luta-das-estaduais-paulistas",
-          "publishedOn": "2026-05-15T18:50:42.000Z",
-          "wordCount": 7948,
-          "title": "Professores da Unicamp aprovam greve ampliando a luta das estaduais paulistas",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-15_at_14.56_19.jpg?1778868235"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Todo-apoio-a-greve-do-Instituto-de-Artes-da-UNESP-Unificar-as-tres-estaduais-em-luta",
-          "author": "Julia Cardoso",
-          "description": "Os estudantes da UNESP se levantam depois que a precarização do trabalho e de infraestrutura ocasionaram a morte de uma professora por falta de cuidados médicos adequados no Instituto de Artes na Barra Funda. A reitoria é responsável!\nMatérias\n\n/ Juventude, UNESP, Educação, Greve",
-          "link": "https://www.esquerdadiario.com.br/Todo-apoio-a-greve-do-Instituto-de-Artes-da-UNESP-Unificar-as-tres-estaduais-em-luta",
-          "publishedOn": "2026-05-15T15:11:40.000Z",
-          "wordCount": 8256,
-          "title": "Todo apoio à greve do Instituto de Artes da UNESP! Unificar as três estaduais em luta!",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/902d5154-e51d-4ab7-8d52-da655cf3b8b8.jpg?1778857895"
+          "description": "Na noite de ontem (15), a Aldeia Limão Verde, no município de Amambai, no Mato Grosso do Sul, voltou a ser cercada por policiais militares. Segundo relatos de lideranças e moradores, indígenas estão sendo impedidos de entrar e sair da comunidade, enquanto as famílias vivem mais uma vez sob tensão e ameaça. \n Ver essa foto no Instagram \n16-05-2026\n\n/ Povos indígenas, Indígenas, resistência indígena, Luta indígena, Invasão de terras indígenas, Crise ecológica",
+          "link": "https://www.esquerdadiario.com.br/Urgente-Aldeia-Limao-Verde-e-novamente-cercada-pela-policia-em-Amambai",
+          "publishedOn": "2026-05-16T14:31:45.000Z",
+          "wordCount": 7991,
+          "title": "Urgente: Aldeia Limão Verde é novamente cercada pela polícia em Amambai",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-16_at_11.30_28.jpg?1778943248"
         }
       ]
     },
@@ -393,6 +563,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=443199",
+          "author": "Isabella Mota",
+          "description": "Ouça o segundo episódio da série especial e saiba como funciona a tentativa de Bruce Rastetter de expandir seus negócios. \nO post  O Rei do Etanol  apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/05/19/o-rei-do-etanol/",
+          "publishedOn": "2026-05-19T20:00:00.000Z",
+          "wordCount": null,
+          "title": "O Rei do Etanol",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/05/wide.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/05/wide.png"
+        },
         {
           "id": "https://www.intercept.com.br/?p=443205",
           "author": "Eduardo Goulart",
@@ -526,7 +711,7 @@
           "description": "Segundo episódio de “Crimes de Maio: o massacre que o Brasil ignora” discute como familiares, pesquisadores e entidades tentaram contabilizar mortos e desaparecidos da violência de maio de 2006\nO conteúdo Podcast aborda esforços para dimensionar número de vítimas dos Crimes de Maio Pode ser acessado em Ponte Jornalismo.",
           "link": "https://ponte.org/podcast-aborda-esforcos-para-dimensionar-numero-de-vitimas-dos-crimes-de-maio/",
           "publishedOn": "2026-05-19T14:44:42.000Z",
-          "wordCount": 4949,
+          "wordCount": 4951,
           "title": "Podcast aborda esforços para dimensionar número de vítimas dos Crimes de Maio",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/05/crimes-de-maio-ponte-jornalismo-bdf-scaled.webp"
         },
@@ -613,7 +798,7 @@
           "description": "presidente da FIFA, Gianni Infantino, fez uma jogada infantil no 76º Congresso da FIFA, ao incentivar o presidente da Federação Palestina de Futebol, Jibril Rajoub, e o vice-presidente da Federação Israelense de Futebol, Basim Sheikh Suliman, a apertarem as mãos. Diante da recusa de Rajoub, Infantino declarou: “Vamos trabalhar juntos, presidente Rajoub, vice-presidente Suliman. Vamos […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/15/o-futebol-nao-e-o-jogo-bonito-quando-colabora-com-o-genocidio/",
           "publishedOn": "2026-05-15T09:58:45.000Z",
-          "wordCount": 2967,
+          "wordCount": 2994,
           "title": "O futebol não é “o jogo bonito” quando colabora com o genocídio",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/genocidio.webp"
         }
@@ -625,12 +810,72 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=255199",
+          "author": "Raissa Neves",
+          "description": "Em meio às negociações, o presidente dos Estados Unidos, Donald Trump, voltou a ameaçar o Irã nesta terça-feira (18/05) dizendo que pode atacar o país persa nos próximos dias caso um acordo de paz, que exige a retirada de armas nucleares pela parte iraniana, não seja alcançado. A declaração foi dada à imprensa horas após […]\nO post Trump diz que EUA podem retomar ataques contra Irã caso não haja acordo; Teerã reage apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-eua-podem-retomar-ataques-contra-ira-caso-nao-haja-acordo-teera-reage/",
+          "publishedOn": "2026-05-19T21:00:28.000Z",
+          "wordCount": 3488,
+          "title": "Trump diz que EUA podem retomar ataques contra Irã caso não haja acordo; Teerã reage",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/p20260518jb-0866.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255196",
+          "author": "Rocio Paik",
+          "description": "Onze dias depois de os presidentes Luiz Inácio Lula da Silva e Donald Trump terem acertado 30 dias para chegar a um acordo sobre a aplicação de tarifas aos produtos brasileiros importados pelos norte-americanos, o ministro da Fazenda do Brasil, Dario Durigan, disse estar “confiante” de que o prazo será cumprido. Ele se encontrou com […]\nO post Ministro da Fazenda avalia que Brasil e EUA chegarão a acordo sobre tarifaço no prazo de 30 dias apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/ministro-da-fazenda-avalia-que-brasil-e-eua-chegarao-a-acordo-sobre-tarifaco-no-prazo-de-30-dias/",
+          "publishedOn": "2026-05-19T20:20:08.000Z",
+          "wordCount": 4453,
+          "title": "Ministro da Fazenda avalia que Brasil e EUA chegarão a acordo sobre tarifaço no prazo de 30 dias",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhzlmt7wuaainr5.jpeg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255190",
+          "author": "Raissa Neves",
+          "description": "Um tribunal federal da Califórnia rejeitou, nesta segunda-feira (18/05), o processo movido pelo magnata Elon Musk contra a OpenAI, que criou o ChatGPT, e o seu presidente-executivo, Sam Altman, uma vez que o prazo de prescrição expirou. O júri, composto por nove membros, decidiu que a acusação feita por Musk à empresa da qual fez […]\nO post Justiça dos EUA rejeita processo de Musk contra OpenAI apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/estados-unidos/justica-dos-eua-rejeita-processo-de-musk-contra-openai/",
+          "publishedOn": "2026-05-19T19:40:00.000Z",
+          "wordCount": 3660,
+          "title": "Justiça dos EUA rejeita processo de Musk contra OpenAI",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/76973958_303.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255189",
+          "author": "Rocio Paik",
+          "description": "O comandante do Quartel-General Central Khatam al-Anbia do Irã, Major-General Ali Abdollahi, alertou os Estados Unidos de que a nação persa responderá com força e capacidade “muito superiores” às usadas anteriormente caso os países inimigos “cometam um novo erro”. A declaração foi dada nesta terça-feira (19/05), de acordo com a agência Tasnim, e ocorre após […]\nO post Irã alerta resposta ‘mais rápida, decisiva e poderosa’ em caso de nova agressão dos EUA apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-alerta-resposta-mais-rapida-decisiva-e-poderosa-em-caso-de-nova-agressao-dos-eua/",
+          "publishedOn": "2026-05-19T19:00:19.000Z",
+          "wordCount": 3287,
+          "title": "Irã alerta resposta ‘mais rápida, decisiva e poderosa’ em caso de nova agressão dos EUA",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1405022914444655236809734.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255174",
+          "author": "Rocio Paik",
+          "description": "O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, disse nesta terça-feira (19/05) que a “magnitude e rapidez” com que o surto de ebola se propaga na República Democrática do Congo são alarmantes, com mais de 500 casos suspeitos e cerca de 130 mortes que se acredita estarem vinculadas à transmissão do vírus. […]\nO post Chefe da OMS diz estar preocupado com rapidez do surto de ebola; 130 mortes registradas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/chefe-da-oms-diz-estar-preocupado-com-rapidez-do-surto-de-ebola-130-mortes-registradas/",
+          "publishedOn": "2026-05-19T18:20:52.000Z",
+          "wordCount": 3572,
+          "title": "Chefe da OMS diz estar preocupado com rapidez do surto de ebola; 130 mortes registradas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/ai_for_good_global_summit_2018_42077444762.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255172",
+          "author": "Raissa Neves",
+          "description": "Há 186 anos, em 19 de maio de 1840, nascia o pintor e músico baiano Emmanuel Zamor. Ele estabeleceu uma carreira bem sucedida na Europa ao longo do século 19, notabilizando-se por um estilo pictórico original, mesclando elementos do realismo e das vanguardas impressionistas. Emmanuel também firmou uma sólida carreira como compositor, produzindo mais de […]\nO post Emmanuel Zamor, vida e obra de um impressionista baiano apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/emmanuel-zamor-vida-e-obra-de-um-impressionista-baiano/",
+          "publishedOn": "2026-05-19T17:40:01.000Z",
+          "wordCount": 3879,
+          "title": "Emmanuel Zamor, vida e obra de um impressionista baiano",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/nadar_atrib._-_emmanuel_zamor_cropped.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=255173",
           "author": "Tatiana Carlotti",
           "description": "O juiz federal de Nova York, P. Kevin Castel, recuou em decisão anterior e proibiu nesta segunda-feira (18/05) que agentes do Serviço de Imigração e Controle de Alfândega (ICE) realizem prisões dentro dos tribunais de imigração. O magistrado disse ter reconsiderado o caso “tanto para corrigir um erro claro quanto para evitar uma injustiça manifesta”. […]\nO post Juiz proíbe prisões do ICE em tribunais de imigração de Nova York apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/juiz-proibe-prisoes-do-ice-em-tribunais-de-imigracao-de-nova-york/",
           "publishedOn": "2026-05-19T17:00:50.000Z",
-          "wordCount": 2992,
+          "wordCount": 3002,
           "title": "Juiz proíbe prisões do ICE em tribunais de imigração de Nova York",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/12/54351601887_16a53b7c05_c.webp"
         },
@@ -640,18 +885,18 @@
           "description": "Um dos fundamentos da economia do Irã é a exploração sistemática da economia do petróleo. Isso se dá com expertise no refino (como veremos em artigos posteriores), mas com absoluta autonomia na extração e distribuição dos produtos. Somadas as suas duas grandes companhias – citadas abaixo – a República Islâmica tem uma das cinco maiores […]\nO post Alguns fundamentos da economia do petróleo do Irã apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/alguns-fundamentos-da-economia-do-petroleo-do-ira/",
           "publishedOn": "2026-05-19T16:44:00.000Z",
-          "wordCount": 4413,
+          "wordCount": 4315,
           "title": "Alguns fundamentos da economia do petróleo do Irã",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/7424861282_ee152c7c60_z.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=255169",
           "author": "Rocio Paik",
-          "description": "As demolições de casas palestinas por Israel se aceleram na Cisjordânia ocupada a leste de Jerusalém, onde alguns moradores são obrigados a destruir o próprio lar para evitar multas que podem chegar a dezenas de milhares de dólares. A prática, denunciada por organizações de direitos humanos como forma de coerção extrema, provoca traumas profundos e […]\nO post ‘Tortura psicológica’: palestinos são forçados a demolir suas casas, e ONU denuncia ‘limpeza étnica’ por Israel apareceu primeiro em Opera Mundi.",
+          "description": "As demolições de casas palestinas por Israel se aceleram na Cisjordânia ocupada a leste de Jerusalém, onde alguns moradores são obrigados a destruir o próprio lar para evitar multas que podem chegar a dezenas de milhares de dólares. A prática, denunciada por organizações de direitos humanos como forma de coerção extrema, provoca traumas profundos e […]\nO post Palestinos são forçados a demolir suas casas; ONU denuncia ‘limpeza étnica’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/tortura-psicologica-palestinos-sao-forcados-a-demolir-suas-casas-e-onu-denuncia-limpeza-etnica-por-israel/",
           "publishedOn": "2026-05-19T16:10:15.000Z",
-          "wordCount": 4390,
-          "title": "‘Tortura psicológica’: palestinos são forçados a demolir suas casas, e ONU denuncia ‘limpeza étnica’ por Israel",
+          "wordCount": 4423,
+          "title": "Palestinos são forçados a demolir suas casas; ONU denuncia ‘limpeza étnica’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/brothers_keeper_operation_in_judea__samaria_14234015498.jpg"
         },
         {
@@ -660,69 +905,9 @@
           "description": "Os ataques políticos promovidos por grupos sionistas contra lideranças progressistas no Ocidente fazem parte de uma tradição histórica  de combate ao socialismo e ao comunismo. É o que defende Joseph Massad, professor de política árabe moderna e história intelectual da Universidade Columbia. No artigo “O sionismo foi construído como um baluarte contra o socialismo”, publicado […]\nO post ‘Sionismo foi construído como baluarte contra socialismo’, afirma especialista apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel/sionismo-foi-construido-como-baluarte-contra-socialismo-afirma-especialista/",
           "publishedOn": "2026-05-19T15:30:13.000Z",
-          "wordCount": 3127,
+          "wordCount": 3130,
           "title": "‘Sionismo foi construído como baluarte contra socialismo’, afirma especialista",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/04/jean-luc-melenchon-2022-thomas-bresson-wikimedia.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255157",
-          "author": "Tatiana Carlotti",
-          "description": "A pesquisa Atlas Intel/Bloomberg divulgada nesta terça-feira (19/05) mostra o presidente Luiz Inácio Lula da Silva (PT) à frente em todos os cenários de primeiro e segundo turno testados para a eleição presidencial de 2026. O destaque do levantamento é a queda de seis pontos percentuais do senador Flávio Bolsonaro (PL) em um eventual segundo […]\nO post Flávio Bolsonaro cai seis pontos no 2º turno; Lula lidera, aponta pesquisa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/efeito-master-flavio-bolsonaro-cai-seis-pontos-no-2o-turno-lula-lidera-em-todos-os-cenarios-aponta-pesquisa/",
-          "publishedOn": "2026-05-19T14:56:14.000Z",
-          "wordCount": 3038,
-          "title": "Flávio Bolsonaro cai seis pontos no 2º turno; Lula lidera, aponta pesquisa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/07/lula-india-mc_abr_08072025-20.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255147",
-          "author": "Tabitha Ramalho",
-          "description": "Deputados argentinos do bloco peronista União pela Pátria — entre eles German Martinez, chefe do bloco, e Cecilia Moreau, primeira vice-presidente da Câmara dos Deputados — apresentaram um pedido ao governo argentino na segunda-feira (18/05), após o envio de duas aeronaves militares C-130 Hércules para a Bolívia em meio à repressão aos protestos populares promovida […]\nO post Peronistas pedem explicações a Milei sobre envio de aviões militares para Bolívia em meio a protestos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/peronistas-pedem-explicacoes-a-milei-sobre-envio-de-avioes-militares-para-bolivia-em-meio-a-protestos/",
-          "publishedOn": "2026-05-19T13:31:26.000Z",
-          "wordCount": 3478,
-          "title": "Peronistas pedem explicações a Milei sobre envio de aviões militares para Bolívia em meio a protestos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1280px-congreso-sol_cupula-tm.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255133",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente iraniano, Masoud Pezeshkian, afirmou que as negociações com os Estados Unidos em torno do cessar-fogo não significam rendição, pelo contrário. Segundo ele, Teerã participa das tratativas com dignidade, salvaguardando os direitos do país. “Diálogo não significa rendição. A República Islâmica do Irã entra em diálogo com dignidade, autoridade e preservação dos direitos da […]\nO post Presidente do Irã afirma autoridade do país nas negociações com EUA: ‘diálogo não é rendição’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/presidente-do-ira-reafirma-autoridade-do-pais-nas-negociacoes-com-eua-dialogo-nao-e-rendicao/",
-          "publishedOn": "2026-05-19T12:52:55.000Z",
-          "wordCount": 3074,
-          "title": "Presidente do Irã afirma autoridade do país nas negociações com EUA: ‘diálogo não é rendição’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1405022819310618236799414.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255126",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente cubano, Miguel Díaz-Canel, agradeceu na segunda-feira (18/05) o envio de um novo pacote de ajuda do México e do Uruguai, em um contexto marcado por dificuldades econômicas, escassez de combustível e interrupções no sistema elétrico da ilha causadas pelo embargo econômico e energético dos Estados Unidos. “Em nome do povo cubano, expressamos nossa […]\nO post Díaz-Canel agradece México e Uruguai por novo carregamento de ajuda humanitária apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-agradece-mexico-e-uruguai-por-novo-carregamento-de-ajuda-humanitaria-em-meio-a-asfixia-energetica-dos-eua/",
-          "publishedOn": "2026-05-19T11:54:58.000Z",
-          "wordCount": 3334,
-          "title": "Díaz-Canel agradece México e Uruguai por novo carregamento de ajuda humanitária",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hio4skiwmaei8tp.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255120",
-          "author": "Tatiana Carlotti",
-          "description": "Dois adolescentes abriram fogo em uma mesquita de San Diego, na Califórnia, nesta segunda-feira (18/05), mataram três homens e, em seguida, cometeram suicídio a poucos quarteirões de distância. A polícia está investigando o ataque como crime de ódio. Não houve nenhuma ameaça específica feita contra o Centro Islâmico de San Diego, mas as autoridades encontraram […]\nO post Ataque à maior mesquita de San Diego mata três pessoas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/ataque-a-maior-mesquita-de-san-diego-mata-tres-pessoas/",
-          "publishedOn": "2026-05-19T11:30:55.000Z",
-          "wordCount": 3540,
-          "title": "Ataque à maior mesquita de San Diego mata três pessoas",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/2026_sd_shooting_location.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255108",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente cubano, Miguel Díaz-Canel, criticou duramente na segunda-feira (18/05) uma ordem executiva dos EUA que pressiona fornecedores de combustível. “A ordem executiva que persegue e ameaça terceiros que querem vender combustível para Cuba e que extraterritorializa o bloqueio a níveis sem precedentes, penalizando empresas que querem investir em Cuba ou simplesmente nos fornecer bens […]\nO post Presidente de Cuba repudia bloqueio energético dos EUA: ‘imoral e criminoso’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-repudia-bloqueio-energetico-dos-eua-imoral-e-criminoso/",
-          "publishedOn": "2026-05-19T10:25:35.000Z",
-          "wordCount": 3368,
-          "title": "Presidente de Cuba repudia bloqueio energético dos EUA: ‘imoral e criminoso’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-08-at-10.39.08.jpeg"
         }
       ]
     },
@@ -737,6 +922,46 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=226033",
+          "author": "Rosana Bond",
+          "description": "Com incentivo capitalista, tem sido comum os \"vestígios incas\" pelo Brasil inteiro, uma anomalia e autêntica ilusão.",
+          "link": "https://anovademocracia.com.br/indigenismo-invisivel-ilusao-incas-3/",
+          "publishedOn": "2026-05-19T21:21:05.000Z",
+          "wordCount": null,
+          "title": "Indigenismo invisível e a ilusão dos Incas (parte 3)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226028",
+          "author": "Redação de AND",
+          "description": "O artista criou outra conta nas redes digitais, que também foi apagada momentos depois.",
+          "link": "https://anovademocracia.com.br/artista-popular-censura/",
+          "publishedOn": "2026-05-19T21:20:15.000Z",
+          "wordCount": null,
+          "title": "Artista popular tem conta censurada no Instagram após série de publicações anti-imperialistas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226021",
+          "author": "Redação de AND",
+          "description": "Levantamento divulgado em 19 de maio mostra que 95,6% souberam dos áudios entre Flávio Bolsonaro e Daniel Vorcaro; 51,7% veem o senador envolvido no esquema do Master e, em eventual segundo turno, Luiz Inácio aparece com 48,9% contra 41,8%.",
+          "link": "https://anovademocracia.com.br/queda-flavio-bolsonaro-audios-vorcaro/",
+          "publishedOn": "2026-05-19T20:45:05.000Z",
+          "wordCount": null,
+          "title": "Pesquisa Atlas/Bloomberg aponta queda de Flávio Bolsonaro após áudios com Vorcaro; 51,7% veem envolvimento no Master",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226000",
+          "author": "Editor Executivo",
+          "description": "Ações reuniram jovens, operários, estudantes e organizações populares em manifestações antifascistas, anti-imperialistas e internacionalistas. Também foram instaladas faixas e mensagens em apoio à Revolução Agrária no Brasil.",
+          "link": "https://anovademocracia.com.br/franca-atos-1o-maio-e-dia-da-vitoria/",
+          "publishedOn": "2026-05-19T18:29:43.000Z",
+          "wordCount": null,
+          "title": "França: Revolucionários realizam atos no 1º de Maio e no Dia da Vitória contra o nazismo",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=225973",
           "author": "Ana Nascimento",
@@ -796,46 +1021,6 @@
           "wordCount": null,
           "title": "Pobreza e fome atingem milhões no Peru e expõem crise do velho Estado",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225930",
-          "author": "Redação de AND",
-          "description": "O AND publicou uma reportagem especial em vídeo com entrevista exclusiva com o ativista internacionalista Thiago Ávila, que retornou ao Brasil após dez dias ilegalmente encarcerado pela entidade nazi-sionista “Israel”. Sequestrado em águas internacionais durante a missão da Flotilha Global Sumud, Thiago denunciou ao AND as torturas praticadas nas masmorras sionistas, o tratamento desumano imposto aos presos palestinos e a tentativa de intimidação sofrida pela Polícia Federal ao desembarcar no Brasil. Na entrevista, o ativista reafirmou a necessidade de seguir a luta contra o genocídio em Gaza e contra o projeto sionista-imperialista. “A tarefa dos povos do mundo é derrotar",
-          "link": "https://anovademocracia.com.br/assista-thiago-avila-fala-ao-and/",
-          "publishedOn": "2026-05-18T03:17:06.000Z",
-          "wordCount": null,
-          "title": "ASSISTA: Thiago Ávila fala ao AND após dez dias nas masmorras nazi-sionistas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225920",
-          "author": "Redação de AND",
-          "description": "A Universidade Nacional Maior de San Marcos, fundada em 1551 e considerada a mais antiga das Américas, foi ocupada por estudantes contra a chamada “Lei Jerí”, projeto que permite a reeleição imediata de reitores e vice-reitores.",
-          "link": "https://anovademocracia.com.br/estudantes-ocupam-san-marcos-contra-projeto-de-reeleicao-de-reitores-no-peru/",
-          "publishedOn": "2026-05-18T02:18:18.000Z",
-          "wordCount": null,
-          "title": "Estudantes ocupam San Marcos contra projeto de reeleição de reitores no Peru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225912",
-          "author": "Redação de AND",
-          "description": "Conforme informações do portal Arauto Vermelho, atos ocorreram em Seattle, Eugene, Portland, Oakland, San Antonio e Binghamton, em defesa de um 1º de Maio combativo e proletário.",
-          "link": "https://anovademocracia.com.br/eua-operarios-e-revolucionarios-celebram-o-1o-de-maio-em-diferentes-cidades/",
-          "publishedOn": "2026-05-16T15:00:00.000Z",
-          "wordCount": null,
-          "title": "EUA: Operários e revolucionários celebram o 1º de Maio em diferentes cidades",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225907",
-          "author": "Redação de AND",
-          "description": "Com informações do portal O Arauto Vermelho, atividade reuniu comunistas russos em defesa do internacionalismo proletário e da luta contra todos os países imperialistas.",
-          "link": "https://anovademocracia.com.br/russia-ato-celebra-o-1o-de-maio-e-a-fundacao-da-liga-anti-imperialista-internacional/",
-          "publishedOn": "2026-05-16T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Rússia: Ato celebra o 1º de Maio e a fundação da Liga Anti-imperialista Internacional",
-          "imageUrl": null
         }
       ]
     },
@@ -861,6 +1046,46 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3185739",
+          "author": "Paulo Kliass",
+          "description": "No primeiro trimestre do ano, empresa lucrou mais que suas concorrentes internacionais e alcançou recorde de produção. No entanto, por decisões políticas, seus ganhos seguem capturados por grandes fundos externos, e sua capacidade de investimento está achatada\nThe post Petrobras: o que não se deve comemorar appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/petrobras-o-que-nao-se-deve-comemorar/",
+          "publishedOn": "2026-05-19T21:12:34.000Z",
+          "wordCount": 4462,
+          "title": "Petrobras: o que não se deve comemorar",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/19180937/photo_4927356176589065424_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3185748",
+          "author": "Redação",
+          "description": "Contra as manobras conservadoras e protelatórias no Congresso, movimentos sociais vão às ruas. Convocados, para domingo e segunda, atos em todo o país. Carta divulga agenda de mobilizações para articular territórios e promover ações nas redes sociais\nThe post Para defender a redução real da jornada appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/para-defender-a-reducao-real-da-jornada/",
+          "publishedOn": "2026-05-19T20:12:38.000Z",
+          "wordCount": 3563,
+          "title": "Para defender a redução real da jornada",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/19171058/Screenshot-2026-05-19-at-17-10-52-foto-manifestacao.jpg-imagem-JPEG-888-%C3%97-666-pixels.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3185737",
+          "author": "Heitor Scalambrini Costa",
+          "description": "Após governo enviar PL para regulamentar pauta histórica, oposição quer transição de dez anos, jornada de 44h para serviços essenciais e “compensações” às empresas, com recursos públicos. Relatório final pode ser votado nesta quarta\nThe post Como o Congresso sabota o fim da 6×1 appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/trabalhoeprecariado/como-o-congresso-sabota-o-fim-da-6x1/",
+          "publishedOn": "2026-05-19T19:33:44.000Z",
+          "wordCount": 4247,
+          "title": "Como o Congresso sabota o fim da 6×1",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/19163300/photo_4927356176589065395_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3185548",
+          "author": "Natália Lobo, Carol Cruz e Paula Veliz",
+          "description": "Contrapondo-se aos chatbots comerciais que homogeneízam as culturas, movimentos sociais propõem uma ruptura radical: codificar os princípios e o conhecimento popular da agroecologia em uma ferramenta capaz de fortalecer a autonomia do campesinato\nThe post IARAA: Uma IA para socializar os saberes do campo appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/iaraa-uma-ia-para-socializar-os-saberes-do-campo/",
+          "publishedOn": "2026-05-19T18:29:03.000Z",
+          "wordCount": 4867,
+          "title": "IARAA: Uma IA para socializar os saberes do campo",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/19152710/photo_4927356176589065354_y.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3185697",
           "author": "Maurício Ayer",
@@ -920,46 +1145,6 @@
           "wordCount": 6403,
           "title": "Do sionismo liberal ao antissionismo",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/18172050/photo_4927122775181299252_w.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3185594",
-          "author": "Ricardo Queiroz Pinheiro",
-          "description": "Base eleitoral bolsonarista não exige substância – só a sensação de que alguém, mesmo miserável, fale por ela. Por isso suporta o escândalo. Mas Flávio Bolsonaro expõe a vacilação – um calcanhar de Aquiles que pode comprometê-lo, se a esquerda o compreender\nThe post Dark Horse e a pedagogia do escândalo appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/direita-assanhada/dark-horse-e-a-pedagogia-do-escandalo/",
-          "publishedOn": "2026-05-18T18:35:04.000Z",
-          "wordCount": 3965,
-          "title": "Dark Horse e a pedagogia do escândalo",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/18153400/flc3a1vio-rachadinhas-dinheiro-sitedopt-2.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3185531",
-          "author": "Maurício Ayer",
-          "description": "Colóquio Internacional Marguerite Duras SP 26 : Porosidade e intermidialidade  Comunicação de Isabelle Doneux-Daussaint, em 18 de maio de 2026 […]\nThe post Comunicação de Isabelle Doneux-Daussaint appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/sem-categoria/comunicacao-de-isabelle-doneux-daussaint/",
-          "publishedOn": "2026-05-18T03:17:11.000Z",
-          "wordCount": 7394,
-          "title": "Comunicação de Isabelle Doneux-Daussaint",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2024/12/31191839/opzinho.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3185527",
-          "author": "Maurício Ayer",
-          "description": "Colóquio Internacional Marguerite Duras SP 26 : Porosidade e intermidialidade  Comunicação de Dominique Villeneuve, em 18 de maio de 2026. […]\nThe post Comunicação de Dominique Villeneuve appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/sem-categoria/comunicacao-de-dominique-villeneuve/",
-          "publishedOn": "2026-05-18T03:02:33.000Z",
-          "wordCount": 6413,
-          "title": "Comunicação de Dominique Villeneuve",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2024/12/31191839/opzinho.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3185521",
-          "author": "Maurício Ayer",
-          "description": "Conférence de Maria Luiza Berwanger Colloque International Marguerite Duras SP 26 : Porosité et intermédialité  Conférence de Maria Luiza Berwanger, […]\nThe post Conférence de Maria Luiza Berwanger appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/sem-categoria/conference-de-maria-luiza-berwanger/",
-          "publishedOn": "2026-05-18T01:14:38.000Z",
-          "wordCount": 6169,
-          "title": "Conférence de Maria Luiza Berwanger",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2024/12/31191839/opzinho.png"
         }
       ]
     },
@@ -969,12 +1154,22 @@
       "siteUrl": "https://passapalavra.info",
       "articles": [
         {
+          "id": "https://passapalavra.info/?p=159226",
+          "author": "Vieira",
+          "description": "Black Alien não resolve as contradições que o atravessam, ele as organiza e é nessa organização que reside sua força. Por Arthur Moura",
+          "link": "https://passapalavra.info/2026/05/159226/",
+          "publishedOn": "2026-05-19T21:02:58.000Z",
+          "wordCount": 12064,
+          "title": "Black Alien: poesia de aço",
+          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/05/RNCA9449-1091356446.jpg"
+        },
+        {
           "id": "https://passapalavra.info/?p=159224",
           "author": "Vieira",
           "description": "",
           "link": "https://passapalavra.info/2026/05/159224/",
           "publishedOn": "2026-05-18T12:52:22.000Z",
-          "wordCount": 3760,
+          "wordCount": 3767,
           "title": "Velha Toupeira (42)",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/05/VT042-DE-VOLTA-A-ESCRAVIDAO.jpg"
         },
@@ -1001,7 +1196,7 @@
           "description": "José Paulo Netto compartilha suas memórias com Vladimir Sacchetta, falecido no último 16 de maio.",
           "link": "https://blogdaboitempo.com.br/2026/05/19/vladimir-sacchetta-tambem-viajou/",
           "publishedOn": "2026-05-19T11:00:00.000Z",
-          "wordCount": 12546,
+          "wordCount": 12402,
           "title": "Vladimir Sacchetta também viajou",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-15.png"
         },
@@ -1011,7 +1206,7 @@
           "description": "Michel Goulart da Silva : \"Smith e Ricardo, bem como outros pensadores, possibilitaram a compreensão da organização do trabalho e da produção da riqueza. Contudo, as análises desses pensadores eram limitadas pelo interesse burguês, afinal, não faria sentido aprofundar esse conhecimento em todas as suas contradições. Decifrar a complexidade do processo de exploração significava também explicar aos trabalhadores a possibilidade de uma revolução dos explorados.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/18/o-marxismo-e-as-ciencias-humanas/",
           "publishedOn": "2026-05-18T21:00:00.000Z",
-          "wordCount": 14374,
+          "wordCount": 14222,
           "title": "O marxismo e as Ciências Humanas",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-11.png"
         },
