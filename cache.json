@@ -14,16 +14,6 @@
           "wordCount": 1991,
           "title": "Governo Lula demite secretário que denunciou BYD por trabalho análogo à escravidão",
           "imageUrl": "https://media.jornalofuturo.com.br/bydbrasil-1280x914.jpg"
-        },
-        {
-          "id": "GEUW6O",
-          "author": null,
-          "description": "Desde que a Prefeitura de São Paulo iniciou parcerias com grupos privados da saúde as unidades afetadas pelas novas gestões sofrem um desmonte articulado e planejado, com trabalhadores em condições de trabalho cada vez piores.",
-          "link": "https://jornalofuturo.com.br/artigo/GEUW6O-projeto-privatista-desmantela-as-unidades-de-saude-de-sao-paulo-e-aumenta-o-numero-de-mortes",
-          "publishedOn": "2026-05-14T15:00:00.000Z",
-          "wordCount": 3063,
-          "title": "Projeto privatista desmantela as unidades de saúde de São Paulo e aumenta o número de mortes",
-          "imageUrl": "https://media.jornalofuturo.com.br/ubsvilacalu-1000x667.jpg"
         }
       ]
     },
@@ -32,6 +22,16 @@
       "feedUrl": "https://averdade.org.br/feed/",
       "siteUrl": "https://averdade.org.br/",
       "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61771",
+          "author": "Jesse Lisboa",
+          "description": "Trabalhadores da limpeza urbana de Petrolina paralisaram as atividades contra a precarização extrema e as condições degradantes de trabalho. Redação Pernambuco TRABALHADOR UNIDO – Na manhã desta segunda-feira (18), as ruas de Petrolina, no Sertão de Pernambuco, amanheceram com a revolta dos trabalhadores da limpeza urbana. Cansados da humilhação e da precarização extrema, os trabalhadores […]",
+          "link": "https://averdade.org.br/2026/05/trabalhadores-da-limpeza-urbana-de-petrolina-paralisam-contra-a-exploracao/",
+          "publishedOn": "2026-05-18T23:20:51.000Z",
+          "wordCount": 5907,
+          "title": "Trabalhadores da limpeza urbana de Petrolina paralisam contra a exploração e o descaso da Prefeitura",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_7042-1.jpg"
+        },
         {
           "id": "https://averdade.org.br/?p=61767",
           "author": "Jesse Lisboa",
@@ -110,12 +110,32 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a0be152262db5aa2f8dcff7",
+          "author": "Eduardo Almeida",
+          "description": "A visita de Trump à China e suas reuniões com Xi Jinping em 14 e 15 de maio centralizaram a atenção da mídia mundial.\nTrump anunciou possibilidades de grandes negócios e acordos, levou consigo os principais dirigentes das maiores empresas norte-americanas.",
+          "link": "https://opiniaosocialista.com.br/sobre-a-cupula-trump-xi-jinping/",
+          "publishedOn": "2026-05-19T04:09:54.000Z",
+          "wordCount": 3213,
+          "title": "Sobre a cúpula Trump-Xi Jinping",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/trump-xi-jiping.webp"
+        },
+        {
+          "id": "6a0b9c28262db5aa2f8dcf92",
+          "author": "PSTU-SP",
+          "description": "Unificar as lutas em São Paulo e construir uma alternativa socialista dos trabalhadores",
+          "link": "https://opiniaosocialista.com.br/chega-de-privatizacoes-repressao-e-precarizacao/",
+          "publishedOn": "2026-05-18T23:50:26.000Z",
+          "wordCount": 1953,
+          "title": "SP: Chega de privatizações, repressão e precarização",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/ato-estaduais-sp.webp"
+        },
+        {
           "id": "6a0b4d3a262db5aa2f8dcf4c",
           "author": "Roberto Aguiar, da redação",
           "description": "Ativistas denunciam interceptações ilegais em águas internacionais e acusam Israel de sequestrar integrantes da missão humanitária\nMais de 20 embarcações civis da Global Sumud Flotilha seguem avançando em direção à Faixa de Gaza mesmo",
           "link": "https://opiniaosocialista.com.br/flotilha-global-sumud-desafia-cerco-israelense-e-segue-rumo-a-gaza-com-mais-de-20-embarcacoes-civis/",
           "publishedOn": "2026-05-18T17:41:15.000Z",
-          "wordCount": 999,
+          "wordCount": 985,
           "title": "Flotilha Global Sumud desafia cerco israelense e segue rumo a Gaza com mais de 20 embarcações civis",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/marinha-israel-1.webp"
         },
@@ -135,7 +155,7 @@
           "description": "Navios de guerra de Israel cercaram e interceptaram, nesta segunda-feira (18), a Flotilha Global Sumud em águas internacionais, a cerca de 250 milhas náuticas da Faixa de Gaza. A missão humanitária levava ativistas, médicos, jornalistas e defensores dos direitos humanos em",
           "link": "https://opiniaosocialista.com.br/marinha-israelense-intercepta-flotilha-global-sumud-em-aguas-internacionais-quatro-brasileiros-estao-a-bordo/",
           "publishedOn": "2026-05-18T12:26:04.000Z",
-          "wordCount": 1077,
+          "wordCount": 1063,
           "title": "Marinha israelense intercepta Flotilha Global Sumud em águas internacionais; quatro brasileiros estão a bordo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/signal-2026-05-18-072847.webp"
         },
@@ -145,7 +165,7 @@
           "description": "Diversas organizações políticas do Brasil emitiram nota em solidariedade a Zé Maria, presidente nacional do PSTU, diante da condenação de prisão, pela Justiça Federal de São Paulo, por denunciar o genocídio na Palestina.",
           "link": "https://opiniaosocialista.com.br/notas-das-organizacoes-politicas-brasileiras-em-solidariedade-a-ze-maria/",
           "publishedOn": "2026-05-17T15:18:15.000Z",
-          "wordCount": 1896,
+          "wordCount": 1872,
           "title": "Notas das organizações políticas brasileiras em solidariedade a Zé Maria",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/ze-maria.webp"
         },
@@ -155,7 +175,7 @@
           "description": "Movimento Xingu Vivo Para Sempre (MXVPS) manifesta sua solidariedade ao presidente e fundador do Partido Socialista dos Trabalhadores Unificado (PSTU), José Maria de Almeida, diante da condenação de prisão por denunciar o genocídio na Palestina.\nA Justiça Federal de S&",
           "link": "https://opiniaosocialista.com.br/movimento-xingu-vivo-nota-de-solidariedade-a-ze-maria-presidente-nacional-do-pstu/",
           "publishedOn": "2026-05-17T12:49:15.000Z",
-          "wordCount": 800,
+          "wordCount": 776,
           "title": "Movimento Xingu Vivo: Nota de Solidariedade a Zé Maria, presidente nacional do PSTU",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/xingu-vivo.png"
         },
@@ -165,7 +185,7 @@
           "description": "Com muita tristeza recebemos a notícia de falecimento de nosso camarada. Wellington foi militante da LIBELU e da Convergência Socialista desde o início da década de 1980. Depois, saiu do PT e ajudou a fundar o PSTU. Uma vida toda dedicada à",
           "link": "https://opiniaosocialista.com.br/wellington-rainho-presente-hoje-e-sempre-ate-o-socialismo/",
           "publishedOn": "2026-05-16T11:58:35.000Z",
-          "wordCount": 766,
+          "wordCount": 742,
           "title": "Wellington Rainho, presente hoje e sempre até o socialismo!",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/WhatsApp-Image-2026-05-16-at-08.26.33.jpeg"
         },
@@ -175,7 +195,7 @@
           "description": "Marcelo Soares, sociólogo, militante histórico do trotskismo e das lutas ecológicas do Rio Grande do Sul, filiou-se ao PSTU",
           "link": "https://opiniaosocialista.com.br/ingresso-no-pstu-um-partido-com-historia-e-insercao-na-classe-trabalhadora-historico-militante-trotskista-gaucho-anuncia-filiacao-ao-partido/",
           "publishedOn": "2026-05-15T23:19:14.000Z",
-          "wordCount": 880,
+          "wordCount": 856,
           "title": "“Ingresso no PSTU, um partido com história e inserção na classe trabalhadora”: histórico militante trotskista gaúcho anuncia filiação",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/WhatsApp-Image-2026-05-15-at-20.01.59.jpeg"
         },
@@ -185,7 +205,7 @@
           "description": "“Quando nos colocaram nos caminhões, vimos corpos empilhados ao longo da estrada como lenha. Uma mulher reconheceu seu sobrinho entre os mortos [...]. Ela começou a gritar. Ela ainda não sabia que seus três filhos haviam tido o mesmo destino. [...] A m&",
           "link": "https://opiniaosocialista.com.br/nos-78-anos-da-nakba-ecoar-as-vozes-palestinas-e-se-inspirar-na-resistencia/",
           "publishedOn": "2026-05-15T20:16:00.000Z",
-          "wordCount": 1381,
+          "wordCount": 1367,
           "title": "Nos 78 anos da Nakba, ecoar as vozes palestinas e se inspirar na resistência",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/2018-10-6_nakbaOldman_girl_nakba-1200x800.webp"
         },
@@ -205,7 +225,7 @@
           "description": "A organização internacional Global Sumud Flotilha divulgou nesta quinta-feira (14) um comunicado oficial anunciando a partida da embarcação humanitária da cidade de Marmaris, na Turquia, em direção à Faixa de Gaza. Segundo a nota, a missão, com",
           "link": "https://opiniaosocialista.com.br/flotilha-global-sumud-parte-da-turquia-rumo-a-gaza/",
           "publishedOn": "2026-05-15T14:00:12.000Z",
-          "wordCount": 1105,
+          "wordCount": 1091,
           "title": "Flotilha Global Sumud parte da Turquia rumo a Gaza",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/global-sumud-flotilha-1.webp"
         },
@@ -252,7 +272,7 @@
           "description": "Neste sábado do dia 16 ocorreu na vila de Ponta Negra um ato contra violência policial no bairro contra as operações do projeto território Seguro que vem causando terror na comunidade com a polícia invadindo casas agredindo moradores assassinando a juventude negra e assustando crianças e adolescentes na saída das escolas. \n Os moradores pediam mais educação, mais cultura, saúde, rechaçando fortemente a obra da engorda da praia, de Álvaro Dias e Paulinho Freire, que atingiu os trabalhadores (…)\n26-09-2025\n\n/ Violência policial, Rio Grande do Norte, Brutalidade policial, Natal",
           "link": "https://www.esquerdadiario.com.br/Territorio-Seguro-pra-quem-Moradores-da-Vila-de-Ponta-Negra-vao-as-ruas-contra-a-violencia-policial",
           "publishedOn": "2026-05-18T20:54:08.000Z",
-          "wordCount": 7825,
+          "wordCount": 7836,
           "title": "Território Seguro pra quem? Moradores da Vila de Ponta Negra vão às ruas contra a violência policial da PM de Fátima (PT)",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-18_at_16.40_41.jpg?1779137157"
         },
@@ -262,7 +282,7 @@
           "description": "No mês passado uma notícia chocou o país em pleno 2026 mesmo após 138 anos da abolição da escravidão. Uma empregada doméstica de 19 anos e grávida de 6 meses foi torturada pela patroa e por um Policial Militar, na cidade de Paço Lumiar no Maranhão. Samara levou chutes pelo corpo, teve os dedos pisados e foi ameaçada com uma arma. Justiça por Samara!\nMatérias\n\n/ Gênero e sexualidade, Trabalho Escravo, Escravidão , Gênero e Sexualidade, Trabalho doméstico",
           "link": "https://www.esquerdadiario.com.br/No-pais-herdeiro-da-escravidao-o-inadmissivel-e-manchete-trabalhadora-negra-e-gravida-e-torturada",
           "publishedOn": "2026-05-18T15:20:44.000Z",
-          "wordCount": 8628,
+          "wordCount": 8639,
           "title": "No país herdeiro da escravidão o inadmissível é manchete: trabalhadora negra e grávida é torturada por patroa e policial militar",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/14600524_x216.jpg?1779117934"
         },
@@ -272,7 +292,7 @@
           "description": "Abaixo a autarquização do complexo da saúde, pela recomposição das perdas salariais e em defesa de todos os terceirizados!\nMatérias\n\n/ Classe trabalhadora, Greve das estaduais paulistas, Tarcísio de Freitas, Reitoria Unicamp, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Unificar-e-coordenar-nossas-lutas-contra-Tarcisio-e-reitorias-por-educacao-e-saude",
           "publishedOn": "2026-05-17T21:04:36.000Z",
-          "wordCount": 8438,
+          "wordCount": 8449,
           "title": "Unificar e coordenar nossas lutas contra Tarcísio e reitorias por educação e saúde!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-17_at_18.02_50.jpg?1779051803"
         },
@@ -282,7 +302,7 @@
           "description": "Com mais de 20 dias de greve do funcionalismo em São Paulo, o Prefeito Ricardo Nunes, também envolvido no escândalo do Banco Master com denúncias de um edital ilegal que favoreceu a ONG que produziu o filme de Dark Horse, a biografia de Bolsonaro, publicou em diário oficial a orientação para aplicar o corte de ponto aos grevistas, depois de ter judicializado a greve numa clara perseguição sindical. Em resposta a esse ataque absurdo, os Supervisores da rede municipal de ensino que estão em greve publicaram uma carta aberta em defesa do direito de greve e pedindo para não acatarem o corte de ponto.\n26-09-2025\n\n/ Educação, Greve Professores Municipais SP, Ricardo Nunes, Greve de professores",
           "link": "https://www.esquerdadiario.com.br/Supervisores-Escolares-em-greve-publicam-carta-contra-corte-de-ponto-de-Nunes-em-SP",
           "publishedOn": "2026-05-16T19:29:20.000Z",
-          "wordCount": 8315,
+          "wordCount": 8326,
           "title": "Supervisores Escolares em greve publicam carta contra corte de ponto de Nunes em SP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/104133.jpg?1778959714"
         },
@@ -292,7 +312,7 @@
           "description": "Na sexta-feira, dia 10 de Abril de 2026, o entregador Douglas Renato Scheeffer Zwarg foi assassinado por um GCM. Seu crime? Ouvir música, pedalando, após sua última entrega. Há mais de um mês da morte do entregador Douglas Renato: seguimos exigindo justiça!\n26-09-2025\n\n/ Classe trabalhadora, Violência policial, São Paulo, Entregadores, entregador",
           "link": "https://www.esquerdadiario.com.br/Um-mes-da-morte-do-entregador-Douglas-Renato-exigimos-justica",
           "publishedOn": "2026-05-16T18:53:15.000Z",
-          "wordCount": 7945,
+          "wordCount": 7962,
           "title": "Um mês da morte do entregador Douglas Renato: exigimos justiça!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/106156.jpg?1778957466"
         },
@@ -302,7 +322,7 @@
           "description": "A prefeita da cidade de Escada no interior de Pernambuco, Mary Gouveia do PL – mesmo partido de Jair Bolsonaro e Flávio Bolsonaro – declarou apoio à candidatura de João Campos do PSB para o governo do estado. \n A prefeita da cidade de Escada no interior de Pernambuco, Mary Gouveia do PL – mesmo partido de Jair Bolsonaro e Flávio Bolsonaro – declarou apoio à candidatura de João Campos do PSB para o governo do estado. \n15-05-2026\n\n/ Política, Pernambuco, Pernambuco, João Campos (PSB-PE)",
           "link": "https://www.esquerdadiario.com.br/Apoio-de-prefeita-Bolsonarista-a-Joao-Campos-escancara-projeto-da-Frente-Ampla-de-Lula-em",
           "publishedOn": "2026-05-16T14:24:10.000Z",
-          "wordCount": 8288,
+          "wordCount": 8294,
           "title": "Apoio de prefeita Bolsonarista a João Campos escancara projeto da Frente Ampla de Lula em Pernambuco",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/images-17.jpg?1778941345"
         },
@@ -312,7 +332,7 @@
           "description": "Na tarde da quinta-feira, 14, professores da rede municipal de São Paulo foram até a Faculdade de Educação da USP e deram uma demonstração prática da unidade das lutas da educação. O acervo da biblioteca da FEUSP sofreu danos inestimáveis na última segunda-feira, 11, após o teto desabar em meio às chuvas por conta da política de sucateamento da universidade por parte do governador Tarcísio e da reitoria da universidade.\n15-05-2026\n\n/ Classe trabalhadora, USP, Educação, SINTUSP, FEUSP, Greve Professores Municipais SP, Ricardo Nunes, Tarcísio de Freitas, Reitoria USP, Trabalhadores da Educação municipal em São Paulo , Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Professores-municipais-em-greve-ajudam-trabalhadores-da-USP-a-restaurar-acervo-da-biblioteca-da",
           "publishedOn": "2026-05-15T22:44:34.000Z",
-          "wordCount": 8821,
+          "wordCount": 8838,
           "title": "Professores municipais em greve ajudam trabalhadores da USP a restaurar acervo da biblioteca da FEUSP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-15_at_11.29_31_3_.jpg?1778872091"
         },
@@ -322,7 +342,7 @@
           "description": "É hora de ir às ruas para derrotar com uma forte luta unificada o governador Tarcísio de Freitas e sua política privatista. Chamamos todos a se somarem à grande marcha rumo ao Palácio dos Bandeirantes no dia 20/5.\n15-05-2026\n\n/ Classe trabalhadora, Educação, Greve Professores Municipais SP, São Paulo, Greve de professores, Greve contra Tarcísio, Greve na USP, Greve das Federais",
           "link": "https://www.esquerdadiario.com.br/Tomar-as-ruas-no-dia-20-5-para-derrotar-Tarcisio-e-privatizacoes-com-a-forca-da-luta-unificada",
           "publishedOn": "2026-05-15T22:01:11.000Z",
-          "wordCount": 8529,
+          "wordCount": 8544,
           "title": "Tomar as ruas no dia 20/5 para derrotar Tarcísio e privatizações com a força da luta unificada",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ato_estaduais.jpg?1778882461"
         },
@@ -332,7 +352,7 @@
           "description": "Em São Paulo e Minas Gerais, onde Tarcísio e Zema tentam posar de bolsonarismo moderado, o enfraquecimento da extrema direita com o caso Master abre uma oportunidade política\n15-05-2026\n\n/ Política, Greve, Greve das estaduais paulistas, Greve Professores Municipais SP, Greve de professores, Greve contra Tarcísio, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Flavio-mente-Tarcisio-se-esquiva-e-Zema-derrapa-Aproveitar-a-crise-para-golpear-os-amigos-de",
           "publishedOn": "2026-05-15T21:44:09.000Z",
-          "wordCount": 8725,
+          "wordCount": 8736,
           "title": "Flávio mente, Tarcísio se esquiva e Zema derrapa. Aproveitar a crise para golpear os amigos de Vorcaro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/fabiano.jpg?1778881357"
         },
@@ -342,7 +362,7 @@
           "description": "No estado que é um bastião do bolsonarismo e da extrema direita mais retrógrada, a luta dos servidores e educadores municipais se ergue para enfrentar o prefeito que expulsa migrantes e que agora demitiu 209 professores em greve. A massividade e a combatividade da greve dos servidores é um exemplo para todo o país e precisa ser cercada de solidariedade para vencer\n15-05-2026\n\n/ Educação, Greve, Greve Nacional da Educação, Greve de professores, Greve na Educação, greve servidores",
           "link": "https://www.esquerdadiario.com.br/A-greve-dos-servidores-e-educadores-de-Florianopolis-precisa-vencer-Abaixo-as-demissoes-do-prefeito",
           "publishedOn": "2026-05-15T20:22:12.000Z",
-          "wordCount": 8429,
+          "wordCount": 8439,
           "title": "A greve dos servidores e educadores de Florianópolis precisa vencer! Abaixo as demissões do prefeito Topázio",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/f207052026-3.jpg?1778876454"
         },
@@ -352,7 +372,7 @@
           "description": "A data de hoje marca o fatídico dia da criação do Estado ilegítimo e genocida de Israel e o início de um processo de 78 anos de catástrofe contínua: a Nakba Palestina.\n15-05-2026\n\n/ Internacional, Palestina, #ResistePalestina, Palestina Livre, Nakba, Palestina operária e socialista",
           "link": "https://www.esquerdadiario.com.br/15-de-maio-78-anos-da-Nakba-Palestina-uma-catastrofe-continua",
           "publishedOn": "2026-05-15T20:18:31.000Z",
-          "wordCount": 8137,
+          "wordCount": 8148,
           "title": "15 de maio: 78 anos da Nakba Palestina, uma catástrofe contínua",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000379456.jpg?1778876220"
         },
@@ -362,7 +382,7 @@
           "description": "Os professores da Unicamp rejeitaram a proposta de reajuste oferecida pelo Cruesp (Conselho de Reitores das Universidades Estaduais Paulistas), de 3,47%, abaixo da inflação, representando um arrocho salarial da categoria. Eles propõem um reajuste de 3,6%, correspondente à estimativa do índice IPC-Fipe do período.\n15-05-2026\n\n/ Professores, Educação, Unicamp, Greve de professores",
           "link": "https://www.esquerdadiario.com.br/Professores-da-Unicamp-aprovam-greve-ampliando-a-luta-das-estaduais-paulistas",
           "publishedOn": "2026-05-15T18:50:42.000Z",
-          "wordCount": 7948,
+          "wordCount": 7954,
           "title": "Professores da Unicamp aprovam greve ampliando a luta das estaduais paulistas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-15_at_14.56_19.jpg?1778868235"
         },
@@ -372,29 +392,9 @@
           "description": "Os estudantes da UNESP se levantam depois que a precarização do trabalho e de infraestrutura ocasionaram a morte de uma professora por falta de cuidados médicos adequados no Instituto de Artes na Barra Funda. A reitoria é responsável!\nMatérias\n\n/ Juventude, UNESP, Educação, Greve",
           "link": "https://www.esquerdadiario.com.br/Todo-apoio-a-greve-do-Instituto-de-Artes-da-UNESP-Unificar-as-tres-estaduais-em-luta",
           "publishedOn": "2026-05-15T15:11:40.000Z",
-          "wordCount": 8248,
+          "wordCount": 8259,
           "title": "Todo apoio à greve do Instituto de Artes da UNESP! Unificar as três estaduais em luta!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/902d5154-e51d-4ab7-8d52-da655cf3b8b8.jpg?1778857895"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Por-uma-reforma-urbana-radical-em-Pernambuco-para-enfrentar-os-lucros-dos-capitalistas-e-atender-as",
-          "author": "Léo Barbosa",
-          "description": "Neste texto, discutiremos o tema da Reforma Urbana Radical, partindo do pressuposto de que as tragédias decorrentes das chuvas em Pernambuco são mais ou menos previsíveis, visto que todo ano os mesmos problemas reaparecem: enchentes, deslizamentos, pessoas desabrigadas. Ao contrário do que se possa pensar, não se tratam de tragédias naturais, mas revelam características do atual regime político e sistema econômico e mostram a negligência dos representantes políticos eleitos quanto a esse (…)\nMatérias\n\n/ Sociedade, Chuvas, Reforma Urbana, João Campos (PSB-PE), Deslizamento de terra, Raquel Lyra",
-          "link": "https://www.esquerdadiario.com.br/Por-uma-reforma-urbana-radical-em-Pernambuco-para-enfrentar-os-lucros-dos-capitalistas-e-atender-as",
-          "publishedOn": "2026-05-14T11:38:46.000Z",
-          "wordCount": 9511,
-          "title": "Por uma reforma urbana radical em Pernambuco: para enfrentar os lucros dos capitalistas e atender as demandas da população atingida pelas chuvas!",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/chuva_recife_28_05.webp?1778758675"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/O-que-a-venda-das-terras-raras-tem-a-ver-com-a-educacao-em-MG",
-          "author": "Júlia Santana",
-          "description": "A corrida pelas terras raras e pelos minerais estratégicos escancara o projeto político de subordinação das riquezas naturais, dos bens públicos e dos direitos sociais à lógica do capital financeiro, à qual a educação mineira também está profundamente integrada. \n A venda das terras raras está inserida em um cenário de disputa geopolítica entre grandes potências, especialmente entre Estados Unidos e China, em torno do controle de recursos fundamentais para a indústria tecnológica, militar e (…)\n13-05-2026\n\n/ Educação, Minas Gerais, Romeu Zema, Crise ecológica, Terras Raras, Mateus Simões",
-          "link": "https://www.esquerdadiario.com.br/O-que-a-venda-das-terras-raras-tem-a-ver-com-a-educacao-em-MG",
-          "publishedOn": "2026-05-14T10:41:35.000Z",
-          "wordCount": 8757,
-          "title": "O que a venda das terras raras tem a ver com a educação em MG?",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/2ab6227a-466c-450b-b446-535d1bd7968d-3_2_.png?1778720910"
         }
       ]
     },
@@ -613,12 +613,22 @@
       "siteUrl": "https://revistaopera.operamundi.uol.com.br",
       "articles": [
         {
+          "id": "https://revistaopera.operamundi.uol.com.br/?p=73682",
+          "author": "Struggle-La Lucha",
+          "description": "ministro da Energia de Cuba declarou, em 14 de maio, que a ilha havia esgotado todo o seu estoque de diesel e petróleo, combustíveis que alimentam sua rede elétrica. “Não temos absolutamente nenhum petróleo, absolutamente nenhum diesel. Não temos mais reservas”, afirmou Vicente de la O Levy em uma declaração televisionada. Horas depois, o diretor […]",
+          "link": "https://revistaopera.operamundi.uol.com.br/2026/05/18/depois-de-privar-cuba-de-combustivel-eua-enviam-o-chefe-da-cia-com-um-ultimato/",
+          "publishedOn": "2026-05-18T21:52:52.000Z",
+          "wordCount": 3770,
+          "title": "Depois de privar Cuba de combustível, EUA enviam o chefe da CIA com um ultimato",
+          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/cuba-1.webp"
+        },
+        {
           "id": "https://revistaopera.operamundi.uol.com.br/?p=73676",
           "author": "Mintpress News",
           "description": "Hezbollah descobriu um “truque” de baixo custo que tornou obsoleto o moderno equipamento militar de Israel: o drone com visão em primeira pessoa (FPV). Uma arma tão barata e simples que está destruindo centenas de milhões de dólares em tecnologia militar e de vigilância de Israel. Perplexas, as forças armadas israelenses sofreram cerca de 250 […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/15/como-o-hezbollah-esta-vencendo-a-tecnologia-militar-de-israel-com-drones-baratos/",
           "publishedOn": "2026-05-15T19:03:11.000Z",
-          "wordCount": 3215,
+          "wordCount": 3242,
           "title": "Como o Hezbollah está vencendo a tecnologia militar de Israel com drones baratos",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/drone-hezbollah.webp"
         },
@@ -650,12 +660,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=255101",
+          "author": "Victor Farinelli",
+          "description": "O presidente dos Estados Unidos, Donald Trump, anunciou na segunda-feira (18/05) que planejava realizar um ataque contra o Irã, mas que a medida foi adiada a pedido de líderes das monarquias absolutistas do Golfo Pérsico. A declaração foi feita em publicação na rede Truth Social, na qual o mandatário norte-americano dá a entender que a […]\nO post Trump anuncia adiamento de ataque planejado ao Irã a pedido de líderes do Golfo Pérsico apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-anuncia-adiamento-de-ataque-planejado-ao-ira-a-pedido-de-lideres-do-golfo-persico/",
+          "publishedOn": "2026-05-18T22:52:41.000Z",
+          "wordCount": 3400,
+          "title": "Trump anuncia adiamento de ataque planejado ao Irã a pedido de líderes do Golfo Pérsico",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/atrum.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255088",
+          "author": "Raissa Neves",
+          "description": "O presidente da República Luiz Inácio Lula da Silva disse nesta segunda-feira (18/05) que o Brasil não vai abrir mão de sua soberania para exploração de minerais críticos e terras raras existentes no país. Durante evento realizado em Campinas, no interior de São Paulo, Lula destacou que outros países poderão se associar ao Brasil para […]\nO post Lula defende soberania do Brasil sobre minerais críticos e terras raras apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-defende-soberania-do-brasil-sobre-minerais-criticos-e-terras-raras/",
+          "publishedOn": "2026-05-18T22:35:59.000Z",
+          "wordCount": 4582,
+          "title": "Lula defende soberania do Brasil sobre minerais críticos e terras raras",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55278414709_8e3e707422_o.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255091",
+          "author": "Raissa Neves",
+          "description": "O técnico Carlo Ancelotti convocou nesta segunda-feira (18/05), no Museu do Amanhã, no Rio de Janeiro, os 26 jogadores da Seleção Brasileira que disputarão a Copa do Mundo de 2026. A principal expectativa da convocação durante o evento, o atacante Neymar foi chamado e disputará seu quarto Mundial vestindo a camisa do Brasil. O atacante […]\nO post Seleção brasileira é convocada para Copa do Mundo de 2026 apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/esportes/selecao-brasileira-e-convocada-para-copa-do-mundo-de-2026/",
+          "publishedOn": "2026-05-18T22:35:26.000Z",
+          "wordCount": 3368,
+          "title": "Seleção brasileira é convocada para Copa do Mundo de 2026",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/convocacao_ultima_selecao_2025.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255092",
+          "author": "Victor Farinelli",
+          "description": "A presidente interina da Venezuela, Delcy Rodríguez, se referiu à decisão do seu governo de deportar o empresário colombiano Alex Saab aos Estados Unidos, durante evento público realizado nesta segunda-feira (18/05). Segundo a mandatária interina, a medida foi tomada visando “defender os interesses nacionais” venezuelanos, e descreveu o mérito da deportação como “questões que envolvem […]\nO post Presidente interina da Venezuela diz que empresário colombiano foi deportado por ‘interesses nacionais’ apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/presidente-interina-da-venezuela-diz-que-empresario-colombiano-foi-deportado-por-interesses-nacionais/",
+          "publishedOn": "2026-05-18T21:43:51.000Z",
+          "wordCount": 3066,
+          "title": "Presidente interina da Venezuela diz que empresário colombiano foi deportado por ‘interesses nacionais’",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/delcy.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=255079",
           "author": "Raissa Neves",
           "description": "O acordo entre a União Europeia e o Mercosul, que visa facilitar o comércio por meio da redução de tarifas de importação e da ampliação do acesso a mercados, apresenta desafios para as empresas, mas representa também um cenário de oportunidades, afirmou o embaixador do Brasil na Itália, Renato Mosca de Souza. Durante um evento […]\nO post Embaixador do Brasil na Itália vê cenário ‘complexo, mas oportuno’ ao defender acordo UE-Mercosul apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/embaixador-do-brasil-na-italia-ve-cenario-complexo-mas-oportuno-ao-defender-acordo-ue-mercosul/",
           "publishedOn": "2026-05-18T20:40:45.000Z",
-          "wordCount": 3240,
+          "wordCount": 3154,
           "title": "Embaixador do Brasil na Itália vê cenário ‘complexo, mas oportuno’ ao defender acordo UE-Mercosul",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/imagem_materia.jpg"
         },
@@ -665,7 +715,7 @@
           "description": "O anfitrião Xi Jinping se dirigiu ao seu convidado Donald Trump em Pequim, com altivez, para lembrar que China e Estados devem evitar a Armadilha de Tucídides – um conceito recente da geopolítica americana, desenhado por Graham Allison, que se baseia em uma tese muito simples: potências ascendentes tendem a guerrear contra a potência ainda […]\nO post Trump foi à China ter uma aula de Tucídides com Xi apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/trump-foi-a-china-ter-uma-aula-de-tucidides-com-xi/",
           "publishedOn": "2026-05-18T20:00:41.000Z",
-          "wordCount": 4814,
+          "wordCount": 4723,
           "title": "Trump foi à China ter uma aula de Tucídides com Xi",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55272173551_3b3734f85c_c.jpg"
         },
@@ -675,7 +725,7 @@
           "description": "O Ministério da Fazenda elevou de 3,7% para 4,5% a projeção de inflação para este ano, levando a estimativa oficial ao limite máximo da meta definida pelo Conselho Monetário Nacional (CMN). A revisão consta no Boletim Macrofiscal, divulgado nesta segunda-feira (18/05) pela Secretaria de Política Econômica (SPE), e reflete os impactos da guerra no Oriente […]\nO post Brasil: Ministério da Fazenda eleva estimativa de inflação devido a guerras e preço do petróleo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/brasil-ministerio-da-fazenda-eleva-estimativa-de-inflacao-devido-a-guerras-e-preco-do-petroleo/",
           "publishedOn": "2026-05-18T18:50:17.000Z",
-          "wordCount": 3608,
+          "wordCount": 3718,
           "title": "Brasil: Ministério da Fazenda eleva estimativa de inflação devido a guerras e preço do petróleo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/rafa.jpg"
         },
@@ -685,7 +735,7 @@
           "description": "O presidente da Rússia, Vladimir Putin, e o seu homólogo chinês, Xi Jinping, adotarão uma “Declaração sobre o Estabelecimento de um Mundo Multipolar e um Novo Tipo de Relações Internacionais” durante a visita do líder russo à China. A informação foi divulgada pelo assessor da presidência russa para Assuntos Internacionais, Yuri Ushakov, nesta segunda-feira (18/05), […]\nO post Putin e Xi anunciarão estabelecimento de ‘novo mundo multipolar’, afirma Kremlin apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brics/putin-e-xi-anunciarao-estabelecimento-de-novo-mundo-multipolar-afirma-kremlin/",
           "publishedOn": "2026-05-18T18:10:54.000Z",
-          "wordCount": 3148,
+          "wordCount": 3158,
           "title": "Putin e Xi anunciarão estabelecimento de ‘novo mundo multipolar’, afirma Kremlin",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/xi.jpg"
         },
@@ -695,7 +745,7 @@
           "description": "Há 53 anos, em 18 de maio de 1973, Araceli Crespo, uma menina de apenas 8 anos de idade, era raptada após sair da escola. Seu corpo seria encontrado uma semana depois, desfigurado por ácido, com sinais de tortura e abuso sexual. Os principais suspeitos do crime eram Paulo Constanteen Helal e Dante de Brito […]\nO post O Caso Araceli: o crime brutal que a ditadura tentou encobrir apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/o-caso-araceli-o-crime-brutal-que-a-ditadura-tentou-encobrir/",
           "publishedOn": "2026-05-18T17:33:57.000Z",
-          "wordCount": 4524,
+          "wordCount": 4433,
           "title": "O Caso Araceli: o crime brutal que a ditadura tentou encobrir",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/araceli3.png"
         },
@@ -705,49 +755,9 @@
           "description": "Ao lançar no Brasil o livro Além do Vale do Silício – Inteligência Artificial com Características Chinesas, o tecnólogo chinês Jeff Xiong defendeu neste sábado (16/05), um modelo socialista de utilização da inteligência artificial (IA) pelo Sul Global, em oposição frontal à abordagem capitalista adotada pelos países do Ocidente, sob liderança e influência dos Estados […]\nO post ‘Além do Vale do Silício’: livro defende ‘modelo socialista chinês’ para uso mundial da IA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/alem-do-vale-do-silicio-livro-defende-modelo-socialista-chines-para-uso-mundial-da-ia/",
           "publishedOn": "2026-05-18T17:00:01.000Z",
-          "wordCount": 4874,
+          "wordCount": 4783,
           "title": "‘Além do Vale do Silício’: livro defende ‘modelo socialista chinês’ para uso mundial da IA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/xiong.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255047",
-          "author": "Rocio Paik",
-          "description": "O presidente dos Estados Unidos, Donald Trump, errou declarar guerra contra o Irã, acredita a maioria dos eleitores norte-americanos de acordo com a pesquisa New York Times/Siena divulgada nesta segunda-feira (18/05). O levantamento conclui que o Partido Republicano, desta forma, se enquadra em uma “posição política instável” decorrente do aumento da sua desaprovação como também […]\nO post Maioria dos norte-americanos acredita que Trump errou ao declarar guerra contra Irã, aponta pesquisa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/estados-unidos/maioria-dos-norte-americanos-acredita-que-trump-errou-ao-declarar-guerra-contra-ira-aponta-pesquisa/",
-          "publishedOn": "2026-05-18T15:50:10.000Z",
-          "wordCount": 4267,
-          "title": "Maioria dos norte-americanos acredita que Trump errou ao declarar guerra contra Irã, aponta pesquisa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/a776e816-7d3a-40c9-b19b-7c043253c1c1-captura-de-tela-2026-05-17-as-20.49.03.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255044",
-          "author": "Tabitha Ramalho",
-          "description": "O partido de ultradireita Alternativa para a Alemanha (AfD) bateu neste fim de semana um novo recorde nas pesquisas e alcançou pela primeira vez 29% das intenções de voto em uma sondagem do instituto INSA. De acordo com o levantamento, realizado entre os dias 11 e 15 de maio, se as eleições fossem realizadas neste […]\nO post Ultradireita bate recorde de intenções de voto na Alemanha apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/europa/ultradireita-bate-recorde-de-intencoes-de-voto-na-alemanha/",
-          "publishedOn": "2026-05-18T15:10:25.000Z",
-          "wordCount": 3659,
-          "title": "Ultradireita bate recorde de intenções de voto na Alemanha",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/76139406_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255041",
-          "author": "Tabitha Ramalho",
-          "description": "O presidente colombiano, Gustavo Petro, denunciou no domingo (17/05) uma campanha de desinformação destinada a prejudicar a campanha eleitoral do candidato presidencial de esquerda pelo Pacto Histórico, Iván Cepeda. O presidente sugeriu publicamente que a manipulação em massa poderia estar ligada ao Hondurasgate, uma conspiração internacional da direita para desestabilizar governos progressistas na América Latina. […]\nO post Gustavo Petro denuncia campanha de fake news contra Iván Cepeda, que lidera intenções de voto apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/gustavo-petro-denuncia-campanha-de-fake-news-contra-ivan-cepeda-que-lidera-intencoes-de-voto/",
-          "publishedOn": "2026-05-18T14:29:38.000Z",
-          "wordCount": 3458,
-          "title": "Gustavo Petro denuncia campanha de fake news contra Iván Cepeda, que lidera intenções de voto",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhwjzb1aaaa8lng.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255031",
-          "author": "Tabitha Ramalho",
-          "description": "O ator espanhol Javier Bardem e a atriz judia norte-americana Hannah Einbinder declaram seu apoio à Palestina durante a semana cinematográfica do Festival de Cannes. Em uma coletiva de imprensa no domingo (17/05), Bardem declarou que o genocídio que está sendo cometido em Gaza é um “fato”. “Você pode lutar contra isso, pode tentar justificá-lo, […]\nO post Em Cannes, Javier Bardem e Hannah Einbinder declaram apoio à Palestina e criticam silêncio apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/em-cannes-javier-bardem-e-hannah-einbinder-declaram-apoio-a-palestina-e-criticam-silencio/",
-          "publishedOn": "2026-05-18T13:39:21.000Z",
-          "wordCount": 4115,
-          "title": "Em Cannes, Javier Bardem e Hannah Einbinder declaram apoio à Palestina e criticam silêncio",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/copia-de-nao-deletar-fotos-pb-breno-redacao-14.png"
         }
       ]
     },
@@ -762,6 +772,26 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=225983",
+          "author": "Redação de AND",
+          "description": "Em visita de Estado à China, o chefe do imperialismo ianque buscou vender a reunião com Xi Jinping como triunfo diplomático, mas saiu com acordos comerciais limitados, promessas vagas e sinais de que Pequim não aceitou a arrogância de Washington em temas estratégicos.",
+          "link": "https://anovademocracia.com.br/trump-sai-pequim-sem-vitorias-que-buscava/",
+          "publishedOn": "2026-05-18T22:38:03.000Z",
+          "wordCount": null,
+          "title": "Análise: Trump sai de Pequim sem as vitórias políticas que buscava",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=225976",
+          "author": "Redação de AND",
+          "description": "Para estancar o desgaste político e conter o avanço das avaliações negativas, a assessoria de propaganda de Flávio Bolsonaro estruturou, em caráter de urgência, um “plano de mídia” focado em reverter o isolamento nas plataformas digitais.",
+          "link": "https://anovademocracia.com.br/relacoes-bolsonaro-master-balancam-cupula/",
+          "publishedOn": "2026-05-18T22:26:00.000Z",
+          "wordCount": null,
+          "title": "Relações de Flávio Bolsonaro com Banco Master balançam cúpula bolsonarista",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=225952",
           "author": "Redação de AND",
@@ -841,26 +871,6 @@
           "wordCount": null,
           "title": "Claudio Castro é alvo de operação da PF contra esquema bilionário do ‘crime organizado’ no RJ",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225881",
-          "author": "Redação de AND",
-          "description": "Dados da PNAD Contínua mostram que trabalhadores por conta própria cumpriram média de 45 horas semanais no primeiro trimestre de 2026, acima da jornada de empregados e empregadores.",
-          "link": "https://anovademocracia.com.br/trabalhadores-aplicativos-autonomos-jornada/",
-          "publishedOn": "2026-05-15T21:01:42.000Z",
-          "wordCount": null,
-          "title": "Trabalhadores de aplicativos e autônomos registram as maiores jornadas de trabalho do País, aponta IBGE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=225834",
-          "author": "Ana Nascimento",
-          "description": "A situação expõe mais uma vez o abismo entre o direito constitucional à moradia e a realidade concreta das massas do povo. Parte do bairro já havia sofrido ordem de despejo em 2014. Na ocasião, a prefeitura prometeu entregar apartamentos para as famílias como forma de reparação. No entanto, apenas uma pequena parcela dos moradores foi contemplada.",
-          "link": "https://anovademocracia.com.br/comunidade-menino-jesus-denuncia-despejo/",
-          "publishedOn": "2026-05-15T17:03:56.000Z",
-          "wordCount": null,
-          "title": "SP: Comunidade Menino Jesus denuncia ameaça de despejo em São José dos Campos",
-          "imageUrl": null
         }
       ]
     },
@@ -886,6 +896,26 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3185664",
+          "author": "Arián Laguna Quiroga",
+          "description": "Multidões tomam La Paz e exigem a renúncia do presidente – eleito em outubro. Como tudo mudou, em seis meses? A curiosa estratégia de Rodrigo Paz. A traição e as leis neoliberais. A crise do MAS, a grandeza e debilidade do movimento popular\nThe post Por que a Bolívia está em chamas appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/movimentoserebeldias/por-que-bolivia-esta-em-chamas/",
+          "publishedOn": "2026-05-18T22:18:14.000Z",
+          "wordCount": 4296,
+          "title": "Por que a Bolívia está em chamas",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/18191514/photo_4927122775181299302_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3185658",
+          "author": "Roberto Amaral",
+          "description": "Justiça escolar precisa ir além da igualdade formal de acesso. E a permanência e evolução dos estudantes depende, em muito, da gestão das escolas. Debate atravessa saúde mental, construção coletiva de estratégias e relação com o território\nThe post Educação: desafios nas pequenas e médias cidades appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/desigualdades-mundo/educacao-desafios-nas-pequenas-e-medias-cidades/",
+          "publishedOn": "2026-05-18T21:55:45.000Z",
+          "wordCount": 4378,
+          "title": "Educação: desafios nas pequenas e médias cidades",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/18185310/c61v3868-9760539.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3185597",
           "author": "Thiago Gama",
@@ -965,26 +995,6 @@
           "wordCount": 7030,
           "title": "Conferência de Joëlle Pagès-Pindon",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2024/12/31191839/opzinho.png"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3185458",
-          "author": "Maurício Ayer",
-          "description": "Evento em São Paulo reúne pesquisadores de diversos países para refletir sobre autora que marcou a literatura mundial ao romper barreiras de gêneros artísticos, sexualidade e estéticas. E afirmou a “abertura” como princípio chave da relação com o mundo e o outro\nThe post Radical, intermidiática e porosa: Marguerite Duras em colóquio appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/radical-intermidiatica-e-porosa-marguerite-duras-em-coloquio/",
-          "publishedOn": "2026-05-15T21:51:12.000Z",
-          "wordCount": 4496,
-          "title": "Radical, intermidiática e porosa: Marguerite Duras em colóquio",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/15183935/WhatsApp-Image-2026-05-15-at-18.38.27.jpeg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3185437",
-          "author": "Aristóteles Berino",
-          "description": "Educador defendia a beleza da linguagem, vendo-a como um momento estético e de experimentação. É uma busca por autenticidade e a própria experiência, o que pode exigir “lutar contra a gramática para ter a liberdade de escrever” – e, inclusive, contra os chatbots\nThe post O que Paulo Freire diria sobre escrever com IA? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/historia-e-memoria/o-que-paulo-freire-diria-sobre-escrever-com-ia/",
-          "publishedOn": "2026-05-15T21:18:18.000Z",
-          "wordCount": 5020,
-          "title": "O que Paulo Freire diria sobre escrever com IA?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/15180626/1939-Paulo-Freire-07-90-Fotos-Marcio-Novaes30.jpg"
         }
       ]
     },
@@ -1012,16 +1022,6 @@
           "wordCount": 3807,
           "title": "A luta não é pra todos",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2019/02/FLAGRANTE_DELITO.png"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159214",
-          "author": "Passa Palavra",
-          "description": "Vocês podem achar estranho que o que está acontecendo na Palestina tenha passado completamente despercebido, podem ter notado certas palavras que foram censuradas, e que, até nossas declarações finais, a palavra genocídio não foi dita uma única vez. Por Leo Vinicius",
-          "link": "https://passapalavra.info/2026/05/159214/",
-          "publishedOn": "2026-05-14T10:58:37.000Z",
-          "wordCount": 5635,
-          "title": "A última declaração de Zoe Rogers do Palestine Action perante o júri",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/05/palestine-action.jpg"
         }
       ]
     },
@@ -1076,7 +1076,7 @@
           "description": "Lincoln Secco apresenta \"Diretrizes para uma política econômica brasileira\", clássico inédito de Caio Prado Jr. que chega em primeira mão aos assinantes do Armas da Crítica. Junte-se ao clube até 16 de maio de 2026 e receba o livro em casa.",
           "link": "https://blogdaboitempo.com.br/2026/05/15/os-colonizadores-vieram-erguer-uma-empresa-nao-um-pais/",
           "publishedOn": "2026-05-15T17:05:46.000Z",
-          "wordCount": 11341,
+          "wordCount": 11496,
           "title": "Os colonizadores vieram erguer uma empresa, não um país",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/banners-adc-2026-caio-prado-67-email-autor.jpg?fit=1200%2C746&ssl=1"
         },
@@ -1096,7 +1096,7 @@
           "description": "Marco Gonsales: \"Definida como um mecanismo digital de controle e monitoramento remoto da força de trabalho, operado em larga escala e em tempo real, a gestão algorítmica é o aparato técnico que permite às empresas – com a conivência dos poderes legislativos e do judiciário –, individualizar as relações de trabalho e atualizar formas históricas de intensificação do controle e da exploração.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/15/taxa-minima-por-que-a-principal-pauta-dos-trabalhadores-apavora-as-plataformas/",
           "publishedOn": "2026-05-15T11:00:00.000Z",
-          "wordCount": 13645,
+          "wordCount": 13788,
           "title": "Taxa mínima: por que a principal pauta dos trabalhadores apavora as plataformas?",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2025/04/54422631433_3bc7d4592e_k.jpg?fit=1200%2C800&ssl=1"
         },
@@ -1109,16 +1109,6 @@
           "wordCount": 12307,
           "title": "“Fanon”: a cinebiografia de Jean-Claude Barny e as perguntas que o cinema não responde",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-8.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=64272",
-          "author": "Boitempo",
-          "description": "Debates, descontos, bolo, brindes exclusivos e muito mais: prepare-se para mais uma edição da tradicional Festa de Aniversário do Marx em São Paulo. Confira a programação completa de atividades que acontecem dia 23 de maio, sábado, e chame seus camaradas para celebrar conosco!",
-          "link": "https://blogdaboitempo.com.br/2026/05/14/saiba-tudo-sobre-a-festa-de-aniversario-do-marx-em-sao-paulo/",
-          "publishedOn": "2026-05-14T11:00:00.000Z",
-          "wordCount": 11783,
-          "title": "Saiba tudo sobre a Festa de Aniversário do Marx em São Paulo",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-blog-sp-aniversario-marx_01.jpg"
         }
       ]
     }
