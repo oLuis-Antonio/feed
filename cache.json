@@ -53,12 +53,22 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61807",
+          "author": "Leonardo de Paula",
+          "description": "No dia 20 de maio, a classe trabalhadora e a juventude do estado de São Paulo realizou a Marcha em defesa dos direitos, da vida e contra o fascismo na capital paulista. A marcha, que durante todo o seu trajeto chegou a reunir mais de 30.000 pessoas, terminou no Palácio dos Bandeirantes, sede do governo […]",
+          "link": "https://averdade.org.br/2026/05/30-mil-marcham-ao-palacio-dos-bandeirantes-e-obrigam-governo-a-receber-estudantes/",
+          "publishedOn": "2026-05-21T16:21:35.000Z",
+          "wordCount": 6679,
+          "title": "30 mil marcham ao Palácio dos Bandeirantes e obrigam governo a receber estudantes",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-20-at-16.47.09.jpeg"
+        },
+        {
           "id": "https://averdade.org.br/?p=61800",
           "author": "Felipe Annunziata",
           "description": "Milhares de trabalhadores da cidade e do campo na Bolívia estão em greve geral há 9 dias pedindo a renúncia do presidente de direita neoliberal Rodrigo Paz. Redação INTERNACIONAL – As barricadas e bloqueios nas principais estradas bolivianas, acompanhadas das marchas com milhares de operários, camponeses e comunidades indígenas mostram a amplitude da mobilização do […]",
           "link": "https://averdade.org.br/2026/05/trabalhadores-se-rebelam-contra-governo-neoliberal-na-bolivia/",
           "publishedOn": "2026-05-20T23:48:52.000Z",
-          "wordCount": 6253,
+          "wordCount": 6265,
           "title": "Trabalhadores se rebelam contra governo neoliberal na Bolívia",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Bolivia-desabastecimento-e-violencia-marcam-terceira-semana-de-protestos_FOTO_19maio2026.webp"
         },
@@ -68,7 +78,7 @@
           "description": "Chegamos ao 8º capítulo da série “A história oficial Versus as lutas do proletariado brasileiro”, exclusiva para o jornal A Verdade. Nesse capítulo, movimentos importantes o como o Tenentismo, a Semana de Arte Moderna, a fundação do PCB. Ano histórico para a classe trabalhadora brasileira, que dava um salto qualitativo em organização, agitação política e […]",
           "link": "https://averdade.org.br/2026/05/1922-um-ano-de-ebulicao-no-brasil/",
           "publishedOn": "2026-05-19T22:26:28.000Z",
-          "wordCount": 7314,
+          "wordCount": 7313,
           "title": "1922: Um ano de ebulição no Brasil",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/semana-de-arte-moderna.jpg"
         },
@@ -88,7 +98,7 @@
           "description": "Trabalhadores da limpeza urbana de Petrolina paralisaram as atividades contra a precarização extrema e as condições degradantes de trabalho. Redação Pernambuco TRABALHADOR UNIDO – Na manhã desta segunda-feira (18), as ruas de Petrolina, no Sertão de Pernambuco, amanheceram com a revolta dos trabalhadores da limpeza urbana. Cansados da humilhação e da precarização extrema, os trabalhadores […]",
           "link": "https://averdade.org.br/2026/05/trabalhadores-da-limpeza-urbana-de-petrolina-paralisam-contra-a-exploracao/",
           "publishedOn": "2026-05-18T23:20:51.000Z",
-          "wordCount": 5957,
+          "wordCount": 5956,
           "title": "Trabalhadores da limpeza urbana de Petrolina paralisam contra a exploração e o descaso da Prefeitura",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/IMG_7042-1.jpg"
         }
@@ -252,7 +262,7 @@
           "description": "Nesta terça-feira foi realizado uma assembleia de autoconvocados dos bloqueios no distrito 8 de Senkata, em El Alto — um dos maiores pontos de resistência contra o golpe de Jeanine Áñez em 2019 — onde se votou pela massificação dos bloqueios e pelo desconhecimento das direções conciliadoras até a queda do governo de Rodrigo Paz.\n20-05-2026\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Assembleia-autoconvocada-de-Senkata-em-El-Alto-vota-por-massificar-os-bloqueios-pela-renuncia-de",
           "publishedOn": "2026-05-20T23:00:23.000Z",
-          "wordCount": 8586,
+          "wordCount": 8578,
           "title": "Assembleia autoconvocada de Senkata em El Alto vota por massificar os bloqueios pela renúncia de Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/cabildo_alto-31be7.jpg?1779318017"
         },
@@ -272,7 +282,7 @@
           "description": "Milhares de estudantes, professores, servidores e trabalhadores marcham nesta quarta-feira contra a precarização da educação pública, as privatizações e os ataques dos governos Tarcísio de Freitas e Ricardo Nunes. A manifestação, que seguia pacificamente rumo ao Palácio dos Bandeirantes, foi bloqueada pela Polícia Militar a cerca de 400 metros da entrada do palácio.\n20-05-2026\n\n/ USP, Educação, São Paulo, UNESP, Unicamp, Educação, PM São Paulo, precarização",
           "link": "https://www.esquerdadiario.com.br/Milhares-marcham-pela-educacao-e-PM-de-Tarcisio-bloqueia-ato-pacifico-rumo-ao-Palacio-dos",
           "publishedOn": "2026-05-20T22:29:59.000Z",
-          "wordCount": 8092,
+          "wordCount": 8099,
           "title": "Milhares marcham pela educação e PM de Tarcísio bloqueia ato pacífico rumo ao Palácio dos Bandeirantes",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/pm2.jpg?1779318573"
         },
@@ -524,6 +534,21 @@
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
         {
+          "id": "https://www.intercept.com.br/?p=443288",
+          "author": "Cecília Olliveira",
+          "description": "Em mensagens obtidas pelo Intercept, banqueiro mostrou irritação sobre notícia que revelava a produção do filme sobre Bolsonaro.\nO post Portal Leo Dias apagou matéria sobre ‘Dark Horse’ após bronca de Vorcaro apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/05/21/leo-dias-dark-horse-bronca-vorcaro/",
+          "publishedOn": "2026-05-21T16:36:29.000Z",
+          "wordCount": null,
+          "title": "Portal Leo Dias apagou matéria sobre ‘Dark Horse’ após bronca de Vorcaro",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/05/leo-dias-vorcaro-miranda-header.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/05/leo-dias-vorcaro-miranda-header.png"
+        },
+        {
           "id": "https://www.intercept.com.br/?p=443277",
           "author": "Bianca Pyl",
           "description": "O escândalo do Banco Master revela como os ultra-ricos e a extrema direita se associam para moldar a política, mostrando que a raiz da corrupção no Brasil está fincada no sistema capitalista.\nO post Envolvimento da família Bolsonaro com Vorcaro escancara a engrenagem da corrupção no Brasil apareceu primeiro em Intercept Brasil.",
@@ -690,23 +715,53 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=255395",
+          "author": "Victor Farinelli",
+          "description": "As Avós da Praça de Maio, organização que se dedica à tentar recuperar a identidade dos filhos de opositores da última ditadura argentina (ocorrida entre 1976-1983) sequestrados durante o regime, apresentou nesta quinta-feira (21/05) um pedido formal à Justiça argentina para evitar o corte de verbas Banco Nacional de Dados Genéticos (BNDG) por parte do […]\nO post Governo Milei ameaça cortar verbas para banco genético utilizado na busca de crianças roubadas pela ditadura apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/governo-milei-ameaca-cortar-verbas-para-banco-genetico-utilizado-na-busca-de-criancas-roubadas-pela-ditadura/",
+          "publishedOn": "2026-05-21T17:30:26.000Z",
+          "wordCount": 3134,
+          "title": "Governo Milei ameaça cortar verbas para banco genético utilizado na busca de crianças roubadas pela ditadura",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/bndg.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255379",
+          "author": "Raissa Neves",
+          "description": "Não são poucas as pessoas que se emocionam ao contemplar pessoalmente a “Pietà”, obra-prima do mestre renascentista Michelangelo (1475-1564) conservada no interior da Basílica de São Pedro, no Vaticano. Da perfeição anatômica das figuras ao acabamento extremamente delicado do mármore, polido ao ponto de evocar a maciez da pele humana, tudo na “Pietà” impressiona. O […]\nO post Vandalismo no Vaticano: o ataque de Laszlo Toth à ‘Pietà’ de Michelangelo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/pensar-a-historia/vandalismo-no-vaticano-o-ataque-de-laszlo-toth-a-pieta-de-michelangelo/",
+          "publishedOn": "2026-05-21T16:50:10.000Z",
+          "wordCount": 4616,
+          "title": "Vandalismo no Vaticano: o ataque de Laszlo Toth à ‘Pietà’ de Michelangelo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1_fje7zzna6zyflj0ssgaoma-1.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255378",
+          "author": "Rocio Paik",
+          "description": "Em meio ao escândalo envolvendo o banqueiro Daniel Vorcaro, o senador e pré-candidato à Presidência brasileira, Flávio Bolsonaro, deve viajar aos Estados Unidos na segunda-feira (25/05) para um possível encontro com o mandatário norte-americano Donald Trump, de acordo com a reportagem de O Globo publicada nesta sexta-feira (21/05). As informações partem de integrantes da campanha […]\nO post Flávio Bolsonaro viaja aos EUA para encontro com Trump em meio a escândalos do Caso Master apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/flavio-bolsonaro-viaja-aos-eua-para-encontro-com-trump-em-meio-a-escandalos-do-caso-master/",
+          "publishedOn": "2026-05-21T16:10:01.000Z",
+          "wordCount": 3220,
+          "title": "Flávio Bolsonaro viaja aos EUA para encontro com Trump em meio a escândalos do Caso Master",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/ctepetr_-_comissao_temporaria_externa_destinada_a_acompanhar__in_loco__a_situacao_do_municipio_de_petropolis-rj_52068362266.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=255368",
           "author": "Tatiana Carlotti",
           "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (21/05) que pretende conversar diretamente com o presidente de Taiwan, Lai Ching-te. “Vou falar com ele”, declarou a jornalistas, em Maryland, antes de embarcar no Air Force One. “Eu falo com todo mundo… Vamos trabalhar nisso, no problema de Taiwan”, acrescentou Trump. A declaração ocorre […]\nO post Trump afirma que conversará com presidente de Taiwan após visita a Pequim: ‘falo com todo mundo’ apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/trump-afirma-que-conversara-com-presidente-de-taiwan-apos-visita-a-pequim-falo-com-todo-mundo/",
           "publishedOn": "2026-05-21T15:30:31.000Z",
-          "wordCount": 3218,
+          "wordCount": 3223,
           "title": "Trump afirma que conversará com presidente de Taiwan após visita a Pequim: ‘falo com todo mundo’",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/trump-daniel-torok.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=255369",
           "author": "Rocio Paik",
-          "description": "O governo do Brasil declarou que “deplora o tratamento degradante e humilhante dispensado por autoridades israelenses” após o vídeo publicado pelo próprio ministro da Segurança Interna de Israel, Itamar Ben-Gvir, que mostra os ativistas pró-Palestina da Flotilha Global Sumud, mantidos sob custódia após serem sequestrados pela Marinha israelense em águas internacionais, sendo humilhados e agredidos […]\nO post Brasil condena ‘tratamento degradante e humilhante’ de Israel contra ativistas da flotilha apareceu primeiro em Opera Mundi.",
+          "description": "O governo do Brasil declarou que “deplora o tratamento degradante e humilhante dispensado por autoridades israelenses” após o vídeo publicado pelo próprio ministro da Segurança Interna de Israel, Itamar Ben-Gvir, que mostra os ativistas pró-Palestina da Flotilha Global Sumud, mantidos sob custódia após serem sequestrados pela Marinha israelense em águas internacionais, sendo humilhados e agredidos […]\nO post Brasil condena ‘tratamento degradante’ de Israel contra ativistas da flotilha apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/brasil-condena-tratamento-degradante-e-humilhante-de-israel-contra-ativistas-da-flotilha/",
           "publishedOn": "2026-05-21T14:48:47.000Z",
-          "wordCount": 2981,
-          "title": "Brasil condena ‘tratamento degradante e humilhante’ de Israel contra ativistas da flotilha",
+          "wordCount": 2986,
+          "title": "Brasil condena ‘tratamento degradante’ de Israel contra ativistas da flotilha",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/fotojet-58-1024x640-2.webp"
         },
         {
@@ -715,7 +770,7 @@
           "description": "A organização de direitos humanos Cristosal e familiares da advogada salvadorenha Ruth López divulgaram um comunicado exigindo que o governo de Nayib Bukele informe imediatamente sobre o estado de saúde da ativista. Reconhecida mundialmente por denunciar as arbitrariedades do governo salvadorenho, ela foi detida em maio de 2025 e segue em prisão preventiva, sem julgamento. No […]\nO post Organização exige notícias e libertação de advogada presa há um ano em El Salvador apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/organizacao-exige-noticias-e-libertacao-de-advogada-presa-ha-um-ano-em-el-salvador/",
           "publishedOn": "2026-05-21T13:41:42.000Z",
-          "wordCount": 3163,
+          "wordCount": 3087,
           "title": "Organização exige notícias e libertação de advogada presa há um ano em El Salvador",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/ruth-lopez-wikipedia-commons.jpg"
         },
@@ -725,7 +780,7 @@
           "description": "Países como Espanha, Itália e França, entre outros, condenaram e convocaram seus embaixadores e representantes israelenses após a divulgação do vídeo do ministro da Segurança Nacional, Itamar Ben-Gvir, supervisionando os maus-tratos e humilhando os ativistas da Flotilha Global Sumud, que se dirigia a Gaza, detidos ilegalmente no porto de Ashdod. Já os Estados Unidos, por […]\nO post Espanha, Itália e França convocam embaixadores israelenses após vídeo de agressões contra ativistas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/espanha-italia-e-franca-convocam-embaixadores-israelenses-sobre-video-de-ben-gvir-humilhando-ativistas/",
           "publishedOn": "2026-05-21T13:10:51.000Z",
-          "wordCount": 5827,
+          "wordCount": 5832,
           "title": "Espanha, Itália e França convocam embaixadores israelenses após vídeo de agressões contra ativistas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-21-100619.png"
         },
@@ -735,7 +790,7 @@
           "description": "O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baghaei, afirmou nesta quarta-feira (20/05) que Teerã está analisando a contraproposta encaminhada por Washington para o cessar-fogo. “Recebemos as opiniões do lado americano e estamos revisando-as”, declarou Baghaei, segundo informação da agência estatal Nour News. Ele relatou que “com base no texto original dos 14 […]\nO post Irã revisa contraproposta dos Estados Unidos para cessar-fogo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-revisa-proposta-dos-estados-unidos-para-cessar-fogo/",
           "publishedOn": "2026-05-21T12:19:01.000Z",
-          "wordCount": 3193,
+          "wordCount": 3198,
           "title": "Irã revisa contraproposta dos Estados Unidos para cessar-fogo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/02/abbas_araghchi_2019-1-e1776793645406.webp"
         },
@@ -745,7 +800,7 @@
           "description": "A representação diplomática da Bolívia na Colômbia foi oficialmente encerrada nesta quarta-feira (20/05), após notificação do governo colombiano sobre o término das funções de Ariel Percy Molina Pimentel, que era o responsável pela Embaixada da Bolívia em Bogotá. O anúncio foi feito por meio de um comunicado oficial do Ministério das Relações Exteriores da Colômbia, […]\nO post Colômbia encerra representação diplomática da Bolívia no país apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/colombia-encerra-representacao-diplomatica-da-bolivia/",
           "publishedOn": "2026-05-21T10:31:50.000Z",
-          "wordCount": 3111,
+          "wordCount": 3118,
           "title": "Colômbia encerra representação diplomática da Bolívia no país",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/10/251017-07-alocucion-del-presidente-de-la-republica-gustavo-petro-urrego-1280.webp"
         },
@@ -755,39 +810,9 @@
           "description": "A Rússia e a China emitiram declarações nesta quinta-feira (21/05) repudiando a escalada das ameaças norte-americanas contra Cuba. Moscou condenou o endurecimento das sanções econômicas impostas à ilha e classificou a estratégia de Washington como uma “encarnação cínica” da Doutrina Monroe. Pequim repudiou as acusações apresentadas nesta quarta-feira (20/05) pelo Departamento de Justiça norte-americano contra […]\nO post Rússia e China condenam ameaças dos EUA a Cuba e reiteram ‘firme apoio’ a Havana apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/russia-e-china-condenam-ameacas-dos-eua-a-cuba-e-reiteram-firme-apoio-a-havana/",
           "publishedOn": "2026-05-21T10:20:15.000Z",
-          "wordCount": 3393,
+          "wordCount": 3483,
           "title": "Rússia e China condenam ameaças dos EUA a Cuba e reiteram ‘firme apoio’ a Havana",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/6a0e56d3a310d68600fde7e9.png"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255327",
-          "author": "Tabitha Ramalho",
-          "description": "O porta-aviões USS Nimitz e seu grupo de ataque entraram no Mar do Caribe na quarta-feira (20/05), informou o Comando Sul, em meio a crescentes ameaças e pressão contra Cuba e no mesmo dia em que o Departamento de Justiça dos EUA apresentou acusações contra o líder da Revolução Cubana, o general do Exército Raúl […]\nO post Porta-aviões dos EUA chega ao Caribe em meio à escalada de ameaças contra Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/porta-avioes-dos-eua-chega-ao-caribe-em-meio-a-escalada-de-ameacas-contra-cuba/",
-          "publishedOn": "2026-05-21T09:55:26.000Z",
-          "wordCount": 2953,
-          "title": "Porta-aviões dos EUA chega ao Caribe em meio à escalada de ameaças contra Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1280px-uss_nimitz_cvn-68.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255306",
-          "author": "Raissa Neves",
-          "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (20/05) que as recentes negociações com o Irã estão em fase final. No entanto, faz novas ameaças para possibilidade de ataques caso não haja um acordo com Teerã, segundo a agência Reuters. Trump suspendeu a Operação Fúria Épica após retaliações de Teerã e abriu negociações […]\nO post Trump diz que negociações com Irã estão em ‘fase final’, mas ameaça ataques; Teerã reage apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/trump-diz-que-negociacoes-com-ira-estao-em-fase-final-mas-ameaca-ataques-teera-reage/",
-          "publishedOn": "2026-05-20T22:00:22.000Z",
-          "wordCount": 3406,
-          "title": "Trump diz que negociações com Irã estão em ‘fase final’, mas ameaça ataques; Teerã reage",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/p20260511mr-1556.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255314",
-          "author": "Raissa Neves",
-          "description": "O presidente Luiz Inácio Lula da Silva assinou, nesta quarta-feira (20/05), decreto que atualiza a regulamentação do Marco Civil da Internet. O texto trata dos deveres e possibilita a responsabilização das plataformas digitais sobre os conteúdos distribuídos em seus ecossistemas. A medida ainda atribui competência à Autoridade Nacional de Proteção de Dados (ANPD) para regular, […]\nO post Lula assina decreto das plataformas digitais que prevê responsabilização de big techs apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/lula-assina-regulacao-das-plataformas-digitais-e-preve-responsabilizacao-de-big-techs/",
-          "publishedOn": "2026-05-20T21:06:05.000Z",
-          "wordCount": 3476,
-          "title": "Lula assina decreto das plataformas digitais que prevê responsabilização de big techs",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/pzzb1777.jpg"
         }
       ]
     },
@@ -920,7 +945,7 @@
           "description": "Avança, no Senado, proposta “modernizadora” apoiada por bancos, mídia e direita. Efeitos: atar o BC aos rentistas. Isolá-lo, por orçamento nababesco, dos dramas do país. Tirar de funcionários a força necessária para enfrentar a oligarquia financeira\nThe post Banco Central: “Autonomia” ou Privatização? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/banco-central-autonomia-ou-privatizacao/",
           "publishedOn": "2026-05-20T22:22:06.000Z",
-          "wordCount": 5278,
+          "wordCount": 5340,
           "title": "Banco Central: “Autonomia” ou Privatização?",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/20192117/photo_4931524365040421897_w1.jpg"
         },
@@ -1048,6 +1073,16 @@
       "feedUrl": "https://blogdaboitempo.com.br/feed/",
       "siteUrl": "https://blogdaboitempo.com.br",
       "articles": [
+        {
+          "id": "http://blogdaboitempo.com.br/?p=64469",
+          "author": "Boitempo",
+          "description": "Depois do Rio de Janeiro, onde as aulas já começaram, é a vez do curso livre Marx-Engels chegar a Salvador, Brasília, Florianópolis e Vitória. Confira abaixo a programação completa de cada cidade, inscreva-se para acompanhar as aulas gratuitas com grandes especialistas e saiba como garantir seu certificado.",
+          "link": "https://blogdaboitempo.com.br/2026/05/21/curso-livre-marx-engels-o-essencial-chega-a-novas-cidades-nao-perca/",
+          "publishedOn": "2026-05-21T17:40:21.000Z",
+          "wordCount": 12171,
+          "title": "“Curso Livre Marx-Engels: O Essencial” chega a novas cidades. Não perca!",
+          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-blog-curso-livre-marx-engels-2026-cidades_09.jpg"
+        },
         {
           "id": "http://blogdaboitempo.com.br/?p=64459",
           "author": "Boitempo",
