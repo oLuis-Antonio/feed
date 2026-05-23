@@ -402,7 +402,7 @@
           "description": "Nesta terça-feira foi realizado uma assembleia de autoconvocados dos bloqueios no distrito 8 de Senkata, em El Alto — um dos maiores pontos de resistência contra o golpe de Jeanine Áñez em 2019 — onde se votou pela massificação dos bloqueios e pelo desconhecimento das direções conciliadoras até a queda do governo de Rodrigo Paz.\n20-05-2026\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Assembleia-autoconvocada-de-Senkata-em-El-Alto-vota-por-massificar-os-bloqueios-pela-renuncia-de",
           "publishedOn": "2026-05-20T23:00:23.000Z",
-          "wordCount": 8562,
+          "wordCount": 8558,
           "title": "Assembleia autoconvocada de Senkata em El Alto vota por massificar os bloqueios pela renúncia de Paz",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/cabildo_alto-31be7.jpg?1779318017"
         },
@@ -492,7 +492,7 @@
           "description": "Em um novo episódio de escalada repressiva contra a solidariedade internacional com a Palestina, navios de guerra israelenses interceptaram nesta segunda-feira a Global Sumud Flotilla em águas internacionais do Mediterrâneo, a cerca de 250 milhas náuticas de Gaza. \n A missão humanitária, composta por 54 embarcações civis, havia partido dias antes de Marmaris, na Turquia, com o objetivo de abrir um corredor de ajuda humanitária e desafiar o bloqueio imposto pelo Estado de Israel à Faixa de (…)\n20-05-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Liberdade-ja-para-os-4-brasileiros-e-todos-os-428-sequestrados-da-Global-Sumud-Flotilha",
           "publishedOn": "2026-05-20T11:42:20.000Z",
-          "wordCount": 7889,
+          "wordCount": 7876,
           "title": "Liberdade já para os 4 brasileiros e todos os 428 sequestrados da Global Sumud Flotilha",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/7958ebe4-da75-4fd6-8c96-20403fc0a78b.jpg?1779277329"
         },
@@ -583,6 +583,21 @@
       "feedUrl": "https://www.intercept.com.br/feed/",
       "siteUrl": "https://www.intercept.com.br/",
       "articles": [
+        {
+          "id": "https://www.intercept.com.br/?p=443368",
+          "author": "Isabella Mota",
+          "description": "De repasses aos mandantes do caso Marielle a esquemas bilionários de sonegação, a avalanche de denúncias cria um oceano de lama que ameaça afundar o projeto nacional do clã.\nO post O preço de Flávio 2026: Como os novos escândalos do senador assombram a direita apareceu primeiro em Intercept Brasil.",
+          "link": "https://www.intercept.com.br/2026/05/23/escandalos-flavio-bolsonaro-assombram-direita/",
+          "publishedOn": "2026-05-23T10:00:00.000Z",
+          "wordCount": null,
+          "title": "O preço de Flávio 2026: Como os novos escândalos do senador assombram a direita",
+          "enclosure": {
+            "url": "https://uploads.intercept.com.br/2026/05/Wando4.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://uploads.intercept.com.br/2026/05/Wando4.jpg"
+        },
         {
           "id": "https://www.intercept.com.br/?p=443288",
           "author": "Cecília Olliveira",
@@ -758,7 +773,7 @@
           "description": "s cenas que se desenrolaram em Pequim foram cuidadosamente coreografadas, mas a política nunca pode ser reduzida a mero espetáculo. Quando o presidente dos EUA, Donald Trump, viajou à China para sua reunião de alto nível com Xi Jinping, a mídia ocidental, como costuma fazer, fixou-se no espetáculo: banquetes luxuosos, guardas de honra, gestos teatrais […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/21/donald-trump-foi-a-pequim-de-chapeu-na-mao-e-partiu-com-um-aperto-de-mao-de-xi-jinping/",
           "publishedOn": "2026-05-21T22:03:05.000Z",
-          "wordCount": 3873,
+          "wordCount": 3871,
           "title": "Donald Trump foi a Pequim de chapéu na mão e partiu com um aperto de mão de Xi Jinping",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/trump-1.webp"
         },
@@ -778,7 +793,7 @@
           "description": "cidade de São Paulo é um dos berços da cultura de torcida organizada no Brasil. Discussões históricas tentam definir qual foi, verdadeiramente, a primeira torcida de caráter organizado/uniformizado no país, havendo um embate entre a TUSP (Torcida Uniformizada do São Paulo) e a chamada “Corinthians Torcida”, ou “Torcida Uniformizada do Corinthians”. Apesar de os termos […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/20/10-anos-de-torcida-unica-em-sao-paulo-a-politica-de-estado-que-quer-enterrar-a-cultura-de-arquibancada/",
           "publishedOn": "2026-05-20T18:24:11.000Z",
-          "wordCount": 4327,
+          "wordCount": 4409,
           "title": "10 anos de torcida única em São Paulo: a política de estado que quer enterrar a cultura de arquibancada",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/torcida-sao-paulo-1.jpg"
         },
@@ -788,19 +803,9 @@
           "description": "governo Donald Trump estaria considerando abrir um processo criminal, nessa quarta-feira (20), contra o ex-presidente cubano Raúl Castro, pela derrubada de dois aviões em 1996, de acordo com fontes do Departamento de Estado que falaram à Reuters. Dadas as similaridades das medidas contra Cuba nos últimos meses com o modus operandi dos Estados Unidos no […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/19/por-que-os-eua-querem-processar-o-ex-presidente-cubano-raul-castro/",
           "publishedOn": "2026-05-19T21:53:35.000Z",
-          "wordCount": 4770,
+          "wordCount": 4688,
           "title": "Por que os EUA querem processar o ex-presidente cubano Raúl Castro?",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/raul-castro-cuba.webp"
-        },
-        {
-          "id": "https://revistaopera.operamundi.uol.com.br/?p=73682",
-          "author": "Struggle-La Lucha",
-          "description": "ministro da Energia de Cuba declarou, em 14 de maio, que a ilha havia esgotado todo o seu estoque de diesel e petróleo, combustíveis que alimentam sua rede elétrica. “Não temos absolutamente nenhum petróleo, absolutamente nenhum diesel. Não temos mais reservas”, afirmou Vicente de la O Levy em uma declaração televisionada. Horas depois, o diretor […]",
-          "link": "https://revistaopera.operamundi.uol.com.br/2026/05/18/depois-de-privar-cuba-de-combustivel-eua-enviam-o-chefe-da-cia-com-um-ultimato/",
-          "publishedOn": "2026-05-18T21:52:52.000Z",
-          "wordCount": 3876,
-          "title": "Depois de privar Cuba de combustível, EUA enviam o chefe da CIA com um ultimato",
-          "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/cuba-1.webp"
         }
       ]
     },
@@ -815,7 +820,7 @@
           "description": "A Corte de Cassação da Itália, em decisão anunciada nesta sexta-feira (22/05), anulou a decisão tomada em março passado pelo Tribunal de Apelação de Roma que autorizava a extradição para o Brasil da ex-deputada federal Carla Zambelli (PL-SP). O tribunal também determinou a soltura imediata da política brasileira, que estava presa no país europeu desde […]\nO post Justiça italiana nega extradição de Zambelli ao Brasil e determina soltura apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/justica-italiana-nega-extradicao-de-zambelli-ao-brasil-e-determina-soltura/",
           "publishedOn": "2026-05-22T22:00:35.000Z",
-          "wordCount": 3001,
+          "wordCount": 2998,
           "title": "Justiça italiana nega extradição de Zambelli ao Brasil e determina soltura",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/zambelli.jpg"
         },
@@ -825,7 +830,7 @@
           "description": "Donald Trump retorna de sua passagem pela China sem a demonstração de força que desejava projetar ao mundo. Sem concessões públicas relevantes, sem alinhamento estratégico visível de Pequim contra Teerã e sem a imagem de um líder capaz de reorganizar, à força, o tabuleiro geopolítico global.  O episódio, por si só, já seria eloquente. Mas, […]\nO post Pequim não obedece ao império, e Teerã resiste apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/pequim-nao-obedece-ao-imperio-e-teera-resiste/",
           "publishedOn": "2026-05-22T20:46:03.000Z",
-          "wordCount": 3997,
+          "wordCount": 3994,
           "title": "Pequim não obedece ao império, e Teerã resiste",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55272186826_c132dd307e_c.jpg"
         },
@@ -835,7 +840,7 @@
           "description": "Há 59 anos, em 22 de maio de 1967, falecia o poeta, dramaturgo e militante dos direitos civis Langston Hughes. Considerado um dos maiores intelectuais norte-americanos do século 20, Hughes foi pioneiro da “jazz poetry” e um dos líderes do chamado “Renascimento do Harlem”, célebre movimento de valorização das expressões culturais afro-americanas. Ao longo de […]\nO post Langston Hughes, o poeta da resistência negra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/langston-hughes-o-poeta-da-resistencia-negra/",
           "publishedOn": "2026-05-22T20:20:27.000Z",
-          "wordCount": 6035,
+          "wordCount": 6032,
           "title": "Langston Hughes, o poeta da resistência negra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/langston_hughes_by_carl_van_vechten_trim.jpg"
         },
@@ -845,7 +850,7 @@
           "description": "Em comunicado emitido nesta sexta-feira (22/05), a Organização Mundial da Saúde (OMS) alertou sobre um aumento significativo na quantidade de casos suspeitos de ebola registrados na República Democrática do Congo. Segundo a entidade, em uma semana, o país passou de ter 246 casos suspeitos, com 65 mortes, para 750 casos em investigação, e um total […]\nO post OMS afirma que casos suspeitos de ebola triplicaram na República Democrática do Congo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/oms-afirma-que-casos-suspeitos-de-ebola-triplicaram-na-republica-democratica-do-congo/",
           "publishedOn": "2026-05-22T19:20:31.000Z",
-          "wordCount": 3122,
+          "wordCount": 3119,
           "title": "OMS afirma que casos suspeitos de ebola triplicaram na República Democrática do Congo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/oms.jpg"
         },
@@ -855,7 +860,7 @@
           "description": "O ex-presidente da Bolívia, Evo Morales, declarou que a atual crise no país, que culminou em amplos protestos convocados por diversas organizações sindicais desde o início de maio, decorre do retorno das políticas que ele mesmo combateu ao longo de seus 14 anos de mandato. “A origem é o retorno ao modelo neoliberal”, afirmou o […]\nO post ‘Protestos na Bolívia são revolta popular contra modelo neoliberal’, diz Evo Morales apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/protestos-na-bolivia-sao-revolta-popular-contra-modelo-neoliberal-diz-evo-morales/",
           "publishedOn": "2026-05-22T18:13:16.000Z",
-          "wordCount": 3744,
+          "wordCount": 3741,
           "title": "‘Protestos na Bolívia são revolta popular contra modelo neoliberal’, diz Evo Morales",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/conferencia_de_prensa_de_evo_morales_en_el_museo_de_la_ciudad_de_mexico_2.jpg"
         },
@@ -865,7 +870,7 @@
           "description": "O governo brasileiro, Ministério Público, instituições científicas e pesquisadores do Brasil vêm trabalhando para restituir fósseis de dinossauros e outros patrimônios naturais ou culturais espalhados por, pelos menos, 14 países. Conhecida como colonialismo científico, prática prejudica ciência e os museus brasileiros. De acordo com o Ministério das Relações Exteriores (MRE), há pelo menos 20 negociações […]\nO post Brasil pede devolução de patrimônio exibido em museus de 14 países apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/brasil-pede-devolucao-de-patrimonio-natural-e-cultural-exibido-em-museus-de-14-paises/",
           "publishedOn": "2026-05-22T17:40:50.000Z",
-          "wordCount": 4543,
+          "wordCount": 4540,
           "title": "Brasil pede devolução de patrimônio exibido em museus de 14 países",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/fossil.jpg"
         },
@@ -875,7 +880,7 @@
           "description": "Seis meses após assumir o governo da Bolívia, o presidente Rodrigo Paz enfrenta uma escalada de protestos em todo o país. As manifestações ocorrem há três semanas e englobam diversos setores, como mineiros, operários, motoristas, professores e camponeses contrários às políticas neoliberais do governo. Diretamente de El Alto, segunda maior cidade do país, Felipe Limarino, […]\nO post ‘Bolivianos estão defendendo país da subserviência do governo aos EUA’, afirma especialista apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/bolivianos-estao-defendendo-pais-da-subserviencia-do-governo-aos-eua-afirma-especialista/",
           "publishedOn": "2026-05-22T17:00:29.000Z",
-          "wordCount": 4345,
+          "wordCount": 4342,
           "title": "‘Bolivianos estão defendendo país da subserviência do governo aos EUA’, afirma especialista",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/imagem-2.jpeg"
         },
@@ -885,7 +890,7 @@
           "description": "A cidade de Havana, capital de Cuba, registrou na manhã desta sexta-feira (22/05) uma grande marcha em apoio ao ex-presidente Raúl Castro (2006-2018), um dos heróis da Revolução Cubana (1953-1959). A convocação do ato foi uma iniciativa da União das Juventudes Comunistas, razão pela qual os estudantes lideraram o evento, que contou com o apoio […]\nO post Cubanos marcham em apoio a Raúl Castro e contra ameaça de intervenção dos EUA apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/cubanos-marcham-em-apoio-a-raul-castro-e-contra-ameaca-de-intervencao-dos-eua/",
           "publishedOn": "2026-05-22T16:15:16.000Z",
-          "wordCount": 3147,
+          "wordCount": 3144,
           "title": "Cubanos marcham em apoio a Raúl Castro e contra ameaça de intervenção dos EUA",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/raul.jpg"
         },
@@ -895,7 +900,7 @@
           "description": "O Ministério Público de Roma ampliou as investigações sobre a interceptação ilegal da Flotilha Global Sumud por autoridades israelenses. Segundo informações divulgadas nesta sexta-feira (22/05), os magistrados da Piazzale Clodio analisam o vídeo divulgado nas redes sociais pelo ministro da Segurança Nacional de Israel, Itamar Ben-Gvir — que mostram integrantes da missão ajoelhados, algemados e […]\nO post Itália investiga interceptação de flotilha por Israel após relatos de tortura e agressão sexual apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/israel-x-palestina/italia-investiga-interceptacao-de-flotilha-por-israel-apos-relatos-de-tortura-e-agressao-sexual/",
           "publishedOn": "2026-05-22T15:25:12.000Z",
-          "wordCount": 4026,
+          "wordCount": 4023,
           "title": "Itália investiga interceptação de flotilha por Israel após relatos de tortura e agressão sexual",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-22-at-12.21.54.jpeg"
         },
@@ -905,17 +910,11 @@
           "description": "A Marinha do Corpo da Guarda Revolucionária do Irã (IRGC, na sigla em inglês) autorizou, nas últimas 24 horas, um total de 35 navios, incluindo petroleiros, porta-contêineres e embarcações comerciais, a cruzarem o Estreito de Ormuz sob “coordenação e garantia de segurança”, conforme relatou nesta sexta-feira (22/05) a agência Tasnim. O estratégico tráfego comercial segue […]\nO post Irã autorizou passagem de 35 navios por Ormuz nas últimas 24 horas, diz agência apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-autorizou-passagem-de-35-navios-por-ormuz-nas-ultimas-24-horas-diz-agencia/",
           "publishedOn": "2026-05-22T14:40:09.000Z",
-          "wordCount": 3218,
+          "wordCount": 3215,
           "title": "Irã autorizou passagem de 35 navios por Ormuz nas últimas 24 horas, diz agência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1405012217173938436372744.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
@@ -1169,7 +1168,7 @@
           "description": "\"No capitalismo, por assim dizer, a economia manda e todo o restante do edifício social se organiza em torno disso. Na transição ao socialismo, embora a economia imponha limites e possibilidades que clamam pela revolução mundial, quem 'manda' é a política.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/22/no-socialismo-quem-manda-e-a-politica-entrevista-com-roberto-saenz-autor-de-o-marxismo-e-a-transicao-socialista/",
           "publishedOn": "2026-05-22T17:00:00.000Z",
-          "wordCount": 13547,
+          "wordCount": 13404,
           "title": "“No socialismo, quem ‘manda’ é a política”: entrevista com Roberto Sáenz, autor de “O marxismo e a transição socialista”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-19.png?fit=1200%2C596&ssl=1"
         },
@@ -1179,7 +1178,7 @@
           "description": "Jorge Grespan apresenta \"O inimigo do apocalipse\", de Felipe Catalani, livro do mês do Armas da Crítica: \"Ainda pouco conhecida no Brasil, a obra de Günther Anders é examinada com uma precisão conceitual que não deixa de lado a poesia de sua prosa e a experiência radical que a constitui. Este livro vem à luz num momento histórico que torna suas ideias cruciais.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/22/gunther-anders-o-inimigo-do-apocalipse/",
           "publishedOn": "2026-05-22T11:00:00.000Z",
-          "wordCount": 11679,
+          "wordCount": 11528,
           "title": "Günther Anders, o inimigo do apocalipse",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-17.png?fit=1200%2C837&ssl=1"
         },
@@ -1189,7 +1188,7 @@
           "description": "Alvaro Bianchi escreve sobre \"Bella ciao, per la libertà\", documentário de Giulia Giapponesi: \"'Bella ciao' ajudou a condensar uma experiência coletiva complexa, feita de luta armada, sofrimento, esperança e reconstrução democrática. Sua força residia na possibilidade de ser cantada em comum, até mesmo por quem não sabia a letra. Era um gesto de reconhecimento, pertencimento e afirmação de uma esperança coletiva nascida da derrota do fascismo e do nazismo.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/21/bella-ciao-e-seus-inimigos/",
           "publishedOn": "2026-05-21T20:00:00.000Z",
-          "wordCount": 11988,
+          "wordCount": 11845,
           "title": "“Bella ciao” e seus inimigos",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/cartaz-bella-ciao-oficial.jpg?fit=848%2C1200&ssl=1"
         },
@@ -1222,16 +1221,6 @@
           "wordCount": 12402,
           "title": "Vladimir Sacchetta também viajou",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-15.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=64331",
-          "author": "Boitempo",
-          "description": "Michel Goulart da Silva : \"Smith e Ricardo, bem como outros pensadores, possibilitaram a compreensão da organização do trabalho e da produção da riqueza. Contudo, as análises desses pensadores eram limitadas pelo interesse burguês, afinal, não faria sentido aprofundar esse conhecimento em todas as suas contradições. Decifrar a complexidade do processo de exploração significava também explicar aos trabalhadores a possibilidade de uma revolução dos explorados.\"",
-          "link": "https://blogdaboitempo.com.br/2026/05/18/o-marxismo-e-as-ciencias-humanas/",
-          "publishedOn": "2026-05-18T21:00:00.000Z",
-          "wordCount": 14222,
-          "title": "O marxismo e as Ciências Humanas",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-11.png"
         }
       ]
     }

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-23T06:41:13.613Z</id>
+    <id>urn:2026-05-23T10:01:23.058Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-23T06:41:13.613Z</updated>
+    <updated>2026-05-23T10:01:23.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[O preço de Flávio 2026: Como os novos escândalos do senador assombram a direita]]></title>
+        <id>https://www.intercept.com.br/?p=443368</id>
+        <link href="https://www.intercept.com.br/2026/05/23/escandalos-flavio-bolsonaro-assombram-direita/"/>
+        <updated>2026-05-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[De repasses aos mandantes do caso Marielle a esquemas bilionários de sonegação, a avalanche de denúncias cria um oceano de lama que ameaça afundar o projeto nacional do clã.
+O post O preço de Flávio 2026: Como os novos escândalos do senador assombram a direita apareceu primeiro em Intercept Brasil.]]></summary>
+        <author>
+            <name>Isabella Mota</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viver num Partido Comunista (stalinizado) - (Pierre broué)]]></title>
         <id>6a10f427f86e9e026f7a1b6a</id>
@@ -1239,26 +1250,6 @@ O conteúdo Podcast aborda esforços para dimensionar número de vítimas dos Cr
         <summary type="html"><![CDATA[Trabalhadores da limpeza urbana de Petrolina paralisaram as atividades contra a precarização extrema e as condições degradantes de trabalho. Redação Pernambuco TRABALHADOR UNIDO – Na manhã desta segunda-feira (18), as ruas de Petrolina, no Sertão de Pernambuco, amanheceram com a revolta dos trabalhadores da limpeza urbana. Cansados da humilhação e da precarização extrema, os trabalhadores […]]]></summary>
         <author>
             <name>Jesse Lisboa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Depois de privar Cuba de combustível, EUA enviam o chefe da CIA com um ultimato]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73682</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/18/depois-de-privar-cuba-de-combustivel-eua-enviam-o-chefe-da-cia-com-um-ultimato/"/>
-        <updated>2026-05-18T21:52:52.000Z</updated>
-        <summary type="html"><![CDATA[ministro da Energia de Cuba declarou, em 14 de maio, que a ilha havia esgotado todo o seu estoque de diesel e petróleo, combustíveis que alimentam sua rede elétrica. “Não temos absolutamente nenhum petróleo, absolutamente nenhum diesel. Não temos mais reservas”, afirmou Vicente de la O Levy em uma declaração televisionada. Horas depois, o diretor […]]]></summary>
-        <author>
-            <name>Struggle-La Lucha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O marxismo e as Ciências Humanas]]></title>
-        <id>http://blogdaboitempo.com.br/?p=64331</id>
-        <link href="https://blogdaboitempo.com.br/2026/05/18/o-marxismo-e-as-ciencias-humanas/"/>
-        <updated>2026-05-18T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Michel Goulart da Silva : "Smith e Ricardo, bem como outros pensadores, possibilitaram a compreensão da organização do trabalho e da produção da riqueza. Contudo, as análises desses pensadores eram limitadas pelo interesse burguês, afinal, não faria sentido aprofundar esse conhecimento em todas as suas contradições. Decifrar a complexidade do processo de exploração significava também explicar aos trabalhadores a possibilidade de uma revolução dos explorados."]]></summary>
-        <author>
-            <name>Boitempo</name>
         </author>
     </entry>
 </feed>
