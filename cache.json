@@ -120,6 +120,16 @@
       "siteUrl": "https://opiniaosocialista.com.br/",
       "articles": [
         {
+          "id": "6a10f427f86e9e026f7a1b6a",
+          "author": "Luís Morona, de São Paulo (SP)",
+          "description": "Nesse texto, contamos com a descrição direta do livro \"História da Internacional Comunista\" de Pierre Broué para refletir sobre a atuação dos partidos stalinistas do século passado. \nPierre tenta mostrar como a ‘’russificaç",
+          "link": "https://opiniaosocialista.com.br/viver-num-partido-comunista-stalinizado-pierre-broue/",
+          "publishedOn": "2026-05-23T00:37:23.000Z",
+          "wordCount": 1782,
+          "title": "Viver num Partido Comunista (stalinizado) - (Pierre broué)",
+          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/7-congresso-da-internacional-comunista.webp"
+        },
+        {
           "id": "6a10bfb9f86e9e026f7a1b1e",
           "author": "Redação",
           "description": "OS 710\n\n\nOS 710.pdf\n7 MB\n\n.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle",
@@ -145,7 +155,7 @@
           "description": "Carol Godoi, de Belo Horizonte  (MG)\nAs pré-candidaturas de Hertz Dias à presidência da República e de Rafael Duda ao governo de Minas Gerais foram lançadas durante uma série de atividades realizadas entre os dias 13 e 17 de maio",
           "link": "https://opiniaosocialista.com.br/hertz-em-mg-pstu-lanca-pre-candidaturas-com-plenarias-apoio-as-lutas-e-dialogo-com-trabalhadores/",
           "publishedOn": "2026-05-22T20:06:43.000Z",
-          "wordCount": 1140,
+          "wordCount": 1130,
           "title": "Hertz em MG: PSTU lança pré-candidaturas com plenárias, apoio às lutas e diálogo com trabalhadores",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/Belo-Horizonte_2.webp"
         },
@@ -245,7 +255,7 @@
           "description": "Diversas personalidades de distintas organizações políticas do Brasil emitiram nota em solidariedade a Zé Maria, presidente nacional do PSTU, diante da condenação de prisão, pela Justiça Federal de São Paulo, por denunciar o genocí",
           "link": "https://opiniaosocialista.com.br/parlamentares-e-personalidades-politicas-do-brasil-emitem-nota-de-solidariedade-a-ze-maria/",
           "publishedOn": "2026-05-21T19:52:54.000Z",
-          "wordCount": 1104,
+          "wordCount": 1094,
           "title": "Parlamentares e personalidades políticas do Brasil emitem nota de solidariedade a Zé Maria",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/z---maria_ato-USP.webp"
         },
@@ -255,19 +265,9 @@
           "description": "Pré-candidatura de Cleber Rabelo ao governo do Pará se soma à de Hertz Dias à presidência da República na construção de uma alternativa socialista que defende a ruptura com as engrenagens do sistema capitalista",
           "link": "https://opiniaosocialista.com.br/pstu-anuncia-pre-candidatura-de-cleber-rabelo-ao-governo-do-para/",
           "publishedOn": "2026-05-21T12:04:31.000Z",
-          "wordCount": 1213,
+          "wordCount": 1203,
           "title": "PSTU anuncia pré-candidatura de Cleber Rabelo ao governo do Pará",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/size/w1200/2026/05/Cleber-Rabelo_II.webp"
-        },
-        {
-          "id": "6a0d021e262db5aa2f8dd0e1",
-          "author": "Roberto Aguiar, da redação",
-          "description": "Interceptação ilegal contra embarcações civis expõe ao mundo a brutalidade do cerco imposto a Gaza e amplia a solidariedade internacional à Palestina",
-          "link": "https://opiniaosocialista.com.br/israel-sequestra-brasileiros-em-flotilha-humanitaria-e-greve-de-fome-denuncia-violencia-contra-ativistas/",
-          "publishedOn": "2026-05-20T00:44:18.000Z",
-          "wordCount": 1048,
-          "title": "Israel sequestra brasileiros em flotilha humanitária e greve de fome denuncia violência contra ativistas",
-          "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/mundo-flotilha-gaza.webp"
         }
       ]
     },
@@ -312,7 +312,7 @@
           "description": "Mais um capítulo absurdo no país da herança da escravidão. Uma empregada africana, da Etiópia, foi encontrada no bairro de Rio Tavares em Florianópolis depois de fugir da casa dos patrões, os quais a mantiam sob violência psicológica em trabalho análogo a escravidão. É mais um capítulo das centenas de notícias que rememoram os tempos da escravidão, nos quais a burgesia se utiliza do racismo para tratar a as mulheres trabalhadoras negras como descartáveis.\nMatérias\n\n/ Sociedade, Trabalho análogo à escravidão, Escravidão moderna",
           "link": "https://www.esquerdadiario.com.br/Trabalhadora-etiope-em-situacao-de-escravidao-foge-do-cativeiro-em-Florianopolis",
           "publishedOn": "2026-05-22T17:49:03.000Z",
-          "wordCount": 8262,
+          "wordCount": 8277,
           "title": "Trabalhadora etíope em situação de escravidão foge do cativeiro em Florianópolis",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/images-18.jpg?1779472113"
         },
@@ -372,7 +372,7 @@
           "description": "Mais uma vez a terceirização mostra exatamente a que veio dentro da educação pública: promover a precarização do trabalho, retirar direitos e tratar trabalhadores como se fossem descartáveis. \n Em Ribeirão das Neves, depois das denúncias de redução salarial e perda de benefícios com a chegada da empresa Appa Facilities, surge mais uma situação absurda dentro das escolas municipais. As auxiliares de serviços básicos denunciam que o adicional de insalubridade está sendo pago por meio de um (…)\n20-05-2026\n\n/ Classe trabalhadora, Educação, Terceirização, Minas Gerais",
           "link": "https://www.esquerdadiario.com.br/Empresa-sorteia-adicional-insalubridade-entre-ASBs-e-transforma-direito-em-loteria",
           "publishedOn": "2026-05-21T10:11:39.000Z",
-          "wordCount": 8058,
+          "wordCount": 8056,
           "title": "Empresa sorteia adicional insalubridade entre ASBs e transforma direito em loteria",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nacional_geral_foto_horizontal_14_1_.png?1779327084"
         },
@@ -382,7 +382,7 @@
           "description": "O ato de hoje reuniu milhares de pessoas, que não se intimidaram pela política repressiva de Tarcísio. \n O ato de milhares de pessoas que ocorreu hoje em São Paulo, marchando até o Palácio dos Bandeirantes, mostrou a força das lutas que estão ocorrendo no estado e obrigou o governo de Tarcísio de Freitas a receber uma comissão de estudantes. Apesar dessa media protocolar, a instransigência do governador não se alterou e se mostrou no tamanho da aparato repressivo movimentado. \n \n\n/ Juventude, São Paulo (capital), USP, Educação, UNESP, Unicamp, Tarcísio de Freitas, Estudantes Unicamp, Greve contra Tarcísio, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/Forca-da-greve-da-USP-Unicamp-e-Unesp-se-mostra-nas-ruas-mas-Tarcisio-mantem-intransigencia-contra-estudantes",
           "publishedOn": "2026-05-21T01:03:25.000Z",
-          "wordCount": 7990,
+          "wordCount": 7989,
           "title": "Força da greve da USP, Unicamp e Unesp se mostra nas ruas, mas Tarcísio mantém intransigência contra estudantes",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000307816.jpg?1779324433"
         },
@@ -392,7 +392,7 @@
           "description": "O que acontece com a Sabesp neste momento é a verdadeira definição de dilapidação do patrimônio público: uma empresa estatal que presta um serviço essencial é vendida e utilizada para gerar lucros aos acionistas e financiadores, aumentando o endividamento e cortando a retenção de lucros, um caminho que parece indicar uma intenção de depenar a Sabesp\n20-05-2026\n\n/ Sociedade, Tarcísio de Freitas, São Paulo, Sabesp, Privatização da Sabesp, Greve contra Tarcísio",
           "link": "https://www.esquerdadiario.com.br/Sabesp-privatizada-por-Tarcisio-e-uma-festa-da-Faria-Lima",
           "publishedOn": "2026-05-21T00:20:12.000Z",
-          "wordCount": 8494,
+          "wordCount": 8489,
           "title": "Sabesp privatizada por Tarcísio é uma festa da Faria Lima",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/sabesp.jpg?1779322783"
         },
@@ -462,7 +462,7 @@
           "description": "Todos à grande marcha hoje em São Paulo contra os ataques e as privatizações de Tarcísio e em defesa da saúde e da educação! Abaixo às ameaças da PM de Tarcísio!\n20-05-2026\n\n/ Juventude, USP, Educação, Repressão, UNESP, Unicamp, PM São Paulo, PM, Greve Professores Municipais SP, Tarcísio de Freitas, Estudantes Unicamp, Greve contra Tarcísio, Greve na USP",
           "link": "https://www.esquerdadiario.com.br/PM-de-Tarcisio-intimida-estudantes-e-trabalhadores-nos-onibus-rumo-ao-ato-em-SP",
           "publishedOn": "2026-05-20T16:35:09.000Z",
-          "wordCount": 8011,
+          "wordCount": 8014,
           "title": "PM de Tarcísio intimida estudantes e trabalhadores nos ônibus rumo ao ato em SP!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-20_at_12.40_52.jpg?1779294310"
         },
@@ -482,7 +482,7 @@
           "description": "Como sustentáculo militar, econômico e político do sionismo e seu genocídio do povo palestino, o imperialismo norte-americano anunciou ontem renovados ataques a Global Sumud Flotilha que o império assassino e em decadência acusa de ser “pró-terrorismo”. A medida também toma como alvo 4 lideranças palestinas na diáspora, entre elas Saif Abukeshek, recentemente sequestrado em águas internacionais e torturado pelas Forças de Ocupação de Israel quando participava da missão humanitária destinada (…)\n20-05-2026\n\n/ Internacional, Donald Trump, Imperialismo, EUA, Sionismo, Global Sumud Flotilha",
           "link": "https://www.esquerdadiario.com.br/Governo-Trump-ataca-a-Global-Sumud-Flotilha-e-sanciona-Saif-e-outros-militantes-palestinos-na",
           "publishedOn": "2026-05-20T11:55:42.000Z",
-          "wordCount": 8014,
+          "wordCount": 8006,
           "title": "Governo Trump ataca a Global Sumud Flotilha e sanciona Saif e outros militantes palestinos na diáspora",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/254d22b6-bd41-4309-9bf1-bad43352d7ea.jpg?1779277642"
         },
@@ -492,7 +492,7 @@
           "description": "Em um novo episódio de escalada repressiva contra a solidariedade internacional com a Palestina, navios de guerra israelenses interceptaram nesta segunda-feira a Global Sumud Flotilla em águas internacionais do Mediterrâneo, a cerca de 250 milhas náuticas de Gaza. \n A missão humanitária, composta por 54 embarcações civis, havia partido dias antes de Marmaris, na Turquia, com o objetivo de abrir um corredor de ajuda humanitária e desafiar o bloqueio imposto pelo Estado de Israel à Faixa de (…)\n20-05-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, #FreePalestine, Global Sumud Flotilha, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Liberdade-ja-para-os-4-brasileiros-e-todos-os-428-sequestrados-da-Global-Sumud-Flotilha",
           "publishedOn": "2026-05-20T11:42:20.000Z",
-          "wordCount": 7886,
+          "wordCount": 7889,
           "title": "Liberdade já para os 4 brasileiros e todos os 428 sequestrados da Global Sumud Flotilha",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/7958ebe4-da75-4fd6-8c96-20403fc0a78b.jpg?1779277329"
         },
@@ -522,7 +522,7 @@
           "description": "Deputados bolsonaristas, ruralistas e defensores de regimes de trabalho análogo à escravidão apresentaram uma lista com 176 assinaturas para emendar a PEC do Fim da Escala 6x1.\n19-05-2026\n\n/ Política, bolsonarismo, Nikolas Ferreira, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Deputados-bolsonaristas-reafirmam-seu-escravismo-se-unindo-contra-o-fim-da-6x1-e-por-52h-semanais",
           "publishedOn": "2026-05-19T23:26:25.000Z",
-          "wordCount": 8642,
+          "wordCount": 8635,
           "title": "Deputados bolsonaristas reafirmam seu escravismo se unindo contra o fim da 6x1 e por 52h semanais",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/flavio_nikolas.jpg?1779233181"
         },
@@ -542,7 +542,7 @@
           "description": "Em audiência na Comissão de Assuntos Econômicos do Senado nesta terça-feira, o presidente do Banco Central, Gabriel Galípolo, tentou apresentar a liquidação do Banco Master como resultado de uma atuação técnica e tardia apenas diante do “uso dos recursos” captados pela instituição\n19-05-2026\n\n/ Política, Senado, Banco Central, Bancos, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Em-depoimento-no-Senado-Galipolo-tenta-blindar-Banco-Central-no-caso-Master-mas-nao-consegue",
           "publishedOn": "2026-05-19T21:15:12.000Z",
-          "wordCount": 8329,
+          "wordCount": 8330,
           "title": "Em depoimento no Senado Galípolo tenta blindar Banco Central no caso Master, mas não consegue",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/galipolo.jpg?1779225255"
         },
@@ -552,7 +552,7 @@
           "description": "Depois da intensa jornada desta segunda-feira, com centenas de detidos e feridos produto da repressão nas imediações da Plaza Murillo, trabalhadores, camponeses e estudantes se preparam para continuar a luta pela queda do governo direitista e ajustador. Transmitimos diretamente de La Izquierda Diario Bolívia.\n19-05-2026\n\n/ Internacional, Bolivia",
           "link": "https://www.esquerdadiario.com.br/Depois-da-dura-repressao-aprofunda-se-a-luta-na-Bolivia-contra-o-governo",
           "publishedOn": "2026-05-19T20:29:43.000Z",
-          "wordCount": 8370,
+          "wordCount": 8362,
           "title": "Depois da dura repressão, aprofunda-se a luta na Bolívia contra o governo",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/marcha_la_paz-19d85.jpg?1779222579"
         },
@@ -734,16 +734,6 @@
           "wordCount": 4980,
           "title": "Podcast aborda esforços para dimensionar número de vítimas dos Crimes de Maio",
           "imageUrl": "https://ponte.org/wp-content/uploads/2026/05/crimes-de-maio-ponte-jornalismo-bdf-scaled.webp"
-        },
-        {
-          "id": "https://ponte.org/?p=160299",
-          "author": "Catarina Duarte",
-          "description": "Repórteres da Ponte refletem sobre o impacto da cobertura dos Crimes de Maio, tema do podcast “Crimes de Maio: o massacre que o Brasil ignora”\nO conteúdo Da Redação | Como os Crimes de Maio nos atravessaram Pode ser acessado em Ponte Jornalismo.",
-          "link": "https://ponte.org/como-os-crimes-de-maio-nos-atravessaram/",
-          "publishedOn": "2026-05-18T14:54:24.000Z",
-          "wordCount": 5067,
-          "title": "Da Redação | Como os Crimes de Maio nos atravessaram",
-          "imageUrl": "https://ponte.org/wp-content/uploads/2021/05/Ilustra_Crimes_Maio_Juniao_Ponte_150.jpg"
         }
       ]
     },
@@ -768,7 +758,7 @@
           "description": "s cenas que se desenrolaram em Pequim foram cuidadosamente coreografadas, mas a política nunca pode ser reduzida a mero espetáculo. Quando o presidente dos EUA, Donald Trump, viajou à China para sua reunião de alto nível com Xi Jinping, a mídia ocidental, como costuma fazer, fixou-se no espetáculo: banquetes luxuosos, guardas de honra, gestos teatrais […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/21/donald-trump-foi-a-pequim-de-chapeu-na-mao-e-partiu-com-um-aperto-de-mao-de-xi-jinping/",
           "publishedOn": "2026-05-21T22:03:05.000Z",
-          "wordCount": 3871,
+          "wordCount": 3873,
           "title": "Donald Trump foi a Pequim de chapéu na mão e partiu com um aperto de mão de Xi Jinping",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/trump-1.webp"
         },
@@ -820,6 +810,16 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=255512",
+          "author": "Victor Farinelli",
+          "description": "A Corte de Cassação da Itália, em decisão anunciada nesta sexta-feira (22/05), anulou a decisão tomada em março passado pelo Tribunal de Apelação de Roma que autorizava a extradição para o Brasil da ex-deputada federal Carla Zambelli (PL-SP). O tribunal também determinou a soltura imediata da política brasileira, que estava presa no país europeu desde […]\nO post Justiça italiana nega extradição de Zambelli ao Brasil e determina soltura apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/justica-italiana-nega-extradicao-de-zambelli-ao-brasil-e-determina-soltura/",
+          "publishedOn": "2026-05-22T22:00:35.000Z",
+          "wordCount": 3001,
+          "title": "Justiça italiana nega extradição de Zambelli ao Brasil e determina soltura",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/zambelli.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=255507",
           "author": "Raissa Neves",
           "description": "Donald Trump retorna de sua passagem pela China sem a demonstração de força que desejava projetar ao mundo. Sem concessões públicas relevantes, sem alinhamento estratégico visível de Pequim contra Teerã e sem a imagem de um líder capaz de reorganizar, à força, o tabuleiro geopolítico global.  O episódio, por si só, já seria eloquente. Mas, […]\nO post Pequim não obedece ao império, e Teerã resiste apareceu primeiro em Opera Mundi.",
@@ -835,7 +835,7 @@
           "description": "Há 59 anos, em 22 de maio de 1967, falecia o poeta, dramaturgo e militante dos direitos civis Langston Hughes. Considerado um dos maiores intelectuais norte-americanos do século 20, Hughes foi pioneiro da “jazz poetry” e um dos líderes do chamado “Renascimento do Harlem”, célebre movimento de valorização das expressões culturais afro-americanas. Ao longo de […]\nO post Langston Hughes, o poeta da resistência negra apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/langston-hughes-o-poeta-da-resistencia-negra/",
           "publishedOn": "2026-05-22T20:20:27.000Z",
-          "wordCount": 6035,
+          "wordCount": 5952,
           "title": "Langston Hughes, o poeta da resistência negra",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/langston_hughes_by_carl_van_vechten_trim.jpg"
         },
@@ -855,7 +855,7 @@
           "description": "O ex-presidente da Bolívia, Evo Morales, declarou que a atual crise no país, que culminou em amplos protestos convocados por diversas organizações sindicais desde o início de maio, decorre do retorno das políticas que ele mesmo combateu ao longo de seus 14 anos de mandato. “A origem é o retorno ao modelo neoliberal”, afirmou o […]\nO post ‘Protestos na Bolívia são revolta popular contra modelo neoliberal’, diz Evo Morales apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/protestos-na-bolivia-sao-revolta-popular-contra-modelo-neoliberal-diz-evo-morales/",
           "publishedOn": "2026-05-22T18:13:16.000Z",
-          "wordCount": 3661,
+          "wordCount": 3744,
           "title": "‘Protestos na Bolívia são revolta popular contra modelo neoliberal’, diz Evo Morales",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/conferencia_de_prensa_de_evo_morales_en_el_museo_de_la_ciudad_de_mexico_2.jpg"
         },
@@ -908,30 +908,64 @@
           "wordCount": 3218,
           "title": "Irã autorizou passagem de 35 navios por Ormuz nas últimas 24 horas, diz agência",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1405012217173938436372744.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255464",
-          "author": "Tabitha Ramalho",
-          "description": "Numa festa de boas-vindas para uma unidade israelense, foi exibido um vídeo que, segundo a descrição, retrata a aniquilação — descrita como amplamente documentada — de aldeias no sul do Líbano, em meio a aplausos, risos e vivas dos soldados, suas famílias e amigos presentes. Em paralelo, nesta sexta-feira (22/05), ataques israelenses mataram pelo menos […]\nO post Festa de ‘boas-vindas’ a soldados israelenses exibe destruição no sul do Líbano sob aplausos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/festa-de-boas-vindas-a-soldados-israelenses-exibe-destruicao-no-sul-do-libano-sob-aplausos/",
-          "publishedOn": "2026-05-22T13:55:05.000Z",
-          "wordCount": 3201,
-          "title": "Festa de ‘boas-vindas’ a soldados israelenses exibe destruição no sul do Líbano sob aplausos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/6a0ffe6759bf5b67bd2cd179.jpg"
         }
       ]
-    },
-    {
-      "title": "De Olho nos Ruralistas",
-      "feedUrl": "https://deolhonosruralistas.com.br/feed/",
-      "siteUrl": "https://deolhonosruralistas.com.br/",
-      "articles": []
     },
     {
       "title": "A Nova Democracia",
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=226310",
+          "author": "Redação de AND",
+          "description": "O programa A Propósito debateu as relações de Flávio Bolsonaro com Daniel Vorcaro e apontou que a crise do Banco Master expõe uma teia suprapartidária que atravessa extrema direita, falsa esquerda, Congresso, STF e instituições do velho Estado.",
+          "link": "https://anovademocracia.com.br/vorcaro-master-flavio-bolsonaro-a-proposito-365/",
+          "publishedOn": "2026-05-23T00:14:02.000Z",
+          "wordCount": null,
+          "title": "‘Caso Vorcaro demonstra o controle do grande capital a todos os polos do sistema’: AND debate relação do Master com Flávio Bolsonaro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226273",
+          "author": "Ana Nascimento",
+          "description": "Durante a rodada de falas, as mães denunciaram o Estado como um instrumento de opressão aos pobres, que usa as polícias como forças de repressão contra as massas faveladas.",
+          "link": "https://anovademocracia.com.br/maes-manguinhos-contra-violencia-policial/",
+          "publishedOn": "2026-05-22T23:47:15.000Z",
+          "wordCount": null,
+          "title": "RJ: Mães de Manguinhos organizam 12° Levante Antirracista e denunciam violência policial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226292",
+          "author": "Redação de AND",
+          "description": "Karina Ferreira da Gama, dona da produtora de “Dark Horse”, também comanda ONG investigada por contrato de R$ 108 milhões para instalação de pontos de wi-fi em São Paulo; promotoria aponta R$ 26 milhões recebidos sem serviço efetivamente prestado.",
+          "link": "https://anovademocracia.com.br/dona-produtora-filme-bolsonaro-contrato-sp/",
+          "publishedOn": "2026-05-22T23:03:35.000Z",
+          "wordCount": null,
+          "title": "Dona da produtora do filme de Bolsonaro comanda ONG com contrato de R$ 108 milhões da Prefeitura de SP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226280",
+          "author": "Redação de AND",
+          "description": "Teerã rejeita entregar urânio enriquecido, recompõe produção militar acima do esperado por Washington e mantém Ormuz como principal instrumento de pressão nas negociações.",
+          "link": "https://anovademocracia.com.br/ira-rejeita-uranio-recompoe-acima-do-eua/",
+          "publishedOn": "2026-05-22T22:38:57.000Z",
+          "wordCount": null,
+          "title": "Irã rejeita entregar urânio e recompõe forças acima do previsto pelo EUA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226264",
+          "author": "Redação de AND",
+          "description": "Bloqueios operário-camponeses forçaram o cancelamento de sessão em Sucre, fecharam agências bancárias em La Paz e provocaram nova ofensiva repressiva em Parotani; governo Paz responde com reforma ministerial, ameaças judiciais e apoio político do EUA.",
+          "link": "https://anovademocracia.com.br/levante-operario-campones-paralisa-bolivia/",
+          "publishedOn": "2026-05-22T22:16:53.000Z",
+          "wordCount": null,
+          "title": "Levante operário-camponês encurrala Rodrigo Paz e paralisa centros políticos da Bolívia",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=226237",
           "author": "Redação de AND",
@@ -949,7 +983,7 @@
           "link": "https://anovademocracia.com.br/justica-indeniza-companhia-estatal-em-r-221-milhoes-enquanto-vitimas-da-braskem-em-maceio-seguem-abandonadas/",
           "publishedOn": "2026-05-22T19:29:04.000Z",
           "wordCount": null,
-          "title": "“Justiça” indeniza companhia estatal em R$ 221 milhões enquanto vítimas da Braskem em Maceió seguem abandonadas",
+          "title": "‘Justiça’ indeniza companhia estatal em R$ 221 milhões enquanto vítimas da Braskem em Maceió seguem abandonadas",
           "imageUrl": null
         },
         {
@@ -981,61 +1015,6 @@
           "wordCount": null,
           "title": "Afundado no caso Master, Flávio Bolsonaro vai ao EUA buscar bênção de Trump",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226058",
-          "author": "Giovanna Maria",
-          "description": "Os indicadores revelam que os 10% da população com maiores rendimentos no DF receberam, em média, R$ 18.575 por pessoa em 2025, um valor 19,7 vezes maior do que o rendimento médio dos 40% mais pobres.",
-          "link": "https://anovademocracia.com.br/df-no-topo-da-concentracao-de-renda-brasilia-e-o-espelho-da-desigualdade-nacional/",
-          "publishedOn": "2026-05-21T22:31:55.000Z",
-          "wordCount": null,
-          "title": "DF: No topo da concentração de renda, Brasília é o espelho da desigualdade nacional",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226174",
-          "author": "Redação de AND",
-          "description": "Assista ao programa ao vivo de AND para estudo e debate da situação política nacional e internacional.",
-          "link": "https://anovademocracia.com.br/a-proposito-365/",
-          "publishedOn": "2026-05-21T21:35:47.000Z",
-          "wordCount": null,
-          "title": "Clã Bolsonaro e Banco Master: até onde vai a teia de Vorcaro? – A Propósito #365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226162",
-          "author": "Redação de AND",
-          "description": "Manifestantes denunciaram a Cúpula África Adiante, presidida por Emmanuel Macron e William Ruto, e realizaram uma contra-cúpula panafricana anti-imperialista.",
-          "link": "https://anovademocracia.com.br/quenia-policia-prende-19-protestos-cupula/",
-          "publishedOn": "2026-05-21T20:48:25.000Z",
-          "wordCount": null,
-          "title": "Quênia: Polícia prende 19 em protestos contra cúpula do imperialismo francês",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226145",
-          "author": "Redação de AND",
-          "description": "Tirinha de Artie satiriza a tentativa de transformar o fim formal da escala 6 por 1 em acordo rebaixado, com banco de horas, metas maiores, pejotização, terceirização, informalidade e contratos temporários.",
-          "link": "https://anovademocracia.com.br/charge-de-and-uma-saida-negociada/",
-          "publishedOn": "2026-05-21T19:55:43.000Z",
-          "wordCount": null,
-          "title": "Charge de AND: Uma saída negociada",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226118",
-          "author": "Redação de AND",
-          "description": "Vídeo publicado pelo ministro sionista mostra ativistas da Flotilha Global Sumud ajoelhados e com as mãos amarradas no porto de Ashdod; episódio gerou repúdio internacional e aprofundou o desgaste internacional de “Israel”.",
-          "link": "https://anovademocracia.com.br/ben-gvir-ativistas-sequestrados-covardia/",
-          "publishedOn": "2026-05-21T02:00:00.000Z",
-          "wordCount": null,
-          "title": "Genocida Ben-Gvir posa de valentão contra ativistas sequestrados e expõe covardia e baixeza moral de ‘Israel’",
-          "enclosure": {
-            "url": "https://anovademocracia.com.br/wp-content/uploads/2026/05/vermebengvir.mp4",
-            "length": "4181701",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1044,6 +1023,36 @@
       "feedUrl": "http://www.outraspalavras.net/feed/",
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
+        {
+          "id": "https://outraspalavras.net/?p=3186147",
+          "author": "Marcos Helano Montenegro, Amauri Pollachi e Edson Aparecido da Silva",
+          "description": "Após capturarem saneamento em SP, rentistas abocanham 37% das contas d’água. Diretores já ganham R$ 708 mil mensais. E empresa demite 47% dos trabalhadores, reduz abastecimento, lidera queixas no Procon e vive série inédita de acidentes\nThe post Sabesp: Estudo sobre uma privatização típica appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/alemdamercadoria/sabesp-estudo-sobre-uma-privatizacao-tipica/",
+          "publishedOn": "2026-05-22T21:39:43.000Z",
+          "wordCount": 4054,
+          "title": "Sabesp: Estudo sobre uma privatização típica",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22183913/photo_4938477539135523943_w.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3186123",
+          "author": "Paulo Nogueira Batista Jr",
+          "description": "É preciso vencer a ultradireita em outubro – porque a vitória abrirá espaço para debater o futuro do país. Mas é triste ter, nos ministérios econômicos e no Itamaraty, equipes sem projeto, sem audácia e sem alma. Elas dão o tom a um governo sem rumos\nThe post Eleições: O adversário não pode escalar nosso time appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/estadoemdisputa/eleicoes-o-adversario-nao-pode-escalar-nosso-time/",
+          "publishedOn": "2026-05-22T21:36:41.000Z",
+          "wordCount": 4299,
+          "title": "Eleições: O adversário não pode escalar nosso time",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22183605/photo_4938477539135523948_y.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3186178",
+          "author": "Rafael Guerra de Oliveira",
+          "description": "Num país de salários achatados e juros obscenos, quem lucra com eles – e empobrece as maiorias – busca transferir a responsabilidade para o suposto “descontrole” dos endividados. Exame de uma manobra cínica e de seus métodos\nThe post A armadilha nada inocente da “Educação Financeira” appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/mercadovsdemocracia/a-armadilha-nada-inocente-da-educacao-financeira/",
+          "publishedOn": "2026-05-22T21:25:12.000Z",
+          "wordCount": 6071,
+          "title": "A armadilha nada inocente da “Educação Financeira”",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22180927/4938397704283425876.jpg"
+        },
         {
           "id": "https://outraspalavras.net/?p=3186125",
           "author": "Ricardo Abramovay",
@@ -1090,7 +1099,7 @@
           "description": "Desfecho da guerra é incerto. Mas fracasso inicial dos EUA e Israel já produz terremoto geopolítico – que vai muito além do Oriente Médio. Começa a surgir uma ordem multipolar. E Trump, o cínico, pode ser (quem diria?) o primeiro a aceitá-la\nThe post O paradoxo de Ormuz appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/geopoliticaeguerra/paradoxo-de-ormuz/",
           "publishedOn": "2026-05-21T21:01:07.000Z",
-          "wordCount": 4447,
+          "wordCount": 4474,
           "title": "O paradoxo de Ormuz",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/21182215/Screenshot-2026-05-21-at-18-00-46-estreito-ormuz-ira-guarda.jpg-imagem-JPEG-1598-%C3%97-896-pixels-Redimensionada-78_.jpg"
         },
@@ -1113,36 +1122,6 @@
           "wordCount": 5595,
           "title": "A coalizão anti-planeta do capitalismo tardio",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/21171928/ee-gw-reilly-oneyearoftrump.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3186017",
-          "author": "Carlos Leite",
-          "description": "Livro articula investigação em Filosofia do Direito a imersão rigorosa no pensamento indígena, para pensar sobre o mundo por um fio. Elabora bricolagens distópicas. Analisa novas formas de poder. E, em diálogo com Kopenawa, vislumbra alternativas ao niilismo ocidental\nThe post Ensaios para resgatar o futuro cancelado appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/descolonizacoes/ensaios-para-resgatar-o-futuro-cancelado/",
-          "publishedOn": "2026-05-21T19:51:08.000Z",
-          "wordCount": 8832,
-          "title": "Ensaios para resgatar o futuro cancelado",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/21164400/Kadu-Xukuru-o-Sertao-vai-virar-mar-820x460-1.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3186007",
-          "author": "Lucas Silva Pamio",
-          "description": "Valor arquitetônico e urbanístico da capital é inquestionável. Mas ela parece agora algo a se observar à distância. Os grandes vazios e as escalas excessivas seguem prisioneiros do automóvel. Os tempos mudaram e a cidade não se mostra capaz de renovar-se\nThe post O envelhecimento do projeto moderno de Brasília appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/outras-cidades/o-envelhecimento-do-projeto-moderno-de-brasilia/",
-          "publishedOn": "2026-05-21T18:43:02.000Z",
-          "wordCount": 4322,
-          "title": "O envelhecimento do projeto moderno de Brasília",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/21154052/brasilia_scroll_3.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3186003",
-          "author": "José Geraldo Couto",
-          "description": "Fanon é uma cinebiografia convencional de um homem nada convencional. Da universidade à direção de um hospital psiquiátrico e as lutas de libertação da Argélia, mérito maior da obra é destacar seu desencontro e não-conformidade com o mundo em que lhe tocou viver\nThe post Cinema: Psiquiatria e revolução appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/cinema-psiquiatria-e-revolucao/",
-          "publishedOn": "2026-05-21T18:15:33.000Z",
-          "wordCount": 3636,
-          "title": "Cinema: Psiquiatria e revolução",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/21143047/Alexandre-Bouyer_Fanon_Une.jpeg"
         }
       ]
     },
@@ -1170,16 +1149,6 @@
           "wordCount": 12091,
           "title": "Black Alien: poesia de aço",
           "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/05/RNCA9449-1091356446.jpg"
-        },
-        {
-          "id": "https://passapalavra.info/?p=159224",
-          "author": "Vieira",
-          "description": "",
-          "link": "https://passapalavra.info/2026/05/159224/",
-          "publishedOn": "2026-05-18T12:52:22.000Z",
-          "wordCount": 3767,
-          "title": "Velha Toupeira (42)",
-          "imageUrl": "https://passapalavra.info/wp-content/uploads/2026/05/VT042-DE-VOLTA-A-ESCRAVIDAO.jpg"
         }
       ]
     },
@@ -1194,7 +1163,7 @@
           "description": "\"No capitalismo, por assim dizer, a economia manda e todo o restante do edifício social se organiza em torno disso. Na transição ao socialismo, embora a economia imponha limites e possibilidades que clamam pela revolução mundial, quem 'manda' é a política.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/22/no-socialismo-quem-manda-e-a-politica-entrevista-com-roberto-saenz-autor-de-o-marxismo-e-a-transicao-socialista/",
           "publishedOn": "2026-05-22T17:00:00.000Z",
-          "wordCount": 13404,
+          "wordCount": 13547,
           "title": "“No socialismo, quem ‘manda’ é a política”: entrevista com Roberto Sáenz, autor de “O marxismo e a transição socialista”",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-19.png?fit=1200%2C596&ssl=1"
         },
@@ -1204,7 +1173,7 @@
           "description": "Jorge Grespan apresenta \"O inimigo do apocalipse\", de Felipe Catalani, livro do mês do Armas da Crítica: \"Ainda pouco conhecida no Brasil, a obra de Günther Anders é examinada com uma precisão conceitual que não deixa de lado a poesia de sua prosa e a experiência radical que a constitui. Este livro vem à luz num momento histórico que torna suas ideias cruciais.\"",
           "link": "https://blogdaboitempo.com.br/2026/05/22/gunther-anders-o-inimigo-do-apocalipse/",
           "publishedOn": "2026-05-22T11:00:00.000Z",
-          "wordCount": 11528,
+          "wordCount": 11679,
           "title": "Günther Anders, o inimigo do apocalipse",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-17.png?fit=1200%2C837&ssl=1"
         },
@@ -1224,7 +1193,7 @@
           "description": "Depois do Rio de Janeiro, onde as aulas já começaram, é a vez do curso livre Marx-Engels chegar a Salvador, Brasília, Florianópolis e Vitória. Confira abaixo a programação completa de cada cidade, inscreva-se para acompanhar as aulas gratuitas com grandes especialistas e saiba como garantir seu certificado.",
           "link": "https://blogdaboitempo.com.br/2026/05/21/curso-livre-marx-engels-o-essencial-chega-a-novas-cidades-nao-perca/",
           "publishedOn": "2026-05-21T17:40:21.000Z",
-          "wordCount": 12171,
+          "wordCount": 12323,
           "title": "“Curso Livre Marx-Engels: O Essencial” chega a novas cidades. Não perca!",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/banner-blog-curso-livre-marx-engels-2026-cidades_09.jpg"
         },
@@ -1257,16 +1226,6 @@
           "wordCount": 14222,
           "title": "O marxismo e as Ciências Humanas",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-11.png"
-        },
-        {
-          "id": "http://blogdaboitempo.com.br/?p=64387",
-          "author": "Boitempo",
-          "description": "Thiago Canettieri: \"Havia um certo otimismo quanto ao caráter descentralizado da rede social, em que os consumidores de informações se tornavam replicadores e até produtores de conteúdo. A revolução digital promoveria, portanto, uma mudança no filtro editorial dos grandes conglomerados da comunicação e ressaltaria a conectividade entre as pessoas. Ora, essas palavras hoje certamente soam como notícias de outra era ideológica – e, de fato, era outra época. Afinal, já se sabe muito bem o que as redes sociais implicam.\"",
-          "link": "https://blogdaboitempo.com.br/2026/05/18/a-nova-esfera-publica-particular-entrincheiramento-de-posicoes-na-terra-de-ninguem-das-plataformas-digitais/",
-          "publishedOn": "2026-05-18T11:00:00.000Z",
-          "wordCount": 14286,
-          "title": "A nova esfera pública particular: entrincheiramento de posições na “terra de ninguém” das plataformas digitais",
-          "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/image-14.png"
         }
       ]
     }
