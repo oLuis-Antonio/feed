@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-23T10:01:23.058Z</id>
+    <id>urn:2026-05-23T13:55:03.356Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-23T10:01:23.058Z</updated>
+    <updated>2026-05-23T13:55:03.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Iván Cepeda mira vitória no primeiro turno nas eleições da Colômbia]]></title>
+        <id>https://operamundi.uol.com.br/?p=255524</id>
+        <link href="https://operamundi.uol.com.br/america-latina/ivan-cepeda-mira-vitoria-no-primeiro-turno-nas-eleicoes-da-colombia/"/>
+        <updated>2026-05-23T13:21:29.000Z</updated>
+        <summary type="html"><![CDATA[O senador Iván Cepeda, candidato presidencial do partido governista Pacto Histórico, afirmou nesta sexta-feira (22/05) em Bogotá seu objetivo de vencer as eleições de 31 de maio no primeiro turno com um programa focado em “construir oportunidades e prosperidade para toda a nação”. “Nosso programa visa construir oportunidades e prosperidade para toda a nação, busca […]
+O post Iván Cepeda mira vitória no primeiro turno nas eleições da Colômbia apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Rocio Paik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movimento Vida Além do Trabalho convoca ato pelo fim da Escala 6×1 neste Domingo]]></title>
+        <id>https://anovademocracia.com.br/?p=226247</id>
+        <link href="https://anovademocracia.com.br/movimento-vida-alem-do-trabalho-convoca-ato-pelo-fim-da-escala-6x1-neste-domingo/"/>
+        <updated>2026-05-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VAT convoca ato pelo fim da Escala 6x1 neste Domingo]]></summary>
+        <author>
+            <name>Redação de AND</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O preço de Flávio 2026: Como os novos escândalos do senador assombram a direita]]></title>
         <id>https://www.intercept.com.br/?p=443368</id>
@@ -89,12 +110,12 @@ O post Justiça italiana nega extradição de Zambelli ao Brasil e determina sol
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sabesp: Estudo sobre uma privatização típica]]></title>
+        <title type="html"><![CDATA[Sabesp: A quem servem as privatizações]]></title>
         <id>https://outraspalavras.net/?p=3186147</id>
         <link href="https://outraspalavras.net/alemdamercadoria/sabesp-estudo-sobre-uma-privatizacao-tipica/"/>
         <updated>2026-05-22T21:39:43.000Z</updated>
         <summary type="html"><![CDATA[Após capturarem saneamento em SP, rentistas abocanham 37% das contas d’água. Diretores já ganham R$ 708 mil mensais. E empresa demite 47% dos trabalhadores, reduz abastecimento, lidera queixas no Procon e vive série inédita de acidentes
-The post Sabesp: Estudo sobre uma privatização típica appeared first on Outras Palavras.]]></summary>
+The post Sabesp: A quem servem as privatizações appeared first on Outras Palavras.]]></summary>
         <author>
             <name>Marcos Helano Montenegro, Amauri Pollachi e Edson Aparecido da Silva</name>
         </author>
@@ -495,17 +516,6 @@ O post Itália investiga interceptação de flotilha por Israel após relatos de
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Irã autorizou passagem de 35 navios por Ormuz nas últimas 24 horas, diz agência]]></title>
-        <id>https://operamundi.uol.com.br/?p=255465</id>
-        <link href="https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-autorizou-passagem-de-35-navios-por-ormuz-nas-ultimas-24-horas-diz-agencia/"/>
-        <updated>2026-05-22T14:40:09.000Z</updated>
-        <summary type="html"><![CDATA[A Marinha do Corpo da Guarda Revolucionária do Irã (IRGC, na sigla em inglês) autorizou, nas últimas 24 horas, um total de 35 navios, incluindo petroleiros, porta-contêineres e embarcações comerciais, a cruzarem o Estreito de Ormuz sob “coordenação e garantia de segurança”, conforme relatou nesta sexta-feira (22/05) a agência Tasnim. O estratégico tráfego comercial segue […]
-O post Irã autorizou passagem de 35 navios por Ormuz nas últimas 24 horas, diz agência apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Rocio Paik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rodoviários cruzam os braços em Salvador e enfrentam patrões por direitos e valorização salarial]]></title>
         <id>6a105ac7f86e9e026f7a1816</id>
         <link href="https://opiniaosocialista.com.br/rodoviarios-cruzam-os-bracos-em-salvador-e-enfrentam-patroes-por-direitos-e-valorizacao-salarial/"/>
@@ -546,16 +556,6 @@ O post Irã autorizou passagem de 35 navios por Ormuz nas últimas 24 horas, diz
         <summary type="html"><![CDATA[Jorge Grespan apresenta "O inimigo do apocalipse", de Felipe Catalani, livro do mês do Armas da Crítica: "Ainda pouco conhecida no Brasil, a obra de Günther Anders é examinada com uma precisão conceitual que não deixa de lado a poesia de sua prosa e a experiência radical que a constitui. Este livro vem à luz num momento histórico que torna suas ideias cruciais."]]></summary>
         <author>
             <name>Boitempo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afundado no caso Master, Flávio Bolsonaro vai ao EUA buscar bênção de Trump]]></title>
-        <id>https://anovademocracia.com.br/?p=226138</id>
-        <link href="https://anovademocracia.com.br/caso-master-flavio-bolsonaro-vai-ao-eua/"/>
-        <updated>2026-05-22T02:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Em meio ao desgaste provocado pelo caso Master, pré-candidato da extrema direita tenta reerguer sua campanha com apoio do canibal Donald Trump, enquanto o PL avalia se ainda há condições de manter sua candidatura.]]></summary>
-        <author>
-            <name>Redação de AND</name>
         </author>
     </entry>
     <entry>
@@ -1240,16 +1240,6 @@ O conteúdo Podcast aborda esforços para dimensionar número de vítimas dos Cr
         <summary type="html"><![CDATA[José Paulo Netto compartilha suas memórias com Vladimir Sacchetta, falecido no último 16 de maio.]]></summary>
         <author>
             <name>Boitempo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trabalhadores da limpeza urbana de Petrolina paralisam contra a exploração e o descaso da Prefeitura]]></title>
-        <id>https://averdade.org.br/?p=61771</id>
-        <link href="https://averdade.org.br/2026/05/trabalhadores-da-limpeza-urbana-de-petrolina-paralisam-contra-a-exploracao/"/>
-        <updated>2026-05-18T23:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Trabalhadores da limpeza urbana de Petrolina paralisaram as atividades contra a precarização extrema e as condições degradantes de trabalho. Redação Pernambuco TRABALHADOR UNIDO – Na manhã desta segunda-feira (18), as ruas de Petrolina, no Sertão de Pernambuco, amanheceram com a revolta dos trabalhadores da limpeza urbana. Cansados da humilhação e da precarização extrema, os trabalhadores […]]]></summary>
-        <author>
-            <name>Jesse Lisboa</name>
         </author>
     </entry>
 </feed>
