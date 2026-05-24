@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-23T21:02:41.097Z</id>
+    <id>urn:2026-05-24T04:19:05.784Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-23T21:02:41.097Z</updated>
+    <updated>2026-05-24T04:19:05.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mobilização ianque no Caribe e indiciamento de Raúl Castro acendem alerta de nova agressão contra Cuba]]></title>
+        <id>https://anovademocracia.com.br/?p=226325</id>
+        <link href="https://anovademocracia.com.br/mobilizacao-ianque-caribe-agressao-contra-cuba/"/>
+        <updated>2026-05-24T01:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Após indiciar Raúl Castro e cinco militares cubanos pelo episódio da Irmãos ao Resgate, de 1996, o EUA amplia a pressão militar e judicial contra Havana; Cuba denuncia pretexto intervencionista e milhares protestam diante da embaixada ianque.]]></summary>
+        <author>
+            <name>Redação de AND</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reunião Pública reúne dezenas de solidários à Cuba no Recife]]></title>
+        <id>https://averdade.org.br/?p=61847</id>
+        <link href="https://averdade.org.br/2026/05/reuniao-publica-reune-dezenas-de-solidarios-a-cuba-no-recife/"/>
+        <updated>2026-05-24T00:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Atividade recebeu pela segunda vez na capital de Pernambuco o  novo embaixador cubano no Brasil. Na ocasião, dezenas de militantes reafirmaram a solidariedade com Cuba, além de debater a conjuntura na América Latina.  Evelyn Dionízio| Redação Pernambuco INTERNACIONAL- O Embaixador de Cuba no Brasil Víctor Manuel Cairo Palomo visita mais uma vez a capital pernambucana […]]]></summary>
+        <author>
+            <name>Clóvis Maia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Disseram que não tinha risco”: relatos da tragédia anunciada no Jaguaré, Zona Oeste de São Paulo]]></title>
+        <id>https://averdade.org.br/?p=61814</id>
+        <link href="https://averdade.org.br/2026/05/disseram-que-nao-tinha-risco-relatos-da-tragedia-anunciada-no-jaguare-zona-oeste-de-sao-paulo/"/>
+        <updated>2026-05-23T22:24:11.000Z</updated>
+        <summary type="html"><![CDATA[A Defesa Civil de São Paulo iniciou a demolição de cinco imóveis que foram interditados de forma definitiva após a explosão no bairro do Jaguaré, na zona oeste da capital, nesta sexta-feira (15). A explosão ocorreu na segunda-feira (11), após uma obra da Sabesp atingir uma tubulação da Comgás e provocar um vazamento de gás. […]]]></summary>
+        <author>
+            <name>Redação SP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Festival Canalha!” mobiliza população de São Paulo para marcha contra o governo do estado]]></title>
+        <id>https://averdade.org.br/?p=61811</id>
+        <link href="https://averdade.org.br/2026/05/festival-canalha-mobiliza-populacao-de-sao-paulo-para-marcha-contra-o-governo-do-estado/"/>
+        <updated>2026-05-23T22:19:38.000Z</updated>
+        <summary type="html"><![CDATA[No último domingo (16/05), a USP foi ocupada pelo “Festival Canalha!”, um evento cultural organizado pelos estudantes da universidade para mobilizar e divulgar a Marcha em defesa dos direitos, da vida e contra o fascismo, que contou com a participação de 30 mil pessoas e foi realizada no último dia 20 de maio. Organizado pelo […]]]></summary>
+        <author>
+            <name>Redação SP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patroa do quilombo]]></title>
+        <id>https://passapalavra.info/?p=159245</id>
+        <link href="https://passapalavra.info/2026/05/159245/"/>
+        <updated>2026-05-23T21:59:48.000Z</updated>
+        <summary type="html"><![CDATA[“É que eu sou discípula de Nego Bispo!”, bradava ela a plenos pulmões. Em sua mão estava um telefone de última geração. Ao seu redor, lhe ouvindo, suas funcionárias. Passa Palavra]]></summary>
+        <author>
+            <name>Enzo Silva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organizações pressionam Congresso por ‘implementação imediata’ do fim da escala 6×1]]></title>
         <id>https://operamundi.uol.com.br/?p=255398</id>
@@ -512,16 +562,6 @@ The post Autismo e IA: inteligências desconhecidas appeared first on Outras Pal
 O conteúdo Justiça admite falta de provas e absolve jovem condenado após reconhecimento por foto Pode ser acessado em Ponte Jornalismo.]]></summary>
         <author>
             <name>Mariana Rosetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revista Nazariya: ‘O maoismo sobrevive na Índia, tanto o da pena quanto o do fuzil’]]></title>
-        <id>https://anovademocracia.com.br/?p=226221</id>
-        <link href="https://anovademocracia.com.br/revista-nazariya-maoismo-sobrevive-na-india/"/>
-        <updated>2026-05-22T18:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Artigo publicado no Primeiro de Maio debate a luta de duas linhas no movimento revolucionário indiano; publicação ocorre em meio à repressão contra a Nazariya e ativistas ligados aos protestos operários de Noida.]]></summary>
-        <author>
-            <name>Redação de AND</name>
         </author>
     </entry>
     <entry>
@@ -1209,48 +1249,6 @@ O post  O Rei do Etanol  apareceu primeiro em Intercept Brasil.]]></summary>
 O post ÁUDIO: Mario Frias agradeceu Daniel Vorcaro por apoio a filme sobre Jair Bolsonaro apareceu primeiro em Intercept Brasil.]]></summary>
         <author>
             <name>Eduardo Goulart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitória retumbante dos estudantes da UNESP em São José dos Campos (SP)]]></title>
-        <id>rvcicK</id>
-        <link href="https://jornalofuturo.com.br/artigo/rvcicK-vitoria-retumbante-dos-estudantes-da-unesp-em-sao-jose-dos-campos-sp"/>
-        <updated>2026-05-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Estudantes e movimentos organizados conquistaram através da luta novos dispositivos de incentivo a proteção e capacitação e o fortalecimento de mecanismos de acolhimento às vítimas, além do afastamento dos docentes acusados nas denúncias.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escândalo ‘Dark Horse’ é a ponta do iceberg: falta controle sobre as transações dos parlamentares]]></title>
-        <id>https://www.intercept.com.br/?p=443197</id>
-        <link href="https://www.intercept.com.br/2026/05/19/dark-horse-ponta-do-iceberg-falta-de-controle-transacoes-parlamentares/"/>
-        <updated>2026-05-19T14:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Muito além do bolsonarismo, o financiamento opaco da produção escancara a facilidade com que parlamentares operam contratos e fundos sem controle institucional.
-O post Escândalo ‘Dark Horse’ é a ponta do iceberg: falta controle sobre as transações dos parlamentares apareceu primeiro em Intercept Brasil.]]></summary>
-        <author>
-            <name>Isabella Mota</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast aborda esforços para dimensionar número de vítimas dos Crimes de Maio]]></title>
-        <id>https://ponte.org/?p=160304</id>
-        <link href="https://ponte.org/podcast-aborda-esforcos-para-dimensionar-numero-de-vitimas-dos-crimes-de-maio/"/>
-        <updated>2026-05-19T14:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Segundo episódio de “Crimes de Maio: o massacre que o Brasil ignora” discute como familiares, pesquisadores e entidades tentaram contabilizar mortos e desaparecidos da violência de maio de 2006
-O conteúdo Podcast aborda esforços para dimensionar número de vítimas dos Crimes de Maio Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Catarina Duarte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vladimir Sacchetta também viajou]]></title>
-        <id>http://blogdaboitempo.com.br/?p=64431</id>
-        <link href="https://blogdaboitempo.com.br/2026/05/19/vladimir-sacchetta-tambem-viajou/"/>
-        <updated>2026-05-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[José Paulo Netto compartilha suas memórias com Vladimir Sacchetta, falecido no último 16 de maio.]]></summary>
-        <author>
-            <name>Boitempo</name>
         </author>
     </entry>
 </feed>
