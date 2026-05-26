@@ -4,13 +4,34 @@
       "title": "Jornal o Futuro",
       "feedUrl": "https://oluis-antonio.github.io/feed-jornalofuturo/feed.xml",
       "siteUrl": "https://jornalofuturo.com.br",
-      "articles": []
+      "articles": [
+        {
+          "id": "uZf4jc",
+          "author": null,
+          "description": "O último ano e meio da luta de classes no Brasil foi tomado pelo debate do fim da escala 6x1 e da redução da jornada de trabalho. A importância dessa batalha se comprovou não apenas na teoria, mas na prática.",
+          "link": "https://jornalofuturo.com.br/artigo/uZf4jc-tatica-parlamentarista-e-luta-de-massas-na-batalha-pela-jornada-de-trabalho",
+          "publishedOn": "2026-05-25T21:00:00.000Z",
+          "wordCount": 2931,
+          "title": "Tática parlamentarista e luta de massas na batalha pela jornada de trabalho",
+          "imageUrl": "https://media.jornalofuturo.com.br/atoseisporumrecife2024-1280x853.jpg"
+        }
+      ]
     },
     {
       "title": "Jornal A Verdade",
       "feedUrl": "https://averdade.org.br/feed/",
       "siteUrl": "https://averdade.org.br/",
       "articles": [
+        {
+          "id": "https://averdade.org.br/?p=61863",
+          "author": "Clarice Oliveira",
+          "description": "Movimento organizado por militantes da Unidade Popular junto com artistas populares no coração da cidade de Mossoró (RN) revive o “Beco dos Artistas”, espaço que celebra a cultura do povo Redação RN CULTURA – A expressão “pegar o beco”, comum no nordeste para dizer que se está indo embora de um lugar ou situação, vem […]",
+          "link": "https://averdade.org.br/2026/05/ocupe-o-beco-dos-artistas-quando-a-arte-se-torna-instrumento-de-luta-e-organizacao-dos-trabalhadores-reviveu-o/",
+          "publishedOn": "2026-05-25T23:41:37.000Z",
+          "wordCount": 7129,
+          "title": "Ocupe o Beco dos Artistas: quando a arte se torna instrumento de luta e organização dos trabalhadores reviveu o",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-25-at-20.29.52.jpeg"
+        },
         {
           "id": "https://averdade.org.br/?p=61859",
           "author": "Leonardo de Paula",
@@ -94,7 +115,7 @@
           "description": "O Relatório de Conflitos no Campo Brasil, publicado em 27 de abril pelo Centro de Documentação Dom Tomás Balduino, da Comissão Pastoral da Terra (CPT), apresentou os dados sobre a violência no campo em 2025 e comparou-os aos anos",
           "link": "https://opiniaosocialista.com.br/relatorio-da-cpt-revela-que-a-disputa-pela-terra-segue-como-principal-causa-da-violencia-no-camporelatorio-da-cpt-revela-que-a-disputa-pela-terra-segue-como-principal-causa-da-violencia/",
           "publishedOn": "2026-05-25T19:43:29.000Z",
-          "wordCount": 2120,
+          "wordCount": 2141,
           "title": "Relatório da CPT mostra que disputa pela terra segue como a principal causa da violência no campo",
           "imageUrl": "https://opiniaosocialista.com.br/content/images/2026/05/conflito-agr--rio_2.webp"
         },
@@ -246,14 +267,54 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
-          "id": "https://www.esquerdadiario.com.br/Eletricitarios-de-SP-lutam-pelo-fim-da-escala-6x1-e-ameacam-greve-dia-28",
+          "id": "https://www.esquerdadiario.com.br/Valdemar-contradiz-Flavio-Bolsonaro-e-diz-que-ele-foi-pedir-mais-dinheiro-a-Vorcaro-apos-a-prisao",
           "author": "Redação",
-          "description": "Cerca de 20 mil trabalhadores terceirizados do setor elétrico em São Paulo seguem mobilizados e podem entrar em greve a partir do dia 28, caso as empresas prestadoras de serviço não apresentem uma proposta que atenda às reivindicações da categoria. A possibilidade de paralisação foi mantida após audiência realizada nesta sexta-feira (22), no Tribunal Regional do Trabalho da 2ª Região (TRT-2), reunindo representantes das empresas, dirigentes do Sindicato dos Eletricitários de São Paulo e membros do Ministério Público do Trabalho.\n25-05-2026\n\n/ Classe trabalhadora, Terceirização, Greve, Enel, jornada 6x1",
-          "link": "https://www.esquerdadiario.com.br/Eletricitarios-de-SP-lutam-pelo-fim-da-escala-6x1-e-ameacam-greve-dia-28",
-          "publishedOn": "2026-05-25T21:15:11.000Z",
-          "wordCount": 8433,
-          "title": "Eletricitários de SP lutam pelo fim da escala 6x1 e ameaçam greve dia 28",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2026-05-22-at-11.14.47-768x576.jpg?1779743551"
+          "description": "Valdemar desmentiu discurso de Flávio, que disse ter ido até Vorcaro para por um ponto final na relação. Mas sua justificativa traz elementos a serem vistos para além do caso Master. \n Em entrevista à GloboNews, o presidente do PL, Valdemar Costa Neto, afirmou que Flávio Bolsonaro foi à casa de Vorcaro, quando o banqueiro saiu da prisão, pedir o dinheiro que ele não havia repassado ao filme Dark Horse. Essa versão vai contra o que Flávio havia dito antes, de que tinha ido a casa de Vorcaro (…)\n25-05-2026\n\n/ Política, Flavio Bolsonaro, Bolsonaro, Partido Liberal (PL), Banco Master",
+          "link": "https://www.esquerdadiario.com.br/Valdemar-contradiz-Flavio-Bolsonaro-e-diz-que-ele-foi-pedir-mais-dinheiro-a-Vorcaro-apos-a-prisao",
+          "publishedOn": "2026-05-25T23:32:36.000Z",
+          "wordCount": 8339,
+          "title": "Valdemar contradiz Flávio Bolsonaro e diz que ele foi pedir mais dinheiro a Vorcaro após a prisão",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000309320.webp?1779751900"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Docentes-da-USP-entram-em-greve-contra-a-intransigencia-da-Reitoria-com-os-estudantes",
+          "author": "Redação",
+          "description": "Professores da Universidade de São Paulo (USP) votaram, na tarde desta segunda-feira (25/05), sua entrada em greve em apoio à greve estudantil, que segue enfrentando a intransigência da Reitoria.\n25-05-2026\n\n/ USP, Educação, Reitoria, Tarcísio de Freitas, Reitoria USP, Greve de professores, USP, Greve contra Tarcísio, Greve na USP",
+          "link": "https://www.esquerdadiario.com.br/Docentes-da-USP-entram-em-greve-contra-a-intransigencia-da-Reitoria-com-os-estudantes",
+          "publishedOn": "2026-05-25T23:03:53.000Z",
+          "wordCount": 7935,
+          "title": "Docentes da USP entram em greve contra a intransigência da Reitoria com os estudantes",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/233643487_1513509735681272_668438875657682864_n-2.png?1779750140"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/O-acordo-entre-Lula-e-Motta-e-a-necessidade-de-uma-greve-geral-pelo-fim-imediato-da-6x1",
+          "author": "Ítalo Dias",
+          "description": "O presidente Lula e o presidente da Câmara Hugo Motta fecharam um acordo nesta tarde sobre o novo relatório da PEC que estabelece o fim da escala 6x1. Segundo Motta, o relatório propõe que o fim dessa escala comece após 60 dias de sua aprovação no Senado, com redução de jornada para 42h, e após um ano comece a redução para 40h semanais. Ao mesmo tempo, anunciou que o acordo tem “margem de negociação”. Portanto, a única garantia de que essa escala nefasta acabe é colocando toda a força da nossa classe em luta. Por uma greve geral pelo fim imediato da escala 6x1!\n25-05-2026\n\n/ Classe trabalhadora, Terceirização, Lula, Direitos Trabalhistas, efetivação terceirizados sem concurso, Reforma Trabalhista, Trabalhadores Terceirizados, Revogação Integral da Reforma Trabalhista, Governo Lula, jornada de trabalho, jornada 6x1, Hugo Motta",
+          "link": "https://www.esquerdadiario.com.br/O-acordo-entre-Lula-e-Motta-e-a-necessidade-de-uma-greve-geral-pelo-fim-imediato-da-6x1",
+          "publishedOn": "2026-05-25T22:52:26.000Z",
+          "wordCount": 8587,
+          "title": "O acordo entre Lula e Motta e a necessidade de uma greve geral pelo fim imediato da 6x1",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/presidente-lula-e-hugo-motta.-o-ministro-edson-fachin-assume-a-presidencia-do-supremo-tribunal-federal-stf.-o-magistrado-tera-como-vice-presidente-o-ministro-alexandre-de-moraes-metropoles-3.webp?1779749483"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Bolivia-Nem-um-passo-atras-a-COB-deve-efetivar-a-greve-geral",
+          "author": "Liga Obrera Revolucionaria por la Cuarta Internacional (LOR-CI)",
+          "description": "Publicamos a seguir a declaração política de nossas companheiras e companheiros bolivianos da Liga Operária Revolucionária – Quarta Internacional, que faz parte de nossa organização internacional, a Corrente Revolução Permanente.\nMatérias\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB)",
+          "link": "https://www.esquerdadiario.com.br/Bolivia-Nem-um-passo-atras-a-COB-deve-efetivar-a-greve-geral",
+          "publishedOn": "2026-05-25T21:56:03.000Z",
+          "wordCount": 8826,
+          "title": "Bolívia: Nem um passo atrás, a COB deve efetivar a greve geral!",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/renuncia-2-f15c7.jpg?1779746122"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/4-passos-para-fortalecer-a-nossa-luta-por-permanencia-estudantil-na-UFABC",
+          "author": "Faísca - UFABC, Redação",
+          "description": "Durante um forte processo de greve que vemos dos estudantes das universidades estaduais de SP contra a precarização imposta pelas Reitorias e o avanço das privatizações pelo governador Tarcísio, recepcionamos os calouros da UFABC também em meio a uma greve de quase 3 meses dos servidores Técnicos Administrativos que lutam por condições dignas de trabalho e contra o Arcabouço Fiscal que restringe verbas para a universidade federal. Enquanto celebramos o ingresso na universidade — que é negado a muitos pelo filtro social e racial que é o vestibular —, convocamos todes à Assembleia Geral dos Estudantes chamada pelo DCE nesta quarta-feira (27) às 18h no Piso Vermelho no campus de Santo André para debater a situação da universidade e lutar pela permanência estudantil.\nMatérias",
+          "link": "https://www.esquerdadiario.com.br/4-passos-para-fortalecer-a-nossa-luta-por-permanencia-estudantil-na-UFABC",
+          "publishedOn": "2026-05-25T21:35:37.000Z",
+          "wordCount": 9400,
+          "title": "4 passos para fortalecer a nossa luta por permanência estudantil na UFABC",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-25_at_6.34_29_pm.jpg?1779744923"
         },
         {
           "id": "https://www.esquerdadiario.com.br/Voce-sabia-que-a-greve-da-Unicamp-luta-pelo-fim-da-escala-6x1-para-os-trabalhadores-terceirizados",
@@ -261,9 +322,19 @@
           "description": "Esse é mais um motivo para você apoiar essa greve que luta pelo fim da escala 6x1, creche e serviço de saúde (CECOM) para todos os trabalhadores terceirizados!\n25-05-2026\n\n/ Educação, Unicamp, Greve das estaduais paulistas, Reitoria Unicamp, Estudantes Unicamp, Comitê em Defesa das Terceirizadas - Unicamp",
           "link": "https://www.esquerdadiario.com.br/Voce-sabia-que-a-greve-da-Unicamp-luta-pelo-fim-da-escala-6x1-para-os-trabalhadores-terceirizados",
           "publishedOn": "2026-05-25T19:51:57.000Z",
-          "wordCount": 8395,
+          "wordCount": 8389,
           "title": "Você sabia que a greve da Unicamp luta pelo fim da escala 6x1 para os trabalhadores terceirizados?",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-25_at_16.42_15.jpg?1779738542"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Eletricitarios-de-SP-lutam-pelo-fim-da-escala-6x1-e-ameacam-greve-dia-28",
+          "author": "Redação",
+          "description": "Cerca de 20 mil trabalhadores terceirizados do setor elétrico em São Paulo seguem mobilizados e podem entrar em greve a partir do dia 28, caso as empresas prestadoras de serviço não apresentem uma proposta que atenda às reivindicações da categoria. A possibilidade de paralisação foi mantida após audiência realizada nesta sexta-feira (22), no Tribunal Regional do Trabalho da 2ª Região (TRT-2), reunindo representantes das empresas, dirigentes do Sindicato dos Eletricitários de São Paulo e membros do Ministério Público do Trabalho.\n25-05-2026\n\n/ Classe trabalhadora, Terceirização, Greve, Enel, jornada 6x1",
+          "link": "https://www.esquerdadiario.com.br/Eletricitarios-de-SP-lutam-pelo-fim-da-escala-6x1-e-ameacam-greve-dia-28",
+          "publishedOn": "2026-05-25T19:00:00.000Z",
+          "wordCount": 8434,
+          "title": "Eletricitários de SP lutam pelo fim da escala 6x1 e ameaçam greve dia 28",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp-image-2026-05-22-at-11.14.47-768x576.jpg?1779743551"
         },
         {
           "id": "https://www.esquerdadiario.com.br/Trabalhadores-da-educacao-de-Rio-Branco-fazem-greve-contra-arrocho-salarial-de-Alysson-Bestene-PP",
@@ -271,7 +342,7 @@
           "description": "Os profissionais da educação da rede municipal de Rio Branco (AC) deflagraram greve por tempo indeterminado na última quarta-feira (20), contra o arrocho salarial imposto pela gestão do prefeito Alysson Bestene (PP). Os trabalhadores da capital acreana estão há três anos consecutivos sem reajuste salarial ou reposição inflacionária, mantendo o piso em R$1,5 mil, abaixo do salário mínimo. Todo apoio a greve dos trabalhadores da educação de Rio Branco!\n25-05-2026\n\n/ Educação, Educação, Trabalhadores da educação, Acre, Greve de professores, PP, Greve na Educação",
           "link": "https://www.esquerdadiario.com.br/Trabalhadores-da-educacao-de-Rio-Branco-fazem-greve-contra-arrocho-salarial-de-Alysson-Bestene-PP",
           "publishedOn": "2026-05-25T17:47:06.000Z",
-          "wordCount": 8312,
+          "wordCount": 8310,
           "title": "Trabalhadores da educação de Rio Branco fazem greve contra arrocho salarial de Alysson Bestene (PP)",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/greve-educacao-1024x576.jpg?1779731153"
         },
@@ -291,7 +362,7 @@
           "description": "A greve dos três setores da Unicamp se insere numa conjuntura particular em SP, como mostrou o grande ato do dia 20 rumo ao Palácio dos Bandeirantes. Por um lado, um contexto de greves, como as atuais greves de estudantes das três estaduais paulistas, a vitoriosa greve dos trabalhadores da USP que deu pontapé às lutas nas universidades, a greve de trabalhadores em quatro campi da Unesp (Bauru, Rio Preto, Marília e Franca) e a greve que durou semanas dos professores municipais de SP contra (…)\n25-05-2026\n\n/ Educação, Unicamp, Greve das estaduais paulistas, Campinas, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp, Comitê em Defesa das Terceirizadas - Unicamp",
           "link": "https://www.esquerdadiario.com.br/Massificar-e-coordenar-nossas-lutas-para-enfrentar-Tarcisio-e-a-reitoria-de-Cesinha",
           "publishedOn": "2026-05-25T13:56:28.000Z",
-          "wordCount": 9917,
+          "wordCount": 9913,
           "title": "Massificar e coordenar nossas lutas para enfrentar Tarcísio e a reitoria de Cesinha",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-25_at_10.41_23_2_.jpg?1779716532"
         },
@@ -331,7 +402,7 @@
           "description": "A crise na Bolívia revela os limites do governo de Rodrigo Paz, mas também o papel das burocracias sindicais, da direita regional e das disputas políticas que atravessam a América Latina. É necessário uma campanha internacional contra a repressão, pela liberdade dos presos e em apoio às demandas dos trabalhadores, camponeses e indígenas bolivianos.\n25-05-2026\n\n/ Internacional, Bolívia, Gasolinazo, Crise Política na Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)",
           "link": "https://www.esquerdadiario.com.br/Mineiros-camponeses-e-indigenas-desafiam-o-direitista-de-Rodrigo-Paz-enquanto-os-governos",
           "publishedOn": "2026-05-25T12:07:23.000Z",
-          "wordCount": 9030,
+          "wordCount": 9024,
           "title": "Mineiros, camponeses e indígenas desafiam o direitista de Rodrigo Paz, enquanto os governos \"progressistas\" se calam",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/_800_x_450_px_5_-3.jpg?1779710751"
         },
@@ -351,7 +422,7 @@
           "description": "Neste sábado, durante a madrugada, a operação policial começou o desbloqueio avançando desde a Ceja de El Alto até a estrada de Oruro, tentando desbloqueá-la com uma operação falsamente chamada de “corredor humanitário”. No entanto, em sua passagem, vizinhas, vizinhos, trabalhadores e setores populares mobilizados voltaram a instalar os pontos de bloqueio.\n25-05-2026\n\n/ Internacional, Bolívia, Gasolinazo, Crise Política na Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz",
           "link": "https://www.esquerdadiario.com.br/Continuam-os-bloqueios-apesar-das-tentativas-do-governo-de-Paz-de-rompe-los",
           "publishedOn": "2026-05-25T11:27:12.000Z",
-          "wordCount": 8195,
+          "wordCount": 8189,
           "title": "Continuam os bloqueios apesar das tentativas do governo de Paz de rompe-los",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/bloqueo-el-alto.jpg?1779708349"
         },
@@ -371,7 +442,7 @@
           "description": "Confira vídeo de Leandro Lanfredi, diretor do sindipetro RJ e dirigente do MRT, defendendo uma política de paralização nacional para impor na luta o fim ja da escala 6x1\nMatérias\n\n/ Classe trabalhadora, Greve Geral, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Por-uma-paralisacao-nacional-pelo-fim-da-6x1-ja",
           "publishedOn": "2026-05-22T19:36:40.000Z",
-          "wordCount": 7668,
+          "wordCount": 7670,
           "title": "Por uma paralisação nacional pelo fim da 6x1 já",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/greve61.jpg?1779478548"
         },
@@ -391,7 +462,7 @@
           "description": "Mais um capítulo absurdo no país da herança da escravidão. Uma empregada africana, da Etiópia, foi encontrada no bairro de Rio Tavares em Florianópolis depois de fugir da casa dos patrões, os quais a mantiam sob violência psicológica em trabalho análogo a escravidão. É mais um capítulo das centenas de notícias que rememoram os tempos da escravidão, nos quais a burgesia se utiliza do racismo para tratar a as mulheres trabalhadoras negras como descartáveis.\nMatérias\n\n/ Sociedade, Trabalho análogo à escravidão, Escravidão moderna",
           "link": "https://www.esquerdadiario.com.br/Trabalhadora-etiope-em-situacao-de-escravidao-foge-do-cativeiro-em-Florianopolis",
           "publishedOn": "2026-05-22T17:49:03.000Z",
-          "wordCount": 8295,
+          "wordCount": 8298,
           "title": "Trabalhadora etíope em situação de escravidão foge do cativeiro em Florianópolis",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/images-18.jpg?1779472113"
         },
@@ -401,7 +472,7 @@
           "description": "Os trabalhadores aceitaram a contraproposta da patronal, com 4,11% de reajustes, acrescido de 2,36% de aumento real. A greve acabou, mas seguem as as negociaçoes\n20-05-2026\n\n/ Classe trabalhadora, Greve, rodoviários",
           "link": "https://www.esquerdadiario.com.br/Comeca-a-greve-dos-rodoviarios-e-Salvador-amanhece-sem-onibus-nesta-sexta-22-05",
           "publishedOn": "2026-05-22T11:28:57.000Z",
-          "wordCount": 8083,
+          "wordCount": 8082,
           "title": "Rodoviários de Salvador encerram greve depois de parar a cidade nesta sexta, 22/05",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/salvador3.jpg?1779449322"
         },
@@ -411,7 +482,7 @@
           "description": "Os rodoviários de Salvador aprovaram greve a partir desta sexta-feira, 22 de maio, diante da intransigência dos empresários do transporte coletivo nas negociações da campanha salarial de 2026\n20-05-2026\n\n/ Bahia, Greve, rodoviários, Nordeste",
           "link": "https://www.esquerdadiario.com.br/Todo-apoio-a-greve-dos-rodoviarios-de-Salvador-por-salario-jornada-digna-e-melhores-condicoes-de",
           "publishedOn": "2026-05-21T22:43:26.000Z",
-          "wordCount": 8026,
+          "wordCount": 8029,
           "title": "Todo apoio à greve dos rodoviários de Salvador por salário, jornada digna e melhores condições de trabalho",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/rodoviarios_salvador.jpg?1779403336"
         },
@@ -421,7 +492,7 @@
           "description": "Os rodoviários de Manaus mantêm a greve prevista para começar nesta sexta-feira, 22 de maio, após mais uma reunião terminar sem acordo entre o Sindicato dos Rodoviários, o Sindicato das Empresas de Transporte de Passageiros do Amazonas (Sinetram) e o Instituto Municipal de Mobilidade Urbana (IMMU). Os trabalhadores reivindicam 12%, e os empresários apresentaram uma proposta de apenas 4,11%, baseada no INPC acumulado.\n20-05-2026\n\n/ Classe trabalhadora, Greve, rodoviários",
           "link": "https://www.esquerdadiario.com.br/Todo-apoio-a-greve-dos-rodoviarios-de-Manaus-em-defesa-do-direito-de-greve-contra-limitacao-de-80-e",
           "publishedOn": "2026-05-21T22:00:00.000Z",
-          "wordCount": 7958,
+          "wordCount": 7957,
           "title": "Todo apoio à greve dos rodoviários de Manaus, em defesa do direito de greve, contra limitação de 80% e as multas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/manaus.jpg?1779404327"
         },
@@ -431,7 +502,7 @@
           "description": "Inúmeros casos de assédio moral seguem acontecendo nas estações do Metrô de SP contra os trabalhadores terceirizados da Works que, muitas vezes, com medo de sofrer ainda mais represálias, não denunciam as situações pelas quais passam. \n Dentre tantos casos — incluindo descontos salariais por licenças médicas e a troca compulsória de postos de trabalho como forma de punição quando os trabalhadores precisam se afastar —, funcionárias gestantes também relatam diversas situações de assédio (…)\n20-05-2026\n\n/ Classe trabalhadora, Metrô, Terceirização, Privatização, Metrô de SP, Metrô de São Paulo",
           "link": "https://www.esquerdadiario.com.br/A-Works-tornou-a-minha-gravidez-tao-desejada-um-pesadelo-denuncia-ex-funcionaria-terceirizada-do",
           "publishedOn": "2026-05-21T21:55:20.000Z",
-          "wordCount": 8574,
+          "wordCount": 8575,
           "title": "\"A Works tornou a minha gravidez tão desejada um pesadelo\", denuncia ex-funcionária terceirizada do Metrô-SP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-21_at_18.45_21.jpg?1779400304"
         },
@@ -441,19 +512,9 @@
           "description": "Nesta quarta-feira (20), estivadores do Porto de Santos e de outros portos do país fizeram uma greve nacional de 12 horas contra as mudanças previstas no marco legal do setor portuário. A paralisação denuncia o risco de retirada da exclusividade da mão de obra avulsa nas operações portuárias, uma conquista histórica da categoria que garante emprego, renda, qualificação profissional e condições mínimas de controle sobre o trabalho nos portos. \n A mobilização foi aprovada em reunião do (…)\n20-05-2026\n\n/ Classe trabalhadora, Movimento Operário, Santos, Ministério de Portos e Aeroportos, Baixada Santista",
           "link": "https://www.esquerdadiario.com.br/Estivadores-de-Santos-fazem-greve-contra-ataque-a-mao-de-obra-avulsa-nos-portos-Todo-apoio",
           "publishedOn": "2026-05-21T20:49:54.000Z",
-          "wordCount": 8037,
+          "wordCount": 8039,
           "title": "Estivadores de Santos fazem greve contra ataque à mão de obra avulsa nos portos. Todo apoio!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/estivadores-praca-maua-cred-rodrigo-montaldi-dl-1jpg.webp.jpg?1779396586"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Empresa-sorteia-adicional-insalubridade-entre-ASBs-e-transforma-direito-em-loteria",
-          "author": "Nossa Classe - MG",
-          "description": "Mais uma vez a terceirização mostra exatamente a que veio dentro da educação pública: promover a precarização do trabalho, retirar direitos e tratar trabalhadores como se fossem descartáveis. \n Em Ribeirão das Neves, depois das denúncias de redução salarial e perda de benefícios com a chegada da empresa Appa Facilities, surge mais uma situação absurda dentro das escolas municipais. As auxiliares de serviços básicos denunciam que o adicional de insalubridade está sendo pago por meio de um (…)\n20-05-2026\n\n/ Classe trabalhadora, Educação, Terceirização, Minas Gerais",
-          "link": "https://www.esquerdadiario.com.br/Empresa-sorteia-adicional-insalubridade-entre-ASBs-e-transforma-direito-em-loteria",
-          "publishedOn": "2026-05-21T10:11:39.000Z",
-          "wordCount": 8072,
-          "title": "Empresa sorteia adicional insalubridade entre ASBs e transforma direito em loteria",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nacional_geral_foto_horizontal_14_1_.png?1779327084"
         }
       ]
     },
@@ -506,21 +567,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://uploads.intercept.com.br/2026/05/leo-dias-vorcaro-miranda-header.png"
-        },
-        {
-          "id": "https://www.intercept.com.br/?p=443277",
-          "author": "Bianca Pyl",
-          "description": "O escândalo do Banco Master revela como os ultra-ricos e a extrema direita se associam para moldar a política, mostrando que a raiz da corrupção no Brasil está fincada no sistema capitalista.\nO post Envolvimento da família Bolsonaro com Vorcaro escancara a engrenagem da corrupção no Brasil apareceu primeiro em Intercept Brasil.",
-          "link": "https://www.intercept.com.br/2026/05/21/bolsonaro-vorcaro-engrenagem-corrupcao/",
-          "publishedOn": "2026-05-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Envolvimento da família Bolsonaro com Vorcaro escancara a engrenagem da corrupção no Brasil",
-          "enclosure": {
-            "url": "https://uploads.intercept.com.br/2026/05/HeaderSite.jpg",
-            "length": "1",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://uploads.intercept.com.br/2026/05/HeaderSite.jpg"
         }
       ]
     },
@@ -632,7 +678,7 @@
           "description": "s cenas que se desenrolaram em Pequim foram cuidadosamente coreografadas, mas a política nunca pode ser reduzida a mero espetáculo. Quando o presidente dos EUA, Donald Trump, viajou à China para sua reunião de alto nível com Xi Jinping, a mídia ocidental, como costuma fazer, fixou-se no espetáculo: banquetes luxuosos, guardas de honra, gestos teatrais […]",
           "link": "https://revistaopera.operamundi.uol.com.br/2026/05/21/donald-trump-foi-a-pequim-de-chapeu-na-mao-e-partiu-com-um-aperto-de-mao-de-xi-jinping/",
           "publishedOn": "2026-05-21T22:03:05.000Z",
-          "wordCount": 3873,
+          "wordCount": 3871,
           "title": "Donald Trump foi a Pequim de chapéu na mão e partiu com um aperto de mão de Xi Jinping",
           "imageUrl": "https://revistaopera.operamundi.uol.com.br/wp-content/uploads/2026/05/trump-1.webp"
         },
@@ -654,12 +700,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=255677",
+          "author": "Victor Farinelli",
+          "description": "O governo da Bolívia enviou formalmente um pedido de ajuda ao Brasil em meio à crise econômica enfrentada pelo país, resultado do pacote de medidas neoliberais lançado no início do ano, e que tem provocado uma grande onda de protestos desde o início de maio. A solicitação está sendo analisada pelo Itamaraty e teria como […]\nO post Bolívia pede ajuda ao Brasil em meio a crise provocada por políticas neoliberais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/bolivia-pede-ajuda-ao-brasil-em-meio-a-crise-provocada-por-politicas-neoliberais/",
+          "publishedOn": "2026-05-25T23:37:31.000Z",
+          "wordCount": 3200,
+          "title": "Bolívia pede ajuda ao Brasil em meio a crise provocada por políticas neoliberais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/lp.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255671",
+          "author": "Tabitha Ramalho",
+          "description": "Esta segunda-feira (25/05) marca o Dia da África, continente com o qual o Brasil tem intensificado as relações no atual governo de Luiz Inácio Lula da Silva. O movimento faz parte de um esforço para diversificar os parceiros comerciais, além de reforçar laços culturais, diplomáticos, científicos e históricos com os africanos. Lula fez sete viagens […]\nO post Dia da África: Brasil amplia agenda de integração com o continente apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/dia-da-africa-brasil-amplia-agenda-de-integracao-com-o-continente/",
+          "publishedOn": "2026-05-25T22:00:41.000Z",
+          "wordCount": 4907,
+          "title": "Dia da África: Brasil amplia agenda de integração com o continente",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/lula-dia-da-africa_mcamgo_abr_25052023.webp"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255662",
+          "author": "Victor Farinelli",
+          "description": "Em comunicado emitido nesta segunda-feira (25/05), o Ministério das Relações Exteriores da Rússia indicou que pretende lançar um novo ataque aéreo contra a capital da Ucrânia, nas próximas horas. A medida seria uma ação retaliatória contra bombardeios lançados na última sexta-feira (22/05) pelo exército ucraniano contra o território de Lugansk, controlado pelos russos, que teria […]\nO post Rússia anuncia retaliação após ataque ucraniano matar 21 estudantes apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-anuncia-retaliacao-apos-ataque-ucraniano-matar-21-estudantes/",
+          "publishedOn": "2026-05-25T21:40:02.000Z",
+          "wordCount": 3027,
+          "title": "Rússia anuncia retaliação após ataque ucraniano matar 21 estudantes",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/93.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255668",
+          "author": "Tabitha Ramalho",
+          "description": "O senador e pré-candidato à Presidência Flávio Bolsonaro (PL-RJ) partiu na noite deste domingo (24/05) rumo a Washington D.C., onde espera se reunir com o presidente dos Estados Unidos, Donald Trump. Principal adversário do presidente Luiz Inácio Lula da Silva (PT) nas eleições de outubro, o filho mais velho do ex-presidente Jair Bolsonaro quer reforçar […]\nO post Flávio Bolsonaro está nos EUA em busca de reunião com Trump apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/flavio-bolsonaro-esta-nos-eua-em-busca-de-reuniao-com-trump/",
+          "publishedOn": "2026-05-25T21:20:18.000Z",
+          "wordCount": 3611,
+          "title": "Flávio Bolsonaro está nos EUA em busca de reunião com Trump",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/75043898_303.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=255650",
+          "author": "Tabitha Ramalho",
+          "description": "As equipes de resgate concluíram, no último sábado (23/05), as operações de busca no local do bombardeio das Forças Armadas da Ucrânia em um dormitório estudantil em Starobelsk, na região de Lugansk. De acordo com o serviço de imprensa do Ministério para Situações de Emergência da Rússia, os corpos de 21 vítimas foram encontrados. “As […]\nO post Kremlin critica Ocidente por não condenar ataque de Kiev em escola; 21 crianças morreram em Lugansk apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/kremlin-critica-ocidente-por-nao-condenar-ataque-de-kiev-em-escola-21-criancas-morreram-em-lugansk/",
+          "publishedOn": "2026-05-25T21:00:31.000Z",
+          "wordCount": 3877,
+          "title": "Kremlin critica Ocidente por não condenar ataque de Kiev em escola; 21 crianças morreram em Lugansk",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/1475303.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=255665",
           "author": "Raissa Neves",
           "description": "Aqueles que leram o novo tratado da empresa Palatir, um quasi-manifesto publicado já faz um mês, notaram que ele apresenta uma (nem tão) nova perspectiva dos “capitalistas digitais” norte-americanos sobre a política mundial: trata-se de uma reedição dos paradigmas coloniais e imperialistas para a realidade contemporânea. Aqui, você tem um resumo do que é fundamental […]\nO post O que você precisa saber sobre o manifesto da Palantir e a “nova” ideologia imperial das Big Techs apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/o-que-voce-precisa-saber-sobre-o-manifesto-da-palantir-e-a-nova-ideologia-imperial-das-big-techs/",
           "publishedOn": "2026-05-25T20:30:52.000Z",
-          "wordCount": 5360,
+          "wordCount": 5355,
           "title": "O que você precisa saber sobre o manifesto da Palantir e a “nova” ideologia imperial das Big Techs",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/32215763362_b62ef08e5f_c.jpg"
         },
@@ -669,7 +765,7 @@
           "description": "Todos os anos, o 25 de maio é celebrado como o Dia da África. A data marca a criação da Organização da Unidade Africana, em 1963, antecessora da atual União Africana, e simboliza a luta dos povos africanos por soberania, independência e unidade continental. Em muitos países, há festivais culturais, discursos políticos, homenagens e publicações […]\nO post 25 de maio: celebrar a África ou encarar suas feridas? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/25-de-maio-celebrar-a-africa-ou-encarar-suas-feridas/",
           "publishedOn": "2026-05-25T20:24:25.000Z",
-          "wordCount": 3864,
+          "wordCount": 3865,
           "title": "25 de maio: celebrar a África ou encarar suas feridas?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/52105827237_ee894673b5_c.jpg"
         },
@@ -679,7 +775,7 @@
           "description": "A regra de transição para redução da jornada de trabalho das atuais 44 horas para 40 horas semanais deve ser de um ano, segundo acordo costurado pelas lideranças da Câmara e pelo governo federal e anunciado nesta segunda-feira (25/05). O texto da Proposta de Emenda em Constituição (PEC) em tramitação da Câmara irá prever uma […]\nO post Após acordo com governo, PEC do fim da escala 6×1 prevê transição de um ano apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/apos-acordo-com-governo-pec-do-fim-da-escala-6x1-preve-transicao-de-um-ano/",
           "publishedOn": "2026-05-25T20:20:03.000Z",
-          "wordCount": 3875,
+          "wordCount": 3869,
           "title": "Após acordo com governo, PEC do fim da escala 6×1 prevê transição de um ano",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/61.jpg"
         },
@@ -689,7 +785,7 @@
           "description": "A presidente do México, Claudia Sheinbaum, confirmou nesta segunda-feira (25/05) que o México irá receber a seleção iraniana durante a Copa do Mundo de 2026. A delegação do país persa irá se estabelecer em Tijuana, cidade na fronteira com território norte-americano.  A presidente mexicana afirmou que a Federação Internacional de Futebol Associado (FIFA) procurou seu […]\nO post México aceita acolher seleção do Irã durante Copa do Mundo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/mexico-aceita-acolher-selecao-do-ira-durante-copa-do-mundo/",
           "publishedOn": "2026-05-25T20:10:24.000Z",
-          "wordCount": 3134,
+          "wordCount": 3128,
           "title": "México aceita acolher seleção do Irã durante Copa do Mundo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/52297347450_a43a03fb89_c.jpg"
         },
@@ -699,59 +795,9 @@
           "description": "Há 126 anos, em 25 de maio de 1900, era criada no Rio de Janeiro a Fundação Oswaldo Cruz (Fiocruz). Surgida com a missão de produzir medicamentos para combater as epidemias que assolavam o Brasil, a instituição se consolidou como um dos sustentáculos do sistema público de saúde. A Fiocruz é um dos mais destacados […]\nO post Da erradicação da varíola ao combate à covid: a história da Fiocruz apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/da-erradicacao-da-variola-ao-combate-a-covid-a-historia-da-fiocruz/",
           "publishedOn": "2026-05-25T19:40:03.000Z",
-          "wordCount": 5715,
+          "wordCount": 5710,
           "title": "Da erradicação da varíola ao combate à covid: a história da Fiocruz",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/manguinhos_fiocruz2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255637",
-          "author": "Tabitha Ramalho",
-          "description": "O Presidente da República, Joseph Aoun, afirmou que neste dia, em 2000, “o Líbano do Sul escreveu um capítulo sem precedentes quando a ocupação israelense se retirou como resultado da firmeza e dos sacrifícios do povo desta terra, tornando o dia 25 de maio um dia de dignidade nacional”. O líder libanês observou, no entanto, […]\nO post Líbano celebra ‘Dia da Libertação’ em meio a ataques israelenses e exige retirada total apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/libano-celebra-dia-da-libertacao-em-meio-a-ataques-israelenses-e-exige-retirada-total-exigencia-inegociavel/",
-          "publishedOn": "2026-05-25T19:00:39.000Z",
-          "wordCount": 3438,
-          "title": "Líbano celebra ‘Dia da Libertação’ em meio a ataques israelenses e exige retirada total",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/46f4e5a0-e592-4072-a838-9b39d5cae124.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255633",
-          "author": "Victor Farinelli",
-          "description": "Em votação realizada neste domingo (24/05), o Senado da Bolívia aprovou um projeto de lei que determina a revogação da atual Lei do Estado de Exceção. A iniciativa está sendo impulsionada por partidários do presidente conservador Rodrigo Paz, que criticam a norma vigente por considerá-lo limitadora do poder de atuação do mandatário. Caso a revogação […]\nO post Presidente da Bolívia pressiona Congresso para revogar lei que barra medidas de exceção no país apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/presidente-da-bolivia-pressiona-congresso-para-revogar-lei-que-barra-medidas-de-excecao-no-pais/",
-          "publishedOn": "2026-05-25T18:15:18.000Z",
-          "wordCount": 3089,
-          "title": "Presidente da Bolívia pressiona Congresso para revogar lei que barra medidas de exceção no país",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/paz-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255635",
-          "author": "Tatiana Carlotti",
-          "description": "O presidente de Cuba, Miguel Díaz-Canel, agradeceu ao governo chinês pelo envio de 15 mil toneladas de arroz à ilha caribenha. A remessa chegou neste sábado (24/05) no Porto de Havana. A carga é parte de um pacote mais amplo de assistência anunciada pelo presidente chinês Xi Jinping, englobando 60 mil toneladas de arroz para […]\nO post Díaz-Canel elogia ‘nobre gesto de solidariedade’ ao agradecer Pequim por ajuda humanitária enviada a Cuba apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/diaz-canel-elogia-nobre-gesto-de-solidariedade-ao-agradecer-pequim-por-ajuda-humanitaria-enviada-a-cuba/",
-          "publishedOn": "2026-05-25T17:22:54.000Z",
-          "wordCount": 3011,
-          "title": "Díaz-Canel elogia ‘nobre gesto de solidariedade’ ao agradecer Pequim por ajuda humanitária enviada a Cuba",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/12/@diazcanelb-768x512-1.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255627",
-          "author": "Tatiana Carlotti",
-          "description": "Reportagem publicada no Financial Times, nesta segunda-feira (25/05), diz que o filme Dark Horse se transformou em uma ‘comédia de erros’, após as revelações do financiamento de Daniel Vorcaro, dono do Banco Master, ao filme sobre o ex-presidente Jair Bolsonaro. “A cinebiografia em inglês está se tornando uma comédia de erros, após revelações de que Flávio […]\nO post Filme sobre Bolsonaro é ‘comédia de erros’, diz Financial Times apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/filme-sobre-bolsonaro-e-comedia-de-erros-diz-financial-times/",
-          "publishedOn": "2026-05-25T15:50:06.000Z",
-          "wordCount": 3181,
-          "title": "Filme sobre Bolsonaro é ‘comédia de erros’, diz Financial Times",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/03/lula3793.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255623",
-          "author": "Tatiana Carlotti",
-          "description": "O papa Leão 14 apresentou sua primeira encíclica, intitulada Magnifica Humanitas, nesta segunda-feira (25/05). No documento, dirigido aos bispos do mundo inteiro, ele afirma que a demora da Igreja católica em condenar a escravidão é uma ‘ferida na memória cristã’. ‘Em nome da Igreja, peço sinceramente perdão’, declara o pontífice, acrescentando ser “impossível não sentir […]\nO post Leão 14 pede desculpa pela ‘demora’ da Igreja Católica em condenar escravidão apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/sociedade/leao-14-pede-desculpa-pela-demora-da-igreja-catolica-em-condenar-escravidao/",
-          "publishedOn": "2026-05-25T14:43:45.000Z",
-          "wordCount": 3689,
-          "title": "Leão 14 pede desculpa pela ‘demora’ da Igreja Católica em condenar escravidão",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/papa-2.webp"
         }
       ]
     },
@@ -766,6 +812,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=226392",
+          "author": "Redação de AND",
+          "description": "Senado revogou norma que limitava estados de exceção enquanto operação policial-militar em Calamarca assassinou um jovem por disparo de arma de fogo, segundo movimentos populares; governo Paz nega uso de armas letais, e entidades pedem investigação independente.",
+          "link": "https://anovademocracia.com.br/bolivia-sitio-assassinato-manifestante/",
+          "publishedOn": "2026-05-25T22:21:30.000Z",
+          "wordCount": null,
+          "title": "Velho Estado boliviano prepara estado de sítio após assassinato de manifestante em Calamarca",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=226372",
           "author": "Giovanna Maria",
@@ -855,16 +911,6 @@
           "wordCount": null,
           "title": "Dona da produtora do filme de Bolsonaro comanda ONG com contrato de R$ 108 milhões da Prefeitura de SP",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226280",
-          "author": "Redação de AND",
-          "description": "Teerã rejeita entregar urânio enriquecido, recompõe produção militar acima do esperado por Washington e mantém Ormuz como principal instrumento de pressão nas negociações.",
-          "link": "https://anovademocracia.com.br/ira-rejeita-uranio-recompoe-acima-do-eua/",
-          "publishedOn": "2026-05-22T22:38:57.000Z",
-          "wordCount": null,
-          "title": "Irã rejeita entregar urânio e recompõe forças acima do previsto pelo EUA",
-          "imageUrl": null
         }
       ]
     },
@@ -880,12 +926,32 @@
       "siteUrl": "https://outraspalavras.net/",
       "articles": [
         {
+          "id": "https://outraspalavras.net/?p=3186415",
+          "author": "Antonio Martins",
+          "description": "Rentistas lançam novo ataque aos direitos previdenciários. Flávio Bolsonaro adere, e no governo Lula há vozes favoráveis. Para um novo projeto de país é preciso cogitar o oposto. Eduardo Fagnani e Rosa Maria Marques debatem o tema, em 26/5\nThe post Previdência Social, o grande debate sonegado appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/direitosouprivilegios/previdencia-social-o-grande-debate-sonegado/",
+          "publishedOn": "2026-05-25T21:55:34.000Z",
+          "wordCount": 4604,
+          "title": "Previdência Social, o grande debate sonegado",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/25185023/Sem-titulo-1.jpg"
+        },
+        {
+          "id": "https://outraspalavras.net/?p=3186405",
+          "author": "Xiong Jie",
+          "description": "Em vez de utilizada no roubo de dados ou transformada em arma de guerra, a tecnologia deve servir ao interesse público. Uma IA de código aberto, antimonopólio, e que ao integrar diversos setores da economia beneficie a sociedade, existe e está em expansão\nThe post China X EUA: alternativas para reescrever a IA appeared first on Outras Palavras.",
+          "link": "https://outraspalavras.net/tecnologiaemdisputa/china-x-eua-alternativas-para-reescrever-a-ia/",
+          "publishedOn": "2026-05-25T21:19:38.000Z",
+          "wordCount": 4936,
+          "title": "China X EUA: alternativas para reescrever a IA",
+          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/25181513/Screenshot-2026-05-25-at-18-14-05-ai-human-path-hp_0.jpg.webp-imagem-WEBP-930-%C3%97-402-pixels.png"
+        },
+        {
           "id": "https://outraspalavras.net/?p=3186347",
           "author": "Thiago Gama",
           "description": "Pensadora decolonial vê, na resistência palestina, um teste decisivo para a humanidade. Cresceu em meio às lutas de libertação africana. Aos 16, já figurava em relatórios policiais. Enquanto Vaticano pede perdão e “vigília” contra a escravidão, ela exige abolição real\nThe post A ferida e a máquina racista no século XXI appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/a-ferida-e-a-maquina-racista-no-seculo-xxi/",
           "publishedOn": "2026-05-25T20:34:52.000Z",
-          "wordCount": 6689,
+          "wordCount": 6686,
           "title": "A ferida e a máquina racista no século XXI",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/25173347/2G0A2357-copia.jpg"
         },
@@ -905,17 +971,17 @@
           "description": "Alegoria de 40 anos de submissão aos mercados. Amputamos excessos. Refreamos impulsos. Disciplinamos os galhos que se rebelam. Nada escapa – só a desigualdade. E ainda assim, admiramos – como se fosse natural\nThe post Bonsai econômico appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/poeticas/bonsai-economico/",
           "publishedOn": "2026-05-25T19:19:37.000Z",
-          "wordCount": 3014,
+          "wordCount": 3011,
           "title": "Bonsai econômico",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/25161758/photo_4947306437117938942_w.jpg"
         },
         {
           "id": "https://outraspalavras.net/?p=3186272",
           "author": "Rôney Rodrigues",
-          "description": "Sonho da casa própria desmorona no Brasil. Mercado começa a ver mais lucros no aluguel que na venda. Imóveis viram ativos financeiros com plataformas como o Airbnb. E o poder público troca políticas habitacionais por “auxílio aluguel” precário. Quais são os caminhos para resgatar o direito à moradia digna?\nThe post Aluguel, retrato de um sequestro das cidades appeared first on Outras Palavras.",
+          "description": "Sonho da casa própria desmorona no Brasil. Imóveis viram ativos financeiros com plataformas como o Airbnb. E o poder público troca políticas habitacionais por “auxílio aluguel” precário. Quais são os caminhos para resgatar o direito à moradia digna?\nThe post Aluguel, retrato de um sequestro das cidades appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/outras-cidades/aluguel-retrato-de-um-sequestro-das-cidades/",
           "publishedOn": "2026-05-23T17:22:23.000Z",
-          "wordCount": 7303,
+          "wordCount": 7201,
           "title": "Aluguel, retrato de um sequestro das cidades",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/23142131/Screenshot-2026-05-23-at-14-21-17-4838_7C8654D701D2CBC9.webp-imagem-WEBP-1200-%C3%97-794-pixels-Redimensionada-81.jpg"
         },
@@ -935,7 +1001,7 @@
           "description": "É preciso vencer a ultradireita em outubro – porque a vitória abrirá espaço para debater o futuro do país. Mas é triste ter, nos ministérios econômicos e no Itamaraty, equipes sem projeto, sem audácia e sem alma. Elas dão o tom a um governo sem rumos\nThe post Eleições: O adversário não pode escalar nosso time appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/estadoemdisputa/eleicoes-o-adversario-nao-pode-escalar-nosso-time/",
           "publishedOn": "2026-05-22T21:36:41.000Z",
-          "wordCount": 4294,
+          "wordCount": 4208,
           "title": "Eleições: O adversário não pode escalar nosso time",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22183605/photo_4938477539135523948_y.jpg"
         },
@@ -945,7 +1011,7 @@
           "description": "Num país de salários achatados e juros obscenos, quem lucra com eles – e empobrece as maiorias – busca transferir a responsabilidade para o suposto “descontrole” dos endividados. Exame de uma manobra cínica e de seus métodos\nThe post A armadilha nada inocente da “Educação Financeira” appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/mercadovsdemocracia/a-armadilha-nada-inocente-da-educacao-financeira/",
           "publishedOn": "2026-05-22T21:25:12.000Z",
-          "wordCount": 6112,
+          "wordCount": 6109,
           "title": "A armadilha nada inocente da “Educação Financeira”",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22180927/4938397704283425876.jpg"
         },
@@ -955,29 +1021,9 @@
           "description": "Após três décadas com foco na transição energética, Beijing volta-se à soberania alimentar e busca emancipar-se do agronegócio brasileiro. País poderá livrar-se de um modelo que perdeu validade, e voltar-se a uma produção sustentável e diversificada?\nThe post Agro: China muda de rumo e Brasil não percebe appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/descolonizacoes/agro-china-muda-de-rumo-e-brasil-nao-percebe/",
           "publishedOn": "2026-05-22T20:47:09.000Z",
-          "wordCount": 3904,
+          "wordCount": 3837,
           "title": "Agro: China muda de rumo e Brasil não percebe",
           "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22174504/4938477539135523935.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3186127",
-          "author": "Camille Bropp",
-          "description": "Passeio pela vida e obra do escritor que narrou a criação e presença do subúrbio, após o “bota-abaixo” que projetou o Rio na “modernidade”. O trem como laboratório social de personagens e histórias. E a educação como escape, em uma sociedade recém-saída da escravidão\nThe post Lima Barreto, cronista das cidades desiguais appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/poeticas/lima-barreto-cronista-das-cidades-desiguais/",
-          "publishedOn": "2026-05-22T20:41:51.000Z",
-          "wordCount": 4654,
-          "title": "Lima Barreto, cronista das cidades desiguais",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22173823/4938397704283425875.jpg"
-        },
-        {
-          "id": "https://outraspalavras.net/?p=3186140",
-          "author": "Michel Goulart da Silva",
-          "description": "Cortes de orçamento, ameaçam, desde o Teto de Gastos, a universidade pública. Em paralelo, projeto educacional expande e concentra ainda mais a fatia de grupos privados. Mesmo a volta dos investimentos precisaria rever políticas inadequadas e pró-corporações\nThe post Universidades: novo ciclo de uma antiga crise? appeared first on Outras Palavras.",
-          "link": "https://outraspalavras.net/crise-brasileira/universidades-novo-ciclo-de-uma-antiga-crise/",
-          "publishedOn": "2026-05-22T19:32:36.000Z",
-          "wordCount": 4172,
-          "title": "Universidades: novo ciclo de uma antiga crise?",
-          "imageUrl": "https://estaticos.opara.me/outraspalavras/uploads/2026/05/22163037/4938477539135523928.jpg"
         }
       ]
     },
@@ -1039,7 +1085,7 @@
           "description": "O autor já havia vencido por três vezes o prêmio Jabuti, sendo uma delas com \"Anita\" (1999), um romance histórico sobre as lutas republicanas travadas por Anita e Giuseppe Garibaldi, que aborda a liberdade das paixões e a paixão pela liberdade. Relembre sua trajetória e conheça as obras publicadas pela Boitempo.",
           "link": "https://blogdaboitempo.com.br/2026/05/24/flavio-aguiar-recebe-o-premio-acorianos-pelo-conjunto-da-obra-e-trajetoria-intelectual/",
           "publishedOn": "2026-05-24T11:00:00.000Z",
-          "wordCount": 11357,
+          "wordCount": 11508,
           "title": "Flávio Aguiar recebe o Prêmio Açorianos pelo conjunto da obra e trajetória intelectual",
           "imageUrl": "https://blogdaboitempo.com.br/wp-content/uploads/2026/05/15bb7e6e-9e0f-4809-8433-6769079289ed.jpeg"
         },
