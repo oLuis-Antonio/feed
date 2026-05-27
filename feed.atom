@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-27T04:38:37.262Z</id>
+    <id>urn:2026-05-27T11:44:40.484Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-27T04:38:37.262Z</updated>
+    <updated>2026-05-27T11:44:40.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Irã diz que não há acordo com EUA sobre Estreito de Ormuz; negociações continuam]]></title>
+        <id>https://operamundi.uol.com.br/?p=255785</id>
+        <link href="https://operamundi.uol.com.br/guerra-eua-israel-x-ira/ira-diz-que-nao-ha-acordo-com-eua-sobre-estreito-de-ormuz-negociacoes-continuam/"/>
+        <updated>2026-05-27T10:46:59.000Z</updated>
+        <summary type="html"><![CDATA[O Irã e os Estados Unidos ainda não chegaram a um entendimento sobre o futuro do Estreito de Ormuz, afirmou o vice-secretário do Conselho Supremo de Segurança Nacional iraniano, Ali Bagheri, nesta quarta-feira (27/05). Em Moscou, onde participa do Primeiro Fórum Internacional de Segurança, Bagheri afirmou à imprensa que pontos centrais nas negociações com Washington seguem […]
+O post Irã diz que não há acordo com EUA sobre Estreito de Ormuz; negociações continuam apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolívia aprova lei que amplia ação das Forças Armadas em conflitos internos]]></title>
+        <id>https://operamundi.uol.com.br/?p=255783</id>
+        <link href="https://operamundi.uol.com.br/america-latina/bolivia-aprova-lei-que-amplia-acao-das-forcas-armadas-em-conflitos-internos/"/>
+        <updated>2026-05-27T10:19:11.000Z</updated>
+        <summary type="html"><![CDATA[A Câmara dos Deputados da Bolívia aprovou nesta terça-feira (26/05) uma lei que elimina as restrições à intervenção das Forças Armadas em conflitos internos. A nova lei amplia o escopo da ação militar, facilitando o controle direto de distúrbios civis por parte das tropas. A medida foi aprovada em meio a protestos e bloqueios de […]
+O post Bolívia aprova lei que amplia ação das Forças Armadas em conflitos internos apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuba alerta ONU para riscos de catástrofe humanitária frente às agressões dos EUA]]></title>
+        <id>https://operamundi.uol.com.br/?p=255779</id>
+        <link href="https://operamundi.uol.com.br/america-latina/cuba-alerta-onu-para-riscos-de-catastrofe-humanitaria-frente-as-agressoes-dos-eua/"/>
+        <updated>2026-05-27T09:49:16.000Z</updated>
+        <summary type="html"><![CDATA[O ministro das Relações Exteriores de Cuba, Bruno Rodríguez, alertou o Conselho de Segurança das Nações Unidas em Nova York, na terça-feira (26/05), sobre a possibilidade de uma catástrofe humanitária na ilha caso os Estados Unidos persistam em suas políticas de agressão. Rodríguez instou a comunidade internacional a mobilizar-se para evitar essa situação, enfatizando que […]
+O post Cuba alerta ONU para riscos de catástrofe humanitária frente às agressões dos EUA apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tatiana Carlotti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Na melhor universidade do Nordeste cadeirante é obrigado a usar as escadas por ausência de acessibilidade]]></title>
         <id>https://www.esquerdadiario.com.br/Na-melhor-universidade-do-Nordeste-cadeirante-e-obrigado-a-usar-as-escadas-por-ausencia-de</id>
@@ -293,17 +326,6 @@ O post Colômbia: extremista cresce na reta final da campanha e ameaça vitória
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oblast Judaico: quando a URSS tentou criar uma nação judaica socialista]]></title>
-        <id>https://operamundi.uol.com.br/?p=255737</id>
-        <link href="https://operamundi.uol.com.br/pensar-a-historia/oblast-judaico-quando-a-urss-tentou-criar-uma-nacao-judaica-socialista/"/>
-        <updated>2026-05-26T18:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Há 92 anos, em maio de 1934, a União Soviética fundava o Oblast Autônomo Judaico, uma região administrativa situada no extremo-leste do país, na fronteira com a China. A criação do oblast (“província”) visava estabelecer um território autônomo para a população judaica soviética, servindo como uma alternativa socialista e secular ao sionismo e aos planos […]
-O post Oblast Judaico: quando a URSS tentou criar uma nação judaica socialista apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Raissa Neves</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EUA realiza primeiro exercício militar em Caracas após sequestro de Maduro]]></title>
         <id>https://anovademocracia.com.br/?p=226444</id>
         <link href="https://anovademocracia.com.br/eua-exercicio-militar-caracas-apos-maduro/"/>
@@ -311,17 +333,6 @@ O post Oblast Judaico: quando a URSS tentou criar uma nação judaica socialista
         <summary type="html"><![CDATA[Dois MV-22B Osprey pousaram perto da embaixada ianque em Caracas, enquanto embarcações militares entraram em águas venezuelanas no Caribe; exercício foi acompanhado pelo chefe do Comando Sul, Francis Donovan, e autorizado pelo governo interino de Delcy Rodríguez.]]></summary>
         <author>
             <name>Redação de AND</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brasil alcança maior IDH da história, afirma ONU]]></title>
-        <id>https://operamundi.uol.com.br/?p=255733</id>
-        <link href="https://operamundi.uol.com.br/brasil/brasil-alcanca-maior-idh-da-historia-afirma-onu/"/>
-        <updated>2026-05-26T17:40:34.000Z</updated>
-        <summary type="html"><![CDATA[O Brasil ingressou, pela primeira vez, na categoria de países com desenvolvimento humano “muito alto”.  Em 2024, o país alcançou 0,805 no Índice de Desenvolvimento Humano Municipal (IDHM), em comparação a 0,744 em 2012. A escala para classificar o desenvolvimento humano varia de 0 a 1, sendo muito alto: acima de 0,800. A informação é […]
-O post Brasil alcança maior IDH da história, afirma ONU apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Victor Farinelli</name>
         </author>
     </entry>
     <entry>
@@ -333,17 +344,6 @@ O post Brasil alcança maior IDH da história, afirma ONU apareceu primeiro em O
 The post Huck, Galípolo & Durigan: tríplice aliança appeared first on Outras Palavras.]]></summary>
         <author>
             <name>Paulo Kliass</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubio diz que EUA estão prontos para mediar acordo entre Rússia e Ucrânia: ‘tem que chegar ao fim’]]></title>
-        <id>https://operamundi.uol.com.br/?p=255732</id>
-        <link href="https://operamundi.uol.com.br/guerra-na-ucrania/rubio-diz-que-eua-estao-prontos-para-mediar-acordo-entre-russia-e-ucrania-tem-que-chegar-ao-fim/"/>
-        <updated>2026-05-26T17:00:42.000Z</updated>
-        <summary type="html"><![CDATA[O secretário de Estado norte-americano, Marco Rubio, afirmou nesta terça-feira (26/05), durante uma coletiva de imprensa em Nova Delhi, que Washington continua disposto a mediar o encerramento da guerra entre Rússia e Ucrânia. “É uma guerra terrível, que já dura há mais tempo do que a Segunda Guerra Mundial e tem de chegar ao fim”, […]
-O post Rubio diz que EUA estão prontos para mediar acordo entre Rússia e Ucrânia: ‘tem que chegar ao fim’ apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tatiana Carlotti</name>
         </author>
     </entry>
     <entry>
@@ -1018,167 +1018,6 @@ O post O preço de Flávio 2026: Como os novos escândalos do senador assombram 
 Pierre tenta mostrar como a ‘’russificaç]]></summary>
         <author>
             <name>Luís Morona, de São Paulo (SP)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘A polícia voltou para buscar os outros’: mortes em sequência assustam favela do Siri (SC)]]></title>
-        <id>https://ponte.org/?p=160115</id>
-        <link href="https://ponte.org/mortes-em-sequencia-assustam-favela-do-siri-sc/"/>
-        <updated>2026-05-22T20:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Dez dias após adolescente ser morto em abordagem policial, outro jovem morreu e um terceiro foi baleado em operação em comunidade do norte de Florianópolis
-O conteúdo ‘A polícia voltou para buscar os outros’: mortes em sequência assustam favela do Siri (SC) Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Manuela Rached Pereira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lula vai congelar mais R$ 22,1 bilhões para garantir o bolsa banqueiro]]></title>
-        <id>https://www.esquerdadiario.com.br/Lula-vai-congelar-mais-R-22-1-bilhoes-para-garantir-o-bolsa-banqueiro</id>
-        <link href="https://www.esquerdadiario.com.br/Lula-vai-congelar-mais-R-22-1-bilhoes-para-garantir-o-bolsa-banqueiro"/>
-        <updated>2026-05-22T20:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Foi anunciado nesta sexta o congelamento de R$ 22,1 bilhões no orçamento do governo federal, para cumprir com as regras do Novo Arcabouço Fiscal feito por Lula e Haddad.
-Matérias
-
-/ Política, Governo Lula-Alckmin, Arcabouço Fiscal]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edição 710]]></title>
-        <id>6a10bfb9f86e9e026f7a1b1e</id>
-        <link href="https://opiniaosocialista.com.br/edicao-710/"/>
-        <updated>2026-05-22T20:43:33.000Z</updated>
-        <summary type="html"><![CDATA[OS 710
-
-
-OS 710.pdf
-7 MB
-
-.a{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}download-circle]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O mundo não pode manter o Irã à margem da ordem global para sempre]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73716</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/22/o-mundo-nao-pode-manter-o-ira-a-margem-da-ordem-global-para-sempre/"/>
-        <updated>2026-05-22T20:30:49.000Z</updated>
-        <summary type="html"><![CDATA[á meses que o mundo permanece obcecado por um único número: 450 quilos. Esse número – referente ao estoque de urânio altamente enriquecido do Irã – tornou-se o centro das negociações internacionais, das ameaças militares e do impasse diplomático entre Teerã, Washington e Israel. Autoridades americanas continuam a insistir que o Irã deve entregar ou […]]]></summary>
-        <author>
-            <name>Middle East Monitor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bolsonarismo em baixa, limites do governo Lula e batalha pelo fim da 6x1]]></title>
-        <id>6a10b7fff86e9e026f7a1ad4</id>
-        <link href="https://opiniaosocialista.com.br/bolsonarismo-em-baixa-limites-do-governo-lula-e-batalha-pelo-fim-da-6x1/"/>
-        <updated>2026-05-22T20:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Os bolsonaristas nunca estiveram tão em baixa. A revelação das relações espúrias de Flávio Bolsonaro com Daniel Vorcaro ajuda a desmascarar o papel real que cumprem. Ao mesmo tempo, esse tipo de escândalo escancara como o]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hertz em MG: PSTU lança pré-candidaturas com plenárias, apoio às lutas e diálogo com trabalhadores]]></title>
-        <id>6a10b5b7f86e9e026f7a1a89</id>
-        <link href="https://opiniaosocialista.com.br/hertz-em-mg-pstu-lanca-pre-candidaturas-com-plenarias-apoio-as-lutas-e-dialogo-com-trabalhadores/"/>
-        <updated>2026-05-22T20:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Carol Godoi, de Belo Horizonte  (MG)
-As pré-candidaturas de Hertz Dias à presidência da República e de Rafael Duda ao governo de Minas Gerais foram lançadas durante uma série de atividades realizadas entre os dias 13 e 17 de maio]]></summary>
-        <author>
-            <name>PSTU-MG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unificar a luta das estaduais paulistas com as federais e construir uma alternativa socialista e revolucionária para o movimento estudantil]]></title>
-        <id>6a10b24af86e9e026f7a1a35</id>
-        <link href="https://opiniaosocialista.com.br/unificar-a-luta-das-estaduais-paulistas-com-as-federais-e-construir-uma-alternativa-socialista-e-revolucionaria-para-o-movimento-estudantil/"/>
-        <updated>2026-05-22T19:55:48.000Z</updated>
-        <summary type="html"><![CDATA[A greve da USP completou um mês e está em um momento decisivo. Após a segunda mesa de negociação, a reitoria encerrou de forma arbitrária as tratativas. Ocupamos a reitoria, exigindo a reabertura do diálogo. Após]]></summary>
-        <author>
-            <name>Rebeldia - Juventude da Revolução Socialista</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Por uma paralisação nacional pelo fim da 6x1 já]]></title>
-        <id>https://www.esquerdadiario.com.br/Por-uma-paralisacao-nacional-pelo-fim-da-6x1-ja</id>
-        <link href="https://www.esquerdadiario.com.br/Por-uma-paralisacao-nacional-pelo-fim-da-6x1-ja"/>
-        <updated>2026-05-22T19:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Confira vídeo de Leandro Lanfredi, diretor do sindipetro RJ e dirigente do MRT, defendendo uma política de paralização nacional para impor na luta o fim ja da escala 6x1
-Matérias
-
-/ Classe trabalhadora, Greve Geral, jornada 6x1]]></summary>
-        <author>
-            <name>Leandro Lanfredi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greve dos técnico-administrativos: direção sindical freia a luta e blinda governos]]></title>
-        <id>6a10aefef86e9e026f7a19ed</id>
-        <link href="https://opiniaosocialista.com.br/greve-dos-tecnico-administrativos-direcao-sindical-freia-a-luta-e-blinda-governos/"/>
-        <updated>2026-05-22T19:34:19.000Z</updated>
-        <summary type="html"><![CDATA[Apesar de 90 dias de uma greve que atinge 57 universidades, maioria da direção da Fasubra contém o movimento para preservar governo]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SP: Profissionais da educação fazem forte greve contra prefeitura de Ricardo Nunes]]></title>
-        <id>6a10ad99f86e9e026f7a19a8</id>
-        <link href="https://opiniaosocialista.com.br/profissionais-da-educacao-municipal-de-sao-paulo-fazem-forte-greve-contra-prefeitura-de-ricardo-nunes/"/>
-        <updated>2026-05-22T19:29:08.000Z</updated>
-        <summary type="html"><![CDATA[A greve dos profissionais de educação do município de São Paulo teve início no dia 28 de abril com uma assembleia em frente ao gabinete do prefeito Ricardo Nunes (MDB). Com um sol escaldante de outono, centenas de professoras e professores]]></summary>
-        <author>
-            <name>PSTU-SP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datafolha: Flávio Bolsonaro cai e Lula recupera. Soma da esquerda radical empata com Caiado e supera Zema]]></title>
-        <id>https://www.esquerdadiario.com.br/Datafolha-Flavio-cai-e-Lula-recupera-Soma-esquerda-radical-empata-Caiado-e-supera-Zema</id>
-        <link href="https://www.esquerdadiario.com.br/Datafolha-Flavio-cai-e-Lula-recupera-Soma-esquerda-radical-empata-Caiado-e-supera-Zema"/>
-        <updated>2026-05-22T19:22:20.000Z</updated>
-        <summary type="html"><![CDATA[A queda de Flávio Bolsonaro já era esperada. O que não chega a surpreender é que Zema, Caiado e Renan, não cresceram no espaço deixado pelos Bolsonaro. A novidade desta pesquisa é que a esquerda radical soma 4%, com Samara da UP com 3%, e Rui Costa do PCO com 1%
-Matérias
-
-/ Política, Lula, Flavio Bolsonaro]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justiça admite falta de provas e absolve jovem condenado após reconhecimento por foto]]></title>
-        <id>https://ponte.org/?p=160346</id>
-        <link href="https://ponte.org/justica-admite-falta-de-provas-e-absolve-jovem-condenado-apos-reconhecimento-por-foto/"/>
-        <updated>2026-05-22T18:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Desembargadores do TJSP absolveram por unanimidade jovem que cumpria pena de 13 anos com base em reconhecimento por foto. Phelipe Batista, 30, ficou preso 56 dias até a decisão, que só saiu após determinação do STJ
-O conteúdo Justiça admite falta de provas e absolve jovem condenado após reconhecimento por foto Pode ser acessado em Ponte Jornalismo.]]></summary>
-        <author>
-            <name>Mariana Rosetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trabalhadora etíope em situação de escravidão foge do cativeiro em Florianópolis]]></title>
-        <id>https://www.esquerdadiario.com.br/Trabalhadora-etiope-em-situacao-de-escravidao-foge-do-cativeiro-em-Florianopolis</id>
-        <link href="https://www.esquerdadiario.com.br/Trabalhadora-etiope-em-situacao-de-escravidao-foge-do-cativeiro-em-Florianopolis"/>
-        <updated>2026-05-22T17:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Mais um capítulo absurdo no país da herança da escravidão. Uma empregada africana, da Etiópia, foi encontrada no bairro de Rio Tavares em Florianópolis depois de fugir da casa dos patrões, os quais a mantiam sob violência psicológica em trabalho análogo a escravidão. É mais um capítulo das centenas de notícias que rememoram os tempos da escravidão, nos quais a burgesia se utiliza do racismo para tratar a as mulheres trabalhadoras negras como descartáveis.
-Matérias
-
-/ Sociedade, Trabalho análogo à escravidão, Escravidão moderna]]></summary>
-        <author>
-            <name>Redação</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“No socialismo, quem ‘manda’ é a política”: entrevista com Roberto Sáenz, autor de “O marxismo e a transição socialista”]]></title>
-        <id>http://blogdaboitempo.com.br/?p=64545</id>
-        <link href="https://blogdaboitempo.com.br/2026/05/22/no-socialismo-quem-manda-e-a-politica-entrevista-com-roberto-saenz-autor-de-o-marxismo-e-a-transicao-socialista/"/>
-        <updated>2026-05-22T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA["No capitalismo, por assim dizer, a economia manda e todo o restante do edifício social se organiza em torno disso. Na transição ao socialismo, embora a economia imponha limites e possibilidades que clamam pela revolução mundial, quem 'manda' é a política."]]></summary>
-        <author>
-            <name>Boitempo</name>
         </author>
     </entry>
 </feed>
