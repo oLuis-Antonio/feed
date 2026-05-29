@@ -43,6 +43,26 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=61981",
+          "author": "Redação MG",
+          "description": "O governo de Romeu Zema leiloou 95 escolas estaduais para o banco BTG Pactual. Entenda como essa privatização da educação em MG ataca estudantes, precariza os trabalhadores e exige a mobilização imediata da nossa classe contra os banqueiros. Yasmim Nascimento e Reinilson Câmara – Belo Horizonte (MG) BELO HORIZONTE – A educação pública de qualidade […]",
+          "link": "https://averdade.org.br/2026/05/privatizacao-escolar-em-mg-zema-e-simoes-entregam-educacao-banqueiros/",
+          "publishedOn": "2026-05-29T15:07:33.000Z",
+          "wordCount": 8178,
+          "title": "Privatização escolar em MG: Zema e Simões entregam educação a banqueiros",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/photo_50_2026-03-26_16-27-57.jpg"
+        },
+        {
+          "id": "https://averdade.org.br/?p=61975",
+          "author": "Leonardo de Paula",
+          "description": "No dia 10 de fevereiro de 2026, o jornal A Verdade denunciou que o Estado mantém mãe e filho presos injustamente por lutarem contra despejos em São Paulo. (https://averdade.org.br/2026/02/liberdade-ja-para-fernando-e-marina) O caso do Fernando, um companheiro de luta, trabalhador, pai solo e sua mãe, Marina, uma mulher idosa, que, juntos, criavam 3 crianças num barraco em Mogi das […]",
+          "link": "https://averdade.org.br/2026/05/liberdade-para-fernando-e-marina-ja-confira-o-conteudo-de-uma-das-cartas-censuradas-pelo-estado/",
+          "publishedOn": "2026-05-29T14:20:16.000Z",
+          "wordCount": 6121,
+          "title": "Liberdade para Fernando e Marina Já. Confira o conteúdo de uma das cartas censuradas pelo Estado",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/Copia-de-LIBERDADE-2-1.jpg"
+        },
+        {
           "id": "https://averdade.org.br/?p=60366",
           "author": "Redação SP",
           "description": "A peça Reset Brasil, encenada pelo coletivo de arte popular Estopô Balaio, retoma as raízes históricas de resistência dos povos originários em São Paulo e retrata a opressão sofrida por trabalhadores no capitalismo. Tendo como palco a periferia da capital paulista a peça impacta e convida quem a assiste a uma reflexão sobre a necessidade […]",
@@ -121,26 +141,6 @@
           "wordCount": 5932,
           "title": "POESIA | Fábrica",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/252545-1.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61272",
-          "author": "Redação SP",
-          "description": "Os trabalhadores do assentamento deram vida pra terra de uma fazendo abandonada pelo poder público, produzem alimentos orgânicos, sem agrotóxicos, que abastecem a população da região.  O jornal A Verdade foi conversar com os assentados pelo MST, que denunciam  à falta de infraestrutura e à permanente negação de direitos básicos. Diego Girardi | Ribeirão Preto […]",
-          "link": "https://averdade.org.br/2026/05/trabalhadores-do-assentamento-fazenda-da-barra-sofrem-com-abandono-em-ribeirao-preto/",
-          "publishedOn": "2026-05-27T12:39:18.000Z",
-          "wordCount": 6744,
-          "title": "Trabalhadores do assentamento Fazenda da Barra sofrem com abandono em Ribeirão Preto",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/1000314627-2.jpg"
-        },
-        {
-          "id": "https://averdade.org.br/?p=58847",
-          "author": "Redação SP",
-          "description": "Trabalhadores do Serviço de Saúde Dr. Cândido Ferreira (SSCF) entraram em greve, pelo risco de interrupção no funcionamento dos serviços de saúde mental administrados pela instituição. Com a força da mobilização, a Prefeitura de Campinas e o SSCF, que atua como uma Organização Social da Saúde (OSS), firmaram um acordo para um novo convênio de […]",
-          "link": "https://averdade.org.br/2026/05/greve-no-candido-ferreira-mostra-forca-da-luta-dos-trabalhadores-da-saude-mental/",
-          "publishedOn": "2026-05-26T21:44:45.000Z",
-          "wordCount": 6060,
-          "title": "Greve no Cândido Ferreira mostra força da luta dos trabalhadores da saúde mental",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/manifestacao-candido-01.jpg"
         }
       ]
     },
@@ -247,12 +247,47 @@
       "siteUrl": "https://www.esquerdadiario.com.br/",
       "articles": [
         {
+          "id": "https://www.esquerdadiario.com.br/Reitoria-da-Unicamp-faz-carta-de-contraproposta-a-greve-por-IA-e-propoe-Semana-Branca",
+          "author": "Redação",
+          "description": "Na ultima quarta feira (27), a reitoria da Unicamp sentou com a mesa de negociação dos estudantes grevistas e apresentou uma contraproposta “fake” às demandas estudantis. Com um documento preparado por IA, a reitoria sequer leu as demandas estudantis, e apresentou temas racistas, como “Semana Branca”, para se referir a uma semana sem avaliações após a greve \n O cinismo das reitorias não tem limites. Enquanto estudantes, trabalhadores e docentes se organizam em uma greve unificada, exigindo (…)\n28-05-2026\n\n/ Unicamp, Greve das estaduais paulistas, Reitoria Unicamp, Estudantes Unicamp, Greve contra Tarcísio",
+          "link": "https://www.esquerdadiario.com.br/Reitoria-da-Unicamp-faz-carta-de-contraproposta-a-greve-por-IA-e-propoe-Semana-Branca",
+          "publishedOn": "2026-05-29T15:04:44.000Z",
+          "wordCount": 7827,
+          "title": "Reitoria da Unicamp faz carta de contraproposta à greve por IA e propõe “Semana Branca”",
+          "enclosure": {
+            "url": "https://www.esquerdadiario.com.br/IMG/jpg/images-20.jpg",
+            "length": "78827",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/jpg/images-20.jpg"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Mornas-que-incendeiam-uma-analise-do-conto-Um-ilegitimo-desejo-de-Dina-Salustio",
+          "author": "Bianca Coelho - Estudante de Letras USP",
+          "description": "Este texto analisa o conto \"Um ilegítimo desejo\" do livro “Mornas eram as noites”, de Dina Salústio (escritora cabo-verdiana), analisando como a narrativa transforma o trauma social da prostituição em Cabo Verde em uma denúncia contra as violências do cotidiano no capitalismo, destacando o papel central das mulheres na luta por uma emancipação social ainda não concluída pós-independência.\n28-05-2026\n\n/ África, Feminismo, poema",
+          "link": "https://www.esquerdadiario.com.br/Mornas-que-incendeiam-uma-analise-do-conto-Um-ilegitimo-desejo-de-Dina-Salustio",
+          "publishedOn": "2026-05-29T14:50:47.000Z",
+          "wordCount": 9166,
+          "title": "Mornas que incendeiam: uma análise do conto “Um ilegítimo desejo”, de Dina Salústio",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-29_at_07.33_21.jpg?1780066109"
+        },
+        {
+          "id": "https://www.esquerdadiario.com.br/Luciano-Hang-o-velho-da-Havan-ameaca-tirar-lojas-do-Brasil-com-o-fim-da-6x1-Ja-vai-tarde",
+          "author": "Redação",
+          "description": "Luciano Hang, o velho da Havan, ostenta nas suas lojas a estátua da liberdade, mas deveria erguer a bandeira dos confederados, os escravocratas derrotados na guerra civil dos EUA que aboliu a escravidão. Em entrevista à Folha, o empresário criticou até a folga das mulheres aos domingos\n28-05-2026\n\n/ Classe trabalhadora, Greve Geral, Veio da Havan, jornada 6x1",
+          "link": "https://www.esquerdadiario.com.br/Luciano-Hang-o-velho-da-Havan-ameaca-tirar-lojas-do-Brasil-com-o-fim-da-6x1-Ja-vai-tarde",
+          "publishedOn": "2026-05-29T14:13:06.000Z",
+          "wordCount": 8392,
+          "title": "Luciano Hang, o velho da Havan, ameaça tirar lojas do Brasil com o fim da 6x1. Já vai tarde",
+          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/havan.jpg?1780063939"
+        },
+        {
           "id": "https://www.esquerdadiario.com.br/EUA-classificam-PCC-e-CV-como-terroristas-para-justificar-ingerencia-no-Brasil",
           "author": "Redação",
           "description": "O Departamento de Estado dos EUA anunciou nesta quinta-feira (28) que o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) passam a ser considerados “Terroristas Globais Especialmente Designados”, criando um pretexto para ampliar a intervenção política e militar no Brasil, inclusive no período eleitoral. Flávio Bolsonaro comemorou e declarou ter pedido pessoalmente a Trump a medida, reforçando o já conhecido capachismo da família “Dark Horse”. \n Essa medida tem possibilidade de (…)\n28-05-2026\n\n/ Política, Donald Trump, Imperialismo, Flavio Bolsonaro",
           "link": "https://www.esquerdadiario.com.br/EUA-classificam-PCC-e-CV-como-terroristas-para-justificar-ingerencia-no-Brasil",
           "publishedOn": "2026-05-29T01:00:13.000Z",
-          "wordCount": 7925,
+          "wordCount": 7940,
           "title": "EUA classificam PCC e CV como “terroristas” para justificar ingerência no Brasil",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ffff.jpg?1780016396"
         },
@@ -262,7 +297,7 @@
           "description": "O anúncio do premiê sionista escancara que o chamado cessar-fogo nunca significou fim dos assassinatos e roubo de terras. Depois de mais ataques sanguinários na véspera do feriado religioso do Eid, agora o processo continuado de genocídio tem como passo o roubo de mais território. Pela imediata ruptura de todas as relações do Brasil com Israel! \n Netanyahu ordenou a IOF nesta quinta-feira (28) que ocupe 70% da Faixa de Gaza, avançando ainda mais sobre o território palestino e violando os (…)\n28-05-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, Campanha pela ruptura de todas das relações Brasil-Israel, Genocídio, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Netanyahu-anuncia-ocupacao-e-roubo-de-70-do-territorio-de-Gaza",
           "publishedOn": "2026-05-28T22:58:16.000Z",
-          "wordCount": 7899,
+          "wordCount": 7911,
           "title": "Netanyahu anuncia ocupação e roubo de 70% do território de Gaza",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ffb2d12f-3653-47ef-b688-e07bfe6ebb69.jpg?1780009063"
         },
@@ -272,7 +307,7 @@
           "description": "Whisky, vinho, carne de ouro, feijoada e camarote. É assim que aparece a relação de Cláudio Castro com Daniel Vorcaro, banqueiro do Master, no mesmo período em que o Rioprevidência colocou bilhões em fundos ligados ao banco falido. Enquanto aposentados e pensionistas do Rio dependem de uma folha previdenciária de mais de R$ 2 bilhões por mês para sobreviver, o governador das chacinas se encontrava com banqueiro em ambiente de extremo luxo, em uma relação que a própria investigação aponta (…)\n28-05-2026\n\n/ Política, Rio de Janeiro, Corrupção, Violência policial, Assembleia Constituinte Livre e Soberana, Cláudio Castro, Chacina, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Whisky-carne-de-ouro-e-chacina-Claudio-Castro-desiste-do-Senado-cercado-por-escandalos",
           "publishedOn": "2026-05-28T22:31:52.000Z",
-          "wordCount": 8467,
+          "wordCount": 8472,
           "title": "Whisky, carne de ouro e chacina: Cláudio Castro desiste do Senado cercado por escândalos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/castro-vorcaro.jpg?1780007350"
         },
@@ -282,7 +317,7 @@
           "description": "Estudantes, professores e lutadores do Brasil e de Angola fizeram esta live para debater como fortalecer a luta do movimento estudantil internacionalmente contra o racismo, o imperialismo e o capitalismo, em meio ao processo de greve nas universidades estaduais paulistas no Brasil. Em um momento em que o capitalismo demonstra escancaradamente toda a sua crise e arrasta a humanidade para guerras, genocídio, miséria e destruição é ainda mais urgente a busca de uma alternativa (…)\n28-05-2026\n\n/ Luta Antirracista, Movimento Estudantil, Universidade, África, Greve Estudantil, Imperialismo, Anti-imperialista, Angola",
           "link": "https://www.esquerdadiario.com.br/Greve-das-universidades-brasileiras-e-a-luta-estudantil-em-angola",
           "publishedOn": "2026-05-28T21:44:29.000Z",
-          "wordCount": 7697,
+          "wordCount": 7708,
           "title": "Greve das universidades brasileiras e a luta estudantil em angola",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/6e172a82-79ad-447b-8ea5-42728fe81993.jpg?1780004635"
         },
@@ -292,7 +327,7 @@
           "description": "Nesta segunda-feira, 25 de maio, uma imagem tomou os grupos de estudantes da UFPE. Uma pessoa cadeirante só conseguiu acessar os andares superiores do prédio do Centro de Filosofia e Humanidades (CFCH) com a mobilização de um conjunto de alunos que o auxiliaram a subir as escadas. Há meses os elevadores não funcionam. Algumas horas depois desse episódio, no mesmo dia, uma mulher ficou presa no elevador no mesmo prédio.\n26-05-2026\n\n/ Educação, Teto de Gastos, Pernambuco, UFPE, Arcabouço Fiscal",
           "link": "https://www.esquerdadiario.com.br/Na-melhor-universidade-do-Nordeste-cadeirante-e-obrigado-a-usar-as-escadas-por-ausencia-de",
           "publishedOn": "2026-05-28T20:41:52.000Z",
-          "wordCount": 8611,
+          "wordCount": 8622,
           "title": "Na melhor universidade do Nordeste, cadeirante é obrigado a usar as escadas por ausência de acessibilidade",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-26_at_22.00_16.jpg?1779849357"
         },
@@ -302,7 +337,7 @@
           "description": "Em 2004, o crítico James Quandt, em artigo publicado pela revista Artforum, descreveu negativamente a onda de filmes franceses lançados na virada do milênio, dando-lhes a alcunha de “New French Extremity” (Novo Extremismo Francês, na tradução). Apesar de não ser um movimento pré concebido de diretores, essas obras buscavam superar a barreira entre o cinema autoral e de gênero, através da violência explícita para quebrar tabus sociais, com forte influência do existencialismo francês.\n28-05-2026\n\n/ Cultura",
           "link": "https://www.esquerdadiario.com.br/O-pessimismo-existencialista-do-New-French-Extremity",
           "publishedOn": "2026-05-28T20:07:56.000Z",
-          "wordCount": 8518,
+          "wordCount": 8529,
           "title": "O pessimismo existencialista do “New French Extremity”",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/martyrsed1.jpg?1779998435"
         },
@@ -312,7 +347,7 @@
           "description": "Na manhã desta quarta-feira (27) em São Gonçalo, na região metropolitana do Rio de Janeiro, a Polícia Militar assassinou covardemente Marcelo da Cruz Silva e Edvan Felipe de Assis, dois colegas de trabalho que carregavam materiais de construção para uma obra. \n Em mais um capítulo do racismo da Polícia Militar do Rio de Janeiro, dois trabalhadores foram assassinados à luz do dia a caminho do trabalho. Não se trata de um caso isolado, a mesma polícia que já matou um garçom por portar um (…)\n28-05-2026\n\n/ Luta Antirracista, Rio de Janeiro, Racismo, Racismo Policial, Brutalidade policial, Baixada Fluminense, Polícia Militar",
           "link": "https://www.esquerdadiario.com.br/Foi-uma-covardia-que-fizeram-com-dois-trabalhadores-diz-amigo-dos-pedreiros-assassinados-em-plena",
           "publishedOn": "2026-05-28T19:09:18.000Z",
-          "wordCount": 8060,
+          "wordCount": 8074,
           "title": "‘Foi uma covardia que fizeram com dois trabalhadores', diz amigo dos pedreiros assassinados em plena luz do dia pela PMRJ",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/racismo.jpg?1779995356"
         },
@@ -322,7 +357,7 @@
           "description": "A PEC pelo fim da 6x1, que prevê um ano de transição, nem tinha terminado de ser votada na Câmara e o Senado já começava a atacar os trabalhadores. O bolsonarista Rogério Marinho (PL-RN) apresentou outra PEC para impor redução salarial e incluir a jornada nas negociações individuais entre patrões e empregados.\n28-05-2026\n\n/ Política, Senado, Extrema direita, Flavio Bolsonaro, bolsonarismo, Conciliação de classes, Partido Liberal (PL), jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Bolsonarismo-no-Senado-apresenta-PEC-contra-o-fim-da-6x1-para-garantir-ainda-mais-exploracao-e",
           "publishedOn": "2026-05-28T18:05:14.000Z",
-          "wordCount": 7969,
+          "wordCount": 7971,
           "title": "Bolsonarismo no Senado apresenta PEC contra o fim da 6x1 para garantir ainda mais exploração e redução salarial",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/d94134fb-aae7-4eac-9833-7ce6214ae32b.jpg?1779991511"
         },
@@ -332,7 +367,7 @@
           "description": "Na última quarta(27), a Câmara dos Deputados aprovou o fim da escala 6x1, mas com uma absurda transição de um ano. Se essa votação aconteceu, não foi por boa vontade do Congresso, do governo ou dos patrões. Foi resultado da enorme pressão e da indignação da classe trabalhadora, que vem colocando cada vez mais força na luta contra um regime de exploração que destrói a saúde, a vida e o direito ao descanso de milhões. A oposição no Senado já se articula para atacar essa proposta.\n28-05-2026\n\n/ Classe trabalhadora, Política, Senado, Câmara dos Deputados, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Greve-geral-para-garantir-ja-o-fim-da-6x1-sem-transicao-e-enfrentar-a-tentativa-de-ataque-a-pauta",
           "publishedOn": "2026-05-28T16:33:20.000Z",
-          "wordCount": 8323,
+          "wordCount": 8334,
           "title": "Greve geral para garantir já o fim da 6x1 sem transição e enfrentar a tentativa de ataque à pauta no Senado!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000393098.jpg?1779985835"
         },
@@ -342,7 +377,7 @@
           "description": "Como ação aprovada no comando de greve dos estudantes da Unicamp, hoje os estudantes colocaram uma faixa na rodovia Zeferino Vaz mostrando que sua luta também é pelo fim imediato da escala 6x1, importante pauta da classe trabalhadora que teve projeto aprovado ontem na Câmara dos deputados, com uma regra de transição, e agora segue para o senado.\n27-05-2026\n\n/ Educação, Unicamp, DCE Unicamp, Estudantes Unicamp, Comitê em Defesa das Terceirizadas - Unicamp",
           "link": "https://www.esquerdadiario.com.br/Estudantes-em-greve-da-Unicamp-colocam-faixa-em-rodovia-pelo-fim-imediato-da-escala-6x1",
           "publishedOn": "2026-05-28T15:25:38.000Z",
-          "wordCount": 7981,
+          "wordCount": 7991,
           "title": "Estudantes em greve da Unicamp colocam faixa em rodovia pelo fim imediato da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-28_at_07.16_58.jpg?1779981913"
         },
@@ -352,7 +387,7 @@
           "description": "No dia 25 de Maio foi comemorado o Dia da África, a comunidade imigrante africana, junto ao movimento negro, organizou um ato em São Paulo, nesta data que rememora, celebra e reivindica processos de independência na década de 1960, a partir da fundação da Organização da União Africana.\n27-05-2026\n\n/ Imigração, África, Imigrantes, Anti-imperialista, Angola",
           "link": "https://www.esquerdadiario.com.br/Ato-do-Dia-da-Africa-e-realizado-em-Sao-Paulo-pela-comunidade-imigrante-e-movimento-negro",
           "publishedOn": "2026-05-28T02:45:46.000Z",
-          "wordCount": 7870,
+          "wordCount": 7881,
           "title": "Ato do Dia da África é realizado em São Paulo pela comunidade imigrante e movimento negro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_23.42_26.jpg?1779936251"
         },
@@ -362,7 +397,7 @@
           "description": "Após a aprovação na Comissão Especial, a PEC foi votada em 2 turnos na Câmara, e aprovada por ampla maioria. No primeiro turno foram 22 votos contrários, e no segundo turno, foram 19. Para a surpresa de ninguém, os votos contra os trabalhadores vieram do Partido Novo, do PL e do MBL, atual Missão.\n27-05-2026\n\n/ Classe trabalhadora, Câmara dos Deputados, Extrema direita, jornada de trabalho, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Veja-qual-texto-da-escala-6x1-foi-aprovado-na-Camara-e-quais-deputados-votaram-contra",
           "publishedOn": "2026-05-27T23:53:12.000Z",
-          "wordCount": 8296,
+          "wordCount": 8307,
           "title": "Veja qual texto da escala 6x1 foi aprovado na Câmara e quais deputados votaram contra",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/plenario-sessao-deliberativa-extraordinaria-presencial-tarde-2-749x444-1.webp?1779937769"
         },
@@ -372,7 +407,7 @@
           "description": "Na última segunda-feira (25), Lula fez um post declarando solidariedade ao presidente boliviano, o neoliberal e assassino Rodrigo Paz. Enquanto isso, os estudantes da USP, que se enfrentam em greve há mais de um mês com o governo do ultradireitista Tarcísio de Freitas, aprovaram em sua última assembleia uma moção de apoio à luta dos trabalhadores e povos oprimidos bolivianos. \n A Bolívia vive, há mais de um mês, uma rebelião da classe trabalhadora em aliança com populações oprimidas pela (…)\n27-05-2026\n\n/ Juventude, São Paulo (capital), USP, Bolívia, DCE USP",
           "link": "https://www.esquerdadiario.com.br/Enquanto-Lula-manda-apoio-ao-assassino-Paz-estudantes-da-USP-se-colocam-ao-lado-da-classe",
           "publishedOn": "2026-05-27T23:18:27.000Z",
-          "wordCount": 8185,
+          "wordCount": 8196,
           "title": "Enquanto Lula manda apoio ao assassino Paz, estudantes da USP se colocam ao lado da classe trabalhadora boliviana em luta",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000310076.jpg?1779923826"
         },
@@ -382,7 +417,7 @@
           "description": "Desde as primeiras horas da manhã desta quarta, dia previsto para a votação na Câmara da PEC da escala 6x1, a juventude Faísca e o Movimento Nossa Classe estiveram nas ruas de São Paulo e Campinas panfletando e coletando assinaturas por uma greve geral pelo fim imediato da escala 6x1. \n Desde as primeiras horas da manhã desta quarta, dia previsto para a votação na Câmara da PEC da escala 6x1, a juventude Faísca e o Movimento Nossa Classe estiveram nas ruas panfletando e coletando (…)\n27-05-2026\n\n/ Classe trabalhadora, Movimento Nossa Classe, São Paulo, Faísca Revolucionária, Acciona, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Faisca-e-Nossa-Classe-vao-as-ruas-de-Sao-Paulo-por-uma-greve-geral-pelo-fim-da-escala-6x1",
           "publishedOn": "2026-05-27T23:01:43.000Z",
-          "wordCount": 8319,
+          "wordCount": 8328,
           "title": "Faísca e Nossa Classe vão às ruas de São Paulo por uma greve geral pelo fim da escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000310062.jpg?1779922896"
         },
@@ -392,7 +427,7 @@
           "description": "Em vitória histórica, a chapa composta pela Faísca Revolucionária, Primavera Latina, em conjunto com o Coletivo Juntos, estudantes independentes veteranos e calouros, do diurno e do noturno, da licenciatura e do bacharel, venceu as eleições do Centro Acadêmico da história da UFRGS, o CHIST, em disputa com a chapa 1 CHIST Luta e Avança, composta por Correnteza e Alicerce.\n27-05-2026\n\n/ Juventude, Porto Alegre, Educação, UFRGS",
           "link": "https://www.esquerdadiario.com.br/Conheca-a-Primavera-Latina-nova-gestao-do-Centro-Academico-da-Historia-da-UFRGS-com-a-Faisca-a",
           "publishedOn": "2026-05-27T22:22:42.000Z",
-          "wordCount": 8272,
+          "wordCount": 8266,
           "title": "Conheça a Primavera Latina, nova gestão do Centro Acadêmico da História da UFRGS, com a Faísca à frente",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_09.13_21.jpg?1779920553"
         },
@@ -402,7 +437,7 @@
           "description": "Nós, do Movimento Nossa Classe e do Esquerda Diário, somos trabalhadores de diversas categorias e regiões do país. Lutamos diariamente contra a precarização, a terceirização e os ataques dos governos e patrões à classe trabalhadora. Nos dirigimos a todas as trabalhadoras e trabalhadores terceirizados do metrô para dizer: podem contar conosco, nós apoiamos vocês!\n26-05-2026\n\n/ Classe trabalhadora, Metrô, Terceirização, Metrô de SP, Metrô de São Paulo, Privatizações, Denúncia Works Metrô",
           "link": "https://www.esquerdadiario.com.br/Carta-do-Movimento-Nossa-Classe-e-Esquerda-diario-as-terceirizadas-e-terceirizados-do-Metro-de-SP",
           "publishedOn": "2026-05-27T20:50:02.000Z",
-          "wordCount": 8328,
+          "wordCount": 8339,
           "title": "Carta do Movimento Nossa Classe e Esquerda diário às terceirizadas e terceirizados do Metrô de SP",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000194796.jpg?1779913982"
         },
@@ -412,7 +447,7 @@
           "description": "O aprofundamento da crise econômica e política na Bolívia está empurrando setores operários, camponeses, indígenas e populares a um confronto cada vez mais aberto com o governo de Rodrigo Paz. Diante da tentativa de fragmentar as lutas, das manobras e da repressão do regime para conter o conflito, a perspectiva da greve geral por tempo indeterminado, a auto-organização de baixo para cima e uma frente única operária aparecem como tarefas estratégicas para enfrentar a crise e abrir uma saída independente para as maiorias exploradas.\n27-05-2026\n\n/ Internacional, Bolivia, Rodrigo Paz",
           "link": "https://www.esquerdadiario.com.br/Greve-geral-ate-cair-o-governo-de-Rodrigo-Paz",
           "publishedOn": "2026-05-27T19:15:30.000Z",
-          "wordCount": 11292,
+          "wordCount": 11311,
           "title": "Greve geral até cair o governo de Rodrigo Paz!",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_bolivia_27.jpeg.jpg?1779888670"
         },
@@ -422,7 +457,7 @@
           "description": "Esta semana está sendo decisiva para a luta pela redução da jornada de trabalho no Brasil. O caminho para o fim da 6x1 passa por avançarmos na organização e radicalização da luta.\n26-05-2026\n\n/ Classe trabalhadora, Greve Geral, greve geral, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Unir-nossa-classe-em-uma-greve-geral-para-derrotar-a-escala-6x1",
           "publishedOn": "2026-05-27T15:01:44.000Z",
-          "wordCount": 8347,
+          "wordCount": 8358,
           "title": "Unir nossa classe em uma greve geral para derrotar a escala 6x1",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/editorialmrt.jpg?1779894052"
         },
@@ -432,7 +467,7 @@
           "description": "Na Universidade Estadual de Campinas, grupos reacionários vêm atuando de forma cada vez mais agressiva para atacar a organização e a luta dos estudantes. Dessa vez, os estudantes do Instituto de Artes, que estão fazendo um acampamento como parte da greve e reivindicam ter um prédio para poder estudar e se apresentar, o PAVIARTES, foram atacados de madrugada por 7 militantes da extrema direita e MBL e sofreram violência física e verbal. Não vamos aceitar nenhum ataque da extrema direita, é preciso ampliar nossa mobilização e dizer FORA EXTREMA DIREITA DAS UNIVERSIDADES!\n27-05-2026\n\n/ Educação, Unicamp, MBL, Campinas, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/MBL-ataca-acampamento-de-estudantes-do-IA-derrotar-a-extrema-direita-e-Tarcisio-com-a-forca-na",
           "publishedOn": "2026-05-27T14:09:14.000Z",
-          "wordCount": 8042,
+          "wordCount": 8048,
           "title": "MBL ataca acampamento de estudantes do IA: derrotar a extrema direita e Tarcísio com a força na nossa greve",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_11.07_55.jpg?1779890906"
         },
@@ -442,7 +477,7 @@
           "description": "Nesta terça, dia 26 de maio, o Conselho Universitário da Unicamp (CONSU) decidiu por 40 votos a 24 pela retirada de pauta da aprovação do índice de reajuste salarial de 3,47% indicado pelo CRUESP, órgão que fechou a mesa de negociação de forma unilateral com os trabalhadores em greve. Essa derrota é fruto da greve unificada dos 3 setores da Unicamp que se liga ao contexto de greves estaduais contra Tarcísio, é preciso massificar e coordenar as lutas para ampliar a mobilização e derrotar de vez as reitorias e Tarcísio. Reabertura imediata da mesa de negociação com o Cruesp!\n26-05-2026\n\n/ Educação, Unicamp, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/Reitoria-da-Unicamp-sofre-derrota-e-Consu-retira-da-pauta-indice-de-reajuste-de-3-47-do-Cruesp",
           "publishedOn": "2026-05-27T13:27:35.000Z",
-          "wordCount": 8328,
+          "wordCount": 8338,
           "title": "Reitoria da Unicamp sofre derrota e Consu retira da pauta índice de reajuste de 3,47% do Cruesp",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_09.58_55.jpg?1779888426"
         },
@@ -452,7 +487,7 @@
           "description": "Em menos de 15 dias, é a segunda operação de busca e apreensão ocorrida na cobertura do ex governador Cláudio Castro, na Barra da Tijuca.\n26-05-2026\n\n/ Política, Rio de Janeiro, Cláudio Castro, Banco Master",
           "link": "https://www.esquerdadiario.com.br/PF-faz-nova-visita-a-Claudio-Castro-mas-seguimos-sem-sinal-dos-bilhoes-desviados-para-Vorcaro",
           "publishedOn": "2026-05-26T20:23:05.000Z",
-          "wordCount": 8246,
+          "wordCount": 8251,
           "title": "PF faz nova visita à Cláudio Castro, mas seguimos sem sinal dos bilhões desviados para Vorcaro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/captura_de_tela_de_2026-05-26_17-35-10.jpg?1779826980"
         },
@@ -462,7 +497,7 @@
           "description": "Com uma rebelião popular na Bolívia que leva 4 semanas de protestos exigindo a renúncia do presidente Rodrigo Paz, incluindo mais de 50 bloqueios de estrada e o assassinato de 6 manifestantes pelas forças repressivas, Lula declara solidariedade ao governo e respeito às instituições democráticas rechaçadas massivamente, responsabilizando os protestos pela crise humanitária. \n26-05-2026\n\n/ Internacional, Bolívia, Crise Política na Bolívia, Chapa Lula-Alckmin, Governo Lula",
           "link": "https://www.esquerdadiario.com.br/Lula-se-solidariza-com-assassino-Rodrigo-Paz-aliado-de-Trump-que-rebeliao-popular-na-Bolivia-quer",
           "publishedOn": "2026-05-26T15:35:07.000Z",
-          "wordCount": 8893,
+          "wordCount": 8904,
           "title": "Lula se solidariza com assassino Rodrigo Paz, aliado de Trump, que rebelião popular na Bolívia quer derrubar",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/bolivia-2.jpg?1779809979"
         },
@@ -472,7 +507,7 @@
           "description": "Republicamos a seguir reportagem realizada pelo jornal espanhol El País com Myriam Bregman, deputada federal trotskista pelo PTS na Frente de Esquerda e dos Trabalhadores da Argentina, que representa um fenômeno na ascensão da extrema esquerda fruto do combate na luta de classes e no parlamento contra Javier Milei e a extrema direita argentina. \n Reportagem publicada originalmente no ElPaís, 26/5 \n “Milei é um empregado dos grandes empresários, que ganharam milhões nestes anos e com ele (…)\n26-05-2026\n\n/ Internacional, PTS na FIT, Myriam Bregman, Partido dos Trabalhadores Socialistas (PTS)",
           "link": "https://www.esquerdadiario.com.br/Entrevista-de-Myriam-Bregman-ao-El-Pais-a-trotskista-que-chama-Milei-de-gatito-mimoso-e-politica",
           "publishedOn": "2026-05-26T13:51:00.000Z",
-          "wordCount": 9207,
+          "wordCount": 9226,
           "title": "Entrevista de Myriam Bregman ao El Pais: \"a trotskista que chama Milei de 'gatito mimoso' e \"política com a melhor imagem\"",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/myriam_portada_voces_zn.jpg?1779803456"
         },
@@ -482,7 +517,7 @@
           "description": "A prefeitura de BH fez um post mentiroso sobre a greve da educação. Mas a postagem só tinha comentários favoráveis à greve e a prefeitura apagou.\n26-05-2026\n\n/ Classe trabalhadora, Belo Horizonte, Educação, Greve, Minas Gerais, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/Prefeitura-de-BH-apaga-post-apos-enxurrada-de-comentarios-em-apoio-a-greve-da-educacao",
           "publishedOn": "2026-05-26T12:56:52.000Z",
-          "wordCount": 7961,
+          "wordCount": 7972,
           "title": "Prefeitura de BH apaga post após enxurrada de comentários em apoio à greve da educação",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-26_at_09.53_34.jpg?1779800032"
         },
@@ -492,7 +527,7 @@
           "description": "Mais de dois mil trabalhadores da educação municipal em greve se manifestaram em frente à prefeitura de Belo Horizonte em resposta ao corte de ponto.\n26-05-2026\n\n/ Classe trabalhadora, Belo Horizonte, Educação, Greve, Minas Gerais, cortes, Álvaro Damião",
           "link": "https://www.esquerdadiario.com.br/Milhares-de-trabalhadores-da-educacao-municipal-respondem-ao-corte-de-ponto-de-Damiao-com-luta",
           "publishedOn": "2026-05-26T12:30:07.000Z",
-          "wordCount": 8050,
+          "wordCount": 8061,
           "title": "Milhares de trabalhadores da educação municipal respondem ao corte de ponto de Damião com luta",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-25_at_16.18_14.jpg?1779798594"
         },
@@ -502,7 +537,7 @@
           "description": "O PL das terras raras vai para votação no Senado Federal esta semana e é mais um avanço no entreguismo dos bens comuns naturais brasileiros.\n26-05-2026\n\n/ Política, Senado, Imperialismo, Mineração, Extrativismo, Terras Raras",
           "link": "https://www.esquerdadiario.com.br/Por-que-o-PL-das-Terras-Raras-vai-significar-mais-submissao-ao-imperialismo",
           "publishedOn": "2026-05-26T11:56:41.000Z",
-          "wordCount": 8594,
+          "wordCount": 8600,
           "title": "Por que o PL das Terras Raras vai significar mais submissão ao imperialismo?",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/project-history-and-esg-page-to-replace-mine-life.webp?1779796226"
         },
@@ -512,39 +547,9 @@
           "description": "A deputada sulista esbravejou em defesa da escala 6x1: \"vermezinhos, nunca serão ninguém na vida!\" enquanto defendeu a semana de trabalho três dias para os deputados.\n26-05-2026\n\n/ Política, Extrema direita, jornada 6x1",
           "link": "https://www.esquerdadiario.com.br/Julia-Zanatta-defende-escravidao-da-escala-6x1-para-o-peao-e-vida-de-rei-para-os-deputados",
           "publishedOn": "2026-05-26T11:35:30.000Z",
-          "wordCount": 8038,
+          "wordCount": 8042,
           "title": "Júlia Zanatta defende escravidão da escala 6x1 para o peão e vida de rei para os deputados",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/zanatta.jpg?1779795326"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Dossie-138-anos-da-luta-pela-Abolicao",
-          "author": "Esquerda Diário",
-          "description": "Publicamos o Dossiê dos 138 anos da luta pela Abolição da Revista Casa Marx! \n O negro brasileiro: apontamentos históricos sobre identidade negra e a crítica à democracia racial (parte 1) Por Renato Shakur \nMatérias\n\n/ Luta Antirracista, Abolição, 13 DE MAIO: ABOLIÇÃO E LUTA NEGRA",
-          "link": "https://www.esquerdadiario.com.br/Dossie-138-anos-da-luta-pela-Abolicao",
-          "publishedOn": "2026-05-26T10:23:44.000Z",
-          "wordCount": 7720,
-          "title": "Dossiê 138 anos da luta pela Abolição",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/capa_dossie.jpg?1779790889"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Valdemar-contradiz-Flavio-Bolsonaro-e-diz-que-ele-foi-pedir-mais-dinheiro-a-Vorcaro-apos-a-prisao",
-          "author": "Redação",
-          "description": "Valdemar desmentiu discurso de Flávio, que disse ter ido até Vorcaro para por um ponto final na relação. Mas sua justificativa traz elementos a serem vistos para além do caso Master. \n Em entrevista à GloboNews, o presidente do PL, Valdemar Costa Neto, afirmou que Flávio Bolsonaro foi à casa de Vorcaro, quando o banqueiro saiu da prisão, pedir o dinheiro que ele não havia repassado ao filme Dark Horse. Essa versão vai contra o que Flávio havia dito antes, de que tinha ido a casa de Vorcaro (…)\n25-05-2026\n\n/ Política, Flavio Bolsonaro, Bolsonaro, Partido Liberal (PL), Banco Master",
-          "link": "https://www.esquerdadiario.com.br/Valdemar-contradiz-Flavio-Bolsonaro-e-diz-que-ele-foi-pedir-mais-dinheiro-a-Vorcaro-apos-a-prisao",
-          "publishedOn": "2026-05-25T23:32:36.000Z",
-          "wordCount": 8341,
-          "title": "Valdemar contradiz Flávio Bolsonaro e diz que ele foi pedir mais dinheiro a Vorcaro após a prisão",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/1000309320.webp?1779751900"
-        },
-        {
-          "id": "https://www.esquerdadiario.com.br/Docentes-da-USP-entram-em-greve-contra-a-intransigencia-da-Reitoria-com-os-estudantes",
-          "author": "Redação",
-          "description": "Professores da Universidade de São Paulo (USP) votaram, na tarde desta segunda-feira (25/05), sua entrada em greve em apoio à greve estudantil, que segue enfrentando a intransigência da Reitoria.\n25-05-2026\n\n/ USP, Educação, Reitoria, Tarcísio de Freitas, Reitoria USP, Greve de professores, USP, Greve contra Tarcísio, Greve na USP",
-          "link": "https://www.esquerdadiario.com.br/Docentes-da-USP-entram-em-greve-contra-a-intransigencia-da-Reitoria-com-os-estudantes",
-          "publishedOn": "2026-05-25T23:03:53.000Z",
-          "wordCount": 7925,
-          "title": "Docentes da USP entram em greve contra a intransigência da Reitoria com os estudantes",
-          "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/233643487_1513509735681272_668438875657682864_n-2.png?1779750140"
         }
       ]
     },
@@ -790,22 +795,62 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256045",
+          "author": "Tabitha Ramalho",
+          "description": "A inclusão do Primeiro Comando da Capital (PCC) e do Comando Vermelho (CV) nas listas de organizações terroristas marca a “primeira intervenção de Donald Trump nas eleições presidenciais brasileiras e ameaça a soberania nacional”, afirmou a analista internacional Rose Martins. “Muitos se perguntavam se o governo dos Estados Unidos agiria diretamente para influenciar no pleito […]\nO post ‘Incluir PCC e CV em lista terrorista é ameaça à soberania nacional’, diz internacionalista apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/incluir-pcc-e-cv-em-lista-terrorista-e-ameaca-a-soberania-nacional-diz-internacionalista/",
+          "publishedOn": "2026-05-29T14:59:37.000Z",
+          "wordCount": 3996,
+          "title": "‘Incluir PCC e CV em lista terrorista é ameaça à soberania nacional’, diz internacionalista",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55270308356_ed0cf99433_c.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256037",
+          "author": "Tatiana Carlotti",
+          "description": "Às vésperas da visita do ministro das Relações Exteriores do Brasil, Mauro Vieira, à China, marcada para domingo (31), a porta-voz do Ministério das Relações Exteriores chinês, Mao Ning, reiterou nesta sexta-feira (29) que Pequim “sempre defendeu a não interferência nos assuntos internos de outros países”. Mao Ning respondia a uma pergunta da Folha de […]\nO post Pequim defende ‘não interferência’ após EUA classificarem PCC e CV como terroristas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/pequim-defende-nao-interferencia-apos-eua-classificarem-pcc-e-cv-como-terroristas/",
+          "publishedOn": "2026-05-29T13:57:38.000Z",
+          "wordCount": 3438,
+          "title": "Pequim defende ‘não interferência’ após EUA classificarem PCC e CV como terroristas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/bdf-20250818-172252-ceedba-1536x864-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256025",
+          "author": "Tatiana Carlotti",
+          "description": "O anúncio de Washington de que pretende incluir o Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) na lista de organizações terroristas do país teve forte repercussão nos principais veículos internacionais nesta sexta-feira (29/05). A cobertura enfatiza a oposição do governo brasileiro à medida e aponta que a decisão ocorreu após a visita […]\nO post ‘Decisão tensiona relação Brasil-EUA’, diz NYT após anúncio de PCC e CV em lista de terrorismo apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/decisao-tensiona-relacao-brasil-eua-diz-nyt-apos-anuncio-de-pcc-e-cv-em-lista-de-terrorismo/",
+          "publishedOn": "2026-05-29T12:50:22.000Z",
+          "wordCount": 3635,
+          "title": "‘Decisão tensiona relação Brasil-EUA’, diz NYT após anúncio de PCC e CV em lista de terrorismo",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2025/08/castigo-politico-de-trump-contra-exportaciones-de-brasil-1.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256020",
+          "author": "Tatiana Carlotti",
+          "description": "O presidente Luiz Inácio Lula da Silva demonstrou preocupação após o governo dos Estados Unidos anunciar a inclusão das principais facções criminosas brasileiras na lista de organizações terroristas. A medida foi divulgada por Washington depois de uma reunião entre o pré-candidato à presidência Flávio Bolsonaro, o presidente norte-americano, Donald Trump, e o secretário de Estado […]\nO post Lula pede análise de impacto econômico da decisão norte-americana sobre PCC e CV apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/brasil/lula-pede-analise-de-impacto-economico-da-decisao-norte-americana-sobre-pcc-e-cv/",
+          "publishedOn": "2026-05-29T12:01:48.000Z",
+          "wordCount": 3134,
+          "title": "Lula pede análise de impacto econômico da decisão norte-americana sobre PCC e CV",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/76339440_1004.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256007",
           "author": "Tatiana Carlotti",
           "description": "O representante permanente da Rússia na ONU, Vasily Nebenzia, disse que o “ataque terrorista” perpetrado pelas forças ucranianas na residência estudantil na cidade russa de Starobelsk (República Popular de Luhansk) só pode ser comparado às ações dos nazistas durante a Segunda Guerra Mundial. “A crueldade com que o regime de Kiev tratou as crianças só […]\nO post Na ONU, Rússia compara ataque ucraniano contra escola às ações nazistas apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-compara-ataque-ucraniano-contra-escola-as-acoes-nazistas-e-critica-hipocrisia-de-paises-europeus/",
+          "link": "https://operamundi.uol.com.br/guerra-na-ucrania/na-onu-russia-compara-ataque-ucraniano-contra-escola-as-acoes-nazistas/",
           "publishedOn": "2026-05-29T11:16:56.000Z",
-          "wordCount": 3470,
+          "wordCount": 3466,
           "title": "Na ONU, Rússia compara ataque ucraniano contra escola às ações nazistas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/6a0ff6a7e9ff711c2e1fdf2f.jpg"
         },
         {
           "id": "https://operamundi.uol.com.br/?p=255994",
           "author": "Tatiana Carlotti",
-          "description": "Negociadores do Irã e dos Estados Unidos chegaram a um marco para estender o cessar-fogo em vigor por 60 dias, informou a mídia ocidental nesta quinta-feira (28/05), citando fontes dos Estados Unidos e especificando que tal passo estará pendente de aprovação do presidente norte-americano Donald Trump. A agência iraniana Tasnim desmentiu a informação, citando uma fonte […]\nO post Acordo entre Teerã e Washington continua em discussão, diz agência iraniana apareceu primeiro em Opera Mundi.",
+          "description": "Negociadores do Irã e dos Estados Unidos chegaram a um marco para estender o cessar-fogo em vigor por 60 dias, informou a mídia ocidental nesta quinta-feira (28/05), citando fontes dos Estados Unidos e especificando que tal passo estará pendente de aprovação do presidente norte-americano Donald Trump. A agência iraniana Tasnim, no entanto, desmentiu a informação, citando […]\nO post Acordo entre Teerã e Washington continua em discussão, diz agência iraniana apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/acordo-entre-teera-e-washington-continua-em-discussao-diz-agencia-iraniana/",
           "publishedOn": "2026-05-29T10:21:58.000Z",
-          "wordCount": 4581,
+          "wordCount": 4509,
           "title": "Acordo entre Teerã e Washington continua em discussão, diz agência iraniana",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/1405013111492325836468784.jpg"
         },
@@ -815,7 +860,7 @@
           "description": "Em entrevista a uma agência internacional de notícias, o ex-presidente Evo Morales disse que os protestos que abalam a Bolívia há um mês constituem uma rebelião contra um governo subordinado aos Estados Unidos. O ex-presidente socialista, que governou o país andino entre 2006 e 2019, fez as declarações da área produtora de coca do Chapare, […]\nO post ‘Quem está no comando da Bolívia: império ou povo?’, questiona Evo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/america-latina/quem-esta-no-comando-da-bolivia-imperio-ou-povo-questiona-evo/",
           "publishedOn": "2026-05-29T09:50:17.000Z",
-          "wordCount": 3340,
+          "wordCount": 3336,
           "title": "‘Quem está no comando da Bolívia: império ou povo?’, questiona Evo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/g9bldbxwsaitoup-e1779643285935.webp"
         },
@@ -825,7 +870,7 @@
           "description": "O governo dos Estados Unidos, através do seu Departamento de Estado, anunciou nesta quinta-feira (28/) que vai incluir o Primeiro Comando da Capital (PCC) e Comando Vermelho (CV) e Primeiro Comando da Capital (PCC) em suas listas de “terroristas globais especialmente designados” (SDGT, pela sigla em inglês), e de “organizações terroristas estrangeiras” (FTO, pela sigla […]\nO post EUA anunciam que vão classificar PCC e CV como organizações terroristas apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/estados-unidos/eua-anunciam-que-vao-classificar-pcc-e-cv-como-organizacoes-terroristas/",
           "publishedOn": "2026-05-28T22:53:23.000Z",
-          "wordCount": 3082,
+          "wordCount": 3078,
           "title": "EUA anunciam que vão classificar PCC e CV como organizações terroristas",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/rubio.jpg"
         },
@@ -835,7 +880,7 @@
           "description": "Há uma perversidade política profundamente enraizada na ordem internacional contemporânea, na qual povos ocupados são instados à paciência, à moderação e à resignação, enquanto ocupantes armados, colonizadores e violadores sistemáticos do Direito Internacional seguem tratados como interlocutores legítimos.  Palestina e Saara Ocidental expõem, de forma cristalina, essa hipocrisia estrutural. Estamos diante de dois dos mais […]\nO post Palestina e Saara Ocidental: quando resistir é um direito apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/opiniao/palestina-e-saara-ocidental-quando-resistir-e-um-direito/",
           "publishedOn": "2026-05-28T21:41:32.000Z",
-          "wordCount": 4174,
+          "wordCount": 4170,
           "title": "Palestina e Saara Ocidental: quando resistir é um direito",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/464233193_cdeb654d7e_c.jpg"
         },
@@ -848,46 +893,6 @@
           "wordCount": 3141,
           "title": "Cuba anuncia progresso no desenvolvimento de vacina terapêutica contra câncer",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/cuba-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255956",
-          "author": "Victor Farinelli",
-          "description": "O Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) e a Receita Federal fazem uma operação nesta quinta-feira (28/05) em São Paulo, no Paraná, em Mato Grosso do Sul, Minas Gerais e no Rio de Janeiro. O objetivo da ação é investigar a infiltração do Primeiro Comando do Crime (PCC) no setor de […]\nO post Ação em cinco estados investiga ligação do PCC com setor de combustíveis apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/brasil/acao-em-cinco-estados-investiga-ligacao-do-pcc-com-setor-de-combustiveis/",
-          "publishedOn": "2026-05-28T20:30:30.000Z",
-          "wordCount": 3232,
-          "title": "Ação em cinco estados investiga ligação do PCC com setor de combustíveis",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/posto.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255971",
-          "author": "Raissa Neves",
-          "description": "No ano de 2025, os gastos militares globais chegaram a 2,88 trilhões de dólares, o maior patamar da série histórica registrada pelo SIPRI, o Instituto Internacional de Pesquisa para a Paz de Estocolmo. Desde 2016, o gasto militar global cresceu 41%, enquanto, nos últimos anos, crises militares e de segurança vêm influenciando discursos de autoridades […]\nO post Aumento dos gastos militares acirra dependência dos países periféricos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/opiniao/aumento-dos-gastos-militares-acirra-dependencia-dos-paises-perifericos/",
-          "publishedOn": "2026-05-28T20:15:40.000Z",
-          "wordCount": 4611,
-          "title": "Aumento dos gastos militares acirra dependência dos países periféricos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/17178783645_74b4c332f6_c.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255967",
-          "author": "Raissa Neves",
-          "description": "Há 38 anos, em 28 de maio de 1988, falecia Alfredo Volpi. Vinculado à segunda geração modernista, Volpi é considerado um mais importantes pintores brasileiros do século 20. Sua obra contempla desde a arte figurativa de inspiração popular até a abstração geométrica, destacando-se pela sutileza no uso das cores e pelo tratamento peculiar da matéria […]\nO post Alfredo Volpi, o pintor operário apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/pensar-a-historia/alfredo-volpi-o-pintor-operario/",
-          "publishedOn": "2026-05-28T19:49:29.000Z",
-          "wordCount": 4021,
-          "title": "Alfredo Volpi, o pintor operário",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/alfredo_volpi-1.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=255949",
-          "author": "Victor Farinelli",
-          "description": "O governo da República Democrática do Congo afirmou em comunicado divulgado nesta quinta-feira (28/05) que a seleção do seu país participará da Copa do Mundo de 2026, após cumprir todos os protocolos estabelecidos pela Federação Internacional de Futebol Associado (FIFA) para situação de crise sanitária. A nota foi assinada em conjunto com a Federação de […]\nO post RD Congo assegura que seleção cumpriu protocolos sanitários para participar da Copa apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/esportes/rd-congo-assegura-que-selecao-cumpriu-protocolos-sanitarios-para-participar-da-copa/",
-          "publishedOn": "2026-05-28T19:10:59.000Z",
-          "wordCount": 3193,
-          "title": "RD Congo assegura que seleção cumpriu protocolos sanitários para participar da Copa",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/congo.jpg"
         }
       ]
     },
@@ -902,6 +907,46 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=226679",
+          "author": "Ana Nascimento",
+          "description": "Com a morte da ativista Rosa Marlene por leptospirose, sobe para 7 o número de pessoas que morreram em Pernambuco em decorrência da negligência das ditas “autoridades estatais” com o povo.",
+          "link": "https://anovademocracia.com.br/ativista-morre-leptospirose-recife/",
+          "publishedOn": "2026-05-29T14:27:58.000Z",
+          "wordCount": null,
+          "title": "PE: Ativista popular Rosa Marlene morre de leptospirose após inundações em Recife",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226729",
+          "author": "Ana Nascimento",
+          "description": "Primeira edição do \"Resista!\" ocorre em julho. Artistas independentes e populares de todo o país podem inscrever suas obras e propostas de apresentação.",
+          "link": "https://anovademocracia.com.br/evento-resista-anti-imperialista-sorocaba/",
+          "publishedOn": "2026-05-29T13:45:19.000Z",
+          "wordCount": null,
+          "title": "SP: Primeira edição do “Resista!”, evento cultural anti-imperialista ocorre em julho; inscrições para artistas estão abertas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226718",
+          "author": "Redação de AND",
+          "description": "Texto aprovado fixa jornada máxima de 40 horas semanais e dois dias de descanso, mas abandona a proposta de 36 horas, prevê transição de até 14 meses e mantém brechas para regimes diferenciados, compensações e exceções.",
+          "link": "https://anovademocracia.com.br/camara-aprova-6-por-1-acordos-rebaixados/",
+          "publishedOn": "2026-05-29T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Câmara aprova fim formal da escala 6 por 1 entre chantagens e acordos rebaixados",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anovademocracia.com.br/?p=226699",
+          "author": "Giovanna Maria",
+          "description": "Segundo a denúncia dos familiares, após o crime os agentes tentaram encobrir a execução forjando um suposto confronto, inserindo armas e drogas na ocorrência e buscando criminalizar as vítimas para justificar os assassinatos.",
+          "link": "https://anovademocracia.com.br/rj-ativistas-e-familiares-realizam-ato-em-frente-ao-tj-rj-exigindo-justica-por-samuel-e-willian-mortos-pela-pm/",
+          "publishedOn": "2026-05-29T12:00:00.000Z",
+          "wordCount": null,
+          "title": "RJ: Ativistas e familiares realizam ato em frente ao TJ-RJ exigindo justiça por Samuel e Willian, mortos pela PM",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=226696",
           "author": "Redação de AND",
@@ -961,46 +1006,6 @@
           "wordCount": null,
           "title": "‘Capital financeiro financia quem for’: AND aponta teia suprapartidária de Vorcaro no velho Estado",
           "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226611",
-          "author": "Redação de AND",
-          "description": "Cartões corporativos do Banco Master abrem nova frente da Operação Compliance Zero e expõem a rede de relações de Daniel Vorcaro com extrema direita, falsa esquerda, centrão, Judiciário, PGR, Banco Central, BRB e Faria Lima.",
-          "link": "https://anovademocracia.com.br/cartoes-master-caixa-preta-vorcaro-estado/",
-          "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Cartões corporativos do Master ampliam caixa-preta de Vorcaro no velho Estado",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226583",
-          "author": "Montezuma Cruz",
-          "description": "Condenado por assassinatos de camponeses em Buritis, ele liderava uma empresa de fachada que lavou R$ 48 milhões em fazendas e gado.",
-          "link": "https://anovademocracia.com.br/gesulino-chefe-guaxeba-preso-rondonia/",
-          "publishedOn": "2026-05-28T00:40:16.000Z",
-          "wordCount": null,
-          "title": "Gesulino, chefe guaxeba, está preso em Rondônia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226554",
-          "author": "Redação de AND",
-          "description": "Artigo de K. Murali (Ajith), republicado pela revista indiana Nazariya, desmascara a linha de rendição de Sonu e Devji, denuncia o legalismo como capitulação e reafirma a atualidade do caminho de Naxalbari e da Guerra Popular para a Revolução Indiana.",
-          "link": "https://anovademocracia.com.br/atividade-armada-natureza-semifeudal-ajith/",
-          "publishedOn": "2026-05-28T00:31:13.000Z",
-          "wordCount": null,
-          "title": "‘A necessidade da atividade armada emerge da natureza semifeudal de nossa sociedade’: intelectual maoista Ajith denuncia linha de rendição na Índia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226584",
-          "author": "Redação de AND",
-          "description": "No 963º dia desde o Dilúvio de Al-Aqsa, Hamas confirmou o martírio de Mohammed Awda, dirigente histórico das Brigadas Al-Qassam, assassinado pela entidade nazi-sionista junto de sua família em Gaza. No Líbano, “Israel” declarou 2 mil km² como “zona de combate”, enquanto o Hezbollah intensificou ataques contra tropas e veículos sionistas.",
-          "link": "https://anovademocracia.com.br/plantao-palestina-27-05-2026/",
-          "publishedOn": "2026-05-28T00:23:01.000Z",
-          "wordCount": null,
-          "title": "Plantão Palestina (27/05): Hamas confirma queda em combate de Mohammed Awda, dirigente histórico das Brigadas Al-Qassam",
-          "imageUrl": null
         }
       ]
     },
@@ -1008,7 +1013,28 @@
       "title": "O Poder Popular",
       "feedUrl": "https://opoderpopular.com.br/rss/",
       "siteUrl": "https://opoderpopular.com.br/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6a19b3f101e7cd37414d0704",
+          "author": "O Poder Popular",
+          "description": "Por André Vieira - Jornalista - AEPET Notícias\nA ANP, agência reguladora do setor, deve avaliar a ideia de liberar o GLP fracionado, permitindo que o consumidor compre menos gás do que o botijão cheio de 13 quilos. À primeira vista,",
+          "link": "https://opoderpopular.com.br/botijao-de-glp-fracionado-risco-integral/",
+          "publishedOn": "2026-05-29T15:51:39.000Z",
+          "wordCount": 1554,
+          "title": "Botijão de GLP fracionado, risco integral",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/05/298799902_486408576824035_6675726856310978443_n-1.jpg"
+        },
+        {
+          "id": "6a19b33801e7cd37414d068f",
+          "author": "O Poder Popular",
+          "description": "Exército de Libertação Nacional, 8 de abril de 2026\n1. Introdução.\nO narcotráfico tornou-se a ferramenta preferida dos governos colombiano e norte-americano para tentar desvirtuar o caráter político do ELN e as verdadeiras razões",
+          "link": "https://opoderpopular.com.br/proposta-para-combater-o-narcotrafico/",
+          "publishedOn": "2026-05-29T15:41:49.000Z",
+          "wordCount": 2031,
+          "title": "Proposta para combater o Narcotráfico - Colômbia",
+          "imageUrl": "https://opoderpopular.com.br/content/images/2026/05/5813223920470003341.jpg"
+        }
+      ]
     },
     {
       "title": "Outras Palavras",
@@ -1111,7 +1137,7 @@
           "description": "Recursos reduzidos, arrogância de dirigentes, violência policial e ausência de canais democráticos: um coquetel explosivo deflagrou um movimento justo e necessário. Os reitores têm uma brecha para encontrar a saída – e a responsabilidade de fazê-lo. Estarão à altura?\nThe post Greve nas universidades paulistas: e agora? appeared first on Outras Palavras.",
           "link": "https://outraspalavras.net/movimentoserebeldias/greve-nas-universidades-paulistas-e-agora/",
           "publishedOn": "2026-05-27T18:44:30.000Z",
-          "wordCount": 4661,
+          "wordCount": 4471,
           "title": "Greve nas universidades paulistas: e agora?",
           "imageUrl": "https://outraspalavras.net/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-19-at-17.57.38-1.jpeg"
         }
