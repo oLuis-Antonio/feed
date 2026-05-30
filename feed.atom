@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-30T04:06:35.935Z</id>
+    <id>urn:2026-05-30T10:07:12.023Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-30T04:06:35.935Z</updated>
+    <updated>2026-05-30T10:07:12.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Família Bolsonaro é viciada em mentir. Seu maior adversário é o jornalismo]]></title>
+        <id>https://www.intercept.com.br/?p=443525</id>
+        <link href="https://www.intercept.com.br/2026/05/30/familia-bolsonaro-viciada-mentir/"/>
+        <updated>2026-05-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reportagens como as do Intercept Brasil expõem a verdade dos fatos, como se viu com as revelações sobre o acerto de Flávio com Daniel Vorcaro e a mansão luxuosa onde vive Eduardo no Texas.
+O post Família Bolsonaro é viciada em mentir. Seu maior adversário é o jornalismo apareceu primeiro em Intercept Brasil.]]></summary>
+        <author>
+            <name>Isabella Mota</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pré-candidata da UP à Presidência defende aumento de 100% no salário mínimo]]></title>
         <id>https://averdade.org.br/?p=61996</id>
@@ -1199,66 +1210,6 @@ O post Defensores da escala 6×1 têm medo dessa mulher. Aqui estão os motivos 
         <summary type="html"><![CDATA[Tiago Ferro: "O eleitor que vota reiteradamente contra algo, e não por algo, tende a experimentar uma relação mais frágil com o resultado. A identificação com o governo eleito é menor, a expectativa é rebaixada e a disposição para defendê-lo no longo prazo pode se corroer (qualquer semelhança com a mais recente rodada do PT no governo federal não é mera coincidência)."]]></summary>
         <author>
             <name>Boitempo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tática parlamentarista e luta de massas na batalha pela jornada de trabalho]]></title>
-        <id>uZf4jc</id>
-        <link href="https://jornalofuturo.com.br/artigo/uZf4jc-tatica-parlamentarista-e-luta-de-massas-na-batalha-pela-jornada-de-trabalho"/>
-        <updated>2026-05-25T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[O último ano e meio da luta de classes no Brasil foi tomado pelo debate do fim da escala 6x1 e da redução da jornada de trabalho. A importância dessa batalha se comprovou não apenas na teoria, mas na prática.]]></summary>
-        <author>
-            <name>Jornal o Futuro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relatório da CPT: Disputa pela terra segue como a principal causa da violência no campo]]></title>
-        <id>6a142b31f86e9e026f7a1d1a</id>
-        <link href="https://opiniaosocialista.com.br/relatorio-da-cpt-revela-que-a-disputa-pela-terra-segue-como-principal-causa-da-violencia-no-camporelatorio-da-cpt-revela-que-a-disputa-pela-terra-segue-como-principal-causa-da-violencia/"/>
-        <updated>2026-05-25T19:43:29.000Z</updated>
-        <summary type="html"><![CDATA[O Relatório de Conflitos no Campo Brasil, publicado em 27 de abril pelo Centro de Documentação Dom Tomás Balduino, da Comissão Pastoral da Terra (CPT), apresentou os dados sobre a violência no campo em 2025 e comparou-os aos anos]]></summary>
-        <author>
-            <name>Rosi Pantoja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metalúrgicos de São José dos Campos intensificam campanha pelo fim da escala 6x1]]></title>
-        <id>6a149dd3f86e9e026f7a1d56</id>
-        <link href="https://opiniaosocialista.com.br/metalurgicos-de-sao-jose-dos-campos-e-regiao-intensificam-campanha-pelo-fim-da-escala-6x1/"/>
-        <updated>2026-05-25T19:31:16.000Z</updated>
-        <summary type="html"><![CDATA[O Sindicato dos Metalúrgicos de São José dos Campos e Região, junto com a militância do PSTU, intensificaram nas últimas semanas a campanha pelo fim da escala 6x1 e pela implementação da jornada de trabalho 4x3, com]]></summary>
-        <author>
-            <name>PSTU São José dos Campos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Com Hertz Dias, PSTU lança pré-candidatura de Geraldo Carvalho ao governo do Piauí]]></title>
-        <id>6a14a016f86e9e026f7a1d69</id>
-        <link href="https://opiniaosocialista.com.br/com-hertz-dias-pstu-lanca-pre-candidatura-de-geraldo-carvalho-ao-governo-do-piaui/"/>
-        <updated>2026-05-25T19:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Evento em Teresina integra a construção do projeto socialista do partido para as eleições de 2026 e reforça a defesa dos direitos dos trabalhadores, dos serviços públicos e do fim da escala 6x1]]></summary>
-        <author>
-            <name>PSTU-PI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frei Betto: Congresso Nacional, palco de retrocesso]]></title>
-        <id>https://revistaopera.operamundi.uol.com.br/?p=73727</id>
-        <link href="https://revistaopera.operamundi.uol.com.br/2026/05/25/frei-betto-congresso-nacional-palco-de-retrocesso/"/>
-        <updated>2026-05-25T18:59:33.000Z</updated>
-        <summary type="html"><![CDATA[Congresso Nacional tem se dedicado, nos últimos meses, a promover um perigoso retrocesso nas legislações eleitoral e ambiental para beneficiar diretamente corruptos e ecocidas. Medidas recentemente aprovadas que flexibilizam punições a partidos políticos e criminosos ambientais são sinônimos da impunidade que ameaça as instituições democráticas e os biomas brasileiros. O primeiro alvo foi o sistema […]]]></summary>
-        <author>
-            <name>Frei Betto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferramentas de controle parental (2)]]></title>
-        <id>https://passapalavra.info/?p=159248</id>
-        <link href="https://passapalavra.info/2026/05/159248/"/>
-        <updated>2026-05-25T16:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Por Marcelo Tavares de Santana Continuando nosso desafio de controle parental em dispositivos digitais, neste artigo trataremos desse tipo de recurso em ambientes Linux, portanto, um sistema operacional para computadores de mesa, portáteis e afins. O ecossistema Linux é muito diverso em distribuições, como Ubuntu e Fedora, e também em ambientes gráficos de trabalho, como […]]]></summary>
-        <author>
-            <name>Enzo Silva</name>
         </author>
     </entry>
 </feed>
