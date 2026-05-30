@@ -53,6 +53,16 @@
       "siteUrl": "https://averdade.org.br/",
       "articles": [
         {
+          "id": "https://averdade.org.br/?p=62003",
+          "author": "Gabriela Torres",
+          "description": "Inaugurada na última quarta-feira (27), a Ocupação Maria Águeda é a 1ª na cidade de Guaratuba e 48ª ocupação do Movimento de Mulheres Olga Benario em todo o país.  Gabriela Torres | Redação Paraná MULHERES – O Movimento Olga Benario realizou a primeira ocupação de mulheres em Guaratuba, a Ocupação Maria Águeda. A casa de […]",
+          "link": "https://averdade.org.br/2026/05/movimento-olga-ocupa-imovel-abandonado-em-guaratuba-para-criar-centro-de-referencia-para-as-mulheres/",
+          "publishedOn": "2026-05-30T10:39:59.000Z",
+          "wordCount": 5960,
+          "title": "Movimento Olga ocupa imóvel abandonado em Guaratuba para criar Centro de Referência para as mulheres",
+          "imageUrl": "https://averdade.org.br/wp-content/uploads/2021/09/e2e25b52-base-01-thumbnail-para-facebook.png"
+        },
+        {
           "id": "https://averdade.org.br/?p=61996",
           "author": "Jesse Lisboa",
           "description": "Samara Martins, pré-candidata da Unidade Popular (UP) à Presidência defende uma proposta de valorização real do salário mínimo, com o aumento imediato de 100% do seu valor. Rafael Pires | Diretório Nacional da UP BRASIL – O mês de maio é marcado por diversas mobilizações e campanhas salariais em todo o país. Sendo o mês […]",
@@ -141,16 +151,6 @@
           "wordCount": 6497,
           "title": "Mães em Jaboatão dos Guararapes (PE) lutam por melhorias na educação",
           "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/jaboatao-creche-2-.webp"
-        },
-        {
-          "id": "https://averdade.org.br/?p=61947",
-          "author": "Leonardo de Paula",
-          "description": "Esquema fraudulento envolvendo o Banco Master e o governo Tarcísio de Freitas revela a manipulação de ações da EMAE em 863% e o desvio de R$ 400 milhões do caixa público. Escândalo demonstra como a burguesia utiliza as privatizações para saquear o Estado e transferir a riqueza produzida pelos trabalhadores para o bolso de especuladores […]",
-          "link": "https://averdade.org.br/2026/05/como-banqueiros-e-o-governo-tarcisio-operam-para-saquear-as-estatais-de-sp/",
-          "publishedOn": "2026-05-28T00:10:50.000Z",
-          "wordCount": 6174,
-          "title": "Como banqueiros e o governo Tarcísio operam para saquear as estatais de SP",
-          "imageUrl": "https://averdade.org.br/wp-content/uploads/2026/05/16799557406422171cb8650_1679955740_3x2_rt.jpg"
         }
       ]
     },
@@ -297,7 +297,7 @@
           "description": "Whisky, vinho, carne de ouro, feijoada e camarote. É assim que aparece a relação de Cláudio Castro com Daniel Vorcaro, banqueiro do Master, no mesmo período em que o Rioprevidência colocou bilhões em fundos ligados ao banco falido. Enquanto aposentados e pensionistas do Rio dependem de uma folha previdenciária de mais de R$ 2 bilhões por mês para sobreviver, o governador das chacinas se encontrava com banqueiro em ambiente de extremo luxo, em uma relação que a própria investigação aponta (…)\n28-05-2026\n\n/ Política, Rio de Janeiro, Corrupção, Violência policial, Assembleia Constituinte Livre e Soberana, Cláudio Castro, Chacina, Banco Master",
           "link": "https://www.esquerdadiario.com.br/Whisky-carne-de-ouro-e-chacina-Claudio-Castro-desiste-do-Senado-cercado-por-escandalos",
           "publishedOn": "2026-05-28T22:31:52.000Z",
-          "wordCount": 8470,
+          "wordCount": 8472,
           "title": "Whisky, carne de ouro e chacina: Cláudio Castro desiste do Senado cercado por escândalos",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/castro-vorcaro.jpg?1780007350"
         },
@@ -317,7 +317,7 @@
           "description": "Nesta segunda-feira, 25 de maio, uma imagem tomou os grupos de estudantes da UFPE. Uma pessoa cadeirante só conseguiu acessar os andares superiores do prédio do Centro de Filosofia e Humanidades (CFCH) com a mobilização de um conjunto de alunos que o auxiliaram a subir as escadas. Há meses os elevadores não funcionam. Algumas horas depois desse episódio, no mesmo dia, uma mulher ficou presa no elevador no mesmo prédio.\n26-05-2026\n\n/ Educação, Teto de Gastos, Pernambuco, UFPE, Arcabouço Fiscal",
           "link": "https://www.esquerdadiario.com.br/Na-melhor-universidade-do-Nordeste-cadeirante-e-obrigado-a-usar-as-escadas-por-ausencia-de",
           "publishedOn": "2026-05-28T20:41:52.000Z",
-          "wordCount": 8619,
+          "wordCount": 8621,
           "title": "Na melhor universidade do Nordeste, cadeirante é obrigado a usar as escadas por ausência de acessibilidade",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-26_at_22.00_16.jpg?1779849357"
         },
@@ -467,7 +467,7 @@
           "description": "Nesta terça, dia 26 de maio, o Conselho Universitário da Unicamp (CONSU) decidiu por 40 votos a 24 pela retirada de pauta da aprovação do índice de reajuste salarial de 3,47% indicado pelo CRUESP, órgão que fechou a mesa de negociação de forma unilateral com os trabalhadores em greve. Essa derrota é fruto da greve unificada dos 3 setores da Unicamp que se liga ao contexto de greves estaduais contra Tarcísio, é preciso massificar e coordenar as lutas para ampliar a mobilização e derrotar de vez as reitorias e Tarcísio. Reabertura imediata da mesa de negociação com o Cruesp!\n26-05-2026\n\n/ Educação, Unicamp, DCE Unicamp, Reitoria Unicamp, Estudantes Unicamp",
           "link": "https://www.esquerdadiario.com.br/Reitoria-da-Unicamp-sofre-derrota-e-Consu-retira-da-pauta-indice-de-reajuste-de-3-47-do-Cruesp",
           "publishedOn": "2026-05-27T13:27:35.000Z",
-          "wordCount": 8334,
+          "wordCount": 8333,
           "title": "Reitoria da Unicamp sofre derrota e Consu retira da pauta índice de reajuste de 3,47% do Cruesp",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_09.58_55.jpg?1779888426"
         },
@@ -477,7 +477,7 @@
           "description": "Em menos de 15 dias, é a segunda operação de busca e apreensão ocorrida na cobertura do ex governador Cláudio Castro, na Barra da Tijuca.\n26-05-2026\n\n/ Política, Rio de Janeiro, Cláudio Castro, Banco Master",
           "link": "https://www.esquerdadiario.com.br/PF-faz-nova-visita-a-Claudio-Castro-mas-seguimos-sem-sinal-dos-bilhoes-desviados-para-Vorcaro",
           "publishedOn": "2026-05-26T20:23:05.000Z",
-          "wordCount": 8252,
+          "wordCount": 8251,
           "title": "PF faz nova visita à Cláudio Castro, mas seguimos sem sinal dos bilhões desviados para Vorcaro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/captura_de_tela_de_2026-05-26_17-35-10.jpg?1779826980"
         },
@@ -800,12 +800,32 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256113",
+          "author": "Tabitha Ramalho",
+          "description": "O bloqueio naval dos EUA contra o Irã no Estreito de Ormuz permanece totalmente ativo, contradizendo o anúncio anterior do presidente Donald Trump, disseram marinheiros iranianos à agência de notícias Tasnim no sábado (30/05), após receberem avisos diretos de navios norte-americanos. Na sexta-feira (29/05) à tarde, Trump escreveu em sua rede social Truth Social: “Os […]\nO post Bloqueio naval ao Irã em Ormuz continua apesar do anúncio de Trump, diz agência apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/guerra-eua-israel-x-ira/bloqueio-naval-ao-ira-em-ormuz-continua-apesar-do-anuncio-de-trump-diz-agencia/",
+          "publishedOn": "2026-05-30T13:50:50.000Z",
+          "wordCount": 3191,
+          "title": "Bloqueio naval ao Irã em Ormuz continua apesar do anúncio de Trump, diz agência",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/04/strase_von_hormuz.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256109",
+          "author": "Tabitha Ramalho",
+          "description": "O Tribunal de Sentenciamento de La Paz anulou na sexta-feira (29/05) os mandados de prisão contra o secretário-geral da Central Operária Boliviana (COB), Mario Argollo, e o dirigente da federação camponesa Túpac Katari, Vicente Salazar, no contexto dos intensos protestos que exigem a renúncia do presidente Rodrigo Paz Pereira e o fim das medidas neoliberais. […]\nO post Tribunal boliviano anula mandados de prisão contra líderes sindicais apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/tribunal-boliviano-anula-mandados-de-prisao-contra-lideres-sindicais/",
+          "publishedOn": "2026-05-30T13:31:04.000Z",
+          "wordCount": 3898,
+          "title": "Tribunal boliviano anula mandados de prisão contra líderes sindicais",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/lider-f0a58b31.webp"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256087",
           "author": "Victor Farinelli",
           "description": "“Um paciente foi curado, deixou o hospital e pôde retornar à sua comunidade”, anunciou Anaïs Legand, especialista técnica em febres hemorrágicas virais da Organização Mundial da Saúde (OMS), nesta sexta-feira (29/05). De acordo com a representante da organização, o homem deixou o hospital na quarta-feira (27/05), após dois testes negativos. O caso é inédito desde […]\nO post OMS confirma primeira cura de paciente pela cepa do ebola na República Democrática do Congo apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/africa/oms-confirma-primeira-cura-de-paciente-pela-cepa-do-ebola-na-republica-democratica-do-congo/",
           "publishedOn": "2026-05-29T22:20:33.000Z",
-          "wordCount": 3722,
+          "wordCount": 3723,
           "title": "OMS confirma primeira cura de paciente pela cepa do ebola na República Democrática do Congo",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/rdc.jpg"
         },
@@ -845,7 +865,7 @@
           "description": "Há 54 anos, em 29 de maio de 1972, era fundado em Mumbai o movimento dos Panteras Dalit. Criado por jovens poetas e intelectuais e inspirado no Partido dos Panteras Negras dos Estados Unidos, o grupo se consagrou como um dos mais combativos na luta contra a opressão de casta. Influenciados pelas ideias marxistas, pelo […]\nO post Panteras Dalit e a luta contra o sistema de castas na Índia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/pensar-a-historia/panteras-dalit-e-a-luta-contra-o-sistema-de-castas-na-india/",
           "publishedOn": "2026-05-29T20:10:06.000Z",
-          "wordCount": 6740,
+          "wordCount": 6741,
           "title": "Panteras Dalit e a luta contra o sistema de castas na Índia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/dalit_panthers_madras_courier.jpeg"
         },
@@ -865,7 +885,7 @@
           "description": "O presidente Lula acusou o senador e pré-candidato à Presidência Flávio Bolsonaro de “trair a nossa pátria” ao ter pedido ao governo dos Estados Unidos para classificar as facções criminosas Primeiro Comando da Capital (PCC) e Comando Vermelho (CV) como organizações terroristas. “Eu estive três horas com o presidente [Donald] Trump, entreguei quatro documentos a […]\nO post Lula acusa Flávio Bolsonaro de ‘trair a pátria’ ao fazer pedido sobre facções a Trump apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/lula-acusa-flavio-bolsonaro-de-trair-a-patria-ao-fazer-pedido-sobre-faccoes-a-trump/",
           "publishedOn": "2026-05-29T18:47:50.000Z",
-          "wordCount": 3541,
+          "wordCount": 3539,
           "title": "Lula acusa Flávio Bolsonaro de ‘trair a pátria’ ao fazer pedido sobre facções a Trump",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/55265878184_2fdbb41a6b_c.jpg"
         },
@@ -878,26 +898,6 @@
           "wordCount": 4266,
           "title": "‘Brasil é nação soberana’, afirma governo após decisão dos EUA sobre facções",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/lula-2.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256054",
-          "author": "Tabitha Ramalho",
-          "description": "Autoridades palestinas denunciaram nesta sexta-feira (29/05) a nova declaração do primeiro-ministro israelense, Benjamin Netanyahu, sobre a expansão do controle da Faixa de Gaza para 70%. O Ministério das Relações Exteriores classifica a medida como “uma grave quebra dos fundamentos do cessar-fogo e uma sabotagem deliberada dos esforços internacionais destinados a pôr fim à agressão”. A […]\nO post Chancelaria palestina denuncia expansão israelense em Gaza: ‘sabotagem do cessar-fogo’ apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/chancelaria-palestina-denuncia-expansao-israelense-em-gaza-sabotagem-do-cessar-fogo/",
-          "publishedOn": "2026-05-29T16:50:45.000Z",
-          "wordCount": 3394,
-          "title": "Chancelaria palestina denuncia expansão israelense em Gaza: ‘sabotagem do cessar-fogo’",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/wafaimage-5.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256056",
-          "author": "Victor Farinelli",
-          "description": "A Prefeitura de São Paulo e a empresa norte-americana Google inauguraram um novo centro de engenharia que funcionará em um espaço dentro do Instituto de Pesquisas Tecnológicas (IPT), localizado na Cidade Universitária, em São Paulo. Segundo a empresa norte-americana, o centro será responsável por projetos ligados ao aprimoramento de ferramentas de busca e de plataformas […]\nO post Google inaugura centro de engenharia na Cidade Universitária de São Paulo apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/ciencia-e-tecnologia/google-inaugura-centro-de-engenharia-na-cidade-universitaria-de-sao-paulo/",
-          "publishedOn": "2026-05-29T16:50:34.000Z",
-          "wordCount": 3002,
-          "title": "Google inaugura centro de engenharia na Cidade Universitária de São Paulo",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/google.jpg"
         }
       ]
     },
@@ -912,6 +912,16 @@
       "feedUrl": "https://andproxy.luisantoniossouza.workers.dev/",
       "siteUrl": "https://anovademocracia.com.br",
       "articles": [
+        {
+          "id": "https://anovademocracia.com.br/?p=226785",
+          "author": "Redação de AND",
+          "description": "Revista britânica afirma que uma operação militar real contra Cuba “seria altamente arriscada”, enquanto Axios revela planos de contingência do governo Trump para eventual instabilidade na ilha; chefe do Comando Sul reuniu-se com militares cubanos em Guantánamo em meio à escalada.",
+          "link": "https://anovademocracia.com.br/operacao-militar-cuba-altamente-arriscada/",
+          "publishedOn": "2026-05-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "‘Operação militar real’ contra Cuba ‘seria altamente arriscada’, alerta The Economist",
+          "imageUrl": null
+        },
         {
           "id": "https://anovademocracia.com.br/?p=226835",
           "author": "Redação de AND",
@@ -1000,16 +1010,6 @@
           "publishedOn": "2026-05-29T13:45:19.000Z",
           "wordCount": null,
           "title": "SP: Primeira edição do “Resista!”, evento cultural anti-imperialista ocorre em julho; inscrições para artistas estão abertas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://anovademocracia.com.br/?p=226718",
-          "author": "Redação de AND",
-          "description": "Texto aprovado fixa jornada máxima de 40 horas semanais e dois dias de descanso, mas abandona a proposta de 36 horas, prevê transição de até 14 meses e mantém brechas para regimes diferenciados, compensações e exceções.",
-          "link": "https://anovademocracia.com.br/camara-aprova-6-por-1-acordos-rebaixados/",
-          "publishedOn": "2026-05-29T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Câmara aprova fim formal da escala 6 por 1 entre chantagens e acordos rebaixados",
           "imageUrl": null
         }
       ]
