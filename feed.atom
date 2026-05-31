@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-31T10:21:39.283Z</id>
+    <id>urn:2026-05-31T14:02:22.267Z</id>
     <title>Radar Proletário</title>
-    <updated>2026-05-31T10:21:39.283Z</updated>
+    <updated>2026-05-31T14:02:22.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Israel avança em invasão ao Líbano e captura estratégico castelo de Beaufort]]></title>
+        <id>https://operamundi.uol.com.br/?p=256159</id>
+        <link href="https://operamundi.uol.com.br/uncategorized/israel-avanca-em-invasao-ao-libano-e-captura-estrategico-castelo-de-beaufort/"/>
+        <updated>2026-05-31T12:46:37.000Z</updated>
+        <summary type="html"><![CDATA[A bandeira de Israel tremulava neste domingo (31/05) sobre a fortaleza medieval de Beaufort, uma construção de 900 anos no sul do Líbano, enquanto o país emitia alertas para que a população evacuasse a região antes da intensificação das operações terrestres israelenses. A tomada do castelo ocorreu após dias de ataques aéreos e combates intensos […]
+O post Israel avança em invasão ao Líbano e captura estratégico castelo de Beaufort apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Victor Farinelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[São Paulo investiga caso suspeito de ebola em homem de 37 anos]]></title>
+        <id>https://operamundi.uol.com.br/?p=256154</id>
+        <link href="https://operamundi.uol.com.br/saude/sao-paulo-investiga-caso-suspeito-de-ebola-em-homem-de-37-anos/"/>
+        <updated>2026-05-31T11:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Um homem de 37 anos com sintomas compatíveis com ebola está internado no Instituto de Infectologia Emílio Ribas, na capital paulista. O resultado para confirmar ou descartar o diagnóstico ainda não saiu. Segundo informações da Secretaria de Estado da Saúde de São Paulo (SES), o caso do paciente natural da República Democrática do Congo foi […]
+O post São Paulo investiga caso suspeito de ebola em homem de 37 anos apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Victor Farinelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negociador dos acordos de paz, Iván Cepeda pretende continuar projeto de Petro na Colômbia]]></title>
+        <id>https://operamundi.uol.com.br/?p=256106</id>
+        <link href="https://operamundi.uol.com.br/america-latina/negociador-dos-acordos-de-paz-ivan-cepeda-quer-continuar-projeto-de-petro-na-colombia/"/>
+        <updated>2026-05-31T10:40:16.000Z</updated>
+        <summary type="html"><![CDATA[A Colômbia vai às urnas neste domingo (31/05) no que será o segundo processo eleitoral presidencial desde o fim da reeleição (medida aprovada pelo Congresso em 2015), razão pela qual o atual presidente, Gustavo Petro, não será o candidato que representará a continuidade do projeto político da coalizão Pacto Histórico, iniciado com sua vitória eleitoral […]
+O post Negociador dos acordos de paz, Iván Cepeda pretende continuar projeto de Petro na Colômbia apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Victor Farinelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colômbia vai às urnas com governista e outsider ultraliberal liderando as pesquisas]]></title>
+        <id>https://operamundi.uol.com.br/?p=256134</id>
+        <link href="https://operamundi.uol.com.br/america-latina/colombia-vai-as-urnas-governista-e-ultraliberal-liderendo-pesquisas/"/>
+        <updated>2026-05-31T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[A população colombiana vai às urnas neste domingo (31/05) no âmbito do primeiro turno das eleições presidenciais que irão definir quem governará a nação pelos próximos quatro anos, assumindo a sucessão do atual chefe de Estado Gustavo Petro. Os dois candidatos que lideram as intenções de voto são o senador esquerdista Iván Cepeda, da sigla […]
+O post Colômbia vai às urnas com governista e outsider ultraliberal liderando as pesquisas apareceu primeiro em Opera Mundi.]]></summary>
+        <author>
+            <name>Tabitha Ramalho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plantão Palestina (30/05): Hezbollah atinge base Meron e alvos sionistas em Safad, Nahariya e Kiryat Shmona]]></title>
         <id>https://anovademocracia.com.br/?p=226860</id>
@@ -125,17 +169,6 @@ O post Acordo Mercosul-Canadá avança em décima rodada de negociações aparec
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ajuda global é insuficiente para conter ebola no Congo, alertam organizações]]></title>
-        <id>https://operamundi.uol.com.br/?p=256122</id>
-        <link href="https://operamundi.uol.com.br/africa/ajuda-global-e-insuficiente-para-conter-ebola-no-congo-alertam-organizacoes/"/>
-        <updated>2026-05-30T16:40:05.000Z</updated>
-        <summary type="html"><![CDATA[Desde que o Ministério da Saúde da República Democrática do Congo (RDC) declarou surto de ebola, em 15 de maio, ele já se tornou o terceiro maior já registrado. A epidemia continua a crescer nas províncias de Ituri e Kivu do Norte, no leste da RDC, com 1.077 casos suspeitos e 246 mortes suspeitas, segundo […]
-O post Ajuda global é insuficiente para conter ebola no Congo, alertam organizações apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tabitha Ramalho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fracassa o diálogo de Rodrigo Paz e cresce a ameaça de estado de sítio. Impulsionemos uma coordenação nacional dos setores em luta]]></title>
         <id>https://www.esquerdadiario.com.br/Fracassa-o-dialogo-de-Rodrigo-Paz-e-cresce-a-ameaca-de-estado-de-sitio-Impulsionemos-uma</id>
         <link href="https://www.esquerdadiario.com.br/Fracassa-o-dialogo-de-Rodrigo-Paz-e-cresce-a-ameaca-de-estado-de-sitio-Impulsionemos-uma"/>
@@ -146,28 +179,6 @@ O post Ajuda global é insuficiente para conter ebola no Congo, alertam organiza
 / Internacional, Bolivia, Bolívia, Crise Política na Bolívia, Central Obrera Boliviana (COB), Rodrigo Paz, Corrente Revolução Permanente - Quarta Internacional (CRP - QI)]]></summary>
         <author>
             <name>Liga Obrera Revolucionaria por la Cuarta Internacional (LOR-CI)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sociólogo francês Edgar Morin morre aos 104 anos]]></title>
-        <id>https://operamundi.uol.com.br/?p=256119</id>
-        <link href="https://operamundi.uol.com.br/obituario/sociologo-frances-edgar-morin-morre-aos-104-anos/"/>
-        <updated>2026-05-30T15:50:40.000Z</updated>
-        <summary type="html"><![CDATA[O sociólogo e filósofo Edgar Morin, um dos intelectuais franceses mais influentes, morreu nesta sexta-feira (29/05) aos 104 anos, anunciou neste sábado (30/05) a sua esposa. O pensador é autor de uma vasta obra reconhecida mundialmente, que se opõe à sociologia tradicional, ao apresentar a reflexão sobre a humanidade baseada em dados científicos. “Até seus […]
-O post Sociólogo francês Edgar Morin morre aos 104 anos apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tabitha Ramalho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONU acusa Israel de estupro e abuso sexual sistemático contra palestinos em prisões]]></title>
-        <id>https://operamundi.uol.com.br/?p=256116</id>
-        <link href="https://operamundi.uol.com.br/guerra-israel-x-palestina/onu-acusa-israel-de-estupro-e-abuso-sexual-sistematico-contra-palestinos-em-prisoes/"/>
-        <updated>2026-05-30T15:10:39.000Z</updated>
-        <summary type="html"><![CDATA[As Nações Unidas (ONU) acusaram o regime de Israel de praticar estupro e abuso sexual contra palestinos em prisões. Em um relatório referente ao ano de 2025, o órgão alertou que “os casos comprovados devem ser entendidos como indicativos de um padrão mais amplo que se estende por longos períodos”. “As violações consistiram em estupro, […]
-O post ONU acusa Israel de estupro e abuso sexual sistemático contra palestinos em prisões apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tabitha Ramalho</name>
         </author>
     </entry>
     <entry>
@@ -188,17 +199,6 @@ O post ONU acusa Israel de estupro e abuso sexual sistemático contra palestinos
         <summary type="html"><![CDATA[Aquilo que se poderia chamar, até com certa ironia e humor, de “fenômeno inca brasileiro” surgiu há algum tempo devido provavelmente ao fato de o capitalismo entender como mais lucrativo e charmoso atribuir curiosos achados brasileiros e obras indígenas (e não indígenas) à impressionante civilização inca peruana. Por isso tem sido comum a ocorrência de “vestígios incas” pelo país inteiro. Em todas nossas regiões tem surgido tal anomalia e autêntica ilusão, já que o IPHAN (Instituto Histórico e Artístico Nacional) e entidades arqueológicas já descartaram a presença dos antigos habitantes de Cusco e Machu Picchu aqui em solo nacional. O primeiro]]></summary>
         <author>
             <name>Rosana Bond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eleições na Colômbia: direita tradicional e ultradireita emergente disputam entrada no segundo turno]]></title>
-        <id>https://operamundi.uol.com.br/?p=256099</id>
-        <link href="https://operamundi.uol.com.br/america-latina/eleicoes-na-colombia-direita-tradicional-e-ultradireita-emergente-disputam-entrada-no-segundo-turno/"/>
-        <updated>2026-05-30T14:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Neste domingo (31/05), 41,4 milhões de colombianos, dentro e fora do país, vão às urnas para escolher o sucessor do presidente Gustavo Petro para o período 2026–2030. A direita colombiana, dividida entre a tradição colonial representada por Paloma Valencia; e a ultradireita emergente de Abelardo de la Espriella, buscam uma vaga no segundo turno. A […]
-O post Eleições na Colômbia: direita tradicional e ultradireita emergente disputam entrada no segundo turno apareceu primeiro em Opera Mundi.]]></summary>
-        <author>
-            <name>Tatiana Carlotti</name>
         </author>
     </entry>
     <entry>

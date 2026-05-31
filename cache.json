@@ -212,7 +212,7 @@
           "description": "Nós, do Movimento Nossa Classe, composto por petroleiras e petroleiros do operacional e administrativos, da base da categoria e companheiros que formam parte minoritária da direção do Sindipetro-RJ, chamamos todas e todos os petroleiros a defenderem a filiação de nosso sindicato à CSP-Conlutas.\n30-05-2026\n\n/ CSP-Conlutas, Movimento Nossa Classe, Petrobras, Classe Trabalhadora, Petroleiros, Independência de classe, SINDIPETRO-RJ",
           "link": "https://www.esquerdadiario.com.br/Pela-filiacao-do-Sindipetro-RJ-a-CSP-Conlutas",
           "publishedOn": "2026-05-30T19:32:45.000Z",
-          "wordCount": 9064,
+          "wordCount": 9077,
           "title": "Pela filiação do Sindipetro-RJ à CSP-Conlutas",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/nossa_classe_-_petroleiros_capas_1_-2.png?1780168765"
         },
@@ -287,7 +287,7 @@
           "description": "O anúncio do premiê sionista escancara que o chamado cessar-fogo nunca significou fim dos assassinatos e roubo de terras. Depois de mais ataques sanguinários na véspera do feriado religioso do Eid, agora o processo continuado de genocídio tem como passo o roubo de mais território. Pela imediata ruptura de todas as relações do Brasil com Israel! \n Netanyahu ordenou a IOF nesta quinta-feira (28) que ocupe 70% da Faixa de Gaza, avançando ainda mais sobre o território palestino e violando os (…)\n28-05-2026\n\n/ Internacional, Israel, Palestina, Palestina Livre, Campanha pela ruptura de todas das relações Brasil-Israel, Genocídio, Olhos em Gaza",
           "link": "https://www.esquerdadiario.com.br/Netanyahu-anuncia-ocupacao-e-roubo-de-70-do-territorio-de-Gaza",
           "publishedOn": "2026-05-28T22:58:16.000Z",
-          "wordCount": 7912,
+          "wordCount": 7910,
           "title": "Netanyahu anuncia ocupação e roubo de 70% do território de Gaza",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/ffb2d12f-3653-47ef-b688-e07bfe6ebb69.jpg?1780009063"
         },
@@ -377,7 +377,7 @@
           "description": "No dia 25 de Maio foi comemorado o Dia da África, a comunidade imigrante africana, junto ao movimento negro, organizou um ato em São Paulo, nesta data que rememora, celebra e reivindica processos de independência na década de 1960, a partir da fundação da Organização da União Africana.\n27-05-2026\n\n/ Imigração, África, Imigrantes, Anti-imperialista, Angola",
           "link": "https://www.esquerdadiario.com.br/Ato-do-Dia-da-Africa-e-realizado-em-Sao-Paulo-pela-comunidade-imigrante-e-movimento-negro",
           "publishedOn": "2026-05-28T02:45:46.000Z",
-          "wordCount": 7884,
+          "wordCount": 7885,
           "title": "Ato do Dia da África é realizado em São Paulo pela comunidade imigrante e movimento negro",
           "imageUrl": "https://www.esquerdadiario.com.br/IMG/logo/whatsapp_image_2026-05-27_at_23.42_26.jpg?1779936251"
         },
@@ -680,12 +680,52 @@
       "siteUrl": "https://operamundi.uol.com.br/",
       "articles": [
         {
+          "id": "https://operamundi.uol.com.br/?p=256159",
+          "author": "Victor Farinelli",
+          "description": "A bandeira de Israel tremulava neste domingo (31/05) sobre a fortaleza medieval de Beaufort, uma construção de 900 anos no sul do Líbano, enquanto o país emitia alertas para que a população evacuasse a região antes da intensificação das operações terrestres israelenses. A tomada do castelo ocorreu após dias de ataques aéreos e combates intensos […]\nO post Israel avança em invasão ao Líbano e captura estratégico castelo de Beaufort apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/uncategorized/israel-avanca-em-invasao-ao-libano-e-captura-estrategico-castelo-de-beaufort/",
+          "publishedOn": "2026-05-31T12:46:37.000Z",
+          "wordCount": 3939,
+          "title": "Israel avança em invasão ao Líbano e captura estratégico castelo de Beaufort",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/beaufort.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256154",
+          "author": "Victor Farinelli",
+          "description": "Um homem de 37 anos com sintomas compatíveis com ebola está internado no Instituto de Infectologia Emílio Ribas, na capital paulista. O resultado para confirmar ou descartar o diagnóstico ainda não saiu. Segundo informações da Secretaria de Estado da Saúde de São Paulo (SES), o caso do paciente natural da República Democrática do Congo foi […]\nO post São Paulo investiga caso suspeito de ebola em homem de 37 anos apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/saude/sao-paulo-investiga-caso-suspeito-de-ebola-em-homem-de-37-anos/",
+          "publishedOn": "2026-05-31T11:39:06.000Z",
+          "wordCount": 3529,
+          "title": "São Paulo investiga caso suspeito de ebola em homem de 37 anos",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/sus.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256106",
+          "author": "Victor Farinelli",
+          "description": "A Colômbia vai às urnas neste domingo (31/05) no que será o segundo processo eleitoral presidencial desde o fim da reeleição (medida aprovada pelo Congresso em 2015), razão pela qual o atual presidente, Gustavo Petro, não será o candidato que representará a continuidade do projeto político da coalizão Pacto Histórico, iniciado com sua vitória eleitoral […]\nO post Negociador dos acordos de paz, Iván Cepeda pretende continuar projeto de Petro na Colômbia apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/negociador-dos-acordos-de-paz-ivan-cepeda-quer-continuar-projeto-de-petro-na-colombia/",
+          "publishedOn": "2026-05-31T10:40:16.000Z",
+          "wordCount": 4235,
+          "title": "Negociador dos acordos de paz, Iván Cepeda pretende continuar projeto de Petro na Colômbia",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/cepeda.jpg"
+        },
+        {
+          "id": "https://operamundi.uol.com.br/?p=256134",
+          "author": "Tabitha Ramalho",
+          "description": "A população colombiana vai às urnas neste domingo (31/05) no âmbito do primeiro turno das eleições presidenciais que irão definir quem governará a nação pelos próximos quatro anos, assumindo a sucessão do atual chefe de Estado Gustavo Petro. Os dois candidatos que lideram as intenções de voto são o senador esquerdista Iván Cepeda, da sigla […]\nO post Colômbia vai às urnas com governista e outsider ultraliberal liderando as pesquisas apareceu primeiro em Opera Mundi.",
+          "link": "https://operamundi.uol.com.br/america-latina/colombia-vai-as-urnas-governista-e-ultraliberal-liderendo-pesquisas/",
+          "publishedOn": "2026-05-31T10:00:13.000Z",
+          "wordCount": 3702,
+          "title": "Colômbia vai às urnas com governista e outsider ultraliberal liderando as pesquisas",
+          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/hhz_tm8xmaarjky.jpg"
+        },
+        {
           "id": "https://operamundi.uol.com.br/?p=256143",
           "author": "Victor Farinelli",
           "description": "O governo lançou oficialmente neste sábado (30/05) a plataforma Tela Brasil, o streaming público e gratuito de audiovisual brasileiro. A iniciativa tem o objetivo de democratizar o acesso da população à cultura brasileira, a partir da ampliação do alcance da produção nacional. A plataforma coordenada pelo Ministério da Cultura e desenvolvido em parceria com a […]\nO post Plataforma Tela Brasil entra no ar com 555 filmes e séries apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/cultura/plataforma-tela-brasil-entra-no-ar-com-555-filmes-e-series/",
           "publishedOn": "2026-05-30T21:00:42.000Z",
-          "wordCount": 4513,
+          "wordCount": 4518,
           "title": "Plataforma Tela Brasil entra no ar com 555 filmes e séries",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/tela.jpg"
         },
@@ -695,7 +735,7 @@
           "description": "O primeiro-ministro israelense Benjamin Netanyahu deve realizar uma avaliação de segurança sobre o Líbano na noite deste sábado (30/05), segundo uma fonte familiarizada com os detalhes informou ao Haaretz. Fontes militares libanesas de alto escalão disseram no sábado à agência de notícias estatal turca Anadolu que as forças israelenses cruzaram o rio Litani – sendo […]\nO post Netanyahu convoca avaliação de segurança sobre Líbano enquanto ataques continuam apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/netanyahu-convoca-avaliacao-de-seguranca-sobre-libano-enquanto-ataques-continuam/",
           "publishedOn": "2026-05-30T20:30:19.000Z",
-          "wordCount": 3388,
+          "wordCount": 3395,
           "title": "Netanyahu convoca avaliação de segurança sobre Líbano enquanto ataques continuam",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/b6daeea3-f783-4df7-a4df-d915d592c44c.webp"
         },
@@ -705,7 +745,7 @@
           "description": "Em lados opostos do mundo e cada um com suas particularidades políticas, a Coreia do Sul e o Brasil viveram nesta mesma década um marco histórico em comum: ambos os países presenciaram tentativas de ruptura democrática movidas por autoridades de extrema direita. Em dezembro de 2024, o mundo foi pego de surpresa quando o então […]\nO post Da lei marcial ao 8 de janeiro: o que explica penas desiguais entre Coreia do Sul e Brasil para tentativas de golpe? apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/asia/da-lei-marcial-ao-8-de-janeiro-o-que-explica-penas-desiguais-entre-coreia-do-sul-e-brasil-para-tentativas-de-golpe/",
           "publishedOn": "2026-05-30T19:50:02.000Z",
-          "wordCount": 5358,
+          "wordCount": 5365,
           "title": "Da lei marcial ao 8 de janeiro: o que explica penas desiguais entre Coreia do Sul e Brasil para tentativas de golpe?",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/untitled-design.png"
         },
@@ -715,7 +755,7 @@
           "description": "A corporação estatal russa Rosatom informou neste sábado (30/05) que um drone ucraniano atingiu o prédio da sala de máquinas da sexta unidade da usina nuclear de Zaporizhzhia, no que descreveu como “o primeiro ataque deliberado contra equipamentos principais de uma usina nuclear” na história mundial. Segundo o diretor-geral da Rosatom, Alexei Likhachev, o impacto […]\nO post Ucrânia lança ataque massivo com drones contra usina nuclear russa apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/guerra-na-ucrania/ucrania-ataca-usina-nuclear-russa/",
           "publishedOn": "2026-05-30T19:00:02.000Z",
-          "wordCount": 3071,
+          "wordCount": 3078,
           "title": "Ucrânia lança ataque massivo com drones contra usina nuclear russa",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/6a1b058a59bf5b65d1295f84.jpg"
         },
@@ -725,7 +765,7 @@
           "description": "O governo do Brasil anunciou nesta sexta-feira (29/05) a doação de 16 toneladas de arroz e 5 toneladas de leite em pó integral para a Bolívia, país que enfrenta uma crise política, econômica e social marcada por uma onda de protestos e bloqueios de estradas. Os alimentos saíram da Base Aérea de Canoas, no Rio […]\nO post Governo brasileiro anuncia envio de ajuda humanitária à Bolívia apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/brasil/governo-brasileiro-anuncia-envio-de-ajuda-humanitaria-a-bolivia/",
           "publishedOn": "2026-05-30T18:10:37.000Z",
-          "wordCount": 2938,
+          "wordCount": 2943,
           "title": "Governo brasileiro anuncia envio de ajuda humanitária à Bolívia",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/19f0cc5d-808b-45aa-9510-21ccece76316.png"
         },
@@ -735,49 +775,9 @@
           "description": "As negociações para a conclusão do acordo de livre comércio entre o Mercosul e o Canadá avançaram com um encontro de grupos temáticos na cidade de Toronto (CA), entre os dias 25 e 29 de maio. O encontro, a X Rodada Negociadora do Acordo de Livre Comércio entre o Mercosul e o Canadá, aprofundou as […]\nO post Acordo Mercosul-Canadá avança em décima rodada de negociações apareceu primeiro em Opera Mundi.",
           "link": "https://operamundi.uol.com.br/politica-e-economia/acordo-mercosul-canada-avanca-em-decima-rodada-de-negociacoes/",
           "publishedOn": "2026-05-30T17:20:33.000Z",
-          "wordCount": 3145,
+          "wordCount": 3152,
           "title": "Acordo Mercosul-Canadá avança em décima rodada de negociações",
           "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/91724c38-2279-47f5-91e4-9b4596b7d190_copy.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256122",
-          "author": "Tabitha Ramalho",
-          "description": "Desde que o Ministério da Saúde da República Democrática do Congo (RDC) declarou surto de ebola, em 15 de maio, ele já se tornou o terceiro maior já registrado. A epidemia continua a crescer nas províncias de Ituri e Kivu do Norte, no leste da RDC, com 1.077 casos suspeitos e 246 mortes suspeitas, segundo […]\nO post Ajuda global é insuficiente para conter ebola no Congo, alertam organizações apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/africa/ajuda-global-e-insuficiente-para-conter-ebola-no-congo-alertam-organizacoes/",
-          "publishedOn": "2026-05-30T16:40:05.000Z",
-          "wordCount": 4474,
-          "title": "Ajuda global é insuficiente para conter ebola no Congo, alertam organizações",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/77329057_303.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256119",
-          "author": "Tabitha Ramalho",
-          "description": "O sociólogo e filósofo Edgar Morin, um dos intelectuais franceses mais influentes, morreu nesta sexta-feira (29/05) aos 104 anos, anunciou neste sábado (30/05) a sua esposa. O pensador é autor de uma vasta obra reconhecida mundialmente, que se opõe à sociologia tradicional, ao apresentar a reflexão sobre a humanidade baseada em dados científicos. “Até seus […]\nO post Sociólogo francês Edgar Morin morre aos 104 anos apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/obituario/sociologo-frances-edgar-morin-morre-aos-104-anos/",
-          "publishedOn": "2026-05-30T15:50:40.000Z",
-          "wordCount": 3757,
-          "title": "Sociólogo francês Edgar Morin morre aos 104 anos",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/500px-edgar_morin_lslap_1549751.jpg"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256116",
-          "author": "Tabitha Ramalho",
-          "description": "As Nações Unidas (ONU) acusaram o regime de Israel de praticar estupro e abuso sexual contra palestinos em prisões. Em um relatório referente ao ano de 2025, o órgão alertou que “os casos comprovados devem ser entendidos como indicativos de um padrão mais amplo que se estende por longos períodos”. “As violações consistiram em estupro, […]\nO post ONU acusa Israel de estupro e abuso sexual sistemático contra palestinos em prisões apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-palestina/onu-acusa-israel-de-estupro-e-abuso-sexual-sistematico-contra-palestinos-em-prisoes/",
-          "publishedOn": "2026-05-30T15:10:39.000Z",
-          "wordCount": 4154,
-          "title": "ONU acusa Israel de estupro e abuso sexual sistemático contra palestinos em prisões",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/13f5bd8f-fb7e-4aea-971a-64e94940a1b3.jpg.webp"
-        },
-        {
-          "id": "https://operamundi.uol.com.br/?p=256099",
-          "author": "Tatiana Carlotti",
-          "description": "Neste domingo (31/05), 41,4 milhões de colombianos, dentro e fora do país, vão às urnas para escolher o sucessor do presidente Gustavo Petro para o período 2026–2030. A direita colombiana, dividida entre a tradição colonial representada por Paloma Valencia; e a ultradireita emergente de Abelardo de la Espriella, buscam uma vaga no segundo turno. A […]\nO post Eleições na Colômbia: direita tradicional e ultradireita emergente disputam entrada no segundo turno apareceu primeiro em Opera Mundi.",
-          "link": "https://operamundi.uol.com.br/america-latina/eleicoes-na-colombia-direita-tradicional-e-ultradireita-emergente-disputam-entrada-no-segundo-turno/",
-          "publishedOn": "2026-05-30T14:14:42.000Z",
-          "wordCount": 7539,
-          "title": "Eleições na Colômbia: direita tradicional e ultradireita emergente disputam entrada no segundo turno",
-          "imageUrl": "https://operamundi.uol.com.br/wp-content/uploads/2026/05/direita-na-colombia-redes-sociais-x.jpg"
         }
       ]
     },
@@ -1076,7 +1076,7 @@
           "description": "Pedro Alcântara: \"É uma poderosa crítica do caminho trilhado pela modernidade até então. Por isso, o marxismo foi e tem sido a maior arma das revoluções anticoloniais em diversos países do mundo.\" Leia o texto e aproveite os últimos dias da promoção #DiaM 2026!",
           "link": "https://blogdaboitempo.com.br/2026/05/27/contra-o-eurocentrismo-em-defesa-de-marx/",
           "publishedOn": "2026-05-27T19:21:12.000Z",
-          "wordCount": 15610,
+          "wordCount": 15458,
           "title": "Contra o eurocentrismo, em defesa de Marx",
           "imageUrl": "https://i0.wp.com/blogdaboitempo.com.br/wp-content/uploads/2026/05/image-21.png?fit=1200%2C959&ssl=1"
         }
